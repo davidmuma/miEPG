@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
 
     - name: Dar permisos de ejecución al script
       run: |
@@ -33,5 +33,4 @@ jobs:
         git add .
         git commit -m "EPG_personal.xml"
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
