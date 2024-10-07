@@ -24,9 +24,6 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        
-    - name: Comprimir
-      run: gzip -c EPG_personal.xml > EPG_personal.xml.gz
 
     - name: Subir archivos
       run: |
