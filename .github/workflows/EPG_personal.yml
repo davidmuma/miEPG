@@ -1,25 +1,18 @@
 name: EPG_personal
-
 on:
+  workflow_dispatch:
   schedule:
     - cron: '45 11 * * * ' # Ejecutar a las 11:45 AM
-  workflow_dispatch: # Permite ejecución manual
-
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
-
-    - name: Dar permisos de ejecución al script
-      run: |
-        chmod +x .github/workflows/EPG_script.sh
-
-    - name: Ejecutar script
+    - name:
+      run: chmod +x .github/workflows/EPG_script.sh
+    - name:
       run: .github/workflows/EPG_script.sh
-
       - name: Commit and push if content changed
         run: |-
           git config user.name "Automated"
