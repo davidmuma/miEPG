@@ -2,7 +2,7 @@
 SCRIPT=$(readlink -f $0)
 DIR_SCRIPT=`dirname $SCRIPT`
 
-curl -skO https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml
+curl -L -o guiaiptv.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
 sed -i ':a; N; $!ba; s/<title lang=\"es\">\n/<title lang=\"es\">/g' $DIR_SCRIPT/guiaiptv.xml
 
