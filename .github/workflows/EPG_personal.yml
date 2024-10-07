@@ -24,5 +24,11 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-
-
+        
+    - name: Subir archivos
+      run: |
+        git add .
+        git commit -m "Crear EPG_personal.xml"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
