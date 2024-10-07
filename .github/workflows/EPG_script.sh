@@ -42,3 +42,7 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	done < $DIR_SCRIPT/nomxml.txt
 
 echo '</tv>' >> $DIR_SCRIPT/EPG_personal.xml
+
+git add .
+git commit -m "EPG_personal.xml"
+git push
