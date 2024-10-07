@@ -6,13 +6,13 @@ on:
 permissions:
   contents: write
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Dar permiso de ejecución al script
-      run: | 
+      run: |
         chmod +x .github/workflows/EPG_script.sh
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
