@@ -9,8 +9,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out this repo
-        uses: actions/checkout@v2
+    - name: Checkout del repositorio
+      uses: actions/checkout@v3
     - name:
       run: chmod +x .github/workflows/EPG_script.sh
     - name:
