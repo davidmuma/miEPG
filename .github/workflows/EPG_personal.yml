@@ -26,13 +26,10 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         
-    - name: Comprimir
-      run: gzip -c EPG_personal.xml > EPG_personal.xml.gz
-
     - name: Subir archivos 
       run: |
         git add .
-        git commit -m "Actualizar"
+        git commit -m "Generando EPG_personal.xml"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
