@@ -16,11 +16,15 @@ jobs:
         chmod +x .github/workflows/EPG_script.sh
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
-      - name: Commit and push if content changed
-        run: |-
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
-          git push
+    - name: Configurar identidad de Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+   - name: Commit and push if content changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
