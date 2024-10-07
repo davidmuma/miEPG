@@ -18,27 +18,17 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 
 	while IFS=, read -r old new logo
 	do
-		contar_channel="$(grep -c channel=\"$old\" $DIR_SCRIPT/EPG_personal.xml)"
-		if [ $contar_channel -gt 10 ]; then
-			echo Procesando channel y logos: $old  ···  $contar_channel
-			sed -n '/<channel id=\"'$old'"/,/<\/channel>/p' $DIR_SCRIPT/EPG_personal.xml >> $DIR_SCRIPT/EPG_personal.xml
-			sed -i "s/$old/$new/" $DIR_SCRIPT/EPG_personal.xml
-			sed -i "s#$new<\/display-name>#$new<\/display-name>\n\t<icon src=\"$logo\" \/>#" $DIR_SCRIPT/EPG_personal.xml
-		else
-			echo Saltando: $old  ···  $contar_channel
-		fi	
+		echo Procesando channel y logos: $old ··· $new ··· $logo
+		sed -n '/<channel id=\"'$old'"/,/<\/channel>/p' $DIR_SCRIPT/EPG_personal.xml >> $DIR_SCRIPT/EPG_personal.xml
+		sed -i "s/$old/$new/" $DIR_SCRIPT/EPG_personal.xml
+		sed -i "s#$new<\/display-name>#$new<\/display-name>\n\t<icon src=\"$logo\" \/>#" $DIR_SCRIPT/EPG_personal.xml
 	done < $DIR_SCRIPT/nomxml.txt
 	
 	while IFS=, read -r old new logo
 	do
-		contar_channel="$(grep -c channel=\"$old\" $DIR_SCRIPT/EPG_personal.xml)"
-		if [ $contar_channel -gt 10 ]; then
-			echo Procesando programme: $old  ···  $contar_channel
-			sed -n '/<programme.*"'$old'">/,/<\/programme>/p' $DIR_SCRIPT/EPG_personal.xml >> $DIR_SCRIPT/EPG_personal.xml
-			sed -i "s/channel=\"$old\"/channel=\"$new\"/" $DIR_SCRIPT/EPG_personal.xml
-		else
-			echo Saltando: $old  ···  $contar_channel
-		fi	
+		echo Procesando programme: $old ··· $new
+		sed -n '/<programme.*"'$old'">/,/<\/programme>/p' $DIR_SCRIPT/EPG_personal.xml >> $DIR_SCRIPT/EPG_personal.xml
+		sed -i "s/channel=\"$old\"/channel=\"$new\"/" $DIR_SCRIPT/EPG_personal.xml
 	done < $DIR_SCRIPT/nomxml.txt
 
 echo '</tv>' >> $DIR_SCRIPT/EPG_personal.xml
