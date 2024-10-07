@@ -6,18 +6,17 @@ on:
 permissions:
   contents: write
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout del repositorio
-      uses: actions/checkout@v3
-    - name:
-      run: |
-      chmod +x .github/workflows/EPG_script.sh
-    - name:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Dar permiso de ejecución al script
+      run: chmod +x .github/workflows/EPG_script.sh
+    - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
       - name: Commit and push if content changed
-        run: |
+        run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
