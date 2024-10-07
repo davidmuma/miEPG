@@ -1,8 +1,8 @@
 #!/bin/bash
 
-curl -L -o guiaiptv.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+curl -L -o EPG_temp.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-sed -i ':a; N; $!ba; s/<title lang=\"es\">\n/<title lang=\"es\">/g' guiaiptv.xml
+sed -i ':a; N; $!ba; s/<title lang=\"es\">\n/<title lang=\"es\">/g' EPG_temp.xml
 
 sed -i '/^ *$/d' canales.txt
 sed -i '/-INICIO,FICHERO-/d' canales.txt
@@ -17,7 +17,7 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	while IFS=, read -r old new logo
 	do
 		echo Procesando channel y logos: $old ··· $new ··· $logo
-		sed -n '/<channel id=\"'$old'"/,/<\/channel>/p' guiaiptv.xml >> EPG_personal.xml
+		sed -n "/<channel id=\""$old""/,/<\/channel>/p" EPG_temp.xml >> EPG_personal.xml
 		sed -i "s/$old/$new/" EPG_personal.xml
 		sed -i "s#$new<\/display-name>#$new<\/display-name>\n\t<icon src=\"$logo\" \/>#" EPG_personal.xml
 	done < canales.txt
@@ -25,7 +25,7 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	while IFS=, read -r old new logo
 	do
 		echo Procesando programme: $old ··· $new
-		sed -n '/<programme.*"'$old'">/,/<\/programme>/p' guiaiptv.xml >> EPG_personal.xml
+		sed -n '/<programme.*"'$old'">/,/<\/programme>/p' EPG_temp.xml >> EPG_personal.xml
 		sed -i "s/channel=\"$old\"/channel=\"$new\"/" EPG_personal.xml
 	done < canales.txt
 
