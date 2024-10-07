@@ -30,7 +30,3 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	done < canales.txt
 
 echo '</tv>' >> EPG_personal.xml
-
-git add .
-git commit -m "EPG_personal.xml"
-git push
