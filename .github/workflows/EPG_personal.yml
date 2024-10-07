@@ -12,7 +12,8 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Dar permiso de ejecución al script
-      run: chmod +x .github/workflows/EPG_script.sh
+      run: | 
+        chmod +x .github/workflows/EPG_script.sh
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
       - name: Commit and push if content changed
