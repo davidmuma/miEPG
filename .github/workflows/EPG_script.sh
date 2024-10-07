@@ -17,7 +17,7 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	while IFS=, read -r old new logo
 	do
 		echo Procesando channel y logos: $old ··· $new ··· $logo
-		sed -n '/<channel id=\"'$old'"/,/<\/channel>/p' EPG_personal.xml >> EPG_personal.xml
+		sed -n '/<channel id=\"'$old'"/,/<\/channel>/p' guiaiptv.xml >> EPG_personal.xml
 		sed -i "s/$old/$new/" EPG_personal.xml
 		sed -i "s#$new<\/display-name>#$new<\/display-name>\n\t<icon src=\"$logo\" \/>#" EPG_personal.xml
 	done < canales.txt
@@ -25,7 +25,7 @@ echo "<tv generator-info-name=\"dobleM $date_stamp\" generator-info-url=\"t.me/E
 	while IFS=, read -r old new logo
 	do
 		echo Procesando programme: $old ··· $new
-		sed -n '/<programme.*"'$old'">/,/<\/programme>/p' EPG_personal.xml >> EPG_personal.xml
+		sed -n '/<programme.*"'$old'">/,/<\/programme>/p' guiaiptv.xml >> EPG_personal.xml
 		sed -i "s/channel=\"$old\"/channel=\"$new\"/" EPG_personal.xml
 	done < canales.txt
 
