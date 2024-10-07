@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout del repositorio
-      uses: actions/checkout@v3
+      - name: Check out this repo
+        uses: actions/checkout@v2
 
     - name: Dar permisos de ejecución al script
       run: |
@@ -20,15 +20,11 @@ jobs:
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
 
-    - name: Configurar identidad de Git
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        
-    - name: Subir archivos
-      run: |
-        git add .
-        git commit -m "Crear EPG_personal.xml"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push if content changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
