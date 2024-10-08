@@ -14,7 +14,7 @@ sed -i '/^ *$/d' canales.txt
 			sed -i '/display-name/d' EPG_temp1.xml
 			sed -i '/icon src/d' EPG_temp1.xml
 			sed -i "s/${old}/${new}/" EPG_temp1.xml
-			sed -i "s#<\/channel>#\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp1.xml
+			sed -i "s#<\/channel>#\t<display-name>${new}<\/display-name>\n\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp1.xml
 			
 			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml >> EPG_temp2.xml
 			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp2.xml
