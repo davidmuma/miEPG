@@ -1,9 +1,9 @@
-name: EPG_personal
+name: miEPG
 
 on:
   schedule:
     - cron: '45 11 * * * ' # Ejecutar a las 11:45 AM
-  workflow_dispatch: # Permite ejecución manual
+  workflow_dispatch:
 permissions:
    contents: write
 jobs:
@@ -29,8 +29,7 @@ jobs:
     - name: Subir archivos 
       run: |
         git add .
-        git commit -m "Generando EPG_personal.xml"
+        git commit -m "Nueva miEPG.xml"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
