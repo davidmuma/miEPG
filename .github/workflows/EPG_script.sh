@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -L -o EPG_temp.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#curl -L -o EPG_temp.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
 sed -i ':a; N; $!ba; s/<title lang=\"es\">\n/<title lang=\"es\">/g' EPG_temp.xml
 
