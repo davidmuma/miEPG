@@ -13,12 +13,20 @@ wget -O EPG_temp.xml -q -i epgs.txt
 			echo Procesando canal: $old ··· $contar_channel coincidencias
 			
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
-   			sed -i "s#<channel id=\"${old}\"#<channel id=\"${new}\"#" EPG_temp01.xml
-			sed -i '/display-name/d' EPG_temp01.xml
-			sed -i '/icon src/d' EPG_temp01.xml
-			sed -i "s#<\/channel>#  <display-name>${new}<\/display-name>\n  <icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp01.xml
-			cat EPG_temp01.xml >> EPG_temp1.xml
+			sed -i '/icon src/!d' EPG_temp01.xml
    
+   			if [ $logo -eq 0 ]; then
+      				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
+				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
+  				echo '  </channel>' >> EPG_temp01.xml
+      			else
+      				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
+				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
+    				sed -i "3i    <icon src=\"${logo}\" />" EPG_temp01.xml
+  				echo '  </channel>' >> EPG_temp01.xml
+   			fi
+      			cat EPG_temp01.xml >> EPG_temp1.xml
+	 
 			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
 			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp02.xml
   			cat EPG_temp02.xml >> EPG_temp2.xml
