@@ -54,4 +54,4 @@ cat EPG_temp1.xml >> miEPG.xml
 cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
-rm -f EPG_temp*.xml
+rm -f EPG_temp*
