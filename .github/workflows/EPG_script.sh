@@ -5,7 +5,7 @@ sed -i '/^ *$/d' canales.txt
 
  	while IFS=, read -r epg
 	do
- 	extension="${epg##*.}"
+ 		extension="${epg##*.}"
 		if [ $extension = "gz" ]; then
 			echo Descargando epg
 			wget -O EPG_temp.xml.gz -q ${epg}
@@ -16,7 +16,6 @@ sed -i '/^ *$/d' canales.txt
 			wget -O EPG_temp.xml -q ${epg}
 		fi
 	done < epgs.txt
-
 
  	while IFS=, read -r old new logo
 	do
