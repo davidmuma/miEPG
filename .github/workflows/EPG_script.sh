@@ -1,7 +1,11 @@
 #!/bin/bash
 
-curl -L -o EPG_temp.xml "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+	while IFS=, read -r epg
+	do
+		curl -L -o EPG_temp.xml $epg
+	done < epgs.txt
 
+sed -i '/^ *$/d' egps.txt
 sed -i '/^ *$/d' canales.txt
 
 	while IFS=, read -r old new logo
@@ -31,6 +35,4 @@ cat EPG_temp1.xml >> miEPG.xml
 cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
-rm -f EPG_temp.xml
-rm -f EPG_temp1.xml
-rm -f EPG_temp2.xml
+rm -f EPG_temp*.xml
