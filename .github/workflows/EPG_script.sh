@@ -5,7 +5,7 @@
 		curl -L -o EPG_temp.xml $epg
 	done < epgs.txt
 
-sed -i '/^ *$/d' egps.txt
+sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
 
 	while IFS=, read -r old new logo
