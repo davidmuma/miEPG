@@ -16,9 +16,9 @@ wget -O EPG_temp.xml -q -i epgs.txt
    			if [ "$logo" ]
       			then
 	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
-     				sed -i '/icon src/d' EPG_temp01.xml
       				sed -i "1i\t<channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i\t\t<display-name>${new}</display-name>" EPG_temp01.xml
+    				sed -i '/icon src/d' EPG_temp01.xml
     				sed -i "3i\t\t<icon src=\"${logo}\" />" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
       			else
