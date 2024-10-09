@@ -14,14 +14,16 @@ sed -i '/^ *$/d' canales.txt
 		if [ $contar_channel -gt 1 ]; then
 			echo Procesando canal: $old ··· $contar_channel coincidencias
 			
-			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml >> EPG_temp1.xml
-   			sed -i "s#<channel id=\"${old}\"#<channel id=\"${new}\"#" EPG_temp1.xml
-			sed -i '/display-name/d' EPG_temp1.xml
-			sed -i '/icon src/d' EPG_temp1.xml
-			sed -i "s#<\/channel>#\t<display-name>${new}<\/display-name>\n\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp1.xml
-			
-			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml >> EPG_temp2.xml
-			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp2.xml
+			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
+   			sed -i "s#<channel id=\"${old}\"#<channel id=\"${new}\"#" EPG_temp01.xml
+			sed -i '/display-name/d' EPG_temp01.xml
+			sed -i '/icon src/d' EPG_temp01.xml
+			sed -i "s#<\/channel>#\t<display-name>${new}<\/display-name>\n\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp01.xml
+			cat EPG_temp01.xml >> EPG_temp1.xml
+   
+			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
+			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp02.xml
+  			cat EPG_temp02.xml >> EPG_temp2.xml
 			
 		else
 			echo Saltando canal: $old ··· $contar_channel coincidencias
