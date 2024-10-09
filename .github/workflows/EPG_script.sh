@@ -3,15 +3,11 @@
 sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
 
-	while IFS=, read -r epg
-	do
-	#	curl -L -o EPG_temp.xml $epg
- 	echo Descargando epg ··· $epg
-  	echo
-	wget -tries=2 -q --show-progress -O EPG_temp.xml $epg
-	done < epgs.txt
+echo Descargando epgs
+wget -i epgs.txt > EPG_temp.xml
+echo
 
-	while IFS=, read -r old new logo
+ 	while IFS=, read -r old new logo
 	do
 		contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
 		if [ $contar_channel -gt 1 ]; then
