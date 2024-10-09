@@ -5,7 +5,8 @@ sed -i '/^ *$/d' canales.txt
 
 	while IFS=, read -r epg
 	do
-		curl -L -o EPG_temp.xml $epg
+	#	curl -L -o EPG_temp.xml $epg
+	wget -tries=2 -q --show-progress -O EPG_temp.xml $epg
 	done < epgs.txt
 
 	while IFS=, read -r old new logo
