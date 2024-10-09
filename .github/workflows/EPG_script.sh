@@ -4,8 +4,7 @@ sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
 
 echo Descargando epgs
-wget -i epgs.txt > EPG_temp.xml
-echo
+wget -O EPG_temp.xml -q -i epgs.txt
 
  	while IFS=, read -r old new logo
 	do
