@@ -30,7 +30,7 @@ wget -O EPG_temp.xml -q -i epgs.txt
 
 date_stamp=$(date +"%d/%m/%Y %R")
 echo '<?xml version="1.0" encoding="UTF-8"?>' > miEPG.xml
-echo "<tv generator-info-name=\"miEPG $date_stamp\" generator-info-url=\"t.me/miEPG\">" >> miEPG.xml
+echo "<tv generator-info-name=\"miEPG $date_stamp\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" >> miEPG.xml
 cat EPG_temp1.xml >> miEPG.xml
 cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
