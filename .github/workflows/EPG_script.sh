@@ -6,6 +6,8 @@ sed -i '/^ *$/d' canales.txt
 	while IFS=, read -r epg
 	do
 	#	curl -L -o EPG_temp.xml $epg
+ 	echo Descargando epg ··· $epg
+  	echo
 	wget -tries=2 -q --show-progress -O EPG_temp.xml $epg
 	done < epgs.txt
 
