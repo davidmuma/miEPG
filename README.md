@@ -1,4 +1,4 @@
-### miEPG
+### miEPG 1.0
 ```
 https://raw.githubusercontent.com/davidmuma/miEPG/master/miEPG.xml
 ```
