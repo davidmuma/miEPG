@@ -1,7 +1,7 @@
 ### miEPG   v1.0 (Alpha)
 
-Utilizando Github Actions para generar un xml a partir de otro, pudiendo modificar el nombre del canal y el logo
-El script se ejecuta todos los días a las 13:30
+-Utilizando Github Actions para generar un xml a partir de otro, pudiendo modificar el nombre del canal y el logo
+-El script se ejecuta todos los días a las 13:30
 
 ***
 Aquí la url de la [epg original](https://github.com/davidmuma/miEPG/blob/main/epgs.txt)
