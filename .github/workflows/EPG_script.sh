@@ -15,7 +15,7 @@ wget -O EPG_temp.xml -q -i epgs.txt
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
 			sed -i '/icon src/!d' EPG_temp01.xml
    
-   			if [ "$logo" ]; then
+   			if [ -z "$logo" ]; then
       				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
