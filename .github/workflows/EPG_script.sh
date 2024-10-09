@@ -3,8 +3,20 @@
 sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
 
-echo Descargando epgs
-wget -O EPG_temp.xml -q -i epgs.txt
+ 	while IFS=, read -r epg
+	do
+ 	extension="${epg##*.}"
+		if [ $extension = "gz" ]; then
+			echo Descargando epg
+			wget -O EPG_temp.xml.gz -q ${epg}
+		    	echo Descomprimiendo epg
+       			gzip -d EPG_temp.xml.gz
+	  	else
+			echo Descargando epg
+			wget -O EPG_temp.xml -q ${epg}
+		fi
+	done < epgs.txt
+
 
  	while IFS=, read -r old new logo
 	do
@@ -15,14 +27,14 @@ wget -O EPG_temp.xml -q -i epgs.txt
    
    			if [ "$logo" ]; then
 	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
-				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
-				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
+				sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
+				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
     				sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
       			else
 				echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
-      				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
-				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
+      				sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
+				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
    			fi
       			cat EPG_temp01.xml >> EPG_temp1.xml
