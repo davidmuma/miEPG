@@ -9,17 +9,18 @@ wget -O EPG_temp.xml -q -i epgs.txt
  	while IFS=, read -r old new logo
 	do
 		contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
-		if [ $contar_channel -gt 1 ]; then
-			echo Procesando canal: $old ··· $contar_channel coincidencias
-			
+		if [ $contar_channel -gt 1 ]; then			
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
 			sed -i '/icon src/!d' EPG_temp01.xml
    
-   			if [ -z "$logo" ]; then
+   			if [ "$logo" ]
+      			then
+      				echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
       				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
       			else
+	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
       				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
     				sed -i "3i    <icon src=\"${logo}\" />" EPG_temp01.xml
