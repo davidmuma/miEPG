@@ -2,7 +2,7 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '45 11 * * * ' # Ejecutar a las 11:45 AM
+    - cron: '30 13 * * * ' # Ejecutar a las 13:30 AM
   workflow_dispatch:
 permissions:
    contents: write
@@ -29,7 +29,7 @@ jobs:
     - name: Subir archivos 
       run: |
         git add .
-        git commit -m "Nueva miEPG.xml"
+        git commit -m "Nuevo miEPG.xml"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
