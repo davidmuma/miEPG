@@ -13,13 +13,11 @@ wget -O EPG_temp.xml -q -i epgs.txt
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
 			sed -i '/icon src/!d' EPG_temp01.xml
    
-   			if [ "$logo" ]
-      			then
-	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo $logo ··· $contar_channel coincidencias
-      				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
+   			if [ "$logo" ]; then
+	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
+				sed -i "1i  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i    <display-name>${new}</display-name>" EPG_temp01.xml
-    				sed -i '/icon src/d' EPG_temp01.xml
-    				sed -i "3i    <icon src=\"${logo}\" />" EPG_temp01.xml
+    				sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
       			else
 				echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
