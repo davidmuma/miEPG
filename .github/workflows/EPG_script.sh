@@ -1,12 +1,12 @@
 #!/bin/bash
 
+sed -i '/^ *$/d' epgs.txt
+sed -i '/^ *$/d' canales.txt
+
 	while IFS=, read -r epg
 	do
 		curl -L -o EPG_temp.xml $epg
 	done < epgs.txt
-
-sed -i '/^ *$/d' epgs.txt
-sed -i '/^ *$/d' canales.txt
 
 	while IFS=, read -r old new logo
 	do
@@ -15,7 +15,7 @@ sed -i '/^ *$/d' canales.txt
 			echo Procesando canal: $old ··· $contar_channel coincidencias
 			
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml >> EPG_temp1.xml
-   			sed -i "s/$old/$new/" EPG_temp1.xml
+   			sed -i "s#<channel id=\"${old}\"#<channel id=\"${new}\"#" EPG_temp1.xml
 			sed -i '/display-name/d' EPG_temp1.xml
 			sed -i '/icon src/d' EPG_temp1.xml
 			sed -i "s#<\/channel>#\t<display-name>${new}<\/display-name>\n\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp1.xml
