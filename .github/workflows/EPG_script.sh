@@ -16,7 +16,7 @@ wget -O EPG_temp.xml -q -i epgs.txt
    			sed -i "s#<channel id=\"${old}\"#<channel id=\"${new}\"#" EPG_temp01.xml
 			sed -i '/display-name/d' EPG_temp01.xml
 			sed -i '/icon src/d' EPG_temp01.xml
-			sed -i "s#<\/channel>#\t<display-name>${new}<\/display-name>\n\t<icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp01.xml
+			sed -i "s#<\/channel>#  <display-name>${new}<\/display-name>\n  <icon src=\"${logo}\" />\n  <\/channel>#" EPG_temp01.xml
 			cat EPG_temp01.xml >> EPG_temp1.xml
    
 			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
