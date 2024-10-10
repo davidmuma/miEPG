@@ -7,9 +7,8 @@ sed -i '/^ *$/d' canales.txt
 	do
  		extension="${epg##*.}"
 		if [ $extension = "gz" ]; then
-			echo Descargando epg
+			echo Descargando y descomprimiendo epg
 			wget -O EPG_temp.xml.gz -q ${epg}
-		    	echo Descomprimiendo epg
        			gzip -d EPG_temp.xml.gz
 	  	else
 			echo Descargando epg
