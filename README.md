@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/[Username]/miEPG/master/miEPG.xml
 
 ***
 
-#Creando un fork desde GitHub
+# Creando un fork desde GitHub
 
 Un fork es una copia de un repositorio de GitHub independiente del repositorio original. Nosotros somos los dueños de ese fork, por lo que podemos hacer todos los cambios que queramos, aunque no tengamos permisos de escritura en el repositorio original.
 
