@@ -13,5 +13,5 @@ Los nombres de los canales tienen que ir separados por comas, el primer campo es
 ***
 Y aquí tienes la url de la EGP generada con tus canales y tus nombres
 ```
-https://raw.githubusercontent.com/davidmuma/miEPG/master/miEPG.xml
+https://raw.githubusercontent.com/Username/Repository#/miEPG/master/miEPG.xml
 ```
