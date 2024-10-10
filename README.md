@@ -22,5 +22,5 @@ Creando un fork desde GitHub
 
 Un fork es una copia de un repositorio de GitHub independiente del repositorio original. Nosotros somos los dueños de ese fork, por lo que podemos hacer todos los cambios que queramos, aunque no tengamos permisos de escritura en el repositorio original.
 Crear un fork desde GitHub es muy sencillo. Ve a la página principal del repositorio del que quieras hacer un fork y pulsa el botón fork.
-![alt text]([https://raw.githubusercontent.com/davidmuma/miEPG/master/Varios/EPG/poster.jpg](https://raw.githubusercontent.com/davidmuma/miEPG/refs/heads/main/.github/workflows/fork1.png)
+![alt text](https://raw.githubusercontent.com/davidmuma/miEPG/refs/heads/main/.github/workflows/fork1.png)
 Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "forkeado"
