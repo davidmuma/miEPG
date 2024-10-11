@@ -37,16 +37,16 @@ Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "for
 
 1. Habilita GitHub Actions en tu fork:
 
-  1.1 Una vez que hayas creado el fork, ve a la pestaña "Actions" en tu repositorio en GitHub.
+  1.1. Una vez que hayas creado el fork, ve a la pestaña "Actions" en tu repositorio en GitHub.
 
-  1.2 Verás un mensaje que dice: "Workflows aren’t being run on this forked repository". Esto es normal, ya que GitHub deshabilita por defecto los workflows en los nuevos forks por motivos de seguridad.
+  1.2. Verás un mensaje que dice: "Workflows aren’t being run on this forked repository". Esto es normal, ya que GitHub deshabilita por defecto los workflows en los nuevos forks por motivos de seguridad.
 
-  1.3 Haz clic en el botón "I understand my workflows, go ahead and enable them" para habilitar los workflows en tu fork.
+  1.3. Haz clic en el botón "I understand my workflows, go ahead and enable them" para habilitar los workflows en tu fork.
 
 2. Verifica la configuración:
 
-  2.1 Realiza un cambio en algún archivo del proyecto (por ejemplo, edita un archivo .md) en una rama distinta de master y súbelo a tu fork.
+  2.1. Realiza un cambio en algún archivo del proyecto (por ejemplo, edita un archivo .md) en una rama distinta de master y súbelo a tu fork.
 
-  2.2 Abre una pull request desde nueva rama hacia master en tu fork.
+  2.2. Abre una pull request desde nueva rama hacia master en tu fork.
 
-  2.3 Ve a la pestaña "Actions" y verifica que los tests se están ejecutando correctamente en base a los workflows definidos en la carpeta .github/workflows/ del proyecto.
+  2.3. Ve a la pestaña "Actions" y verifica que los tests se están ejecutando correctamente en base a los workflows definidos en la carpeta .github/workflows/ del proyecto.
