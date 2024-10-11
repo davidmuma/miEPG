@@ -35,5 +35,4 @@ Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "for
 
 ### Problema Actions en el fork
 
-https://github.com/rajbos/github-fork-updater?tab=readme-ov-file
-
+https://docs.consuldemocracy.org/tech_docs/spanish-6/getting_started/configuration
