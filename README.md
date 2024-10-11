@@ -33,6 +33,6 @@ Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "for
 
 ![alt text](https://raw.githubusercontent.com/davidmuma/miEPG/refs/heads/main/.github/workflows/fork1.png)
 
-### Problema Actions en el fork
+### Habilitar GitHub Actions en tu fork
 
 https://docs.consuldemocracy.org/tech_docs/spanish-6/getting_started/configuration
