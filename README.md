@@ -33,3 +33,7 @@ Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "for
 
 ![alt text](https://raw.githubusercontent.com/davidmuma/miEPG/refs/heads/main/.github/workflows/fork1.png)
 
+### Problema Actions en el fork
+
+https://github.com/rajbos/github-fork-updater?tab=readme-ov-file
+
