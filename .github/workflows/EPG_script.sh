@@ -36,6 +36,7 @@ sed -i '/^ *$/d' canales.txt
   				echo '  </channel>' >> EPG_temp01.xml
    			fi
       			cat EPG_temp01.xml >> EPG_temp1.xml
+			sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 	 
 			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
 			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp02.xml
