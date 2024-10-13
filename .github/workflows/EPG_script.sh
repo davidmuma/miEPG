@@ -7,9 +7,8 @@ sed -i '/^ *$/d' canales.txt
 	do
  		extension="${epg##*.}"
 		if [ $extension = "gz" ]; then
-			echo Descargando epg
+			echo Descargando y descomprimiendo epg
 			wget -O EPG_temp.xml.gz -q ${epg}
-		    	echo Descomprimiendo epg
        			gzip -d EPG_temp.xml.gz
 	  	else
 			echo Descargando epg
@@ -37,6 +36,7 @@ sed -i '/^ *$/d' canales.txt
   				echo '  </channel>' >> EPG_temp01.xml
    			fi
       			cat EPG_temp01.xml >> EPG_temp1.xml
+			sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 	 
 			sed -n "/<programme.*${old}\">/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
 			sed -i "s# channel=\"${old}\"# channel=\"${new}\"#" EPG_temp02.xml
