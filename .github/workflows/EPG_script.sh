@@ -24,20 +24,19 @@ rm -f EPG_temp*
 		contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
 		if [ $contar_channel -gt 1 ]; then
 			sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
-			sed -i '/<display-name/d' EPG_temp01.xml
-			sed -i '/<url/d' EPG_temp01.xml
+			sed -i '/<icon src/!d' EPG_temp01.xml
    			if [ "$logo" ]; then
 	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
-				sed -i "s#<channel id=.*#<channel id=\"${new}\">#" EPG_temp01.xml
+     				echo '  </channel>' >> EPG_temp01.xml
+	 			sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
     				sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
-				sed -i "3i\    <icon src=\"${logo}\" \/>" EPG_temp01.xml
-  				echo '  </channel>' >> EPG_temp01.xml
-      		else
+				sed -i "3i\    <icon src=\"${logo}\" \/>" EPG_temp01.xml  				
+      			else
 				echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
-      				sed -i "s#<channel id=.*#<channel id=\"${new}\">#" EPG_temp01.xml
+    				echo '  </channel>' >> EPG_temp01.xml
+      				sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
 				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
-  				echo '  </channel>' >> EPG_temp01.xml
    			fi
       			cat EPG_temp01.xml >> EPG_temp1.xml
 			sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
