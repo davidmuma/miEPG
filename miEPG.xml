@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/10/2024 21:58" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/10/2024 22:03" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -16,9 +16,9 @@
     <display-name>MX | Canal TV Azteca</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" />
   </channel>
-  <channel id="ESPN USA">
-    <display-name>ESPN USA</display-name>
-    <icon src="https://i.imgur.com/ZY71cCY.png" />
+  <channel id="USA | AMC+">
+    <display-name>USA | AMC+</display-name>
+    <icon src="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" />
   </channel>
   <programme start="20241014080000 +0200" stop="20241014104000 +0200" channel="La 1 Super UHD 4k">
 	<title lang="es">La hora de La 1: La hora de la actualidad T7 E26</title>
@@ -3327,631 +3327,2760 @@
   <programme start="20241014183000 -0600" stop="20241014204500 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Acércate a Rocío</title>
   </programme>
-  <programme start="20241013070000 +0000" stop="20241013080000 +0000" channel="ESPN USA">
-    <title lang="en">College Football Final</title>
-    <desc lang="en">A comprehensive college football wrap-up, plus a look at major storylines heading into next week. (Repeat).</desc>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241013080000 +0000" stop="20241013083000 +0000" channel="ESPN USA">
-    <title lang="en">NFL Matchup</title>
-    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+  <programme start="20241014000000 +0000" stop="20241014010500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
     <credits>
-      <presenter>Sal Paolantonio</presenter>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
     </credits>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241013083000 +0000" stop="20241013103000 +0000" channel="ESPN USA">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">Florida at Tennessee</sub-title>
-    <desc lang="en">Florida (3-2, 1-1 SEC) at Tennessee (4-1, 1-1). From Neyland Stadium.</desc>
     <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
     </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241013103000 +0000" stop="20241013110000 +0000" channel="ESPN USA">
-    <title lang="en">NFL Matchup</title>
-    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+  <programme start="20241014010500 +0000" stop="20241014015500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
     <credits>
-      <presenter>Sal Paolantonio</presenter>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
     </credits>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241013110000 +0000" stop="20241013120000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-13-2024 -3</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
     <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241013120000 +0000" stop="20241013130000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-13-2024 -4</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241013130000 +0000" stop="20241013140000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-13-2024 -5</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241013140000 +0000" stop="20241013170000 +0000" channel="ESPN USA">
-    <title lang="en">Sunday NFL Countdown</title>
-    <desc lang="en">Mike Greenberg hosts an in-depth preview of the day&apos;s pro football, blending studio analysis, features and on-site reports. Randy Moss, Rex Ryan, Tedy Bruschi, Alex Smith, reporter Adam Schefter and betting analyst Erin Dolan round out the studio cast. (Live).</desc>
-    <credits>
-      <presenter>Suzy Kolber</presenter>
-      <presenter>Samantha Ponder</presenter>
-    </credits>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241013170000 +0000" stop="20241013190000 +0000" channel="ESPN USA">
-    <title lang="en">Women&apos;s College Volleyball</title>
-    <sub-title lang="en">Texas at Kentucky</sub-title>
-    <desc lang="en">Texas at Kentucky. (Live).</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-G</value>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
     </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241013190000 +0000" stop="20241013200000 +0000" channel="ESPN USA">
-    <title lang="en">Clutch: The NBA Playoffs</title>
-    <sub-title lang="en">Killer Instinct</sub-title>
-    <desc lang="en">Indiana and Milwaukee square off in a heated First Round matchup. Making his playoff debut, All-Star Tyrese Haliburton is out to prove he has what it takes to lead the Pacers. Standing in his way is the Buck&apos;s Patrick Beverley. Back in his hometown of Chicago, Beverley details what made him a relentless player. Meanwhile, the Celtics finished with the best regular season record in the league, but questions linger about their championship pedigree. (Repeat).</desc>
+  <programme start="20241014015500 +0000" stop="20241014023000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
     <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014023000 +0000" stop="20241014033000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014033000 +0000" stop="20241014044000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014044000 +0000" stop="20241014053500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014053500 +0000" stop="20241014055500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014055500 +0000" stop="20241014064500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014064500 +0000" stop="20241014075500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">L&apos;ame Perdue</sub-title>
+    <desc lang="en">Daryl Dixon&apos;s arrival to France sets off a violent chain of events that inadvertently puts a young boy at the heart of a growing religious movement in danger. Daryl agrees to help shepherd the boy to safety in exchange for help returning to America. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014075500 +0000" stop="20241014091000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">Alouette</sub-title>
+    <desc lang="en">Daryl, Isabelle, Laurent, and Sylvie face trouble on the road. Isabelle remembers the day the hungry ones appeared. Laurent struggles to fit in. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014091000 +0000" stop="20241014100000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">Paris Sera Toujours Paris</sub-title>
+    <desc lang="en">The group arrives in Paris, where Isabelle confronts her past while growing closer to Daryl. Codron seeks help from the leader of a growing nationalist movement called Pouvoir, putting the Union of Hope and Laurent under dangerous scrutiny. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme start="20241013200000 +0000" stop="20241013210000 +0000" channel="ESPN USA">
-    <title lang="en">Clutch: The NBA Playoffs</title>
-    <sub-title lang="en">Hunter vs Hunted</sub-title>
-    <desc lang="en">The defending champion Nuggets hope to repeat, but teams such as the Timberwolves are built to beat them. In the Western Conference Semifinals these combatants battle in an epic 7-game series. The pressure is intense for the Nuggets&apos; Jamal Murray and the Cavs&apos; Donovan Mitchell to sustain their reputations as elite playoff performers. Expectations are high in Boston where unproven second-year coach Joe Mazzulla is determined to show he&apos;s worthy of leading this storied franchise. (New).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014100000 +0000" stop="20241014104500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">No Other Way</sub-title>
+    <desc lang="en">The heroes set off to confront the Reapers, while Eugene&apos;s group assimilates to the Commonwealth. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014104500 +0000" stop="20241014113500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">New Haunts</sub-title>
+    <desc lang="en">The final season finds Daryl, Maggie, and our heroes on a fraught mission with Negan to confront the mysterious Reapers. Meanwhile, Eugene&apos;s group must assimilate to the Commonwealth, in order to get aid for Alexandria. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E9</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014113500 +0000" stop="20241014123000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">Rogue Element</sub-title>
+    <desc lang="en">The heroes set off to confront the Reapers, while Eugene&apos;s group assimilates to the Commonwealth. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E10</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014123000 +0000" stop="20241014131500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">The Lucky Ones</sub-title>
+    <desc lang="en">Governor Pamela Milton tours Alexandria, Oceanside and Hilltop. Eugen processes Max&apos;s story. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E11</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014131500 +0000" stop="20241014140500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">Warlords</sub-title>
+    <desc lang="en">Maggie, Lydia, and Elijah help a stranger from another community. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E12</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014140500 +0000" stop="20241014145000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">The Rotten Core</sub-title>
+    <desc lang="en">The heroes set off to confront the Reapers, while Eugene&apos;s group assimilates to the Commonwealth. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E13</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014145000 +0000" stop="20241014154000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">Trust</sub-title>
+    <desc lang="en">Hornsby marches Daryl and troops to confront Maggie at Hilltop. Rosita investigates the Miltons. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014154000 +0000" stop="20241014162500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">Acts of God</sub-title>
+    <desc lang="en">Maggie prepares to defend Hilltop against Hornsby. Meanwhile, Hornsby hires Leah to kill her. (Repeat).</desc>
+    <credits>
+      <actor role="Andrea">Laurie Holden</actor>
+      <actor role="Rick Grimes">Andrew Lincoln</actor>
+      <actor role="Shane">Jon Bernthal</actor>
+      <actor role="Carl Grimes">Chandler Riggs</actor>
+      <actor role="Lori">Sarah Wayne Callies</actor>
+      <composer>Bear McCreary</composer>
+      <director>Ernest R. Dickerson</director>
+      <director>Michael E. Satrazemis</director>
+      <producer>Greg Nicotero</producer>
+      <writer>Charlie Adlard</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13322/559526_320x240_637624067440380470.jpg" />
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014162500 +0000" stop="20241014172000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
     <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014172000 +0000" stop="20241014182000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014182000 +0000" stop="20241014191500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014191500 +0000" stop="20241014200500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014200500 +0000" stop="20241014211000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014211000 +0000" stop="20241014220500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014220500 +0000" stop="20241014225500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014225500 +0000" stop="20241015000000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015000000 +0000" stop="20241015005000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015005000 +0000" stop="20241015014500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015014500 +0000" stop="20241015024500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015024500 +0000" stop="20241015034000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015034000 +0000" stop="20241015043000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015043000 +0000" stop="20241015053000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015053000 +0000" stop="20241015062500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015062500 +0000" stop="20241015071500 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015071500 +0000" stop="20241015082000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: Moulin Rouge</sub-title>
+    <desc lang="en">Carol and Ash take an unexpected detour. Daryl and Isabelle uncover a new threat at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015082000 +0000" stop="20241015091000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: L&apos;invisible</sub-title>
+    <desc lang="en">Carol hunts for information. Daryl and Isabelle race to save one of their own. Pouvoir regroups. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015091000 +0000" stop="20241015100000 +0000" channel="USA | AMC+">
+    <title lang="en">The Walking Dead: Daryl Dixon</title>
+    <sub-title lang="en">The Book of Carol: La gentillesse des étrangers</sub-title>
+    <desc lang="en">Carol maps a path toward Daryl. Daryl, Isabelle, and Laurent define their roles at the Nest. (Repeat).</desc>
+    <credits>
+      <actor role="Daryl Dixon">Norman Reedus</actor>
+      <actor role="Isabelle Carriere">Clémence Poésy</actor>
+      <actor role="Quinn">Adam Nagaitis</actor>
+      <actor role="Marion Genet">Anne Charrier</actor>
+      <actor role="Dr. Henri LaFleur">Francois Delaive</actor>
+      <actor role="Fallou Boukar">Eriq Ebouaney</actor>
+      <director>Daniel Percival</director>
+      <director>Tim Southam</director>
+      <producer>David Zabel</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14647/014647/014647_1152x864_638246168518720360.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015100000 +0000" stop="20241015104000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Slashers, Part 2</sub-title>
+    <desc lang="en">Slashers got sophisticated in the &apos;90s, evolving from Freddy Kreuger to Candyman to the terrifying Hannibal Lector. The 2000s brought &quot;torture porn&quot;—a response to post-9/11 panic. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
     <category lang="en">Documentary</category>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015104000 +0000" stop="20241015112500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">The Demons Inside</sub-title>
+    <desc lang="en">Demonic possessions are the subject of some of the greatest horror films ever made. Included: &quot;Rosemary&apos;s Baby&quot;; and &quot;The Exorcist.&quot; (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
-    <premiere lang="en" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20241013210000 +0000" stop="20241013220000 +0000" channel="ESPN USA">
-    <title lang="en">Clutch: The NBA Playoffs</title>
-    <sub-title lang="en">Make Your Name</sub-title>
-    <desc lang="en">NBA history has shown that you can&apos;t win a title with superstars alone. As the conference semifinals continue, key contributors such as the Knicks&apos; Josh Hart, the Pacers&apos; T.J. McConnell and Mavericks&apos; PJ Washington are determined to help their teams advance. Whether it is grabbing a big rebound, running the fastbreak or &quot;standing on business&quot;, these role players are looking to rise to the occasion and bring their respective franchises closer to Championship glory. (New).</desc>
-    <date>2024</date>
+  <programme start="20241015112500 +0000" stop="20241015120500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Killer Creatures</sub-title>
+    <desc lang="en">Monsters hold a special place in the history of horror. The killer predators in nature. The nightmare creatures of the fantastic. And the monsters inside us, waiting to escape. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
     <category lang="en">Documentary</category>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241013220000 +0000" stop="20241014003000 +0000" channel="ESPN USA">
-    <title lang="en">NBA Preseason Basketball</title>
-    <sub-title lang="en">Minnesota Timberwolves at New York Knicks</sub-title>
-    <desc lang="en">Minnesota Timberwolves at New York Knicks. From Madison Square Garden. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014003000 +0000" stop="20241014030000 +0000" channel="ESPN USA">
-    <title lang="en">NBA Preseason Basketball</title>
-    <sub-title lang="en">Phoenix Suns at Denver Nuggets</sub-title>
-    <desc lang="en">Phoenix Suns at Denver Nuggets. From Ball Arena. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014030000 +0000" stop="20241014033000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-13-2024 -6</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014033000 +0000" stop="20241014050000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">10-13-2024</sub-title>
-    <desc lang="en">Scott Van Pelt hosts ESPN&apos;s signature news and highlights show, with interviews and unique segments including &apos;Senior Night,&apos; to recognize high-school and college athletes. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014050000 +0000" stop="20241014060000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -1</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014060000 +0000" stop="20241014070000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014070000 +0000" stop="20241014080000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241014080000 +0000" stop="20241014100000 +0000" channel="ESPN USA">
-    <title lang="en">College Football</title>
-    <sub-title lang="en">Kansas State at Colorado</sub-title>
-    <desc lang="en">Kansas State (4-1, 1-1 Big 12) at Colorado (4-1, 2-0). From Folsom Field.</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20241014100000 +0000" stop="20241014110000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241014110000 +0000" stop="20241014120000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -3</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014120000 +0000" stop="20241014140000 +0000" channel="ESPN USA">
-    <title lang="en">Get Up</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
+  <programme start="20241015120500 +0000" stop="20241015125000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Vampires</sub-title>
+    <desc lang="en">Modern vampires come in many guises, but they all address the fascination with sex and death. From the ghastly Count Orlok to the glam vampires of &quot;True Blood,&quot; thirsty fiends are endlessly appealing. (Repeat).</desc>
     <credits>
-      <presenter>Mike Greenberg</presenter>
-      <presenter>Laura Rutledge</presenter>
-      <presenter>Jalen Rose</presenter>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
     </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">E202</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014140000 +0000" stop="20241014160000 +0000" channel="ESPN USA">
-    <title lang="en">First Take</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014160000 +0000" stop="20241014180000 +0000" channel="ESPN USA">
-    <title lang="en">The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20241014180000 +0000" stop="20241014190000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-14-2024 -4</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014190000 +0000" stop="20241014210000 +0000" channel="ESPN USA">
-    <title lang="en">NFL Live</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014210000 +0000" stop="20241014213000 +0000" channel="ESPN USA">
-    <title lang="en">Around the Horn</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+  <programme start="20241015125000 +0000" stop="20241015133500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Ghost Stories</sub-title>
+    <desc lang="en">Ghost movies have been around since the dawn of cinema. Some ghosts are benevolent, some ghosts are malicious, but they all represent the mystery of what happens after death. (Repeat).</desc>
     <credits>
-      <presenter>Tony Reali</presenter>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
     </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S23 E177</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014213000 +0000" stop="20241014220000 +0000" channel="ESPN USA">
-    <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
-    <credits>
-      <presenter>Tony Kornheiser</presenter>
-      <presenter>Michael Wilbon</presenter>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
-    <episode-num system="onscreen">S25 E177</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241014220000 +0000" stop="20241015000000 +0000" channel="ESPN USA">
-    <title lang="en">Monday Night Countdown</title>
-    <desc lang="en">Scott Van Pelt hosts a comprehensive preview of the NFL&apos;s weekly finale, featuring studio analysis and on-site reports, plus a weekend recap. Ryan Clark, Marcus Spears, Jason Kelce, reporter Adam Schefter and Michelle Beisner-Buck round out the cast. (Live).</desc>
-    <credits>
-      <commentator>Rick Reilly</commentator>
-      <presenter>Suzy Kolber</presenter>
-      <presenter>Stuart Scott</presenter>
-    </credits>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015000000 +0000" stop="20241015001500 +0000" channel="ESPN USA">
-    <title lang="en">Monday Night Kickoff</title>
-    <desc lang="en">Previewing the upcoming Monday Night Football game, with on-field interviews. (Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015001500 +0000" stop="20241015031500 +0000" channel="ESPN USA">
-    <title lang="en">Monday Night Football</title>
-    <sub-title lang="en">Buffalo Bills at New York Jets</sub-title>
-    <desc lang="en">Buffalo Bills (3-2) at New York Jets (2-3). From MetLife Stadium. (Live).</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015031500 +0000" stop="20241015033000 +0000" channel="ESPN USA">
-    <title lang="en">Monday Night Postgame</title>
-    <desc lang="en">Interviews and analysis wrapping up Monday Night Football coverage. (Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015033000 +0000" stop="20241015043000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">10-14-2024</sub-title>
-    <desc lang="en">Scott Van Pelt hosts ESPN&apos;s signature news and highlights show, with interviews and unique segments including &apos;Senior Night,&apos; to recognize high-school and college athletes. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015043000 +0000" stop="20241015053000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -1</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015053000 +0000" stop="20241015063000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015063000 +0000" stop="20241015073000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241015073000 +0000" stop="20241015083000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241015083000 +0000" stop="20241015090000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241015090000 +0000" stop="20241015100000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241015100000 +0000" stop="20241015110000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241015110000 +0000" stop="20241015120000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -3</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="ESPN USA">
-    <title lang="en">Get Up</title>
-    <sub-title lang="en">10-15-2024</sub-title>
-    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
-    <credits>
-      <presenter>Mike Greenberg</presenter>
-      <presenter>Laura Rutledge</presenter>
-      <presenter>Jalen Rose</presenter>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">E203</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015140000 +0000" stop="20241015160000 +0000" channel="ESPN USA">
-    <title lang="en">First Take</title>
-    <sub-title lang="en">10-15-2024</sub-title>
-    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015160000 +0000" stop="20241015180000 +0000" channel="ESPN USA">
-    <title lang="en">The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20241015180000 +0000" stop="20241015190000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -4</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015190000 +0000" stop="20241015200000 +0000" channel="ESPN USA">
-    <title lang="en">NBA Today</title>
-    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015200000 +0000" stop="20241015210000 +0000" channel="ESPN USA">
-    <title lang="en">NFL Live</title>
-    <sub-title lang="en">10-15-2024</sub-title>
-    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015210000 +0000" stop="20241015213000 +0000" channel="ESPN USA">
-    <title lang="en">Around the Horn</title>
-    <sub-title lang="en">10-15-2024</sub-title>
-    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+  <programme start="20241015133500 +0000" stop="20241015141500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Zombies</sub-title>
+    <desc lang="en">Zombies are the monsters of the 21st century, and America&apos;s major contribution to horror. What set off zombie fever? All roads lead to George Romero, who made zombies a metaphor for social ills. The series premiere. (Repeat).</desc>
     <credits>
-      <presenter>Tony Reali</presenter>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
     </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S23 E178</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015213000 +0000" stop="20241015220000 +0000" channel="ESPN USA">
-    <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">10-15-2024</sub-title>
-    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
-    <credits>
-      <presenter>Tony Kornheiser</presenter>
-      <presenter>Michael Wilbon</presenter>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
-    <episode-num system="onscreen">S25 E178</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015220000 +0000" stop="20241015230000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-15-2024 -5</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015230000 +0000" stop="20241015233000 +0000" channel="ESPN USA">
-    <title lang="en">CFP Rankings Show</title>
-    <desc lang="en">(Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241015233000 +0000" stop="20241016020000 +0000" channel="ESPN USA">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Minnesota Wild at St. Louis Blues</sub-title>
-    <desc lang="en">Minnesota Wild at St. Louis Blues. From Enterprise Center. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016020000 +0000" stop="20241016043000 +0000" channel="ESPN USA">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
-    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016043000 +0000" stop="20241016053000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -1</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016053000 +0000" stop="20241016063000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016063000 +0000" stop="20241016073000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241016073000 +0000" stop="20241016080000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241016080000 +0000" stop="20241016100000 +0000" channel="ESPN USA">
-    <title lang="en">NHL Hockey</title>
-    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
-    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme start="20241016100000 +0000" stop="20241016110000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -2</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <previously-shown /></programme>
-  <programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -3</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="ESPN USA">
-    <title lang="en">Get Up</title>
-    <sub-title lang="en">10-16-2024</sub-title>
-    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
-    <credits>
-      <presenter>Mike Greenberg</presenter>
-      <presenter>Laura Rutledge</presenter>
-      <presenter>Jalen Rose</presenter>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">E204</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="ESPN USA">
-    <title lang="en">First Take</title>
-    <sub-title lang="en">10-16-2024</sub-title>
-    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016160000 +0000" stop="20241016180000 +0000" channel="ESPN USA">
-    <title lang="en">The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20241016180000 +0000" stop="20241016190000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -4</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016190000 +0000" stop="20241016200000 +0000" channel="ESPN USA">
-    <title lang="en">NBA Today</title>
-    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016200000 +0000" stop="20241016210000 +0000" channel="ESPN USA">
-    <title lang="en">NFL Live</title>
-    <sub-title lang="en">10-16-2024</sub-title>
-    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20241016210000 +0000" stop="20241016213000 +0000" channel="ESPN USA">
-    <title lang="en">Around the Horn</title>
-    <sub-title lang="en">10-16-2024</sub-title>
-    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+  <programme start="20241015141500 +0000" stop="20241015150000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Slashers, Part 1</sub-title>
+    <desc lang="en">Slasher films killed in the &apos;80s, but their violence, perceived misogyny, and endless sequels almost ended the genre. Supernatural killers Chucky and Freddy saved them from extinction. (Repeat).</desc>
     <credits>
-      <presenter>Tony Reali</presenter>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
     </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">S23 E179</episode-num>
-    <premiere lang="en" />
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
   </programme>
-  <programme start="20241016213000 +0000" stop="20241016220000 +0000" channel="ESPN USA">
-    <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">10-16-2024</sub-title>
-    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+  <programme start="20241015150000 +0000" stop="20241015154500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Slashers, Part 2</sub-title>
+    <desc lang="en">Slashers got sophisticated in the &apos;90s, evolving from Freddy Kreuger to Candyman to the terrifying Hannibal Lector. The 2000s brought &quot;torture porn&quot;—a response to post-9/11 panic. (Repeat).</desc>
     <credits>
-      <presenter>Tony Kornheiser</presenter>
-      <presenter>Michael Wilbon</presenter>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
     </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
-    <episode-num system="onscreen">S25 E179</episode-num>
-    <premiere lang="en" />
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
   </programme>
-  <programme start="20241016220000 +0000" stop="20241016230000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -5</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
+  <programme start="20241015154500 +0000" stop="20241015163000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">The Demons Inside</sub-title>
+    <desc lang="en">Demonic possessions are the subject of some of the greatest horror films ever made. Included: &quot;Rosemary&apos;s Baby&quot;; and &quot;The Exorcist.&quot; (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20241016230000 +0000" stop="20241016233000 +0000" channel="ESPN USA">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">10-16-2024 -6</sub-title>
-    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
+  <programme start="20241015163000 +0000" stop="20241015171500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Killer Creatures</sub-title>
+    <desc lang="en">Monsters hold a special place in the history of horror. The killer predators in nature. The nightmare creatures of the fantastic. And the monsters inside us, waiting to escape. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20241016233000 +0000" stop="20241017000000 +0000" channel="ESPN USA">
-    <title lang="en">WNBA Countdown</title>
-    <desc lang="en">Women&apos;s National Basketball Association game previews, news, features and discussion. (Live).</desc>
-    <premiere lang="en" />
+  <programme start="20241015171500 +0000" stop="20241015180000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Vampires</sub-title>
+    <desc lang="en">Modern vampires come in many guises, but they all address the fascination with sex and death. From the ghastly Count Orlok to the glam vampires of &quot;True Blood,&quot; thirsty fiends are endlessly appealing. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015180000 +0000" stop="20241015184500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Ghost Stories</sub-title>
+    <desc lang="en">Ghost movies have been around since the dawn of cinema. Some ghosts are benevolent, some ghosts are malicious, but they all represent the mystery of what happens after death. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241015184500 +0000" stop="20241015193000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Zombies</sub-title>
+    <desc lang="en">Zombies are the monsters of the 21st century, and America&apos;s major contribution to horror. What set off zombie fever? All roads lead to George Romero, who made zombies a metaphor for social ills. The series premiere. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015193000 +0000" stop="20241015201500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Slashers, Part 1</sub-title>
+    <desc lang="en">Slasher films killed in the &apos;80s, but their violence, perceived misogyny, and endless sequels almost ended the genre. Supernatural killers Chucky and Freddy saved them from extinction. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015201500 +0000" stop="20241015210000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Slashers, Part 2</sub-title>
+    <desc lang="en">Slashers got sophisticated in the &apos;90s, evolving from Freddy Kreuger to Candyman to the terrifying Hannibal Lector. The 2000s brought &quot;torture porn&quot;—a response to post-9/11 panic. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015210000 +0000" stop="20241015214500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">The Demons Inside</sub-title>
+    <desc lang="en">Demonic possessions are the subject of some of the greatest horror films ever made. Included: &quot;Rosemary&apos;s Baby&quot;; and &quot;The Exorcist.&quot; (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241015214500 +0000" stop="20241015223000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Killer Creatures</sub-title>
+    <desc lang="en">Monsters hold a special place in the history of horror. The killer predators in nature. The nightmare creatures of the fantastic. And the monsters inside us, waiting to escape. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241015223000 +0000" stop="20241015231500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Vampires</sub-title>
+    <desc lang="en">Modern vampires come in many guises, but they all address the fascination with sex and death. From the ghastly Count Orlok to the glam vampires of &quot;True Blood,&quot; thirsty fiends are endlessly appealing. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015231500 +0000" stop="20241016000000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Ghost Stories</sub-title>
+    <desc lang="en">Ghost movies have been around since the dawn of cinema. Some ghosts are benevolent, some ghosts are malicious, but they all represent the mystery of what happens after death. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241016000000 +0000" stop="20241016004500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Gray Matter; House of the Dead</sub-title>
+    <desc lang="en">A father who lives with his son develops a drinking problem because of grief; A young girl finds a peculiar toy head in her dollhouse. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016004500 +0000" stop="20241016013000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Bad Wolf Down; The Finger</sub-title>
+    <desc lang="en">A group of American soldiers find something more despicable behind the enemy lines; A man discovers a growing finger. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016013000 +0000" stop="20241016021500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">All Hallows Eve; The Man in the Suitcase</sub-title>
+    <desc lang="en">Teens go trick-or-treating, but they aren&apos;t met with smiles and sweets. Then, Justin brings home the wrong suitcase, and finds a man who spits out gold coins when he is in pain stuffed inside. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016021500 +0000" stop="20241016030000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">The Companion; Lydia Lane&apos;s Better Half</sub-title>
+    <desc lang="en">Harry stumbles upon an old scarecrow and brings it to life. Then, Lydia kills her lover and needs to hide the evidence, but after an earthquake, she gets trapped inside an elevator with the body. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016030000 +0000" stop="20241016034500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Night of the Paw; Times Is Tough in Musky Holler</sub-title>
+    <desc lang="en">A killer gets stranded in a funeral home with a mortician and his monkey paw. Then, former Mayor Barkley is in prison, and with his most loyal supporters locked up too, his odds don&apos;t look good. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016034500 +0000" stop="20241016043500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Skincrawlers; On the Silver Waters of Lake Champlain</sub-title>
+    <desc lang="en">Dr. Sloan discovers a cure to weight loss in a rare fat-sucking leech. Then, Rose believes she found Champ, the legendary monster of Lake Champlain, but the real monster may still be out there. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016043500 +0000" stop="20241016052000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Gray Matter; House of the Dead</sub-title>
+    <desc lang="en">A father who lives with his son develops a drinking problem because of grief; A young girl finds a peculiar toy head in her dollhouse. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016052000 +0000" stop="20241016061000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Bad Wolf Down; The Finger</sub-title>
+    <desc lang="en">A group of American soldiers find something more despicable behind the enemy lines; A man discovers a growing finger. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016061000 +0000" stop="20241016065500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">All Hallows Eve; The Man in the Suitcase</sub-title>
+    <desc lang="en">Teens go trick-or-treating, but they aren&apos;t met with smiles and sweets. Then, Justin brings home the wrong suitcase, and finds a man who spits out gold coins when he is in pain stuffed inside. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016065500 +0000" stop="20241016074000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">The Companion; Lydia Lane&apos;s Better Half</sub-title>
+    <desc lang="en">Harry stumbles upon an old scarecrow and brings it to life. Then, Lydia kills her lover and needs to hide the evidence, but after an earthquake, she gets trapped inside an elevator with the body. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016074000 +0000" stop="20241016082500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Night of the Paw; Times Is Tough in Musky Holler</sub-title>
+    <desc lang="en">A killer gets stranded in a funeral home with a mortician and his monkey paw. Then, former Mayor Barkley is in prison, and with his most loyal supporters locked up too, his odds don&apos;t look good. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016082500 +0000" stop="20241016091500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Skincrawlers; On the Silver Waters of Lake Champlain</sub-title>
+    <desc lang="en">Dr. Sloan discovers a cure to weight loss in a rare fat-sucking leech. Then, Rose believes she found Champ, the legendary monster of Lake Champlain, but the real monster may still be out there. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016091500 +0000" stop="20241016100000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Gray Matter; House of the Dead</sub-title>
+    <desc lang="en">A father who lives with his son develops a drinking problem because of grief; A young girl finds a peculiar toy head in her dollhouse. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241016100000 +0000" stop="20241016104500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Houses of Hell</sub-title>
+    <desc lang="en">Home is where the heart is, unless you live in a house of hell. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016104500 +0000" stop="20241016113000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Monsters</sub-title>
+    <desc lang="en">Monster movies reflect the concerns of their times, yet their themes resonate decades later. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016113000 +0000" stop="20241016122000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Body Horror</sub-title>
+    <desc lang="en">Body horror films make us question our prejudices against physical difference. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016122000 +0000" stop="20241016130500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Chilling Children</sub-title>
+    <desc lang="en">The witch is a towering figure in the history of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016130500 +0000" stop="20241016135500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Witches</sub-title>
+    <desc lang="en">The films in Chilling Children play on every parent&apos;s fear that their bundle of joy is a monster. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016135500 +0000" stop="20241016144000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Nine Nightmares</sub-title>
+    <desc lang="en">Nine Nightmares is a deep dive into nine uncategorizable films that push the boundaries of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016144000 +0000" stop="20241016152500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Houses of Hell</sub-title>
+    <desc lang="en">Home is where the heart is, unless you live in a house of hell. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016152500 +0000" stop="20241016161500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Monsters</sub-title>
+    <desc lang="en">Monster movies reflect the concerns of their times, yet their themes resonate decades later. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016161500 +0000" stop="20241016170000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Body Horror</sub-title>
+    <desc lang="en">Body horror films make us question our prejudices against physical difference. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016170000 +0000" stop="20241016175000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Chilling Children</sub-title>
+    <desc lang="en">The witch is a towering figure in the history of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016175000 +0000" stop="20241016183500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Witches</sub-title>
+    <desc lang="en">The films in Chilling Children play on every parent&apos;s fear that their bundle of joy is a monster. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016183500 +0000" stop="20241016192000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Nine Nightmares</sub-title>
+    <desc lang="en">Nine Nightmares is a deep dive into nine uncategorizable films that push the boundaries of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016192000 +0000" stop="20241016201000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Houses of Hell</sub-title>
+    <desc lang="en">Home is where the heart is, unless you live in a house of hell. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016201000 +0000" stop="20241016205000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Monsters</sub-title>
+    <desc lang="en">Monster movies reflect the concerns of their times, yet their themes resonate decades later. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016205000 +0000" stop="20241016214000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Body Horror</sub-title>
+    <desc lang="en">Body horror films make us question our prejudices against physical difference. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016214000 +0000" stop="20241016222500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Chilling Children</sub-title>
+    <desc lang="en">The witch is a towering figure in the history of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016222500 +0000" stop="20241016231500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Witches</sub-title>
+    <desc lang="en">The films in Chilling Children play on every parent&apos;s fear that their bundle of joy is a monster. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016231500 +0000" stop="20241017000000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Nine Nightmares</sub-title>
+    <desc lang="en">Nine Nightmares is a deep dive into nine uncategorizable films that push the boundaries of horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017000000 +0000" stop="20241017005500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Model Kid; Public Television of the Dead</sub-title>
+    <desc lang="en">An exterminator makes a dark agreement. A young monster fan creates models to escape reality. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017005500 +0000" stop="20241017014500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Dead &amp; Breakfast; Pesticide</sub-title>
+    <desc lang="en">A gimmick to drum up business for a local bed and breakfast strays too close to reality. Later, an exterminator comes face-to-face with unsettling creatures after he takes on a significant job. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017014500 +0000" stop="20241017023500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">The Right Snuff; Sibling Rivalry</sub-title>
+    <desc lang="en">Two astronauts face infamy on the heels of a miscommunication. Later, a paranoid woman believes her brother intends to murder her. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017023500 +0000" stop="20241017032000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Pipe Screams; Within the Walls of Madness</sub-title>
+    <desc lang="en">A struggling plumber uncovers a grisly blockage in the pipes of a careless landlord. Later, an inmate engages in a psychological sparring match with his dishonest and scheming lawyer. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017032000 +0000" stop="20241017040500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Night of the Living Late Show</sub-title>
+    <desc lang="en">An invitation to partake in a virtual reality experience takes a turn for a superfan who finds himself face-to-face with a genuine threat. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017040500 +0000" stop="20241017050000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Model Kid; Public Television of the Dead</sub-title>
+    <desc lang="en">An exterminator makes a dark agreement. A young monster fan creates models to escape reality. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017050000 +0000" stop="20241017055000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Dead &amp; Breakfast; Pesticide</sub-title>
+    <desc lang="en">A gimmick to drum up business for a local bed and breakfast strays too close to reality. Later, an exterminator comes face-to-face with unsettling creatures after he takes on a significant job. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017055000 +0000" stop="20241017064500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">The Right Snuff; Sibling Rivalry</sub-title>
+    <desc lang="en">Two astronauts face infamy on the heels of a miscommunication. Later, a paranoid woman believes her brother intends to murder her. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017064500 +0000" stop="20241017073000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Pipe Screams; Within the Walls of Madness</sub-title>
+    <desc lang="en">A struggling plumber uncovers a grisly blockage in the pipes of a careless landlord. Later, an inmate engages in a psychological sparring match with his dishonest and scheming lawyer. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017073000 +0000" stop="20241017081500 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Night of the Living Late Show</sub-title>
+    <desc lang="en">An invitation to partake in a virtual reality experience takes a turn for a superfan who finds himself face-to-face with a genuine threat. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017081500 +0000" stop="20241017091000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Model Kid; Public Television of the Dead</sub-title>
+    <desc lang="en">An exterminator makes a dark agreement. A young monster fan creates models to escape reality. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017091000 +0000" stop="20241017100000 +0000" channel="USA | AMC+">
+    <title lang="en">Creepshow</title>
+    <sub-title lang="en">Dead &amp; Breakfast; Pesticide</sub-title>
+    <desc lang="en">A gimmick to drum up business for a local bed and breakfast strays too close to reality. Later, an exterminator comes face-to-face with unsettling creatures after he takes on a significant job. (Repeat).</desc>
+    <credits>
+      <director>Greg Nicotero</director>
+      <director>Roxanne Benjamin</director>
+      <producer>Greg Nicotero</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13251/013251/013251_1152x648_637493551820657597.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241017100000 +0000" stop="20241017104000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Mad Scientist</sub-title>
+    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017104000 +0000" stop="20241017112500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
+    <desc lang="en">Sometimes horror sequels fall far short of the original. And sometimes they are even better. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017112500 +0000" stop="20241017121000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Infections</sub-title>
+    <desc lang="en">The pandemic came as a surprise to some, but horror films have sounded the alarm for decades. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017121000 +0000" stop="20241017125000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Psychics</sub-title>
+    <desc lang="en">Stephen King and other horror superstars bring psychic powers to life in thrilling new ways. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017125000 +0000" stop="20241017133500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Apocalyptic Horror</sub-title>
+    <desc lang="en">Zombies, aliens, disease and war - whatever the cause, the end of the world inspires great horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017133500 +0000" stop="20241017142000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Holiday Horror</sub-title>
+    <desc lang="en">Holidays can be stressful. Luckily, horror brings our wildest homicidal holiday fantasies to life. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017142000 +0000" stop="20241017150500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Mad Scientist</sub-title>
+    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017150500 +0000" stop="20241017155000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
+    <desc lang="en">Sometimes horror sequels fall far short of the original. And sometimes they are even better. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017155000 +0000" stop="20241017163500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Infections</sub-title>
+    <desc lang="en">The pandemic came as a surprise to some, but horror films have sounded the alarm for decades. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017163500 +0000" stop="20241017171500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Psychics</sub-title>
+    <desc lang="en">Stephen King and other horror superstars bring psychic powers to life in thrilling new ways. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017171500 +0000" stop="20241017180000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Apocalyptic Horror</sub-title>
+    <desc lang="en">Zombies, aliens, disease and war - whatever the cause, the end of the world inspires great horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017180000 +0000" stop="20241017184500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Holiday Horror</sub-title>
+    <desc lang="en">Holidays can be stressful. Luckily, horror brings our wildest homicidal holiday fantasies to life. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017184500 +0000" stop="20241017193000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Mad Scientist</sub-title>
+    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017193000 +0000" stop="20241017201500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
+    <desc lang="en">Sometimes horror sequels fall far short of the original. And sometimes they are even better. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017201500 +0000" stop="20241017210000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Infections</sub-title>
+    <desc lang="en">The pandemic came as a surprise to some, but horror films have sounded the alarm for decades. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017210000 +0000" stop="20241017214500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Psychics</sub-title>
+    <desc lang="en">Stephen King and other horror superstars bring psychic powers to life in thrilling new ways. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017214500 +0000" stop="20241017223000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Apocalyptic Horror</sub-title>
+    <desc lang="en">Zombies, aliens, disease and war - whatever the cause, the end of the world inspires great horror. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017223000 +0000" stop="20241017231500 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Holiday Horror</sub-title>
+    <desc lang="en">Holidays can be stressful. Luckily, horror brings our wildest homicidal holiday fantasies to life. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017231500 +0000" stop="20241018000000 +0000" channel="USA | AMC+">
+    <title lang="en">Eli Roth&apos;s History of Horror</title>
+    <sub-title lang="en">Mad Scientist</sub-title>
+    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society. (Repeat).</desc>
+    <credits>
+      <director>Kurt Sayenga</director>
+      <producer>Eli Roth</producer>
+      <writer>Kurt Sayenga</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Horror</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13023/013023/013023_1152x864_637357143713196189.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
   </programme>
 </tv>
