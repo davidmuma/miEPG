@@ -1,4 +1,4 @@
-# miEPG   v1.4
+# miEPG   v1.4 (Corregido problema nombres con parentesis y fallo con los logos vacios)
 
 Utilizando Github Actions para generar un xml a partir de otro, pudiendo modificar el nombre y el logo de cada canal
 
@@ -14,7 +14,7 @@ Los nombres de los canales tienen que ir separados por comas (sin espacios), el 
 · Ejemplo: NombreEPG,NombreLISTA,hffp://raw.githubusercontent.com/Images/logo_dobleM.png
 
 ***
-Cuando se ejecute el script obtendremos una url con la EGP creada con tus canales y sus nombres
+Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres
 
 (Cambia el [Username] por el de tu cuenta de GitHub)
 ```
