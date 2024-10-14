@@ -1,4 +1,4 @@
-# miEPG   v1.3
+# miEPG   v1.4
 
 Utilizando Github Actions para generar un xml a partir de otro, pudiendo modificar el nombre y el logo de cada canal
 
