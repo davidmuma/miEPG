@@ -1,4 +1,6 @@
-# miEPG   v1.4 (Corregido problema nombres con parentesis y fallo con los logos vacios)
+# miEPG   v1.4
+
+(Corregido problema nombres con parentesis y fallo con los logos vacios)
 
 Utilizando Github Actions para generar un xml a partir de otro, pudiendo modificar el nombre y el logo de cada canal
 
