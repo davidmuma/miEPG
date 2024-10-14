@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/10/2024 14:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/10/2024 21:58" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -15,6 +15,10 @@
   <channel id="MX | Canal TV Azteca">
     <display-name>MX | Canal TV Azteca</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" />
+  </channel>
+  <channel id="ESPN USA">
+    <display-name>ESPN USA</display-name>
+    <icon src="https://i.imgur.com/ZY71cCY.png" />
   </channel>
   <programme start="20241014080000 +0200" stop="20241014104000 +0200" channel="La 1 Super UHD 4k">
 	<title lang="es">La hora de La 1: La hora de la actualidad T7 E26</title>
@@ -51,7 +55,7 @@
   <programme start="20241014150000 +0200" stop="20241014155000 +0200" channel="La 1 Super UHD 4k">
 	<title lang="es">Telediario 1</title>
 	<desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1229.
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1230.
 
 · País: España
 · Presenta: Alejandra Herranz.
@@ -91,7 +95,7 @@
   </programme>
   <programme start="20241014183000 +0200" stop="20241014193000 +0200" channel="La 1 Super UHD 4k">
 	<title lang="es">Valle Salvaje T1 E21</title>
-	<desc lang="es">Series/Telenovela | 2024 | +16
+	<desc lang="es">Series/Telenovela | 2024 | +12
 · Bárbara sorprende a Adriana con el nuevo rumbo que tomará su vida después de la boda. Quien también sorprende a la joven es Rafael al contarle la verdad sobre el collar que Julio le ha regalado. Mientras, Alejo, dolido el rechazo de su tía, se lo hace pagar a Luisa.
 
 · País: España
@@ -265,7 +269,7 @@
 · Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20241015202200 +0200" stop="20241015225000 +0200" channel="La 1 Super UHD 4k">
-	<title lang="es">DIRECTO Jornada 4: España - Serbia T24/25 · UEFA Nations League</title>
+	<title lang="es">UEFA Nations League T24/25 · Jornada 4: España - Serbia</title>
 	<desc lang="es">Deportes/Fútbol | 2024 | *8.0/10
 · La Nations League disputa su cuarta edición. La fase de grupos, con 55 selecciones participantes, se inicia el 5 de septiembre de 2024 y la fase final se disputará en junio de 2025. La selección española defiende el título cosechado ante Croacia. Votos: 1.
 </desc>
@@ -1133,7 +1137,7 @@
   <programme start="20241014163000 +0200" stop="20241014171500 +0200" channel="La 2 Super Full HD 8k">
 	<title lang="es">La vida secreta de los canguros · De la bolsa al primer salto</title>
 	<desc lang="es">Documentales/Naturaleza | 2015 | TP | *6.0/10
-· Acompáñanos al hemisferio sur para conocer la vida familiar de los canguros, desde sus sombrosos embarazos múltiples hasta los primeros saltos. Votos: 115.
+· Acompáñanos al hemisferio sur para conocer la vida familiar de los canguros, desde sus sombrosos embarazos múltiples hasta los primeros saltos. Votos: 116.
 
 · Título original: Secret Life of the...: From Pouch to Foot
 · País: Australia
@@ -1175,8 +1179,8 @@
   </programme>
   <programme start="20241014204000 +0200" stop="20241014213000 +0200" channel="La 2 Super Full HD 8k">
 	<title lang="es">Reformas estraordinarias de George Clarke T3 · Barbería. Buckinghamshire</title>
-	<desc lang="es">Ocio y Aficiones/Bricolaje | 2024 | TP
-· Rollo y Olivia han decidido cambiar la vida de la ciudad por las ondulantes colinas de Chiltern y han comprado una antigua barbería y un edificio anexo del siglo XVII en Amersham. Esta peluquería está catalogada como Grado II y lleva funcionando más de 100 años.
+	<desc lang="es">Ocio y Aficiones/Bricolaje | 2024 | TP | *2.0/10
+· Rollo y Olivia han decidido cambiar la vida de la ciudad por las ondulantes colinas de Chiltern y han comprado una antigua barbería y un edificio anexo del siglo XVII en Amersham. Esta peluquería está catalogada como Grado II y lleva funcionando más de 100 años. Votos: 1.
 
 · País: R.U.
 · Presenta: George Clarke.</desc>
@@ -2811,138 +2815,6 @@
 · Dirección: Mara Peterssen, Lurdes Martín.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20241013194500 +0000" stop="20241013213000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Lila y Eva</title>
-    <desc lang="en">Dos madres buscan justicia tras las muertes de sus hijos.</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20241013213000 +0000" stop="20241013232000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Sin límites</title>
-    <desc lang="en">Eddie Morris, un escritor en busca de inspiración, decide probar una nueva droga llamada NZT que le permite aprovechar su potencial intelectual por completo. Al tomar la droga, la vida de Eddie se transforma con cada impulso nervioso, él es capaz de recordar al instante todo lo que oye, ve y lee. Puede aprender un nuevo idioma en solo un día, entender ecuaciones matemáticas complejas y encantar a cada persona que encuentra, pero solo si sigue tomando la droga.</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20241013232000 +0000" stop="20241014010000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Paralelos</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20241014010000 +0000" stop="20241014031000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Aliados</title>
-    <desc lang="en">La Segunda Guerra Mundial está en pleno curso. En 1942 un agente de los Aliados se enamora de una oficial francesa durante una peligrosa misión en el norte de África. Sin embargo, todo cambia cuando le informan que la mujer, con la que luego se ha casado y ha tenido un hijo, es probablemente una espía nazi.</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20241014031000 +0000" stop="20241014050000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Snatch: Cerdos y diamantes</title>
-    <desc lang="en">Varios personajes luchan para localizar un diamante robado que no tiene precio.</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20241014050000 +0000" stop="20241014055000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Rosario Tijeras</title>
-    <desc lang="en">Durante la fiesta del barrio, el Ángel canta la canción que compuso para Rubí; y Laura anuncia su embarazo en frente de todos. Rodríguez le dice al padre de Bravo que su hijo tortura a las personas que interroga. Géminis entra a la casa de Dylan por la ventana, y escucha su conversación con Pamela.</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20241014055000 +0000" stop="20241014064000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Rosario Tijeras</title>
-    <desc lang="en">El Ángel enfurece a Laura al terminar su relación de negocios. Bravo y el equipo de policías van tras Dylan e inspeccionan su casa. Más tarde, el agente encuentra pacas de dinero en un saco de boxeo. Iriarte le comparte la nueva primicia a Martina: Dylan participó en la fuga del Ángel.</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20241014064000 +0000" stop="20241014073000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Rosario Tijeras</title>
-    <desc lang="en">Toxina captura a Rosario y Rubí. El Ángel encuentra a Laura y Gregory in fraganti y les da un ultimátum. Sin embargo, Laura le dice a Gregory que nunca lo ha querido, y él le cae a golpes. El Ángel interviene y le dispara. Los oficiales encuentran el cuerpo de Don Pacho y Chamizo en un río.</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20241014073000 +0000" stop="20241014081500 +0000" channel="MX | A&amp;E">
-    <title lang="en">Intervención</title>
-    <desc lang="en">En 2018, se estima que más de 70.000 estadounidenses murieron por sobredosis de opioides.</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20241014081500 +0000" stop="20241014090000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Intervención</title>
-    <desc lang="en">Después del arresto de Bill,.</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20241014090000 +0000" stop="20241014094500 +0000" channel="MX | A&amp;E">
-    <title lang="en">Adicción digital</title>
-    <sub-title lang="en">Steffanie y Matthew</sub-title>
-    <desc lang="en">Steffanie, de 33 años, está tan traumatizada por su pasado que solo se siente segura en línea.</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20241014094500 +0000" stop="20241014103000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Adicción digital</title>
-    <sub-title lang="en">Joceyln y Nicholas</sub-title>
-    <desc lang="en">Jocelyn, de 29 años, sueña con ser famosa en Instagram y su familia ignora completamente su adicción a la red social.</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20241014103000 +0000" stop="20241014120000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Acumuladores compulsivos</title>
-    <desc lang="en">De chica, Lori se emocionaba comprando cosas. Pero al crecer, su casa se volvió inhabitable y acabó con su relación. Ella encontró consuelo en las compras en línea, pero a costa del futuro de su hijo. Ahora, con la ayuda del equipo, Lori intentará limpiar su vida, por su bien y el de su familia. (Repeat).</desc>
-    <date>2024</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20241014120000 +0000" stop="20241014133500 +0000" channel="MX | A&amp;E">
-    <title lang="en">Acumuladores compulsivos</title>
-    <desc lang="en">David y Elizabeth han acumulado toda la vida. Su adicción a las compras por TV casi les hace perder la casa repleta de artículos sin abrir y ratones. Ahora el médico de Elizabeth amenaza con denunciarlos, pero David cree que es una broma. ¿Podrán desprenderse de sus cosas y mantenerse unidos? (Repeat).</desc>
-    <date>2024</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20241014133500 +0000" stop="20241014142000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Las primeras 48: minutos criticos</title>
-    <sub-title lang="en">Lugar equivocado, momento equivocado</sub-title>
-    <desc lang="en">3 casos con víctimas que estaban en el lugar equivocado en el momento equivocado. En Tulsa.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241014142000 +0000" stop="20241014150500 +0000" channel="MX | A&amp;E">
-    <title lang="en">Las primeras 48: minutos criticos</title>
-    <sub-title lang="en">Motivos impactantes</sub-title>
-    <desc lang="en">Repasamos 3 casos con motivos desconcertantes. En Tulsa.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241014150500 +0000" stop="20241014155000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Las primeras 48: minutos criticos</title>
-    <sub-title lang="en">Los profesionales</sub-title>
-    <desc lang="en">Repasamos 3 casos donde detectives veteranos muestran sus habilidades. En Dallas.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241014155000 +0000" stop="20241014163500 +0000" channel="MX | A&amp;E">
-    <title lang="en">Las primeras 48: minutos criticos</title>
-    <sub-title lang="en">En el nombre del amor</sub-title>
-    <desc lang="en">Examinamos 3 homicidios cometidos en nombre del amor. En Dallas.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241014163500 +0000" stop="20241014172000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Las primeras 48: minutos criticos</title>
-    <sub-title lang="en">Negocios inconclusos</sub-title>
-    <desc lang="en">Repasamos 3 casos de asesinato motivados por la venganza y el resentimiento.</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20241014172000 +0000" stop="20241014190000 +0000" channel="MX | A&amp;E">
-    <title lang="en">Lila y Eva</title>
-    <desc lang="en">Dos madres buscan justicia tras las muertes de sus hijos.</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20241014190000 +0000" stop="20241014211000 +0000" channel="MX | A&amp;E">
     <title lang="en">El expreso del miedo</title>
     <desc lang="en">Los últimos supervivientes sobre la Tierra se encuentran encerrados a bordo de un tren que circula sin descanso alrededor de un planeta congelado, luego de un cataclismo climático sucedido en el año 2031. En el tren hay dos clases sociales claramente diferenciadas, pero el descontento lleva a la revuelta.</desc>
@@ -3268,58 +3140,818 @@
     <desc lang="en">Tang Lung llega a Roma para ayudar a Chen, una amiga de la familia, que está siendo amenazada por unos gangsters locales que quieren apropiarse de su restaurante.</desc>
     <date>1972</date>
   </programme>
-  <programme start="20241013010000 -0600" stop="20241013020000 -0600" channel="MX | Canal TV Azteca">
+  <programme start="20241017005000 +0000" stop="20241017030000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Rocky 1</title>
+    <desc lang="en">Rocky Balboa es un humilde boxeador en el que nadie cree. Se le presenta una gran oportunidad.</desc>
+    <date>1976</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241017030000 +0000" stop="20241017035000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Rosario Tijeras</title>
+    <desc lang="en">Esta es la historia de la legendaria Rosario Tijeras, una hermosa guerrera proveniente de uno de los barrios más pobres y peligrosos de Colombia. (New).</desc>
+    <date>2016</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017035000 +0000" stop="20241017044000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Rosario Tijeras</title>
+    <desc lang="en">Esta es la historia de la legendaria Rosario Tijeras, una hermosa guerrera proveniente de uno de los barrios más pobres y peligrosos de Colombia. (New).</desc>
+    <date>2016</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017044000 +0000" stop="20241017053000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los asesinatos de una viuda negra</title>
+    <desc lang="en">(New).</desc>
+    <date>2023</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241017053000 +0000" stop="20241017062000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los asesinatos de una viuda negra</title>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017062000 +0000" stop="20241017084500 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los hombres libres de Jones</title>
+    <desc lang="en">Durante la Guerra Civil de los Estados Unidos, unos humildes agricultores comandados por el emblemático Newton Knight armaron una épica rebelión contra los Confederados, de quienes lograron separarse para poder crear el Estado libre de Jones. Junto a pequeños productores y varios esclavos, este hombre se puso al frente de un levantamiento que llevó al condado de Mississippi a separarse de la Confederación. Luego dejó su vida por la reconstrucción de esta tierra, arrasada por el conflicto armado.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20241017084500 +0000" stop="20241017102000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Acumuladores compulsivos</title>
+    <desc lang="en">Coral es profesora, artista y herborista. Su casa está repleta de arte, instrumentos musicales. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241017102000 +0000" stop="20241017111000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Acusado: Culpable o inocente</title>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241017111000 +0000" stop="20241017120000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Acusado: Culpable o inocente</title>
+    <desc lang="en">'Acusado: ¿culpable o inocente?' cubrió por primera vez el caso de Angel Bumpass en la entrega titulada '¿Asesino de caso sin resolver o adolescente inocente?' que se emitió el 12 de mayo de 2020. En 2020, Angel Bumpass fue condenada por el asesinato en 2009 de Franklin Bonner, de 68 años, que terminó mal.</desc>
+    <date>2023</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20241017120000 +0000" stop="20241017122500 +0000" channel="MX | A&amp;E">
+    <title lang="en">Mi extraño arresto</title>
+    <desc lang="en">Un aspirante a rapero es arrestado después de actuar en lo alto de un anuncio publicitario.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017122500 +0000" stop="20241017135000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Acumuladores compulsivos</title>
+    <desc lang="en">En este episodio especial volvemos a visitar Destiny en Carolina del Norte y Terri en Missouri con los expertos de Hoarders, el Dr. Robin Zasio y Dorothy Breininger, quienes ofrecen su invaluable orientación y apoyo a estas personas en su viaje hacia la recuperación. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241017135000 +0000" stop="20241017143500 +0000" channel="MX | A&amp;E">
+    <title lang="en">Incriminado por el asesino</title>
+    <sub-title lang="en">Hombre de familia incriminado</sub-title>
+    <desc lang="en">Cuando la familia de un bombero es asesinada, él es acusado por el verdadero asesino.</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017143500 +0000" stop="20241017152000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Incriminado por el asesino</title>
+    <sub-title lang="en">Culto sexual</sub-title>
+    <desc lang="en">Los investigadores se encuentran con un brutal asesinato perpetrado durante un engañoso culto sexual.</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017152000 +0000" stop="20241017160500 +0000" channel="MX | A&amp;E">
+    <title lang="en">Orígenes de un crimen</title>
+    <sub-title lang="en">Arthur Shawcross: El asesino del río Genesee</sub-title>
+    <desc lang="en">El asesino en serie Arthur Shawcross cuenta un montón de historias sobre su vida antes de empezar a matar. Abusos, zoofilia, canibalismo... pero, ¿es cierto algo de eso? Y si no, ¿qué moldeó su trayectoria de "Artie Bicho Raro" a asesino? Puede que se le conociera por matar mujeres a lo largo del río Genesee de Rochester, pero su primer asesinato fue años antes y la culminación de años de oscuras fantasías.</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20241017160500 +0000" stop="20241017165000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Orígenes de un crimen</title>
+    <sub-title lang="en">Henry Louis Wallace: Henry el Malo</sub-title>
+    <desc lang="en">Alguien está matando a jóvenes afroamericanas en Charlotte, Carolina del Norte, y la policía parece incapaz de detenerlo. Lo que la policía no sabe es que todos los casos tienen algo en común: una conexión con Henry Louis Wallace.</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017165000 +0000" stop="20241017191500 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los hombres libres de Jones</title>
+    <desc lang="en">Durante la Guerra Civil de los Estados Unidos, unos humildes agricultores comandados por el emblemático Newton Knight armaron una épica rebelión contra los Confederados, de quienes lograron separarse para poder crear el Estado libre de Jones. Junto a pequeños productores y varios esclavos, este hombre se puso al frente de un levantamiento que llevó al condado de Mississippi a separarse de la Confederación. Luego dejó su vida por la reconstrucción de esta tierra, arrasada por el conflicto armado.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20241017191500 +0000" stop="20241017210000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Misión secreta</title>
+    <desc lang="en">Un ex agente de la CIA y un novato del FBI unen fuerzas para investigar el asesinato de un senador. Todas las pistas apuntan hacia un despiadado asesino soviético que ha eludido a las autoridades durantes décadas.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20241017210000 +0000" stop="20241017215000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los asesinatos de una viuda negra</title>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017215000 +0000" stop="20241017224000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Los asesinatos de una viuda negra</title>
+    <date>2023</date>
+  </programme>
+  <programme start="20241017224000 +0000" stop="20241018005000 +0000" channel="MX | A&amp;E">
+    <title lang="en">Rocky 1</title>
+    <desc lang="en">Rocky Balboa es un humilde boxeador en el que nadie cree. Se le presenta una gran oportunidad.</desc>
+    <date>1976</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241014010000 -0600" stop="20241014020000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Lo que la gente cuenta</title>
   </programme>
-  <programme start="20241013020000 -0600" stop="20241013030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241013030000 -0600" stop="20241013040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241013040000 -0600" stop="20241013050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241013050000 -0600" stop="20241013060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241013060000 -0600" stop="20241013070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241013070000 -0600" stop="20241013080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241013080000 -0600" stop="20241013090000 -0600" channel="MX | Canal TV Azteca">
+  <programme start="20241014020000 -0600" stop="20241014030000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Rutas de la Vida</title>
   </programme>
-  <programme start="20241013090000 -0600" stop="20241013100000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos Domingo</title>
+  <programme start="20241014030000 -0600" stop="20241014040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
   </programme>
-  <programme start="20241013100000 -0600" stop="20241013120000 -0600" channel="MX | Canal TV Azteca">
+  <programme start="20241014040000 -0600" stop="20241014050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20241014050000 -0600" stop="20241014060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20241014060000 -0600" stop="20241014070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20241014070000 -0600" stop="20241014080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20241014080000 -0600" stop="20241014090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos A.M</title>
+  </programme>
+  <programme start="20241014090000 -0600" stop="20241014100000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20241014100000 -0600" stop="20241014120000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20241013120000 -0600" stop="20241013140000 -0600" channel="MX | Canal TV Azteca">
+  <programme start="20241014120000 -0600" stop="20241014140000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20241013140000 -0600" stop="20241013150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
+  <programme start="20241014140000 -0600" stop="20241014150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
-  <programme start="20241013150000 -0600" stop="20241013160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
+  <programme start="20241014150000 -0600" stop="20241014160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20241013160000 -0600" stop="20241013170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241013170000 -0600" stop="20241013180000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241013180000 -0600" stop="20241013190000 -0600" channel="MX | Canal TV Azteca">
+  <programme start="20241014160000 -0600" stop="20241014170000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20241014170000 -0600" stop="20241014183000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20241014183000 -0600" stop="20241014204500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20241013070000 +0000" stop="20241013080000 +0000" channel="ESPN USA">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">A comprehensive college football wrap-up, plus a look at major storylines heading into next week. (Repeat).</desc>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241013080000 +0000" stop="20241013083000 +0000" channel="ESPN USA">
+    <title lang="en">NFL Matchup</title>
+    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+    <credits>
+      <presenter>Sal Paolantonio</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241013083000 +0000" stop="20241013103000 +0000" channel="ESPN USA">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Florida at Tennessee</sub-title>
+    <desc lang="en">Florida (3-2, 1-1 SEC) at Tennessee (4-1, 1-1). From Neyland Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20241013103000 +0000" stop="20241013110000 +0000" channel="ESPN USA">
+    <title lang="en">NFL Matchup</title>
+    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+    <credits>
+      <presenter>Sal Paolantonio</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241013110000 +0000" stop="20241013120000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -3</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013120000 +0000" stop="20241013130000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -4</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013130000 +0000" stop="20241013140000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -5</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013140000 +0000" stop="20241013170000 +0000" channel="ESPN USA">
+    <title lang="en">Sunday NFL Countdown</title>
+    <desc lang="en">Mike Greenberg hosts an in-depth preview of the day&apos;s pro football, blending studio analysis, features and on-site reports. Randy Moss, Rex Ryan, Tedy Bruschi, Alex Smith, reporter Adam Schefter and betting analyst Erin Dolan round out the studio cast. (Live).</desc>
+    <credits>
+      <presenter>Suzy Kolber</presenter>
+      <presenter>Samantha Ponder</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013170000 +0000" stop="20241013190000 +0000" channel="ESPN USA">
+    <title lang="en">Women&apos;s College Volleyball</title>
+    <sub-title lang="en">Texas at Kentucky</sub-title>
+    <desc lang="en">Texas at Kentucky. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20241013190000 +0000" stop="20241013200000 +0000" channel="ESPN USA">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Killer Instinct</sub-title>
+    <desc lang="en">Indiana and Milwaukee square off in a heated First Round matchup. Making his playoff debut, All-Star Tyrese Haliburton is out to prove he has what it takes to lead the Pacers. Standing in his way is the Buck&apos;s Patrick Beverley. Back in his hometown of Chicago, Beverley details what made him a relentless player. Meanwhile, the Celtics finished with the best regular season record in the league, but questions linger about their championship pedigree. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme start="20241013200000 +0000" stop="20241013210000 +0000" channel="ESPN USA">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Hunter vs Hunted</sub-title>
+    <desc lang="en">The defending champion Nuggets hope to repeat, but teams such as the Timberwolves are built to beat them. In the Western Conference Semifinals these combatants battle in an epic 7-game series. The pressure is intense for the Nuggets&apos; Jamal Murray and the Cavs&apos; Donovan Mitchell to sustain their reputations as elite playoff performers. Expectations are high in Boston where unproven second-year coach Joe Mazzulla is determined to show he&apos;s worthy of leading this storied franchise. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013210000 +0000" stop="20241013220000 +0000" channel="ESPN USA">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Make Your Name</sub-title>
+    <desc lang="en">NBA history has shown that you can&apos;t win a title with superstars alone. As the conference semifinals continue, key contributors such as the Knicks&apos; Josh Hart, the Pacers&apos; T.J. McConnell and Mavericks&apos; PJ Washington are determined to help their teams advance. Whether it is grabbing a big rebound, running the fastbreak or &quot;standing on business&quot;, these role players are looking to rise to the occasion and bring their respective franchises closer to Championship glory. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241013220000 +0000" stop="20241014003000 +0000" channel="ESPN USA">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Minnesota Timberwolves at New York Knicks</sub-title>
+    <desc lang="en">Minnesota Timberwolves at New York Knicks. From Madison Square Garden. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014003000 +0000" stop="20241014030000 +0000" channel="ESPN USA">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Phoenix Suns at Denver Nuggets</sub-title>
+    <desc lang="en">Phoenix Suns at Denver Nuggets. From Ball Arena. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014030000 +0000" stop="20241014033000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -6</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014033000 +0000" stop="20241014050000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">10-13-2024</sub-title>
+    <desc lang="en">Scott Van Pelt hosts ESPN&apos;s signature news and highlights show, with interviews and unique segments including &apos;Senior Night,&apos; to recognize high-school and college athletes. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014050000 +0000" stop="20241014060000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -1</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014060000 +0000" stop="20241014070000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014070000 +0000" stop="20241014080000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241014080000 +0000" stop="20241014100000 +0000" channel="ESPN USA">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Kansas State at Colorado</sub-title>
+    <desc lang="en">Kansas State (4-1, 1-1 Big 12) at Colorado (4-1, 2-0). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20241014100000 +0000" stop="20241014110000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241014110000 +0000" stop="20241014120000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -3</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014120000 +0000" stop="20241014140000 +0000" channel="ESPN USA">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E202</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014140000 +0000" stop="20241014160000 +0000" channel="ESPN USA">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014160000 +0000" stop="20241014180000 +0000" channel="ESPN USA">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241014180000 +0000" stop="20241014190000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -4</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014190000 +0000" stop="20241014210000 +0000" channel="ESPN USA">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014210000 +0000" stop="20241014213000 +0000" channel="ESPN USA">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E177</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014213000 +0000" stop="20241014220000 +0000" channel="ESPN USA">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E177</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241014220000 +0000" stop="20241015000000 +0000" channel="ESPN USA">
+    <title lang="en">Monday Night Countdown</title>
+    <desc lang="en">Scott Van Pelt hosts a comprehensive preview of the NFL&apos;s weekly finale, featuring studio analysis and on-site reports, plus a weekend recap. Ryan Clark, Marcus Spears, Jason Kelce, reporter Adam Schefter and Michelle Beisner-Buck round out the cast. (Live).</desc>
+    <credits>
+      <commentator>Rick Reilly</commentator>
+      <presenter>Suzy Kolber</presenter>
+      <presenter>Stuart Scott</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015000000 +0000" stop="20241015001500 +0000" channel="ESPN USA">
+    <title lang="en">Monday Night Kickoff</title>
+    <desc lang="en">Previewing the upcoming Monday Night Football game, with on-field interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015001500 +0000" stop="20241015031500 +0000" channel="ESPN USA">
+    <title lang="en">Monday Night Football</title>
+    <sub-title lang="en">Buffalo Bills at New York Jets</sub-title>
+    <desc lang="en">Buffalo Bills (3-2) at New York Jets (2-3). From MetLife Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015031500 +0000" stop="20241015033000 +0000" channel="ESPN USA">
+    <title lang="en">Monday Night Postgame</title>
+    <desc lang="en">Interviews and analysis wrapping up Monday Night Football coverage. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015033000 +0000" stop="20241015043000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Scott Van Pelt hosts ESPN&apos;s signature news and highlights show, with interviews and unique segments including &apos;Senior Night,&apos; to recognize high-school and college athletes. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015043000 +0000" stop="20241015053000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -1</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015053000 +0000" stop="20241015063000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015063000 +0000" stop="20241015073000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241015073000 +0000" stop="20241015083000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241015083000 +0000" stop="20241015090000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241015090000 +0000" stop="20241015100000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241015100000 +0000" stop="20241015110000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241015110000 +0000" stop="20241015120000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -3</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="ESPN USA">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E203</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015140000 +0000" stop="20241015160000 +0000" channel="ESPN USA">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015160000 +0000" stop="20241015180000 +0000" channel="ESPN USA">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241015180000 +0000" stop="20241015190000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -4</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015190000 +0000" stop="20241015200000 +0000" channel="ESPN USA">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015200000 +0000" stop="20241015210000 +0000" channel="ESPN USA">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015210000 +0000" stop="20241015213000 +0000" channel="ESPN USA">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E178</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015213000 +0000" stop="20241015220000 +0000" channel="ESPN USA">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E178</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015220000 +0000" stop="20241015230000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -5</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015230000 +0000" stop="20241015233000 +0000" channel="ESPN USA">
+    <title lang="en">CFP Rankings Show</title>
+    <desc lang="en">(Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015233000 +0000" stop="20241016020000 +0000" channel="ESPN USA">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Minnesota Wild at St. Louis Blues</sub-title>
+    <desc lang="en">Minnesota Wild at St. Louis Blues. From Enterprise Center. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016020000 +0000" stop="20241016043000 +0000" channel="ESPN USA">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
+    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016043000 +0000" stop="20241016053000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -1</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016053000 +0000" stop="20241016063000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016063000 +0000" stop="20241016073000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241016073000 +0000" stop="20241016080000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241016080000 +0000" stop="20241016100000 +0000" channel="ESPN USA">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
+    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241016100000 +0000" stop="20241016110000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -3</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="ESPN USA">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan&apos;s South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E204</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="ESPN USA">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016160000 +0000" stop="20241016180000 +0000" channel="ESPN USA">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20241016180000 +0000" stop="20241016190000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -4</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016190000 +0000" stop="20241016200000 +0000" channel="ESPN USA">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016200000 +0000" stop="20241016210000 +0000" channel="ESPN USA">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016210000 +0000" stop="20241016213000 +0000" channel="ESPN USA">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E179</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016213000 +0000" stop="20241016220000 +0000" channel="ESPN USA">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen &apos;rundown&apos; of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E179</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016220000 +0000" stop="20241016230000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -5</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016230000 +0000" stop="20241016233000 +0000" channel="ESPN USA">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -6</sub-title>
+    <desc lang="en">ESPN&apos;s flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016233000 +0000" stop="20241017000000 +0000" channel="ESPN USA">
+    <title lang="en">WNBA Countdown</title>
+    <desc lang="en">Women&apos;s National Basketball Association game previews, news, features and discussion. (Live).</desc>
+    <premiere lang="en" />
   </programme>
 </tv>
