@@ -1,4 +1,4 @@
-# miEPG   v2.0
+# miEPG   v2.1
 
 El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre y el logo en cada canal
 
@@ -7,7 +7,7 @@ El script se ejecuta todos los días a las 13:30
 ***
 - Modifica el fichero epgs.txt con las urls de la EPGs de origen
 
-Si se encuentran canales con el mismo nombre en las distintas EPGs, solo se añadirá la primera coicidencia (la primera url tiene prioridad sobre la segunda, y así sucesivamente) 
+Si se encuentran canales con el mismo nombre en las distintas EPGs, solo se añadirá la primera coicidencia (la primera EPG tiene prioridad sobre la segunda, y así sucesivamente) 
 
 - Modifica el fichero canales.txt con los canales que desees y sus nombres
 
