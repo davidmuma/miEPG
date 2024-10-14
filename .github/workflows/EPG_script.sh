@@ -11,7 +11,7 @@ rm -f EPG_temp*
 		if [ $extension = "gz" ]; then
 			echo Descargando y descomprimiendo epg
 			wget -O EPG_temp.xml.gz -q ${epg}
-      		gzip -d -f EPG_temp.xml.gz
+      			gzip -d -f EPG_temp.xml.gz
 	  	else
 			echo Descargando epg
 			wget -O EPG_temp.xml -q ${epg}
@@ -31,16 +31,16 @@ rm -f EPG_temp*
 	 			echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
 				sed -i "s#<channel id=.*#<channel id=\"${new}\">#" EPG_temp01.xml
 				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
-    			sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
+    				sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
 				sed -i "3i\    <icon src=\"${logo}\" \/>" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
       		else
 				echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
-      			sed -i "s#<channel id=.*#<channel id=\"${new}\">#" EPG_temp01.xml
+      				sed -i "s#<channel id=.*#<channel id=\"${new}\">#" EPG_temp01.xml
 				sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
   				echo '  </channel>' >> EPG_temp01.xml
    			fi
-      		cat EPG_temp01.xml >> EPG_temp1.xml
+      			cat EPG_temp01.xml >> EPG_temp1.xml
 			sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 
 			sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
