@@ -42,10 +42,10 @@ rm -f EPG_temp*
 			sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 
 			sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
+   			sed -i '/<programme/ s/.$//g' EPG_temp02.xml
 			sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml		
 			sed -i "/<programme/ a EPG_temp channel=\"${new}\">" EPG_temp02.xml
-			sed -i ':a;N;$!ba;s/\nEPG_temp/EPG_temp/g' EPG_temp02.xml
-			sed -i 's#>EPG_temp##g' EPG_temp02.xml
+			sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
 			cat EPG_temp02.xml >> EPG_temp2.xml
 		else
 			echo Saltando canal: $old ··· $contar_channel coincidencias
