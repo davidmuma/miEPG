@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 10/12/2024 11:31" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 11/12/2024 11:30" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -7,10 +7,6 @@
   <channel id="La 2 Super Full HD 8k">
     <display-name>La 2 Super Full HD 8k</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
-  </channel>
-  <channel id="MX | Canal TV Azteca">
-    <display-name>MX | Canal TV Azteca</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" />
   </channel>
   <channel id="USA | AMC+">
     <display-name>USA | AMC+</display-name>
@@ -24,167 +20,22 @@
     <display-name>Eleven Sports 2 Polonia</display-name>
     <icon src="http://epg.ovh/logo/Eleven+Sports+2.png" />
   </channel>
-  <programme start="20241210060000 +0100" stop="20241210080000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 597.
-· País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.</desc>
-  </programme>
-  <programme start="20241210080000 +0100" stop="20241210104000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La hora de La 1: La hora de la actualidad T7 E67</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | +16
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20241210104000 +0100" stop="20241210140000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Mañaneros T2 E77</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | +16
-· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20241210140000 +0100" stop="20241210141000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 403.
-</desc>
-  </programme>
-  <programme start="20241210141000 +0100" stop="20241210150000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Extra mañaneros T1 E42</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | +16
-· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
-· País: España
-· Presenta: Adela González, Alberto Herrera.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20241210150000 +0100" stop="20241210155000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1249.
-· País: España
-· Presenta: Alejandra Herranz.</desc>
-  </programme>
-  <programme start="20241210155000 +0100" stop="20241210161500 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 42.
-</desc>
-  </programme>
-  <programme start="20241210161500 +0100" stop="20241210163000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1201.
-· País: España</desc>
-  </programme>
-  <programme start="20241210163000 +0100" stop="20241210173000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Salón de té La Moderna T1 E296</title>
-    <desc lang="es">Series/Drama | 2023 | +12
-· Iván le exige a César la venta del Madrid Cabaret, advirtiéndole que, de no cumplir, le revelará la verdad a su padre. Por último, Pietro sufre un desvanecimiento en el zulo.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
-  </programme>
-  <programme start="20241210173000 +0100" stop="20241210183000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La Promesa T1 E481</title>
-    <desc lang="es">Series/Drama | 2022 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20241210183000 +0100" stop="20241210193000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Valle Salvaje T1 E52</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16
-· Adriana se enfrenta a Rafael por su agresión a Domingo, decepcionada por su violenta actitud. Irene rompe las defensas de su padre antes de una cena familiar en la que explotará la tensión entre los Gálvez de Aguirre y parece acabar en tragedia.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20241210193000 +0100" stop="20241210203000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">El cazador T8 E486</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Presenta: Rodrigo Vázquez.
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20241210203000 +0100" stop="20241210210000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *8.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 11.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20241210210000 +0100" stop="20241210214000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1228.
-· País: España
-· Presenta: Marta Carazo, Ana Roldán.</desc>
-  </programme>
-  <programme start="20241210214000 +0100" stop="20241210225000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La revuelta T1 E53</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20241210225000 +0100" stop="20241211010000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">El puente de los espías</title>
-    <desc lang="es">Cine/Thriller | 2015 | +12 | *8.0/10
-· 1957. En plena Guerra Fría, tanto Estados Unidos como la Unión Soviética temen la capacidad nuclear y las intenciones de su rival. Ambas partes despliegan espías y tratan de dar caza a los del enemigo. Votos: 2724.
-· Título original: Bridge of Spies
-· País: Alemania, EE.UU. e India
-· Dirección: Steven Spielberg.
-· Reparto: Tom Hanks, Mark Rylance, Scott Shepherd, Amy Ryan, Sebastian Koch, Alan Alda, Austin Stowell, Mikhail Gorevoy, Will Rogers.
-· Guion: Joel Coen, Ethan Coen, Matt Charman.
-· Música: Thomas Newman.
-· Producción: Steven Spielberg, Marc Platt, Kristie Macosko Krieger.
-· Productora: Amblin Entertainment, DreamWorks SKG, Fox 2000 Pictures, Marc Platt Productions, Participant Media, Reliance Entertainment, TSG Entertainment, Studio Babelsberg.</desc>
-  </programme>
-  <programme start="20241211010000 +0100" stop="20241211023000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Tonio y Julia: Sin pretextos</title>
-    <desc lang="es">Cine/Drama | 2018 | +12 | *6.0/10
-· Julia necesita un cambio en su vida y decide regresar a Baviera para trabajar como terapeuta familiar en la iglesia ayudando al pastor Tonio, con quien mantuvo una relación en el pasado. Votos: 17.
-· País: Alemania
-· Dirección: Kathrin Feistl.
-· Reparto: Eisi Gulp, Charlotte Schwab, Maximilian Grill, Dietrich Adam, Lara Mandoki, Oona-Devi Liebich.
-· Guion: Katja Kittendorf.
-· Productora: Studio.TV.Film.</desc>
-  </programme>
-  <programme start="20241211023000 +0100" stop="20241211050000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *10.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20241211050000 +0100" stop="20241211060000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1891.
-· País: España</desc>
-  </programme>
   <programme start="20241211060000 +0100" stop="20241211080000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+    <desc lang="es">Información/Informativo | 2023 | TP | *6.0/10
 · Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 597.
 · País: España
 · Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.</desc>
   </programme>
   <programme start="20241211080000 +0100" stop="20241211104000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La hora de La 1: La hora de la actualidad T7 E63</title>
+    <title lang="es">La hora de La 1: La hora de la actualidad T7</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20241211104000 +0100" stop="20241211140000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Mañaneros T2 E73</title>
+    <title lang="es">Mañaneros T2</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16
 · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
@@ -198,7 +49,7 @@
 </desc>
   </programme>
   <programme start="20241211141000 +0100" stop="20241211150000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Extra mañaneros T1 E38</title>
+    <title lang="es">Extra mañaneros T1</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16
 · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
 · País: España
@@ -208,7 +59,7 @@
   <programme start="20241211150000 +0100" stop="20241211155000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 1</title>
     <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1247.
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1249.
 · País: España
 · Presenta: Alejandra Herranz.</desc>
   </programme>
@@ -220,14 +71,14 @@
   </programme>
   <programme start="20241211161500 +0100" stop="20241211163000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Información/Meteorología | 2014 | TP | *6.0/10
+    <desc lang="es">Información/Meteorología | 2014 | *6.0/10
 · Información sobre la previsión meteorológica de TVE. Votos: 1201.
 · País: España</desc>
   </programme>
   <programme start="20241211163000 +0100" stop="20241211173000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Salón de té La Moderna T1 E293</title>
-    <desc lang="es">Series/Drama | 2023 | +12
-· Paula y Rodrigo sabrán que al ser hermanos no pueden seguir con su relación.
+    <title lang="es">Salón de té La Moderna T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
+· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 14.
 · País: España
 · Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
 · Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
@@ -250,29 +101,29 @@
 · Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20241211193000 +0100" stop="20241211203000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">El cazador T8 E484</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+    <title lang="es">El cazador T8</title>
+    <desc lang="es">Entretenimiento/Concurso | 2022 | TP | *6.0/10
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'. Votos: 28.
 · País: España
 · Presenta: Rodrigo Vázquez.
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+· Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20241211203000 +0100" stop="20241211210000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 10.
+    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *8.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 11.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20241211210000 +0100" stop="20241211214000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1227.
+    <desc lang="es">Información/Informativo | 2021 | TP | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1228.
 · País: España
 · Presenta: Marta Carazo, Ana Roldán.</desc>
   </programme>
   <programme start="20241211214000 +0100" stop="20241211225000 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">La revuelta T1 E50</title>
+    <title lang="es">La revuelta T1 E54</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | +12
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
@@ -280,18 +131,17 @@
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
   <programme start="20241211225000 +0100" stop="20241211234200 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Detective Touré T1 E5 · Chimamanda</title>
-    <desc lang="es">Series/Drama | 2024 | +12
-· Touré une fuerzas con Etxebe para atrapar a Kareem, capo de la mafia nigeriana. Para conseguirlo, el detective se infiltrará en una peluquería afro frecuentada por Chimamanda y otras mujeres que están bajo el yugo del mafioso.
+    <title lang="es">Detective Touré T1</title>
+    <desc lang="es">Series/Drama | 2024 | +16 | *8.0/10
+· Mahamoud Touré es un inmigrante guineano asentado en la capital vizcaína. Votos: 1.
 · País: España
 · Reparto: Ane Gabaraín, Unax Ugalde, Itziar Ituño, Loreto Mauleón, Itsaso Arana, Malcolm Treviño-Sitté.
 · Productora: Tornasol Films, Deaplaneta.</desc>
   </programme>
   <programme start="20241211234200 +0100" stop="20241212003500 +0100" channel="La 1 Super UHD 4k">
-    <title lang="es">Detective Touré T1 E4 · Vaya noche</title>
-    <desc lang="es">Series/Drama | 2024 | +16 | *10.0/10
-· Abdel, compañero de piso de Touré, es el principal sospechoso de un asesinato. Votos: 4.
-· Título original: Detective Touré (T1): Ep.4 A Ze Gaua
+    <title lang="es">Detective Touré T1</title>
+    <desc lang="es">Series/Drama | 2024 | +16 | *8.0/10
+· Mahamoud Touré es un inmigrante guineano asentado en la capital vizcaína. Votos: 1.
 · País: España
 · Reparto: Ane Gabaraín, Unax Ugalde, Itziar Ituño, Loreto Mauleón, Itsaso Arana, Malcolm Treviño-Sitté.
 · Productora: Tornasol Films, Deaplaneta.</desc>
@@ -914,268 +764,6 @@
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 3.
 · País: España</desc>
   </programme>
-  <programme start="20241210053500 +0100" stop="20241210063000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La aventura del saber</title>
-    <desc lang="es">Cultural/Educativo/Programa cultural | 2024 | TP | *8.0/10
-· Entrevistas y series documentales educativas sobre cultura y sociedad. Votos: 14.
-· Título original: La aventura del Saber
-· País: España
-· Presenta: Mara Peterssen, Fede Cardelús.</desc>
-  </programme>
-  <programme start="20241210063000 +0100" stop="20241210064500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">That's English T24/25 E53</title>
-    <desc lang="es">Cultural/Educativo/Idiomas | 2024 | TP
-· Programa divulgativo que ofrece un curso de inglés a distancia.
-· País: España
-· Dirección: Andrew Morgan.</desc>
-  </programme>
-  <programme start="20241210064500 +0100" stop="20241210070000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">That's English T24/25 E54</title>
-    <desc lang="es">Cultural/Educativo/Idiomas | 2024 | TP
-· Programa divulgativo que ofrece un curso de inglés a distancia.
-· País: España
-· Dirección: Andrew Morgan.</desc>
-  </programme>
-  <programme start="20241210070000 +0100" stop="20241210072500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Inglés Online T24/25 E42</title>
-    <desc lang="es">Cultural/Educativo/Idiomas | 2024 | TP
-· Curso de inglés de Televisión Española para hisponoparlantes.
-· País: España</desc>
-  </programme>
-  <programme start="20241210072500 +0100" stop="20241210080000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">De seda y hierro: Sin límites</title>
-    <desc lang="es">Documentales/Biografía | 2024 | TP
-· Espacio de historias emocionantes sobre discapacidad y dependencia.
-</desc>
-  </programme>
-  <programme start="20241210080000 +0100" stop="20241210085000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Cuatro estaciones en el reino del oso panda: Aprender en libertad · Aprenentatge en llibertat</title>
-    <desc lang="es">Documentales/Naturaleza | 2022 | TP
-· Por primera vez, un equipo ha filmado a dos familias de osos panda en su hábitat natural en las grandes reservas de Sichuan y de Shaanxi al suroeste de China, durante cinco años, en todas las estaciones y en diferentes momentos de sus vidas.
-· Título original: Four Seasons in the...: Ep.2
-· País: Canadá
-· Dirección: Philippe Molins.
-· Productora: Ushuaïa TV, Compagnie Industrielle et Commerciale Cinématographique (CICC), Télé-Québec, CICC.</desc>
-  </programme>
-  <programme start="20241210085000 +0100" stop="20241210093000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Agrosfera T24/25 E729</title>
-    <desc lang="es">Información/Sociedad | 2024 | TP
-· Espacio informativo sobre el campo, la pesca y la ganadería de España. Esta producción refleja todas las noticias institucionales que surgen tanto en el ámbito nacional como en el internacional, especialmente de las que llegan de Bruselas.
-· Dirección: Sergio Gómez Muñoz.</desc>
-  </programme>
-  <programme start="20241210093000 +0100" stop="20241210095500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Aquí hay trabajo</title>
-    <desc lang="es">Información/Magacín | 2024 | TP
-· Programa sobre el empleo, la seguridad y la última hora del mercado laboral.
-· País: España
-· Presenta: Antolín Romero, María José Molina.</desc>
-  </programme>
-  <programme start="20241210095500 +0100" stop="20241210105500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La aventura del saber</title>
-    <desc lang="es">Cultural/Educativo/Programa cultural | 2024 | TP | *8.0/10
-· Entrevistas y series documentales educativas sobre cultura y sociedad. Votos: 14.
-· Título original: La aventura del Saber
-· País: España
-· Presenta: Mara Peterssen, Fede Cardelús.</desc>
-  </programme>
-  <programme start="20241210105500 +0100" stop="20241210114500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">De la fábrica al consumidor · El Coche</title>
-    <desc lang="es">Documentales/Ciencia tecnología | 2024 | TP
-· La creación de un coche, desde las materias primas hasta el concesionario, es un viaje sumamente complejo y caro. Una odisea posible solo gracias a las cadenas de suministro de las que depende ya nuestro mundo globalizado.
-· Título original: From the Factory to...: The Car</desc>
-  </programme>
-  <programme start="20241210114500 +0100" stop="20241210121500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">80 cm T2 · Valle de Arán</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2016 | TP | *6.0/10
-· Programa de senderismo por la geografía española conducido por Juanjo Ballesta. En cada entrega, el actor recorre una senda diferente, donde se cruzará con todo tipo de gente y realizará actividades relacionadas con la naturaleza. Votos: 16.
-· País: España
-· Presenta: Juan José Ballesta.</desc>
-  </programme>
-  <programme start="20241210121500 +0100" stop="20241210124500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Diario de un nómada: Expedición Trajano · La Tabula Traiana</title>
-    <desc lang="es">Documentales/Viajes | 2022 | TP
-· Buscamos la Tabula Traiana, una gran losa tallada en la pared de roca del desfiladero de las puertas de Hierro en el Danubio. Fue colocada en el año 103 para conmemorar el paso del río por las legiones de Trajano.
-· País: España
-· Presenta: Miquel Silvestre.</desc>
-  </programme>
-  <programme start="20241210124500 +0100" stop="20241210132000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Diario de un nómada: Expedición Trajano · El Teatro romano de Plovdiv</title>
-    <desc lang="es">Documentales/Viajes | 2022 | TP
-· Plovdiv es una antigua ciudad romana de la actual Bulgaria en la Via Militaris de Roma a Bizancio y alberga todavía hoy un fenomenal legado imperial: el teatro romano, ubicado en el corazón del casco viejo de la ciudad.
-· País: España
-· Presenta: Miquel Silvestre.</desc>
-  </programme>
-  <programme start="20241210132000 +0100" stop="20241210145500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La diligencia 2</title>
-    <desc lang="es">Cine/Oeste | 1986 | +12 | *6.0/10
-· Versión del clásico del wéstern en que un grupo de pecualiares personajes emprenden un largo e incómodo viaje en diligencia, a través del viejo oeste. Los encontronazos entre ellos son inevitables. Votos: 44.
-· País: EE.UU.
-· Dirección: Ted Post.
-· Reparto: Kris Kristofferson, John Schneider, Willie Nelson, Johnny Cash, Waylon Jennings.
-· Guion: James Lee Barrett.
-· Productora: Heritage Entertainment, Inc, Raymond Katz Production.</desc>
-  </programme>
-  <programme start="20241210145500 +0100" stop="20241210154500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Un país para comérselo: Gipuzkoa. Los amigos de Robin</title>
-    <desc lang="es">Documentales/Gastronomía | 2011 | TP | *6.0/10
-· Hondarribia es el punto de partida de este viaje por la geografía vasca y sus productos, un recorrido que comienza en torno a la anchoa y varios pinchos preparados con ellas por Bixente Muñoz. Votos: 37.
-· País: España
-· Dirección: Irene Arzuaga.</desc>
-  </programme>
-  <programme start="20241210154500 +0100" stop="20241210163000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Saber y ganar T2024 E229</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí.
-· País: España
-· Presenta: Jordi Hurtado.
-· Dirección: Sergi Schaaff.
-· Productora: Quart.</desc>
-  </programme>
-  <programme start="20241210163000 +0100" stop="20241210172300 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La Antártida desde el aire · Mares del sur</title>
-    <desc lang="es">Documentales/Naturaleza | 2021 | TP | *6.0/10
-· En la franja septentrional de la Antártida, las islas Auckland, Campbell y Macquarie albergan paisajes únicos e impresionantes, repletos de una fauna perfectamente adaptada. Votos: 6.
-· País: Alemania
-· Dirección: Tuan Lam.</desc>
-  </programme>
-  <programme start="20241210172300 +0100" stop="20241210181000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">El Coyote: El Segundon De Yellowstone</title>
-    <desc lang="es">Documentales/Naturaleza | 2021 | +7
-· Los coyotes fueron los principales cánidos del Parque Yellowstone hasta que los lobos regresaron en 1995. Desde entonces, el coyote se ha convertido en el "Segundón de Yellowstone". A pesar de ello, el coyote ha logrado sobrevivir.
-· País: EE.UU.
-· Dirección: Bob Landis.
-· Productora: Trailwood Films.</desc>
-  </programme>
-  <programme start="20241210181000 +0100" stop="20241210190500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La cara oculta de los nobel</title>
-    <desc lang="es">Documentales/Actualidad | 2023 | TP | *2.0/10
-· El periodista Xavi Ayén se adentra en los archivos de los Premios Nobel de Literatura para descubrir todos los entresijos del principal acontecimiento literario del año. Votos: 1.
-· País: España
-· Dirección: Xavi Ayén.</desc>
-  </programme>
-  <programme start="20241210190500 +0100" stop="20241210192800 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Viajando con celebrities: Viena</title>
-    <desc lang="es">Documentales/Viajes | 2016 | TP
-· Richard y Chris O'Dowd ("The IT Crowd") disfrutan de una estancia de 48 horas en Viena.
-· País: R.U.
-· Presenta: Richard Ayoade.</desc>
-  </programme>
-  <programme start="20241210192800 +0100" stop="20241210195500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Travel Man: 48 Hours In… · Dublín</title>
-    <desc lang="es">Documentales/Viajes | 2023 | TP
-· El presentador Joe Lycett junto con el actor británico Mawaan Rizwan visitan Dublín.
-· País: R.U.
-· Presenta: Richard Ayoade.
-· Productora: North One Television.</desc>
-  </programme>
-  <programme start="20241210195500 +0100" stop="20241210203000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Culturas 2 T3 · Culturas 3</title>
-    <desc lang="es">Ocio y Aficiones/Espectáculo | 2024 | TP
-· Espacio que trata de reflejar la actualidad, con el objetivo de captar las tendencias culturales, las líneas de pensamiento que van vertebrando la sociedad que construimos.
-· País: España
-· Presenta: Tània Sàrrias.</desc>
-  </programme>
-  <programme start="20241210203000 +0100" stop="20241210210000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Diario de un nómada: Expedición Trajano · Estratonikea</title>
-    <desc lang="es">Documentales/Viajes | 2022 | TP
-· Miquel Silvestre se dirige hacia otra fastuosa ciudad grecolatina de nombre Estratonikea.
-· País: España
-· Presenta: Miquel Silvestre.</desc>
-  </programme>
-  <programme start="20241210210000 +0100" stop="20241210213000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Diario de un nómada: Expedición Trajano · Afrodisias</title>
-    <desc lang="es">Documentales/Viajes | 2022 | TP
-· Miquel Silvestre sigue recorriendo las carreteras de Anatolia y ha entrado en la antigua región histórica de la Caria para dirigirse a una ciudad mítica: Afrodisias.
-· País: España
-· Presenta: Miquel Silvestre.</desc>
-  </programme>
-  <programme start="20241210213000 +0100" stop="20241210220000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Cifras y letras T2 E180</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
-· País: España
-· Presenta: Aitor Albizua.
-· Productora: Radio Televisión Española (RTVE).</desc>
-  </programme>
-  <programme start="20241210220000 +0100" stop="20241210225500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Órbita Laika T10 · Nuestro mejor amigo</title>
-    <desc lang="es">Cultural/Educativo/Programa cultural | 2024 | TP
-· Desvelamos cómo los perros evolucionaron desde los lobos.
-· País: España
-· Presenta: Eduardo Sáenz de Cabezón.
-· Productora: Radio Televisión Española (RTVE), Fundación Española para la Ciencia y la Tecnología (FECYT).</desc>
-  </programme>
-  <programme start="20241210225500 +0100" stop="20241211000000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Late Xou con Marc Giró T2 E10</title>
-    <desc lang="es">Entretenimiento/Late Night | 2024 | +12
-· Marc Giró entrevista al actor Quim Gutiérrez, que presenta su nueva película "Al otro barrio". La segunda invitada es Mónica López, que se sienta en el sofá del programa tras ganar el Ondas a mejor actriz. Además, regresa Yolanda Ramos.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20241211000000 +0100" stop="20241211004500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La bola de cristal, 40º aniversario E10</title>
-    <desc lang="es">Documentales/Historia | 2024 | TP
-· Las mejores entregas del programa infantil que marcó a varias generaciones. Personajes del mundo de la cultura y de la televisión han querido sumarse a este homenaje, contando anécdotas y recordando a sus personajes favoritos.
-· País: España</desc>
-  </programme>
-  <programme start="20241211004500 +0100" stop="20241211011500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Zoom tendencias</title>
-    <desc lang="es">Ocio y Aficiones/Ocio y cultura | 2017 | TP | *6.0/10
-· Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa. Votos: 188.
-· País: España</desc>
-  </programme>
-  <programme start="20241211011500 +0100" stop="20241211014500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Conciertos de Radio-3 T24/25 · Soleado</title>
-    <desc lang="es">Música/Concierto | 2024 | +7
-· Soleado es el proyecto que une a Ester Rodríguez y a Juanma Latorre. Juntos han creado un cancionero muy especial lleno de luz, electrónica y folk.
-· País: España
-· Dirección: Tomás Fernando Flores.</desc>
-  </programme>
-  <programme start="20241211014500 +0100" stop="20241211024000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Los secretos del Monte Olimpo</title>
-    <desc lang="es">Cine/Cine documental | 2023 | TP
-· Un grupo de científicos busca una explicación racional a los acontecimientos que dieron origen a los mitos, mediante la exploración de la parte más alta del Monte Olimpo.
-· Título original: Les secrets du mont Olympe
-· País: Francia
-· Dirección: Anne Viry-Babel.
-· Productora: ARTE, Centre National du Cinéma et de L'image Animée (CNC).</desc>
-  </programme>
-  <programme start="20241211024000 +0100" stop="20241211032500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La gran aventura en tren de Nick Knowles · Perú</title>
-    <desc lang="es">Documentales/Viajes | 2023 | TP
-· En Perú Nick Knowles da un impresionante paseo en barco por el lago Titicaca hasta las islas flotantes de los Uros.
-· Título original: Amazing Railway...: Peru
-· País: R.U.
-· Presenta: Nick Knowles.</desc>
-  </programme>
-  <programme start="20241211032500 +0100" stop="20241211041000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">El maravilloso Tirol: Montañas, milagros y medallas</title>
-    <desc lang="es">Documentales/Naturaleza | 2019 | TP
-· Las empinadas laderas de los Montes del Karwendel continúan protegiendo y preservando una naturaleza alpina singular como han hecho durante millones de años.
-· País: Alemania
-· Dirección: Manfred Corrine.</desc>
-  </programme>
-  <programme start="20241211041000 +0100" stop="20241211050500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Fauna ibérica: La gran cadena</title>
-    <desc lang="es">Documentales/Naturaleza | 2024 | TP
-· Esta serie pretende mostrar aspectos desconocidos de la fauna ibérica: las relaciones ecológicas, el comportamiento, los problemas y la conservación.
-· País: España
-· Dirección: Alberto Jose Redondo Villa.</desc>
-  </programme>
-  <programme start="20241211050500 +0100" stop="20241211052500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">80 cm T2 · Aire y fuego (El Hierro II)</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2016 | TP | *8.0/10
-· Programa de senderismo por la geografía española conducido por Juanjo Ballesta. En cada entrega, el actor recorre una senda diferente, donde se cruzará con todo tipo de gente y realizará actividades relacionadas con la naturaleza. Votos: 22.
-· País: España
-· Presenta: Juan José Ballesta.</desc>
-  </programme>
-  <programme start="20241211052500 +0100" stop="20241211053000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La 2 express</title>
-    <desc lang="es">Entretenimiento | 2019 | *6.0/10
-· En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 91.
-· País: España</desc>
-  </programme>
   <programme start="20241211053000 +0100" stop="20241211063000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">La aventura del saber</title>
     <desc lang="es">Cultural/Educativo/Programa cultural | 2024 | TP | *8.0/10
@@ -1217,7 +805,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241211081000 +0100" stop="20241211090000 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">La cebra afortunada · La zebra afortunada</title>
+    <title lang="es">La cebra afortunada</title>
     <desc lang="es">Documentales/Naturaleza | 2019 | TP | *2.0/10
 · En la naturaleza, están los herbívoros a quienes nada sonríe de inmediato y otros a quienes les va mejor como a la cebra afortunada. Así se le llama a este pequeño macho que, a lo largo de su vida, disfrutará de una estrella de la suerte. Votos: 1.
 · Título original: The lucky zebra
@@ -1278,6 +866,7 @@
     <title lang="es">Django desafía a Sartana</title>
     <desc lang="es">Cine/Oeste | 1970 | +12 | *6.0/10
 · Django descubre que su hermano Steve ha sido linchado. Creyendo que el culpable es Sartana, lo reta a duelo pero se descubre que el verdadero autor del delito es una importante figura local. Votos: 48.
+· Título original: Django sfida Sartana
 · País: Italia
 · Dirección: Pasquale Squitieri.
 · Reparto: Tony Kendall, George Ardisson, José Torres, Bernard Farber, Adler Gray, Salvatore Billa.
@@ -1302,20 +891,23 @@
   </programme>
   <programme start="20241211163000 +0100" stop="20241211172000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Grandes documentales</title>
-    <desc lang="es">Documentales
-· Sin detalles...
-</desc>
+    <desc lang="es">Documentales/Naturaleza | TP | *6.0/10
+· Espacio que recoge series documentales de todo el mundo. Votos: 200.
+· País: España</desc>
   </programme>
   <programme start="20241211172000 +0100" stop="20241211181000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Animal Einsteins</title>
-    <desc lang="es">Documentales
-· Sin detalles...
-</desc>
+    <desc lang="es">Documentales/Naturaleza | 2021 | TP | *6.0/10
+· Los animales pueden ser más inteligentes de lo que imaginamos. En este documental de BBC Earth descubrimos animales increíbles y sus sorprendentes talentos y habilidades. Votos: 45.
+· Título original: Chris Packham's Animal Einsteins
+· País: R.U.
+· Presenta: Alan Alda, Chris Packham.</desc>
   </programme>
   <programme start="20241211181000 +0100" stop="20241211190500 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">James Webb: el telescopio definitivo</title>
     <desc lang="es">Documentales/Ciencia tecnología | 2022 | TP | *8.0/10
 · Lanzado con éxito el 25 de diciembre de 2021, el telescopio espacial James Webb es el observatorio más ambicioso jamás construido. Este documental muestra cómo los ingenieros de la NASA lo construyeron y presenta las primeras imágenes que ha enviado. Votos: 70.
+· Título original: Ultimate Space Telescope
 · País: EE.UU.
 · Dirección: Terri Randall.
 · Guion: Terri Randall.</desc>
@@ -1324,7 +916,8 @@
     <title lang="es">Gala del Comité Olímpico Español</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Gala en la que se reconoce y premia a los atletas más destacados del deporte español. Este evento sirve para poner en valor el esfuerzo que han llevado a cabo todos los deportistas durante todo el año.
-· País: España</desc>
+· País: España
+· Presenta: Juan Carlos Rivero, Mónica Martínez.</desc>
   </programme>
   <programme start="20241211203500 +0100" stop="20241211210500 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Diario de un nómada: Expedición Trajano</title>
@@ -1350,7 +943,7 @@
   </programme>
   <programme start="20241211220000 +0100" stop="20241211224800 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Documaster</title>
-    <desc lang="es">Documentales/Documental | 2015 | +7 | *6.0/10
+    <desc lang="es">Documentales/Documental | 2015 | TP | *6.0/10
 · Espacio semanal que cada viernes ofrece el estreno de series documentales cuya temática gira en torno a la cultura, la historia y la ciencia. Votos: 149.
 </desc>
   </programme>
@@ -2606,672 +2199,6 @@
 · Breves reseñas dedicadas a los distintos ámbitos de la excelencia italiana, entre ellos la moda, el diseño, la cultura, el arte, el territorio, la gastronomía y mucho más.
 · País: Italia</desc>
   </programme>
-  <programme start="20241209010000 -0600" stop="20241209020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241209020000 -0600" stop="20241209030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241209030000 -0600" stop="20241209040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241209040000 -0600" stop="20241209050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241209050000 -0600" stop="20241209060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241209060000 -0600" stop="20241209070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241209070000 -0600" stop="20241209080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20241209080000 -0600" stop="20241209090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos</title>
-  </programme>
-  <programme start="20241209090000 -0600" stop="20241209110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241209110000 -0600" stop="20241209130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241209130000 -0600" stop="20241209140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20241209140000 -0600" stop="20241209150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20241209150000 -0600" stop="20241209160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241209160000 -0600" stop="20241209173000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20241209173000 -0600" stop="20241209193000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20241209193000 -0600" stop="20241209200000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo mejor - Al extremo</title>
-  </programme>
-  <programme start="20241209200000 -0600" stop="20241209213000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Así en el barrio como en el cielo</title>
-  </programme>
-  <programme start="20241209213000 -0600" stop="20241209223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nada Personal</title>
-    <desc lang="es">Nada Personal es una serie que trae Discovery Channel para Latinoamérica donde asesinos a sueldo son contratados para matar sin piedad.La serie tipo documental Nada Personal es presentada por Steve Schirippa, conocido por la serie de mafiosos “Los Soprano”. En este programa se verán historias verídicas de asesinatos hechos por contrato.En cada capítulo de la serie, se narra la historia de un trabajo profesional que trata de cómo se contacta, las instrucciones dadas al asesino para llevar a cabo las peticiones del cliente.</desc>
-    <date>2011</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg" />
-  </programme>
-  <programme start="20241209223000 -0600" stop="20241209233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20241209233000 -0600" stop="20241210010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241210010000 -0600" stop="20241210020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241210020000 -0600" stop="20241210030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241210030000 -0600" stop="20241210040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241210040000 -0600" stop="20241210050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241210050000 -0600" stop="20241210060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241210060000 -0600" stop="20241210070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241210070000 -0600" stop="20241210080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20241210080000 -0600" stop="20241210090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos</title>
-  </programme>
-  <programme start="20241210090000 -0600" stop="20241210110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241210110000 -0600" stop="20241210130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241210130000 -0600" stop="20241210140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20241210140000 -0600" stop="20241210150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20241210150000 -0600" stop="20241210160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241210160000 -0600" stop="20241210173000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20241210173000 -0600" stop="20241210193000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20241210193000 -0600" stop="20241210200000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo mejor - Al extremo</title>
-  </programme>
-  <programme start="20241210200000 -0600" stop="20241210213000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Así en el barrio como en el cielo</title>
-  </programme>
-  <programme start="20241210213000 -0600" stop="20241210223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nada Personal</title>
-    <desc lang="es">Nada Personal es una serie que trae Discovery Channel para Latinoamérica donde asesinos a sueldo son contratados para matar sin piedad.La serie tipo documental Nada Personal es presentada por Steve Schirippa, conocido por la serie de mafiosos “Los Soprano”. En este programa se verán historias verídicas de asesinatos hechos por contrato.En cada capítulo de la serie, se narra la historia de un trabajo profesional que trata de cómo se contacta, las instrucciones dadas al asesino para llevar a cabo las peticiones del cliente.</desc>
-    <date>2011</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg" />
-  </programme>
-  <programme start="20241210223000 -0600" stop="20241210233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20241210233000 -0600" stop="20241211010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241211010000 -0600" stop="20241211020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241211020000 -0600" stop="20241211030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20241211030000 -0600" stop="20241211040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20241211040000 -0600" stop="20241211050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241211050000 -0600" stop="20241211060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241211060000 -0600" stop="20241211070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241211070000 -0600" stop="20241211080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20241211080000 -0600" stop="20241211090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos</title>
-  </programme>
-  <programme start="20241211090000 -0600" stop="20241211110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241211110000 -0600" stop="20241211130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20241211130000 -0600" stop="20241211140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20241211140000 -0600" stop="20241211150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20241211150000 -0600" stop="20241211160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20241211160000 -0600" stop="20241211173000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20241211173000 -0600" stop="20241211193000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20241209060000 -0500" stop="20241209064800 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Red Sun, Silver Moon</sub-title>
-    <desc lang="en">Sunny and Bajie meet a dangerous foe who knows Sunny; the Widow prepares for a showdown; MK learns a secret.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209064800 -0500" stop="20241209073500 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Palm of the Iron Fox</sub-title>
-    <desc lang="en">The Widow&apos;s fight for power lands her in a showdown with her enemies, who have joined forces against her; an old threat resurfaces.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209073500 -0500" stop="20241209082300 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Monkey Leaps Through Mist</sub-title>
-    <desc lang="en">Sunny and Bajie get help from an unlikely source, for a price; the Widow considers a risk; MK enacts a dangerous plan.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209082300 -0500" stop="20241209091100 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Leopard Stalks in Snow</sub-title>
-    <desc lang="en">Sunny and Bajie meet a friend, but must also confront an enemy from their past; the Widow makes an unholy alliance.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209091100 -0500" stop="20241209095700 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Black Heart, White Mountain</sub-title>
-    <desc lang="en">Sunny confronts his inner demons, and his friends try to help; the Widow exacts revenge on her enemies.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209095700 -0500" stop="20241209104400 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Sting of the Scorpion&apos;s Tail</sub-title>
-    <desc lang="en">Sunny plays a game which causes his friends to question his loyalty; the Widow discovers the existence of a new weapon.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209104400 -0500" stop="20241209113100 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Nightingale Sings No More</sub-title>
-    <desc lang="en">Sunny relies on an unlikely person for help in defeating a foe; Bajie learns a shocking secret from his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209113100 -0500" stop="20241209121900 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Wolf&apos;s Breath, Dragon Fire</sub-title>
-    <desc lang="en">Sunny faces the toughest showdown of his life; Bajie&apos;s loyalties are tested to their limits.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209121900 -0500" stop="20241209130700 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Tiger Pushes Mountain</sub-title>
-    <desc lang="en">Sunny finds a new foe and a new, unexpected ally; MK learns more about his gift in a mysterious place.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209130700 -0500" stop="20241209135500 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Force of Eagle&apos;s Claw</sub-title>
-    <desc lang="en">Sunny and Bajie struggle to stay alive; the Widow consolidates her power in the face of challenges; MK learns secrets about his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209135500 -0500" stop="20241209144300 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Red Sun, Silver Moon</sub-title>
-    <desc lang="en">Sunny and Bajie meet a dangerous foe who knows Sunny; the Widow prepares for a showdown; MK learns a secret.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209144300 -0500" stop="20241209153000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Palm of the Iron Fox</sub-title>
-    <desc lang="en">The Widow&apos;s fight for power lands her in a showdown with her enemies, who have joined forces against her; an old threat resurfaces.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209153000 -0500" stop="20241209161500 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Monkey Leaps Through Mist</sub-title>
-    <desc lang="en">Sunny and Bajie get help from an unlikely source, for a price; the Widow considers a risk; MK enacts a dangerous plan.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209161500 -0500" stop="20241209170000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Leopard Stalks in Snow</sub-title>
-    <desc lang="en">Sunny and Bajie meet a friend, but must also confront an enemy from their past; the Widow makes an unholy alliance.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209170000 -0500" stop="20241209174500 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Black Heart, White Mountain</sub-title>
-    <desc lang="en">Sunny confronts his inner demons, and his friends try to help; the Widow exacts revenge on her enemies.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209174500 -0500" stop="20241209183000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Sting of the Scorpion&apos;s Tail</sub-title>
-    <desc lang="en">Sunny plays a game which causes his friends to question his loyalty; the Widow discovers the existence of a new weapon.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209183000 -0500" stop="20241209191500 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Nightingale Sings No More</sub-title>
-    <desc lang="en">Sunny relies on an unlikely person for help in defeating a foe; Bajie learns a shocking secret from his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209191500 -0500" stop="20241209200000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Wolf&apos;s Breath, Dragon Fire</sub-title>
-    <desc lang="en">Sunny faces the toughest showdown of his life; Bajie&apos;s loyalties are tested to their limits.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209200000 -0500" stop="20241209204600 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Tiger Pushes Mountain</sub-title>
-    <desc lang="en">Sunny finds a new foe and a new, unexpected ally; MK learns more about his gift in a mysterious place.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209204600 -0500" stop="20241209213200 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Force of Eagle&apos;s Claw</sub-title>
-    <desc lang="en">Sunny and Bajie struggle to stay alive; the Widow consolidates her power in the face of challenges; MK learns secrets about his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209213200 -0500" stop="20241209221800 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Red Sun, Silver Moon</sub-title>
-    <desc lang="en">Sunny and Bajie meet a dangerous foe who knows Sunny; the Widow prepares for a showdown; MK learns a secret.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209221800 -0500" stop="20241209230400 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Palm of the Iron Fox</sub-title>
-    <desc lang="en">The Widow&apos;s fight for power lands her in a showdown with her enemies, who have joined forces against her; an old threat resurfaces.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209230400 -0500" stop="20241209235000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Monkey Leaps Through Mist</sub-title>
-    <desc lang="en">Sunny and Bajie get help from an unlikely source, for a price; the Widow considers a risk; MK enacts a dangerous plan.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241209235000 -0500" stop="20241210003600 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Leopard Stalks in Snow</sub-title>
-    <desc lang="en">Sunny and Bajie meet a friend, but must also confront an enemy from their past; the Widow makes an unholy alliance.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210003600 -0500" stop="20241210012100 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Black Heart, White Mountain</sub-title>
-    <desc lang="en">Sunny confronts his inner demons, and his friends try to help; the Widow exacts revenge on her enemies.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210012100 -0500" stop="20241210020700 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Sting of the Scorpion&apos;s Tail</sub-title>
-    <desc lang="en">Sunny plays a game which causes his friends to question his loyalty; the Widow discovers the existence of a new weapon.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210020700 -0500" stop="20241210025300 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Nightingale Sings No More</sub-title>
-    <desc lang="en">Sunny relies on an unlikely person for help in defeating a foe; Bajie learns a shocking secret from his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210025300 -0500" stop="20241210034100 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Wolf&apos;s Breath, Dragon Fire</sub-title>
-    <desc lang="en">Sunny faces the toughest showdown of his life; Bajie&apos;s loyalties are tested to their limits.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210034100 -0500" stop="20241210042900 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Tiger Pushes Mountain</sub-title>
-    <desc lang="en">Sunny finds a new foe and a new, unexpected ally; MK learns more about his gift in a mysterious place.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210042900 -0500" stop="20241210051700 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Force of Eagle&apos;s Claw</sub-title>
-    <desc lang="en">Sunny and Bajie struggle to stay alive; the Widow consolidates her power in the face of challenges; MK learns secrets about his past.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241210051700 -0500" stop="20241210060000 -0500" channel="USA | AMC+">
-    <title lang="en">Into the Badlands</title>
-    <sub-title lang="en">Red Sun, Silver Moon</sub-title>
-    <desc lang="en">Sunny and Bajie meet a dangerous foe who knows Sunny; the Widow prepares for a showdown; MK learns a secret.</desc>
-    <credits>
-      <actor>Daniel Wu</actor>
-      <actor>Aramis Knight</actor>
-      <actor>Ally Ioannides</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Sports</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
   <programme start="20241210060000 -0500" stop="20241210064400 -0500" channel="USA | AMC+">
     <title lang="en">True Crime Story</title>
     <sub-title lang="en">It Couldn&apos;t Happen Here: Atwater, Ohio</sub-title>
@@ -4315,117 +3242,163 @@
     </credits>
     <category lang="en">Drama</category>
     <previously-shown /></programme>
-  <programme start="20241209002500 +0100" stop="20241209010000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Joaquin</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+  <programme start="20241213051700 -0500" stop="20241213060000 -0500" channel="USA | AMC+">
+    <title lang="en">Shadow Lines</title>
+    <sub-title lang="en">Escape From Porkkala</sub-title>
+    <desc lang="en">The U.S. Embassy is conducting an investigation into the death of their CIA agent; Helena stands up against her godfather.</desc>
+    <credits>
+      <actor>Emmi Parviainen</actor>
+      <actor>Olavi Uusivirta</actor>
+      <actor>Sampo Sarkola</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme start="20241213060000 -0500" stop="20241213073500 -0500" channel="USA | AMC+">
+    <title lang="en">Ghostwatch</title>
+    <desc lang="en">A camera crew investigates the most haunted house in Britain.</desc>
+    <credits>
+      <actor>Gillian Bevan</actor>
+      <actor>Bríd Brennan</actor>
+      <actor>Michelle Wesson</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241213073500 -0500" stop="20241213092400 -0500" channel="USA | AMC+">
+    <title lang="en">Nightwatch</title>
+    <desc lang="en">The night watchman at a hospital morgue is haunted by grisly visions and deviant desires. When several local prostitutes are brutally murdered he becomes the primary suspect.</desc>
+    <credits>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Sofie Gråbøl</actor>
+      <actor>Kim Bodnia</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241213092400 -0500" stop="20241213111900 -0500" channel="USA | AMC+">
+    <title lang="en">Nightwatch - Demons Are Forever</title>
+    <desc lang="en">Martin&apos;s daughter, Emma, takes up a night watch job to figure out what happened to her parents almost thirty years ago; a meeting with Wörmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.</desc>
+    <credits>
+      <actor>Fanny Bornedal</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Kim Bodnia</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme start="20241213111900 -0500" stop="20241213124900 -0500" channel="USA | AMC+">
+    <title lang="en">Caveat</title>
+    <desc lang="en">A desperate drifter suffering from partial memory loss agrees to look after his landlord&apos;s psychologically troubled niece in an isolated island mansion.</desc>
+    <credits>
+      <actor>Ben Caplan</actor>
+      <actor>Conor Dwane</actor>
+      <actor>Jonathan French</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241213124900 -0500" stop="20241213144500 -0500" channel="USA | AMC+">
+    <title lang="en">Donnie Darko</title>
+    <desc lang="en">An unusual teenager (Jake Gyllenhaal) follows the instructions of the 6-foot-tall rabbit which saved his life.</desc>
+    <credits>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Jena Malone</actor>
+      <actor>Drew Barrymore</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241209010000 +0100" stop="20241209013500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Fernando Morientes</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+  <programme start="20241213144500 -0500" stop="20241213162100 -0500" channel="USA | AMC+">
+    <title lang="en">Halloween</title>
+    <desc lang="en">John Carpenter&apos;s chiller about an escaped maniac who returns to his Illinois hometown to continue his bloody rampage.</desc>
+    <credits>
+      <actor>Donald Pleasence</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Nancy Loomis</actor>
+    </credits>
+    <date>1978</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Hallowe&apos;en</category>
+    <category lang="en">Horror</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241209013500 +0100" stop="20241209020000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Wywiad Eleven</title>
-    <desc lang="pl">Dziennikarze przeprowadzają wywiady między innymi z popularnymi sportowcami.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984489.jpg" />
+  <programme start="20241213162100 -0500" stop="20241213180000 -0500" channel="USA | AMC+">
+    <title lang="en">Watcher</title>
+    <desc lang="en">As a serial killer stalks the city, a young actress who just moved to town with her boyfriend notices a mysterious stranger watching her from across the street.</desc>
+    <credits>
+      <actor>Maika Monroe</actor>
+      <actor>Karl Glusman</actor>
+      <actor>Burn Gorman</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20241209020000 +0100" stop="20241209030000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
-  </programme>
-  <programme start="20241209030000 +0100" stop="20241209050000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: Hellas Werona - Empoli FC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20241209050000 +0100" stop="20241209060000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
-  </programme>
-  <programme start="20241209060000 +0100" stop="20241209064000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">David Villa</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20241209064000 +0100" stop="20241209080000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Eleven Gol Live</title>
-    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
-  </programme>
-  <programme start="20241209080000 +0100" stop="20241209100000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: Atalanta BC - AC Milan</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5974654.jpg" />
-  </programme>
-  <programme start="20241209100000 +0100" stop="20241209120000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: AJ Auxerre - Paris Saint-Germain</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
-  </programme>
-  <programme start="20241209120000 +0100" stop="20241209140000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: Inter Mediolan - Parma Calcio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5882051.jpg" />
-  </programme>
-  <programme start="20241209140000 +0100" stop="20241209142500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Nacho - El Capitan</title>
-    <category lang="pl">serial dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984439.jpg" />
-  </programme>
-  <programme start="20241209142500 +0100" stop="20241209150000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Ligue1</title>
-    <desc lang="pl">Magazyn sportowy poświęcony rozgrywkom francuskiej Ligue 1. Prezentowane są w nim skróty wszystkich meczów minionego weekendu oraz bramki.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-    <episode-num system="onscreen">E14</episode-num>
-  </programme>
-  <programme start="20241209150000 +0100" stop="20241209160000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Serie A</title>
-    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi włoskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
-    <episode-num system="onscreen">E15</episode-num>
-  </programme>
-  <programme start="20241209160000 +0100" stop="20241209170000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga</title>
-    <desc lang="pl">Program poświęcony rozgrywkom LaLigi podsumowujący ostatnią kolejkę. Prezentowane są w nim skróty wszystkich meczów, ciekawe dane statyczne oraz wywiady z zawodnikami.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996830.jpg" />
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20241209170000 +0100" stop="20241209180000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Eleven Top Goals</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
-  </programme>
-  <programme start="20241209180000 +0100" stop="20241209200000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Real Betis Balompie - FC Barcelona</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6043804.jpg" />
-  </programme>
-  <programme start="20241209200000 +0100" stop="20241209204000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Fredéric Kanouté</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20241209204000 +0100" stop="20241209230000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: AC Monza - Udinese Calcio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20241209230000 +0100" stop="20241210000000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Eleven Top Goals</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
-  </programme>
+  <programme start="20241213180000 -0500" stop="20241213193000 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Presence</title>
+    <desc lang="en">A Christmas gathering between friends quickly becomes a violent fight for survival.</desc>
+    <credits>
+      <actor>Charlotte Atkinson</actor>
+      <actor>Elsie Bennett</actor>
+      <actor>Lorna Brown</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <previously-shown /></programme>
+  <programme start="20241213193000 -0500" stop="20241213210000 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Bloody Christmas</title>
+    <desc lang="en">Tori just wants to get drunk and party on Christmas Eve, but she&apos;s forced into a battle for survival when a robotic Santa Claus at a nearby toy store begins a killing spree in her small town.</desc>
+    <credits>
+      <actor>Riley Dandy</actor>
+      <actor>Sam Delich</actor>
+      <actor>Jonah Ray</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241213210000 -0500" stop="20241213231100 -0500" channel="USA | AMC+">
+    <title lang="en">The Last Drive-In With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <category lang="en">Performing Arts</category>
+    <previously-shown /></programme>
+  <programme start="20241213231100 -0500" stop="20241214011800 -0500" channel="USA | AMC+">
+    <title lang="en">The Last Drive-In With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <category lang="en">Performing Arts</category>
+    <previously-shown /></programme>
+  <programme start="20241214011800 -0500" stop="20241214033100 -0500" channel="USA | AMC+">
+    <title lang="en">The Last Drive-In With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <category lang="en">Performing Arts</category>
+    <previously-shown /></programme>
+  <programme start="20241214033100 -0500" stop="20241214053500 -0500" channel="USA | AMC+">
+    <title lang="en">The Last Drive-In With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <category lang="en">Performing Arts</category>
+    <previously-shown /></programme>
   <programme start="20241210000000 +0100" stop="20241210020000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Athletic Club - Villarreal CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5879892.jpg" />
@@ -5006,103 +3979,107 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3835574.jpg" />
   </programme>
-  <programme start="20241209000000 +0100" stop="20241209020000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Real Betis Balompie - FC Barcelona</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6043804.jpg" />
-  </programme>
-  <programme start="20241209020000 +0100" stop="20241209032000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Eleven Gol Live</title>
-    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
-  </programme>
-  <programme start="20241209032000 +0100" stop="20241209040000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Hugo Sanchez</title>
-    <desc lang="pl">Hugo Sanchez to symbol Realu Madryt drugiej połowy lat 80. Meksykanin był niezwykle skutecznym zawodnikiem - w sezonie 1989/1990 strzelił 38 goli i został najlepszym strzelcem Europy.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
-  </programme>
-  <programme start="20241209040000 +0100" stop="20241209060000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: SSC Napoli - SS Lazio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5960302.jpg" />
-  </programme>
-  <programme start="20241209060000 +0100" stop="20241209080000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: AS Monaco - Toulouse FC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
-  </programme>
-  <programme start="20241209080000 +0100" stop="20241209100000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Real Betis Balompie - FC Barcelona</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6043804.jpg" />
-  </programme>
-  <programme start="20241209100000 +0100" stop="20241209120000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: SSC Napoli - SS Lazio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5960302.jpg" />
-  </programme>
-  <programme start="20241209120000 +0100" stop="20241209124000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20241215004000 +0100" stop="20241215012000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Carlos Marchena</sub-title>
+    <sub-title lang="pl">Fernando Morientes</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20241209124000 +0100" stop="20241209140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20241215012000 +0100" stop="20241215020000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Ronaldo</title>
+    <desc lang="pl">Biografia Luisa Nazario de Limy. Piłkarski idol początkowo święcił triumfy w barwach FC Barcelony. Potem grał m.in. dla Realu Madryt. Ma w dorobku tytuł mistrza świata za wygranie mundialu w 2002 r.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20241215020000 +0100" stop="20241215030000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  </programme>
+  <programme start="20241215030000 +0100" stop="20241215050000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Empoli FC - Torino FC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215050000 +0100" stop="20241215060000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  </programme>
+  <programme start="20241215060000 +0100" stop="20241215064000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Jorge Valdano</title>
+    <desc lang="pl">Biografia Jorge Valdano, legendarnego piłkarza, który bronił barw Realu Madryt w latach 1984-1987. Jako zawodnik Królewskich Argentyńczyk dwukrotnie zdobywał mistrzostwo Hiszpanii.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20241215064000 +0100" stop="20241215080000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Gol Live</title>
     <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
-  <programme start="20241209140000 +0100" stop="20241209160000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Athletic Club - Villarreal CF</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5879892.jpg" />
+  <programme start="20241215080000 +0100" stop="20241215100000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Udinese Calcio - SSC Napoli</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20241209160000 +0100" stop="20241209180000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: Atalanta BC - AC Milan</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5974654.jpg" />
+  <programme start="20241215100000 +0100" stop="20241215120000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga francuska - mecz: Olympique Marsylia - Lille OSC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
-  <programme start="20241209180000 +0100" stop="20241209181500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20241215120000 +0100" stop="20241215122500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Historyczne momenty</title>
+    <sub-title lang="pl">Girondins de Bordeaux 2008/09</sub-title>
+    <category lang="pl">cykl reportaży</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
+  </programme>
+  <programme start="20241215122500 +0100" stop="20241215143500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: US Lecce - AC Monza</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215143500 +0100" stop="20241215145500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Tajemnice szatni</title>
     <sub-title lang="pl">Dante</sub-title>
     <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20241209181500 +0100" stop="20241209185000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Gaizka Mendieta</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
+  <programme start="20241215145500 +0100" stop="20241215170500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Bologna FC - ACF Fiorentina</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215170500 +0100" stop="20241215173000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">LaLiga Zap</title>
+    <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20241209185000 +0100" stop="20241209192500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Power</title>
+  <programme start="20241215173000 +0100" stop="20241215175500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215175500 +0100" stop="20241215200000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Como 1907 - AS Roma</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215200000 +0100" stop="20241215204000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215204000 +0100" stop="20241215224000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: AC Milan - Genoa CFC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5974654.jpg" />
+  </programme>
+  <programme start="20241215224000 +0100" stop="20241215230000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215230000 +0100" stop="20241216002000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Eleven Gol</title>
+    <desc lang="pl">W programie kompletny przegląd wydarzeń z ligi hiszpańskiej, włoskiej i francuskiej wraz z wynikami wszystkich spotkań i aktualnym stanem tabel.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-  </programme>
-  <programme start="20241209192500 +0100" stop="20241209200000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Joaquin</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20241209200000 +0100" stop="20241209205500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Eleven Top Goals</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
-  </programme>
-  <programme start="20241209205500 +0100" stop="20241209231000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Getafe CF - RCD Espanyol</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
-  </programme>
-  <programme start="20241209231000 +0100" stop="20241209235000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">David Villa</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20241209235000 +0100" stop="20241210000000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: Olympique Lyon - Olympique Marsylia</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3835574.jpg" />
   </programme>
   <programme start="20241210000000 +0100" stop="20241210020000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Piłka nożna: Liga francuska - mecz: AJ Auxerre - Paris Saint-Germain</title>
@@ -5641,6 +4618,100 @@
     <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20241215000000 +0100" stop="20241215020000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Rayo Vallecano - Real Madryt CF</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5873307.jpg" />
+  </programme>
+  <programme start="20241215020000 +0100" stop="20241215032000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Eleven Gol Live</title>
+    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
+  </programme>
+  <programme start="20241215032000 +0100" stop="20241215040000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Andoni Zubizarreta</title>
+    <desc lang="pl">Był symbolem hiszpańskiej piłki przełomu lat 80. i 90. Andoni Zubizarreta miał na koncie najwięcej występów w reprezentacji kraju. Rysą na jego karierze był błąd na mundialu w 1998 roku.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20241215040000 +0100" stop="20241215060000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Cagliari Calcio - Atalanta BC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20241215060000 +0100" stop="20241215063000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Legendy Ligue 1</title>
+    <desc lang="pl">W programie prezentowane są sylwetki piłkarzy, którzy zapisali się w historii francuskiej ekstraklasy piłkarskiej - Ligue 1. Kibice poznają historie zawodników o nieprzeciętnych umiejętnościach.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20241215063000 +0100" stop="20241215070000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Legendy Ligue 1</title>
+    <desc lang="pl">W programie prezentowane są sylwetki piłkarzy, którzy zapisali się w historii francuskiej ekstraklasy piłkarskiej - Ligue 1. Kibice poznają historie zawodników o nieprzeciętnych umiejętnościach.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20241215070000 +0100" stop="20241215073000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Legendy Ligue 1</title>
+    <desc lang="pl">W programie prezentowane są sylwetki piłkarzy, którzy zapisali się w historii francuskiej ekstraklasy piłkarskiej - Ligue 1. Kibice poznają historie zawodników o nieprzeciętnych umiejętnościach.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+  </programme>
+  <programme start="20241215073000 +0100" stop="20241215080000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Legendy Ligue 1</title>
+    <desc lang="pl">W programie prezentowane są sylwetki piłkarzy, którzy zapisali się w historii francuskiej ekstraklasy piłkarskiej - Ligue 1. Kibice poznają historie zawodników o nieprzeciętnych umiejętnościach.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20241215080000 +0100" stop="20241215100000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Rayo Vallecano - Real Madryt CF</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5873307.jpg" />
+  </programme>
+  <programme start="20241215100000 +0100" stop="20241215120000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Juventus FC - Venezia FC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5881221.jpg" />
+  </programme>
+  <programme start="20241215120000 +0100" stop="20241215132500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Eleven Gol Live</title>
+    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
+  </programme>
+  <programme start="20241215132500 +0100" stop="20241215135500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Zap</title>
+    <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20241215135500 +0100" stop="20241215161000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Atletico Madryt - Getafe CF</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  </programme>
+  <programme start="20241215161000 +0100" stop="20241215182500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: CD Alaves - Athletic Club</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  </programme>
+  <programme start="20241215182500 +0100" stop="20241215204000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Villarreal CF - Real Betis Balompie</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5600954.jpg" />
+  </programme>
+  <programme start="20241215204000 +0100" stop="20241215230000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga francuska - mecz: Paris Saint-Germain - Olympique Lyon</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5594561.jpg" />
+  </programme>
+  <programme start="20241215230000 +0100" stop="20241215233500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">GP Confidential</title>
+    <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
+    <category lang="pl">magazyn Formuły 1</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
+  </programme>
+  <programme start="20241215233500 +0100" stop="20241216000000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Zap</title>
+    <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
     <episode-num system="onscreen">E4</episode-num>
   </programme>
 </tv>
