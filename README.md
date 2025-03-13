@@ -1,5 +1,5 @@
 # miEPG   v2.2
-
+Copia
 El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre y el logo en cada canal
 
 El script se ejecuta todos los días a las 13:30
