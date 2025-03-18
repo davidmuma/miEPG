@@ -2,9 +2,9 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '00 00 * * * ' # Ejecutar a las 00:00 AM
-    - cron: '30 11 * * * ' # Ejecutar a las 13:30 AM
-    - cron: '00 20 * * * ' # Ejecutar a las 20:00 PM
+    - cron: '55 5 * * *'  # Ejecuta a las 5:55 AM cada día.
+    - cron: '55 13 * * *' # Ejecuta a las 1:55 PM cada día.
+    - cron: '15 20 * * *' # Ejecuta a las 8:15 PM cada día.
   workflow_dispatch:
 permissions:
    contents: write
