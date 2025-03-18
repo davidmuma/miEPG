@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '55 5 * * *'  # Ejecuta a las 5:55 AM cada día.
     - cron: '55 13 * * *' # Ejecuta a la 1:55 PM cada día.
-    - cron: '45 19 * * *' # Ejecuta a las 7:45 PM cada día.
+    - cron: '45 20 * * *' # Ejecuta a las 8:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 permissions:
    contents: write
