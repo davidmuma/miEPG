@@ -1,4 +1,4 @@
-name: Update EPG File duMu5WNPC9.xml
+name: Update EPG File ESP.xml
 
 on:
   schedule:
@@ -15,10 +15,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Remove existing duMu5WNPC9.xml
+    - name: Remove existing ESP.xml
       run: |
-        rm -f ./duMu5WNPC9.xml
-        git rm --ignore-unmatch duMu5WNPC9.xml
+        rm -f ./ESP.xml
+        git rm --ignore-unmatch ESP.xml
 
     - name: Download the new EPG file
       run: |
@@ -33,13 +33,13 @@ jobs:
         sed -i 's/<desc/\n<desc/g' duMu5WNPC9.xml
         sed -i 's/<episode/\n<episode/g' duMu5WNPC9.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' duMu5WNPC9.xml
-    - name: Save the formatted file as duMu5WNPC9.xml
+    - name: Save the formatted file as ESP.xml
       run: |
-        mv duMu5WNPC9.xml ./duMu5WNPC9.xml
+        mv duMu5WNPC9.xml ./ESP.xml
     - name: Commit and force-push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
-        git add duMu5WNPC9.xml
+        git add ESP.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
