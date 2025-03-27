@@ -2,9 +2,10 @@ name: Update EPG File ESP.xml
 
 on:
   schedule:
-    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
-    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
-    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+    - cron: '55 7 * * *'  # Ejecuta a las 7:55 AM cada día.
+    - cron: '55 11 * * *' # Ejecuta a las 11:55 AM cada día.
+    - cron: '55 15 * * *' # Ejecuta a las 3:55 PM cada día.
+    - cron: '55 19 * * *' # Ejecuta a las 7:55 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
