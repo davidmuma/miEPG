@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name></channel>
-<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name></channel>
 <channel id="MTV 00S.pe"><display-name>MTV 00S.pe</display-name></channel>
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name></channel>
 <channel id="MTV Hits.uy"><display-name>MTV Hits.uy</display-name></channel>
-<channel id="101tv Antequera.es"><display-name>101tv Antequera.es</display-name></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name></channel>
-<channel id="9 La Loma TV.es"><display-name>9 La Loma TV.es</display-name></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name></channel>
-<channel id="Alcarria TV.es"><display-name>Alcarria TV.es</display-name></channel>
-<channel id="Canal 4 Televisio.es"><display-name>Canal 4 Televisio.es</display-name></channel>
-<channel id="Canal Málaga.es"><display-name>Canal Málaga.es</display-name></channel>
-<channel id="Canal San Roque.es"><display-name>Canal San Roque.es</display-name></channel>
 <channel id="Cine Friki.es"><display-name>Cine Friki.es</display-name></channel>
-<channel id="Condavision.es"><display-name>Condavision.es</display-name></channel>
 <channel id="Crimen and Historia.es"><display-name>Crimen and Historia.es</display-name></channel>
 <channel id="Distrito TV.es"><display-name>Distrito TV.es</display-name></channel>
 <channel id="Djazz.es"><display-name>Djazz.es</display-name></channel>
 <channel id="El Confidencial.es"><display-name>El Confidencial.es</display-name></channel>
-<channel id="Estepona TV.es"><display-name>Estepona TV.es</display-name></channel>
-<channel id="Fibwi TV Autonomica.es"><display-name>Fibwi TV Autonomica.es</display-name></channel>
 <channel id="FilmandCo.es"><display-name>FilmandCo.es</display-name></channel>
 <channel id="Flamenco Auditorio.es"><display-name>Flamenco Auditorio.es</display-name></channel>
 <channel id="Historia y Vida.es"><display-name>Historia y Vida.es</display-name></channel>
@@ -35,19 +22,18 @@
 <channel id="Qello Concerts.es"><display-name>Qello Concerts.es</display-name></channel>
 <channel id="Runtime Familia.es"><display-name>Runtime Familia.es</display-name></channel>
 <channel id="Sin Filtros.es"><display-name>Sin Filtros.es</display-name></channel>
-<channel id="Teleonuba.es"><display-name>Teleonuba.es</display-name></channel>
 <channel id="Trailers.es"><display-name>Trailers.es</display-name></channel>
-<channel id="Tuya TV.es"><display-name>Tuya TV.es</display-name></channel>
-<channel id="TV Melilla.es"><display-name>TV Melilla.es</display-name></channel>
-<channel id="TVM Cordoba.es"><display-name>TVM Cordoba.es</display-name></channel>
 <channel id="Viajes y Sabores.es"><display-name>Viajes y Sabores.es</display-name></channel>
-<channel id="Vinx TV.es"><display-name>Vinx TV.es</display-name></channel>
 <channel id="ZUT TV.es"><display-name>ZUT TV.es</display-name></channel>
 <channel id="KSCEDT2.us"><display-name>KSCEDT2.us</display-name></channel>
 <channel id="Bethel.hn"><display-name>Bethel.hn</display-name></channel>
 <channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name></channel>
 <channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name></channel>
+<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name></channel>
 <programme start="20250327002500 +0000" stop="20250327040000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
@@ -103,27 +89,22 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250328090000 +0000" stop="20250328140000 +0000" channel="MTV 80s.ar">
+<programme start="20250328090000 +0000" stop="20250328122000 +0000" channel="MTV 80s.ar">
 <title>Poster Boys and Girls! 1980-1989</title><Sub-title></Sub-title>
 <desc>Homenaje a los chicos y chicas que llenaron las paredes de todos los adolescentes de los 80. Todavía se les quiere.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250328140000 +0000" stop="20250328170000 +0000" channel="MTV 80s.ar">
+<programme start="20250328122000 +0000" stop="20250328170000 +0000" channel="MTV 80s.ar">
 <title>Pump Up The 80s Party!</title><Sub-title></Sub-title>
 <desc>Una seleccion de los mejores exitos de los 80 están incluidos en esta lista de reproduccion fabulosa para fiestas de los 80. ¡A subir el volumen y a bailar con algunas de las mejores melodías clásicas de los 80!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250328170000 +0000" stop="20250329010000 +0000" channel="MTV 80s.ar">
+<programme start="20250328170000 +0000" stop="20250329002000 +0000" channel="MTV 80s.ar">
 <title>Top 100 Greatest Voices of the 80s</title><Sub-title></Sub-title>
 <desc>Lo dieron todo en los 80 y ahora están aquí para celebrarles una vez más: ¡100 poderosas canciones de las mejores voces de la decada!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250329010000 +0000" stop="20250329020000 +0000" channel="MTV 80s.ar">
-<title>Top 100 Greatest Voices of the 80s</title><Sub-title></Sub-title>
-<desc>Lo dieron todo en los 80 y ahora están aquí para celebrarles una vez más: ¡100 poderosas canciones de las mejores voces de la decada!</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250329020000 +0000" stop="20250329040000 +0000" channel="MTV 80s.ar">
+<programme start="20250329002000 +0000" stop="20250329040000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -311,6 +292,46 @@
 <programme start="20250402200000 +0000" stop="20250403010000 +0000" channel="MTV 80s.ar">
 <title>50 Heartwarming Hits!</title><Sub-title></Sub-title>
 <desc>MTV te sumerge en un vortice musical que gira intensamente y rompe la barrera del tiempo para detenerse en la decada de los 80. Dejate llevar y disfruta de las 50 canciones más queridas de aquella epoca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403010000 +0000" stop="20250403030000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403030000 +0000" stop="20250403050000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title><Sub-title></Sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403050000 +0000" stop="20250403080000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403080000 +0000" stop="20250403130000 +0000" channel="MTV 80s.ar">
+<title>Ultimate 50 British Anthems Of The 80s</title><Sub-title></Sub-title>
+<desc>Sintoniza este Ultimate 50 para escuchar los mejores himnos británicos de los 80.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403130000 +0000" stop="20250403140000 +0000" channel="MTV 80s.ar">
+<title>80s Double Shots: 2 From 1!</title><Sub-title></Sub-title>
+<desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403140000 +0000" stop="20250403190000 +0000" channel="MTV 80s.ar">
+<title>50 Heartwarming Hits!</title><Sub-title></Sub-title>
+<desc>MTV te sumerge en un vortice musical que gira intensamente y rompe la barrera del tiempo para detenerse en la decada de los 80. Dejate llevar y disfruta de las 50 canciones más queridas de aquella epoca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403190000 +0000" stop="20250403200000 +0000" channel="MTV 80s.ar">
+<title>Guess the Year</title><Sub-title></Sub-title>
+<desc>En este programa el espectador podrá averiguar cuánto sabe de música intentando adivinar en que año fueron emitidos una serie de video clips.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403200000 +0000" stop="20250404010000 +0000" channel="MTV 80s.ar">
+<title>1986 Wrapped!</title><Sub-title></Sub-title>
+<desc>Se activa la máquina del tiempo para recordar los mejores temas de la vida. Esta vez, se aterriza en 1986.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327010000 +0000" stop="20250327013000 +0000" channel="ENLACE TBN.ar">
@@ -1326,6 +1347,216 @@
 <programme start="20250329000000 +0000" stop="20250329010000 +0000" channel="Canal Luz.ar">
 <title>La puerta abierta</title><Sub-title></Sub-title>
 <desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edicion, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interes, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329010000 +0000" stop="20250329013000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title><Sub-title></Sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329013000 +0000" stop="20250329023000 +0000" channel="Canal Luz.ar">
+<title>Noche de oracion</title><Sub-title></Sub-title>
+<desc>Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329023000 +0000" stop="20250329030000 +0000" channel="Canal Luz.ar">
+<title>Eleva+</title><Sub-title></Sub-title>
+<desc>David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329030000 +0000" stop="20250329033000 +0000" channel="Canal Luz.ar">
+<title>Feedback con Jesús</title><Sub-title></Sub-title>
+<desc>Un espacio que aborda diferentes temas actuales bajo una mirada de fe, amor y religion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329033000 +0000" stop="20250329040000 +0000" channel="Canal Luz.ar">
+<title>Un amor eterno</title><Sub-title></Sub-title>
+<desc>Desde Arequito, Elsio Romero, director del diario digital "Arequito Hoy", nos invita a conocer un amor incondicional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329040000 +0000" stop="20250329043000 +0000" channel="Canal Luz.ar">
+<title>Edificados por la palabra</title><Sub-title></Sub-title>
+<desc>Desde Ushuaia, Tierra del Fuego del Espíritu Santo, Fabián Rotemberg funda los cimientos de una solida vida cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329043000 +0000" stop="20250329050000 +0000" channel="Canal Luz.ar">
+<title>Cristo, la solucion</title><Sub-title></Sub-title>
+<desc>Emision en la que se abordan algunos pasajes bíblicos, reflexiones y mensajes sobre la obra de Cristo en la vida del ser humano, así como tambien se ofrecen algunos consejos útiles para discernir en la búsqueda espiritual personal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329050000 +0000" stop="20250329053000 +0000" channel="Canal Luz.ar">
+<title>Vision, fe y accion</title><Sub-title></Sub-title>
+<desc>Tres palabras clave que, juntas, aseguran el triunfo. El pastor Ezequiel Ortellado brinda testimonios transformadores, entrevistas exclusivas y notas de interes relacionadas con el quehacer de personas y comunidades cristianas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329053000 +0000" stop="20250329060000 +0000" channel="Canal Luz.ar">
+<title>Hillsong Latam TV</title><Sub-title></Sub-title>
+<desc>El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazon de Dios hacia las personas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329060000 +0000" stop="20250329063000 +0000" channel="Canal Luz.ar">
+<title>Todo es posible</title><Sub-title></Sub-title>
+<desc>Un tiempo para alentar a los televidentes a creer en los milagros sobrenaturales de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329063000 +0000" stop="20250329070000 +0000" channel="Canal Luz.ar">
+<title>Avivamiento</title><Sub-title></Sub-title>
+<desc>Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y predicas del evangelio, la renovacion de la vida a traves de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329070000 +0000" stop="20250329073000 +0000" channel="Canal Luz.ar">
+<title>Somos la voz</title><Sub-title></Sub-title>
+<desc>Una vision joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329073000 +0000" stop="20250329083000 +0000" channel="Canal Luz.ar">
+<title>El cruce</title><Sub-title></Sub-title>
+<desc>Un programa conducido por Jesús Ottaviano, donde diferentes personas cuentan su experiencia antes y despues de su cruce con Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329083000 +0000" stop="20250329090000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title><Sub-title></Sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329090000 +0000" stop="20250329100000 +0000" channel="Canal Luz.ar">
+<title>La puerta abierta</title><Sub-title></Sub-title>
+<desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edicion, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interes, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329100000 +0000" stop="20250329101500 +0000" channel="Canal Luz.ar">
+<title>Centro de avivamiento familiar</title><Sub-title></Sub-title>
+<desc>El fuego de Dios produce un despertar en la vida del creyente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329101500 +0000" stop="20250329103000 +0000" channel="Canal Luz.ar">
+<title>Big Day</title><Sub-title></Sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329103000 +0000" stop="20250329110000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title><Sub-title></Sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329110000 +0000" stop="20250329120000 +0000" channel="Canal Luz.ar">
+<title>Un tiempo con Jesús</title><Sub-title></Sub-title>
+<desc>Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe. Además, miles de personas acuden con Carlos en busca de la sobrenatural ayuda de Dios en distintas ciudades de Argentina y el mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329120000 +0000" stop="20250329123000 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329123000 +0000" stop="20250329130000 +0000" channel="Canal Luz.ar">
+<title>Una paloma sobre el mundo</title><Sub-title></Sub-title>
+<desc>Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329130000 +0000" stop="20250329140000 +0000" channel="Canal Luz.ar">
+<title>Iglesia Redentor</title><Sub-title></Sub-title>
+<desc>Se partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a traves de la oracion y experimentar su gracia en tu vida. Con la conduccion de Daniel Cattaneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329140000 +0000" stop="20250329143000 +0000" channel="Canal Luz.ar">
+<title>La palabra de Dios</title><Sub-title></Sub-title>
+<desc>Los Pastores rosarinos Jose María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329143000 +0000" stop="20250329150000 +0000" channel="Canal Luz.ar">
+<title>Micros</title><Sub-title></Sub-title>
+<desc>No hay repeticiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329150000 +0000" stop="20250329153000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title><Sub-title></Sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329153000 +0000" stop="20250329160000 +0000" channel="Canal Luz.ar">
+<title>Tutti y los frutis</title><Sub-title></Sub-title>
+<desc>Tutti, los frutis y mango te esperan para vivir increíbles aventuras!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329160000 +0000" stop="20250329163000 +0000" channel="Canal Luz.ar">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>La más impactante serie sobre personas que casi pagan con su vida por sus propios errores.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329163000 +0000" stop="20250329170000 +0000" channel="Canal Luz.ar">
+<title>Momento decisivo</title><Sub-title></Sub-title>
+<desc>Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329170000 +0000" stop="20250329173000 +0000" channel="Canal Luz.ar">
+<title>Torre de oracion</title><Sub-title></Sub-title>
+<desc>Emision en la que podrás experimentar un encuentro diferente con Dios, a traves de cantos de alabanza, oracion constante y la predicacion del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329173000 +0000" stop="20250329174500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329174500 +0000" stop="20250329180000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title><Sub-title></Sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329180000 +0000" stop="20250329183000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title><Sub-title></Sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329183000 +0000" stop="20250329190000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title><Sub-title></Sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329190000 +0000" stop="20250329193000 +0000" channel="Canal Luz.ar">
+<title>De corazon a corazon</title><Sub-title></Sub-title>
+<desc>Una guía en el camino hacia la formacion de una vida de oracion mediante la adoracion eucarística, la meditacion y la reflexion, con consejos útiles que edifican el alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329193000 +0000" stop="20250329200000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title><Sub-title></Sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329200000 +0000" stop="20250329203000 +0000" channel="Canal Luz.ar">
+<title>Si queres un cambio</title><Sub-title></Sub-title>
+<desc>El cambio es posible, cualquiera sea la circunstancia. María Rosa Morellato, te anima a hacerlo mediante la fe en Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329203000 +0000" stop="20250329204500 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title><Sub-title></Sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329204500 +0000" stop="20250329210000 +0000" channel="Canal Luz.ar">
+<title>Bendita luz</title><Sub-title></Sub-title>
+<desc>En compañía de la apostol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329210000 +0000" stop="20250329213000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title><Sub-title></Sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329213000 +0000" stop="20250329220000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title><Sub-title></Sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329220000 +0000" stop="20250330000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title><Sub-title></Sub-title>
+<desc>Conferencias desde el auditorio de la Iglesia Evangelica Misionera Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330000000 +0000" stop="20250330010000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title><Sub-title></Sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327003000 +0000" stop="20250327010000 +0000" channel="Aliento Vision.co">
@@ -3004,6 +3235,246 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250403000000 +0000" stop="20250403003000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403003000 +0000" stop="20250403010000 +0000" channel="Aliento Vision.co">
+<title>Apologetica: En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Joe Owen te da las herramientas para defender tu fe contra los ataques seculares de este siglo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403010000 +0000" stop="20250403013000 +0000" channel="Aliento Vision.co">
+<title>Bendiciendo la familia</title><Sub-title></Sub-title>
+<desc>Los doctores Víctor y Hattie Tiburcio, consejeros familiares, tratan problemas reales que se presentan en la vida matrimonial y familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403013000 +0000" stop="20250403020000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title><Sub-title></Sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403020000 +0000" stop="20250403023000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403023000 +0000" stop="20250403030000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403030000 +0000" stop="20250403033000 +0000" channel="Aliento Vision.co">
+<title>Santidad a Jehová</title><Sub-title></Sub-title>
+<desc>Jobino Guzmán predica la palabra de Dios, una palabra que cambiará tu vida desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403033000 +0000" stop="20250403040000 +0000" channel="Aliento Vision.co">
+<title>Música - Testimonios</title><Sub-title></Sub-title>
+<desc>Música variada con un mensaje positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403040000 +0000" stop="20250403043000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403043000 +0000" stop="20250403050000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403050000 +0000" stop="20250403053000 +0000" channel="Aliento Vision.co">
+<title>Música</title><Sub-title></Sub-title>
+<desc>Disfruta de la mejor música cristiana en este segmento, donde te presentamos diversos temas cargados de mensajes positivos y buena energía, todo con el objetivo de hacer tu día más entretenido en la compañía de Dios, nuestro Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403053000 +0000" stop="20250403060000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title><Sub-title></Sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403060000 +0000" stop="20250403063000 +0000" channel="Aliento Vision.co">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc>Espacio informativo semanal desde San Jose de Costa Rica, con el que te mantendrás al tanto del acontecer mundial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403063000 +0000" stop="20250403070000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title><Sub-title></Sub-title>
+<desc>Espacio que cuenta con científicos que te hablan sobre la conexion entre Dios y la ciencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403070000 +0000" stop="20250403073000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403073000 +0000" stop="20250403080000 +0000" channel="Aliento Vision.co">
+<title>Tú puedes</title><Sub-title></Sub-title>
+<desc>Un espacio de apoyo integral al crecimiento de nuestros amigos y hermanos en Cristo. Compartimos principios y valores espirituales, culturales, intelectuales, de formacion y de desarrollo humano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403080000 +0000" stop="20250403083000 +0000" channel="Aliento Vision.co">
+<title>Música - Testimonios</title><Sub-title></Sub-title>
+<desc>Música variada con un mensaje positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403083000 +0000" stop="20250403090000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403090000 +0000" stop="20250403093000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403093000 +0000" stop="20250403100000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403100000 +0000" stop="20250403103000 +0000" channel="Aliento Vision.co">
+<title>Osvaldo Carnival Online</title><Sub-title></Sub-title>
+<desc>Osvaldo Carnival presenta un espacio de reflexion, que se encarga de dar a conocer testimonios de vidas transformadas a traves de la fe, la esperanza y el amor de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403103000 +0000" stop="20250403110000 +0000" channel="Aliento Vision.co">
+<title>Pastor Sebastián Montoya</title><Sub-title></Sub-title>
+<desc>Desde Cali Colombia, el pastor Sebastián Montoya te trae una palabra que cambiará tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403110000 +0000" stop="20250403113000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403113000 +0000" stop="20250403120000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403120000 +0000" stop="20250403123000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403130000 +0000" stop="20250403133000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403133000 +0000" stop="20250403140000 +0000" channel="Aliento Vision.co">
+<title>The Torchlighters</title><Sub-title></Sub-title>
+<desc>Sigue las aventuras de los Antorchas Heroes de la Fe y observa como Dios obra a traves de aquellos que dedican su vida a servirlo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403140000 +0000" stop="20250403143000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403143000 +0000" stop="20250403150000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title><Sub-title></Sub-title>
+<desc>Espacio que cuenta con científicos que te hablan sobre la conexion entre Dios y la ciencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403150000 +0000" stop="20250403153000 +0000" channel="Aliento Vision.co">
+<title>Solo para mujeres</title><Sub-title></Sub-title>
+<desc>Un espacio diseñado para la mujer actual y los desafíos que tiene en su cotidianidad. El proposito del programa es hablar de los temas que ocupan a la mujer de una manera sencilla, ilustrativa y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403153000 +0000" stop="20250403160000 +0000" channel="Aliento Vision.co">
+<title>Global 3000</title><Sub-title></Sub-title>
+<desc>El magacín de DW sobre la globalizacion trata temas de interes para todos los habitantes del planeta, en especial como la gente afronta las oportunidades y los riesgos que conlleva la globalizacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403160000 +0000" stop="20250403163000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403163000 +0000" stop="20250403170000 +0000" channel="Aliento Vision.co">
+<title>Música</title><Sub-title></Sub-title>
+<desc>Disfruta de la mejor música cristiana en este segmento, donde te presentamos diversos temas cargados de mensajes positivos y buena energía, todo con el objetivo de hacer tu día más entretenido en la compañía de Dios, nuestro Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title><Sub-title></Sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403173000 +0000" stop="20250403180000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de Dios</title><Sub-title></Sub-title>
+<desc>El Pastor Ezequiel Molina trae un tremendo mensaje desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403180000 +0000" stop="20250403183000 +0000" channel="Aliento Vision.co">
+<title>Academia de la Biblia</title><Sub-title></Sub-title>
+<desc>Alex y Andres te enseñan la Biblia de manera profunda pero con humor!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403183000 +0000" stop="20250403190000 +0000" channel="Aliento Vision.co">
+<title>Academia de la Biblia</title><Sub-title></Sub-title>
+<desc>Alex y Andres te enseñan la Biblia de manera profunda pero con humor!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403190000 +0000" stop="20250403193000 +0000" channel="Aliento Vision.co">
+<title>Aliento Kids</title><Sub-title></Sub-title>
+<desc>Segmento dedicado a los pequeños de la casa en el cual podrán aprender y conocer sobre el señor Jesucristo mediante películas, cuentos, relatos del evangelio, canciones y juegos que afianzarán su fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403193000 +0000" stop="20250403200000 +0000" channel="Aliento Vision.co">
+<title>El club del Arca</title><Sub-title></Sub-title>
+<desc>Una serie muy divertida, con personajes y aventuras que vas a adorar porque refuerzan los valores de la amistad, el compañerismo, la importancia de la familia, la escuela y el cuidado de la naturaleza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403200000 +0000" stop="20250403203000 +0000" channel="Aliento Vision.co">
+<title>Beats</title><Sub-title></Sub-title>
+<desc>Espacio musical donde conocerás a tus cantantes favoritos de cerca, a traves de una amena conversacion donde expondrán sus secretos mejor guardados.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403203000 +0000" stop="20250403210000 +0000" channel="Aliento Vision.co">
+<title>Música - Testimonios</title><Sub-title></Sub-title>
+<desc>Música variada con un mensaje positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403210000 +0000" stop="20250403213000 +0000" channel="Aliento Vision.co">
+<title>En los pasos del maestro</title><Sub-title></Sub-title>
+<desc>Kirk and Ray te hablan y te enseñan diversos consejos de evangelizacion, mostrándote su verdadera aplicacion y ayudándote a mejorar tu relacion con Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403213000 +0000" stop="20250403220000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403220000 +0000" stop="20250403223000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403223000 +0000" stop="20250403230000 +0000" channel="Aliento Vision.co">
+<title>Global 3000</title><Sub-title></Sub-title>
+<desc>El magacín de DW sobre la globalizacion trata temas de interes para todos los habitantes del planeta, en especial como la gente afronta las oportunidades y los riesgos que conlleva la globalizacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403230000 +0000" stop="20250403233000 +0000" channel="Aliento Vision.co">
+<title>Cafe libre</title><Sub-title></Sub-title>
+<desc>Espacio de humor y entretenimiento que te hace reflexionar en torno al estilo de vida que llevamos diariamente, usando situaciones típicas que se desarrollan en el Cafe de Jose Luis.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250403233000 +0000" stop="20250404000000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404000000 +0000" stop="20250404003000 +0000" channel="Aliento Vision.co">
 <title>Aliento de vida</title><Sub-title></Sub-title>
 <desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -8213,9 +8684,24 @@
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="101tv Antequera.es">
-<title>101tv | Antequera</title><Sub-title></Sub-title>
-<desc>Informacion, eventos deportivos, entrevistas, espectáculos, cultura; todo ello desde la television más proxima a la region de Antequera, en Málaga.</desc>
+<programme start="20250330070000 +0000" stop="20250330100000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330100000 +0000" stop="20250330140000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330140000 +0000" stop="20250330180000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330180000 +0000" stop="20250330220000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327060000 +0000" stop="20250327070000 +0000" channel="7TV Andalucía.es">
@@ -8903,11 +9389,6 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="9 La Loma TV.es">
-<title>9 La Loma</title><Sub-title></Sub-title>
-<desc>Canal de proximidad de la comarca de La Loma (Jaen) que emite reportajes, informativos, eventos culturales y deportivos especialmente centrados en la region.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20250327060000 +0000" stop="20250327120000 +0000" channel="Actualidad 360.es">
 <title>Actualidad 360</title><Sub-title></Sub-title>
 <desc>Actualidad 360. Todas las noticias en un solo lugar.</desc>
@@ -9041,26 +9522,6 @@
 <programme start="20250402180000 +0000" stop="20250403000000 +0000" channel="Actualidad 360.es">
 <title>Actualidad 360</title><Sub-title></Sub-title>
 <desc>Actualidad 360. Todas las noticias en un solo lugar.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Alcarria TV.es">
-<title>Alcarria TV</title><Sub-title></Sub-title>
-<desc>Alcarria TV es una television local que ofrece en su programacion contenidos de interes general en los que participan otras cadenas y a la vez contenidos interesantes de actualidad local.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Canal 4 Televisio.es">
-<title>Canal 4 Televisio</title><Sub-title></Sub-title>
-<desc>Canal 4 Televisio es un canal de proximidad que emite para Cataluña y Mallorca, centrado en la actualidad, el debate y las entrevistas además de series y entretenimiento.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Canal Málaga.es">
-<title>Canal Málaga</title><Sub-title></Sub-title>
-<desc>Canal de television pública de Málaga que emite programas de noticias locales y programas de entretenimiento, así como de entrevistas, debates y programas culturales. Algunos de sus programas más importantes son Málaga, aquí y ahora, Objetivo deporte o Málaga a examen.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Canal San Roque.es">
-<title>Canal San Roque</title><Sub-title></Sub-title>
-<desc>Canal San Roque ofrece informacion de proximidad, reportajes, deportes y entrevistas dentro del ámbito del municipio de San Roque en Cádiz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327012421 +0000" stop="20250327031404 +0000" channel="Cine Friki.es">
@@ -13131,16 +13592,6 @@
 <programme start="20250402233618 +0000" stop="20250403000710 +0000" channel="El Confidencial.es">
 <title>Observatorio</title><Sub-title></Sub-title>
 <desc>- El enigma del metano: el gas que contamina más del CO² y que China, India y Rusia no quieren detener. - El petroleo se está agotando y las renovables no son la solucion a la crisis energetica. - Así el misil hipersonico de China, ha convertido en chatarra los viejos cohetes de EE.UU. - Safer: el barco zombi cargado de petroleo que la guerra en Yemen ha convertido en una bomba.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Estepona TV.es">
-<title>Estepona TV</title><Sub-title></Sub-title>
-<desc>Canal local de Estepona que emite para la provincia de Málaga contenidos locales, informativos, reportajes, deportes y entretenimiento.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Fibwi TV Autonomica.es">
-<title>Fibwi TV Autonomica</title><Sub-title></Sub-title>
-<desc>Fibwi Television, se presenta como la nueva propuesta televisiva líder en Baleares, con una programacion destinada a un público objetivo de todas las edades gracias a su amplia y variada programacion, que tiene como objetivos prioritarios el entretenimiento y la informacion. Donde destacan los contenidos de produccion propia, con programas y reportajes de diferente temática, así como una amplia parrilla que abarca contenidos de series televisivas, cine, deportes, documentales y servicio de informativos diarios.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327015642 +0000" stop="20250327034847 +0000" channel="FilmandCo.es">
@@ -19853,16 +20304,6 @@
 <desc>El libro de autoayuda que promete cambiar tu mente. - Gordofobia</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="TV Melilla.es">
-<title>Television Melilla</title><Sub-title></Sub-title>
-<desc>Television Melilla es la television pública de Melilla y es el instrumento de comunicacion de la Ciudad Autonoma de Melilla. El canal, fundando en 1994, ofrece contenidos a caballo entre lo local y lo autonomico.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="TVM Cordoba.es">
-<title>TVM Cordoba</title><Sub-title></Sub-title>
-<desc>Television del Ayuntamiento de Cordoba que incluye informacion local, eventos culturales, reportajes dedicados a la region y otros contenidos de proximidad.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20250327000700 +0000" stop="20250327004000 +0000" channel="Trailers.es">
 <title>Top Comedia Ep.2</title><Sub-title></Sub-title>
 <desc>Te recomendamos las mejores comedias de cine y television en un único especial</desc>
@@ -20826,11 +21267,6 @@
 <programme start="20250402234700 +0000" stop="20250403002100 +0000" channel="Trailers.es">
 <title>100% Cine Ep.14</title><Sub-title></Sub-title>
 <desc>Mantente al día de los últimos estrenos en cines y de los que están por llegar</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Tuya TV.es">
-<title>Tuya TV</title><Sub-title></Sub-title>
-<desc>Tuya La Janda Television ofrece contenidos de temática local, informativos y de entretenimiento para la region de La Janda y parte de la provincia de Cádiz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327001500 +0000" stop="20250327010800 +0000" channel="Viajes y Sabores.es">
@@ -21836,11 +22272,6 @@
 <programme start="20250402104200 +0000" stop="20250402111700 +0000" channel="Viajes y Sabores.es">
 <title>Enclaves</title><Sub-title></Sub-title>
 <desc>¿Que hay más valenciano que poder disfrutar de una paella en plena Albufera? ¡Pues allá va el Viajero!</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250327100834 +0000" stop="20250328100834 +0000" channel="Vinx TV.es">
-<title>Vinx TV</title><Sub-title></Sub-title>
-<desc>Canal de Asturias dedicado al mundo del deporte. Se pueden disfrutar de partidos de fútbol, boxeo, balonmano, baloncesto y muchos más.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250327002402 +0000" stop="20250327014807 +0000" channel="ZUT TV.es">
