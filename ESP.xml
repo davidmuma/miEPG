@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Bethel.hn"><display-name>Bethel.hn</display-name></channel>
-<channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name></channel>
-<channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name></channel>
-<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name></channel>
 <channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name></channel>
-<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name></channel>
-<channel id="MTV 00S.pe"><display-name>MTV 00S.pe</display-name></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name></channel>
 <channel id="MTV Hits.uy"><display-name>MTV Hits.uy</display-name></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name></channel>
@@ -34,6 +26,14 @@
 <channel id="ZUT TV.es"><display-name>ZUT TV.es</display-name></channel>
 <channel id="KSCEDT2.us"><display-name>KSCEDT2.us</display-name></channel>
 <channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name></channel>
+<channel id="Bethel.hn"><display-name>Bethel.hn</display-name></channel>
+<channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name></channel>
+<channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name></channel>
+<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name></channel>
+<channel id="MTV 00S.pe"><display-name>MTV 00S.pe</display-name></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name></channel>
+<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name></channel>
 <programme start="20250328004000 +0000" stop="20250328040000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
@@ -84,24 +84,34 @@
 <desc>A prepararse porque con estas canciones no se va a poder evitar cantar a pleno pulmon. ¿Y por que no? Una reproduccion de los 50 mejores exitos de karaoke de los 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250329135500 +0000" stop="20250329155500 +0000" channel="MTV 80s.ar">
+<programme start="20250329090000 +0000" stop="20250329123000 +0000" channel="MTV 80s.ar">
+<title>50 Karaoke Classics</title><Sub-title></Sub-title>
+<desc>A prepararse porque con estas canciones no se va a poder evitar cantar a pleno pulmon. ¿Y por que no? Una reproduccion de los 50 mejores exitos de karaoke de los 80.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250329123000 +0000" stop="20250329160000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title><Sub-title></Sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250329155500 +0000" stop="20250329210000 +0000" channel="MTV 80s.ar">
+<programme start="20250329160000 +0000" stop="20250329192500 +0000" channel="MTV 80s.ar">
 <title>50 Greatest Groups Of The 80s!</title><Sub-title></Sub-title>
 <desc>Llegan 50 gigantescos exitos mundiales de una seleccion de los grandes grupos de la popular decada de 1980.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250329210000 +0000" stop="20250330020000 +0000" channel="MTV 80s.ar">
+<programme start="20250329192500 +0000" stop="20250330012500 +0000" channel="MTV 80s.ar">
 <title>MTV 80s @ The Movies!</title><Sub-title></Sub-title>
 <desc>MTV 80s trae todos los exitos de las bandas sonoras que llegaron hasta la pantalla grande.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330020000 +0000" stop="20250330040000 +0000" channel="MTV 80s.ar">
+<programme start="20250330012500 +0000" stop="20250330030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330030000 +0000" stop="20250330040000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title><Sub-title></Sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250330040000 +0000" stop="20250330050000 +0000" channel="MTV 80s.ar">
@@ -114,32 +124,32 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330080000 +0000" stop="20250330160000 +0000" channel="MTV 80s.ar">
+<programme start="20250330080000 +0000" stop="20250330113500 +0000" channel="MTV 80s.ar">
 <title>80s Rock 101!</title><Sub-title></Sub-title>
 <desc>Sube el volumen al máximo y deja que el sonido te lleve a un viaje musical a traves de los años 80. Disfruta de estas 101 canciones clásicas del rock no aptas para oídos debiles.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330160000 +0000" stop="20250330170000 +0000" channel="MTV 80s.ar">
+<programme start="20250330113500 +0000" stop="20250330151000 +0000" channel="MTV 80s.ar">
 <title>80s Rock 101!</title><Sub-title></Sub-title>
 <desc>Sube el volumen al máximo y deja que el sonido te lleve a un viaje musical a traves de los años 80. Disfruta de estas 101 canciones clásicas del rock no aptas para oídos debiles.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330170000 +0000" stop="20250330200000 +0000" channel="MTV 80s.ar">
+<programme start="20250330151000 +0000" stop="20250330200500 +0000" channel="MTV 80s.ar">
 <title>Super Pop Hits!</title><Sub-title></Sub-title>
 <desc>Una lista de canciones pop definitiva que te hará levantar y hacer bailar a cualquiera.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330200000 +0000" stop="20250331010000 +0000" channel="MTV 80s.ar">
+<programme start="20250330200500 +0000" stop="20250330234500 +0000" channel="MTV 80s.ar">
 <title>1985 Wrapped!</title><Sub-title></Sub-title>
 <desc>Se activa la máquina del tiempo para recordar los mejores temas de la vida. Esta vez, se aterriza en 1985.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331010000 +0000" stop="20250331030000 +0000" channel="MTV 80s.ar">
+<programme start="20250330234500 +0000" stop="20250331030500 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331030000 +0000" stop="20250331050000 +0000" channel="MTV 80s.ar">
+<programme start="20250331030500 +0000" stop="20250331050000 +0000" channel="MTV 80s.ar">
 <title>Forever 80s</title><Sub-title></Sub-title>
 <desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -149,34 +159,39 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331080000 +0000" stop="20250331130000 +0000" channel="MTV 80s.ar">
+<programme start="20250331080000 +0000" stop="20250331113000 +0000" channel="MTV 80s.ar">
 <title>50 Heartwarming Hits!</title><Sub-title></Sub-title>
 <desc>MTV te sumerge en un vortice musical que gira intensamente y rompe la barrera del tiempo para detenerse en la decada de los 80. Dejate llevar y disfruta de las 50 canciones más queridas de aquella epoca.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331130000 +0000" stop="20250331140000 +0000" channel="MTV 80s.ar">
+<programme start="20250331113000 +0000" stop="20250331140000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title><Sub-title></Sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331140000 +0000" stop="20250331190000 +0000" channel="MTV 80s.ar">
+<programme start="20250331140000 +0000" stop="20250331172500 +0000" channel="MTV 80s.ar">
 <title>Queen vs 80s Rock Anthems! Top 50</title><Sub-title></Sub-title>
 <desc>Te haremos vibrar con 50 de los mejores himnos de Queen y otros destacados miembros del Salon de la Fama del Rock de los 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331190000 +0000" stop="20250331200000 +0000" channel="MTV 80s.ar">
+<programme start="20250331172500 +0000" stop="20250331200000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331200000 +0000" stop="20250401010000 +0000" channel="MTV 80s.ar">
-<title>Ultimate 50 British Anthems Of The 80s</title><Sub-title></Sub-title>
-<desc>Sintoniza este Ultimate 50 para escuchar los mejores himnos británicos de los 80.</desc>
+<programme start="20250331200000 +0000" stop="20250331234500 +0000" channel="MTV 80s.ar">
+<title>Ultimate 50 80s Soft Rock Anthems</title><Sub-title></Sub-title>
+<desc>Una lista de reproduccion con algunos de los mejores himnos del soft rock de los años ochenta.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401010000 +0000" stop="20250401030000 +0000" channel="MTV 80s.ar">
+<programme start="20250331234500 +0000" stop="20250401025500 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title><Sub-title></Sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401025500 +0000" stop="20250401030000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title><Sub-title></Sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250401030000 +0000" stop="20250401050000 +0000" channel="MTV 80s.ar">
@@ -292,6 +307,41 @@
 <programme start="20250403200000 +0000" stop="20250404010000 +0000" channel="MTV 80s.ar">
 <title>1986 Wrapped!</title><Sub-title></Sub-title>
 <desc>Se activa la máquina del tiempo para recordar los mejores temas de la vida. Esta vez, se aterriza en 1986.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404010000 +0000" stop="20250404030000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404030000 +0000" stop="20250404050000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title><Sub-title></Sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404050000 +0000" stop="20250404080000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404080000 +0000" stop="20250404130000 +0000" channel="MTV 80s.ar">
+<title>50 Heartwarming Hits!</title><Sub-title></Sub-title>
+<desc>MTV te sumerge en un vortice musical que gira intensamente y rompe la barrera del tiempo para detenerse en la decada de los 80. Dejate llevar y disfruta de las 50 canciones más queridas de aquella epoca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404130000 +0000" stop="20250404160000 +0000" channel="MTV 80s.ar">
+<title>Pump Up The 80s Party!</title><Sub-title></Sub-title>
+<desc>Una seleccion de los mejores exitos de los 80 están incluidos en esta lista de reproduccion fabulosa para fiestas de los 80. ¡A subir el volumen y a bailar con algunas de las mejores melodías clásicas de los 80!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404160000 +0000" stop="20250405000000 +0000" channel="MTV 80s.ar">
+<title>80s Rock 101!</title><Sub-title></Sub-title>
+<desc>Sube el volumen al máximo y deja que el sonido te lleve a un viaje musical a traves de los años 80. Disfruta de estas 101 canciones clásicas del rock no aptas para oídos debiles.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250405000000 +0000" stop="20250405010000 +0000" channel="MTV 80s.ar">
+<title>80s Rock 101!</title><Sub-title></Sub-title>
+<desc>Sube el volumen al máximo y deja que el sonido te lleve a un viaje musical a traves de los años 80. Disfruta de estas 101 canciones clásicas del rock no aptas para oídos debiles.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250328010000 +0000" stop="20250328013000 +0000" channel="ENLACE TBN.ar">
@@ -525,12 +575,12 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250329030000 +0000" stop="20250329033000 +0000" channel="ENLACE TBN.ar">
-<title>Todo es posible - Episodio: De las pandi...</title><Sub-title></Sub-title>
+<title>Todo es posible</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250329033000 +0000" stop="20250329040000 +0000" channel="ENLACE TBN.ar">
-<title>Jesus Worship Center - Episodio: Alcanza...</title><Sub-title></Sub-title>
+<title>Jesus Worship Center</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
@@ -540,7 +590,7 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250329043000 +0000" stop="20250329050000 +0000" channel="ENLACE TBN.ar">
-<title>Maná</title><Sub-title>Episodio: Levanta tus ojos</Sub-title>
+<title>Maná</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
@@ -716,6 +766,206 @@
 </programme>
 <programme start="20250330020000 +0000" stop="20250330023000 +0000" channel="ENLACE TBN.ar">
 <title>Vida real</title><Sub-title>Episodio: Â¿Que tienes que decir?</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330023000 +0000" stop="20250330040000 +0000" channel="ENLACE TBN.ar">
+<title>Vigilia de adoracion</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330040000 +0000" stop="20250330053000 +0000" channel="ENLACE TBN.ar">
+<title>The Chosen</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330053000 +0000" stop="20250330060000 +0000" channel="ENLACE TBN.ar">
+<title>Compañía de mujeres</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330060000 +0000" stop="20250330063000 +0000" channel="ENLACE TBN.ar">
+<title>Las raíces hebreas de nuestra fe cristiana</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330063000 +0000" stop="20250330070000 +0000" channel="ENLACE TBN.ar">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330070000 +0000" stop="20250330073000 +0000" channel="ENLACE TBN.ar">
+<title>Superlibro</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330073000 +0000" stop="20250330080000 +0000" channel="ENLACE TBN.ar">
+<title>Cánticos de amor</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330080000 +0000" stop="20250330083000 +0000" channel="ENLACE TBN.ar">
+<title>Sueños sin límites</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330083000 +0000" stop="20250330100000 +0000" channel="ENLACE TBN.ar">
+<title>The Chosen</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330100000 +0000" stop="20250330103000 +0000" channel="ENLACE TBN.ar">
+<title>Cartas abiertas</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="ENLACE TBN.ar">
+<title>El Evangelio de San Marcos</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330110000 +0000" stop="20250330113000 +0000" channel="ENLACE TBN.ar">
+<title>Toda la Biblia juntos</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330113000 +0000" stop="20250330120000 +0000" channel="ENLACE TBN.ar">
+<title>Vida real</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330120000 +0000" stop="20250330123000 +0000" channel="ENLACE TBN.ar">
+<title>Escrito está</title><Sub-title>Episodio: Ajuste de cuentas con tu enojo</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330123000 +0000" stop="20250330130000 +0000" channel="ENLACE TBN.ar">
+<title>Mensajes de vida</title><Sub-title>Episodio: Â¿Como debemos orar?</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330130000 +0000" stop="20250330133000 +0000" channel="ENLACE TBN.ar">
+<title>Momento decisivo</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330133000 +0000" stop="20250330140000 +0000" channel="ENLACE TBN.ar">
+<title>Camino de fe del creyente</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330140000 +0000" stop="20250330143000 +0000" channel="ENLACE TBN.ar">
+<title>Es sobrenatural</title><Sub-title>Episodio: Bernis</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330143000 +0000" stop="20250330150000 +0000" channel="ENLACE TBN.ar">
+<title>Joel</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330150000 +0000" stop="20250330153000 +0000" channel="ENLACE TBN.ar">
+<title>Camino a la victoria</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330153000 +0000" stop="20250330160000 +0000" channel="ENLACE TBN.ar">
+<title>Especial</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330160000 +0000" stop="20250330163000 +0000" channel="ENLACE TBN.ar">
+<title>Más vida</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330163000 +0000" stop="20250330170000 +0000" channel="ENLACE TBN.ar">
+<title>En contacto</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330170000 +0000" stop="20250330173000 +0000" channel="ENLACE TBN.ar">
+<title>Casa de oracion</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330173000 +0000" stop="20250330180000 +0000" channel="ENLACE TBN.ar">
+<title>Tesoros</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330180000 +0000" stop="20250330183000 +0000" channel="ENLACE TBN.ar">
+<title>Andrew Wommack: la verdad del evangelio</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330183000 +0000" stop="20250330190000 +0000" channel="ENLACE TBN.ar">
+<title>Dios de Milagros</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330190000 +0000" stop="20250330193000 +0000" channel="ENLACE TBN.ar">
+<title>Reflexion espiritual</title><Sub-title>Episodio: El verdadero amor</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330193000 +0000" stop="20250330200000 +0000" channel="ENLACE TBN.ar">
+<title>Disfrutando la vida diaria</title><Sub-title>Episodio: Mi historia - Parte 1</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330200000 +0000" stop="20250330203000 +0000" channel="ENLACE TBN.ar">
+<title>Jentezen Franklin</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330203000 +0000" stop="20250330210000 +0000" channel="ENLACE TBN.ar">
+<title>Tiempo de reflexionar</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330210000 +0000" stop="20250330213000 +0000" channel="ENLACE TBN.ar">
+<title>Una palabra del corazon de Dios</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330213000 +0000" stop="20250330220000 +0000" channel="ENLACE TBN.ar">
+<title>El centro en casa</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330220000 +0000" stop="20250330223000 +0000" channel="ENLACE TBN.ar">
+<title>Iglesia Lakewood</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330223000 +0000" stop="20250330230000 +0000" channel="ENLACE TBN.ar">
+<title>En casa con...</title><Sub-title>Episodio: Si Jesús pudo, yo tambien</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250330230000 +0000" stop="20250331000000 +0000" channel="ENLACE TBN.ar">
+<title>Vida nueva para el mundo</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250331000000 +0000" stop="20250331003000 +0000" channel="ENLACE TBN.ar">
+<title>Camino a la victoria</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250331003000 +0000" stop="20250331010000 +0000" channel="ENLACE TBN.ar">
+<title>El lugar de su presencia</title><Sub-title>Episodio: La persona ideal no existe</Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250331010000 +0000" stop="20250331013000 +0000" channel="ENLACE TBN.ar">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250331013000 +0000" stop="20250331020000 +0000" channel="ENLACE TBN.ar">
+<title>Prestonwood</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
@@ -2799,6 +3049,246 @@
 <desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250404003000 +0000" stop="20250404010000 +0000" channel="Aliento Vision.co">
+<title>Apologetica: En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Joe Owen te da las herramientas para defender tu fe contra los ataques seculares de este siglo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404010000 +0000" stop="20250404013000 +0000" channel="Aliento Vision.co">
+<title>Bendiciendo la familia</title><Sub-title></Sub-title>
+<desc>Los doctores Víctor y Hattie Tiburcio, consejeros familiares, tratan problemas reales que se presentan en la vida matrimonial y familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404013000 +0000" stop="20250404020000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title><Sub-title></Sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404020000 +0000" stop="20250404023000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404023000 +0000" stop="20250404030000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404030000 +0000" stop="20250404033000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title><Sub-title></Sub-title>
+<desc>Espacio que cuenta con científicos que te hablan sobre la conexion entre Dios y la ciencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404033000 +0000" stop="20250404040000 +0000" channel="Aliento Vision.co">
+<title>Billy Graham Classics</title><Sub-title></Sub-title>
+<desc>Disfrute las clásicas reuniones de avivamiento de Billy Graham, que ahora se transmiten a una nueva generacion de espectadores en todo el mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404040000 +0000" stop="20250404043000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404043000 +0000" stop="20250404050000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404050000 +0000" stop="20250404053000 +0000" channel="Aliento Vision.co">
+<title>Música</title><Sub-title></Sub-title>
+<desc>Disfruta de la mejor música cristiana en este segmento, donde te presentamos diversos temas cargados de mensajes positivos y buena energía, todo con el objetivo de hacer tu día más entretenido en la compañía de Dios, nuestro Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404053000 +0000" stop="20250404060000 +0000" channel="Aliento Vision.co">
+<title>Santidad a Jehová</title><Sub-title></Sub-title>
+<desc>Jobino Guzmán predica la palabra de Dios, una palabra que cambiará tu vida desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404060000 +0000" stop="20250404063000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de Dios / Vencedores</title><Sub-title></Sub-title>
+<desc>Emision que da a conocer la perfeccion del plan divino de Dios en nuestras vidas y los testimonios de personas creyentes que han consagrado cada momento de su rutina a el, siendo bendecidos por su gracia y poder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404063000 +0000" stop="20250404070000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de Dios / Vencedores</title><Sub-title></Sub-title>
+<desc>Emision que da a conocer la perfeccion del plan divino de Dios en nuestras vidas y los testimonios de personas creyentes que han consagrado cada momento de su rutina a el, siendo bendecidos por su gracia y poder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404070000 +0000" stop="20250404073000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404073000 +0000" stop="20250404080000 +0000" channel="Aliento Vision.co">
+<title>Tú puedes</title><Sub-title></Sub-title>
+<desc>Un espacio de apoyo integral al crecimiento de nuestros amigos y hermanos en Cristo. Compartimos principios y valores espirituales, culturales, intelectuales, de formacion y de desarrollo humano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404080000 +0000" stop="20250404083000 +0000" channel="Aliento Vision.co">
+<title>Voz de Victoria</title><Sub-title></Sub-title>
+<desc>Desde Long Island, el Pastor Carlos Luis se encarga de explicarte la palabra de Dios con pasion, entrega y mucho compromiso, para que puedas aplicar sus enseñanzas en tu vida diaria y puedas ser una persona más feliz y prospera.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404083000 +0000" stop="20250404090000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404090000 +0000" stop="20250404093000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404093000 +0000" stop="20250404100000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404100000 +0000" stop="20250404103000 +0000" channel="Aliento Vision.co">
+<title>Osvaldo Carnival Online</title><Sub-title></Sub-title>
+<desc>Osvaldo Carnival presenta un espacio de reflexion, que se encarga de dar a conocer testimonios de vidas transformadas a traves de la fe, la esperanza y el amor de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404103000 +0000" stop="20250404110000 +0000" channel="Aliento Vision.co">
+<title>Restauracion espiritual</title><Sub-title></Sub-title>
+<desc>Desde Cali, Colombia, el Pastor Rosenberg trae una palabra que confronta tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404110000 +0000" stop="20250404113000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404113000 +0000" stop="20250404120000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404120000 +0000" stop="20250404123000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404123000 +0000" stop="20250404130000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404130000 +0000" stop="20250404133000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404133000 +0000" stop="20250404140000 +0000" channel="Aliento Vision.co">
+<title>Deditos</title><Sub-title></Sub-title>
+<desc>Programas sanos con un mensaje positivo a niños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404140000 +0000" stop="20250404143000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404143000 +0000" stop="20250404150000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title><Sub-title></Sub-title>
+<desc>Espacio que cuenta con científicos que te hablan sobre la conexion entre Dios y la ciencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404150000 +0000" stop="20250404153000 +0000" channel="Aliento Vision.co">
+<title>Voz de Victoria</title><Sub-title></Sub-title>
+<desc>Desde Long Island, el Pastor Carlos Luis se encarga de explicarte la palabra de Dios con pasion, entrega y mucho compromiso, para que puedas aplicar sus enseñanzas en tu vida diaria y puedas ser una persona más feliz y prospera.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404153000 +0000" stop="20250404160000 +0000" channel="Aliento Vision.co">
+<title>En forma</title><Sub-title></Sub-title>
+<desc>Espacio dedicado a la salud, la estetica y la belleza, dirigido a todos aquellos que quieren mejorar su calidad de vida. Además, te ofrecerá consejos sobre como mantener una rutina para un cuerpo saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404160000 +0000" stop="20250404163000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404163000 +0000" stop="20250404170000 +0000" channel="Aliento Vision.co">
+<title>Lo que usted debe saber</title><Sub-title></Sub-title>
+<desc>El reverendo Ruben Diaz mantiene al tanto al público acerca del mundo de la política en Nueva York. A traves del espacio, la audiencia podrá informarse al completo sobre la realidad nacional e internacional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404170000 +0000" stop="20250404173000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title><Sub-title></Sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404173000 +0000" stop="20250404180000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de Dios</title><Sub-title></Sub-title>
+<desc>El Pastor Ezequiel Molina trae un tremendo mensaje desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404180000 +0000" stop="20250404183000 +0000" channel="Aliento Vision.co">
+<title>Academia de la Biblia</title><Sub-title></Sub-title>
+<desc>Alex y Andres te enseñan la Biblia de manera profunda pero con humor!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404183000 +0000" stop="20250404190000 +0000" channel="Aliento Vision.co">
+<title>Academia de la Biblia</title><Sub-title></Sub-title>
+<desc>Alex y Andres te enseñan la Biblia de manera profunda pero con humor!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404190000 +0000" stop="20250404193000 +0000" channel="Aliento Vision.co">
+<title>Deditos</title><Sub-title></Sub-title>
+<desc>Programas sanos con un mensaje positivo a niños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404193000 +0000" stop="20250404200000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title><Sub-title></Sub-title>
+<desc>Espacio que cuenta con científicos que te hablan sobre la conexion entre Dios y la ciencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404200000 +0000" stop="20250404203000 +0000" channel="Aliento Vision.co">
+<title>Beats</title><Sub-title></Sub-title>
+<desc>Espacio musical donde conocerás a tus cantantes favoritos de cerca, a traves de una amena conversacion donde expondrán sus secretos mejor guardados.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404203000 +0000" stop="20250404210000 +0000" channel="Aliento Vision.co">
+<title>Música</title><Sub-title></Sub-title>
+<desc>Disfruta de la mejor música cristiana en este segmento, donde te presentamos diversos temas cargados de mensajes positivos y buena energía, todo con el objetivo de hacer tu día más entretenido en la compañía de Dios, nuestro Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404210000 +0000" stop="20250404213000 +0000" channel="Aliento Vision.co">
+<title>Atrevete a cambiar</title><Sub-title></Sub-title>
+<desc>Disfruta este espacio que trae para ti la palabra de Dios, mensajes relevantes, prácticos y edificantes para tu vida que te ayudarán a cambiar los patrones dañinos y te acercarán más al señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404213000 +0000" stop="20250404220000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404220000 +0000" stop="20250404223000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404223000 +0000" stop="20250404230000 +0000" channel="Aliento Vision.co">
+<title>En forma</title><Sub-title></Sub-title>
+<desc>Espacio dedicado a la salud, la estetica y la belleza, dirigido a todos aquellos que quieren mejorar su calidad de vida. Además, te ofrecerá consejos sobre como mantener una rutina para un cuerpo saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404230000 +0000" stop="20250404233000 +0000" channel="Aliento Vision.co">
+<title>Cafe libre</title><Sub-title></Sub-title>
+<desc>Espacio de humor y entretenimiento que te hace reflexionar en torno al estilo de vida que llevamos diariamente, usando situaciones típicas que se desarrollan en el Cafe de Jose Luis.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404233000 +0000" stop="20250405000000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250405000000 +0000" stop="20250405003000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250328020000 +0000" stop="20250328060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
@@ -2829,107 +3319,137 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250329020000 +0000" stop="20250330020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329020000 +0000" stop="20250329060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330020000 +0000" stop="20250330060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329060000 +0000" stop="20250329100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330060000 +0000" stop="20250330100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329100000 +0000" stop="20250329140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330100000 +0000" stop="20250330140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329140000 +0000" stop="20250329180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330140000 +0000" stop="20250330180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329180000 +0000" stop="20250329220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330180000 +0000" stop="20250330220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250329220000 +0000" stop="20250330020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250330220000 +0000" stop="20250331020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250330020000 +0000" stop="20250331020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250331020000 +0000" stop="20250401020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331020000 +0000" stop="20250331060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401020000 +0000" stop="20250401060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331060000 +0000" stop="20250331100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401060000 +0000" stop="20250401100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331100000 +0000" stop="20250331140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401100000 +0000" stop="20250401140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331140000 +0000" stop="20250331180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401140000 +0000" stop="20250401180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331180000 +0000" stop="20250331220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401180000 +0000" stop="20250401220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250331220000 +0000" stop="20250401020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250401220000 +0000" stop="20250402020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250401020000 +0000" stop="20250402020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250402020000 +0000" stop="20250403020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402020000 +0000" stop="20250402060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403020000 +0000" stop="20250403060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402060000 +0000" stop="20250402100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403060000 +0000" stop="20250403100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402100000 +0000" stop="20250402140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403100000 +0000" stop="20250403140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402140000 +0000" stop="20250402180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403140000 +0000" stop="20250403180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402180000 +0000" stop="20250402220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403180000 +0000" stop="20250403220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250402220000 +0000" stop="20250403020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250403220000 +0000" stop="20250404020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250403020000 +0000" stop="20250404020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404020000 +0000" stop="20250404060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404060000 +0000" stop="20250404100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404100000 +0000" stop="20250404140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404140000 +0000" stop="20250404180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404180000 +0000" stop="20250404220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title><Sub-title></Sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404220000 +0000" stop="20250405020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title><Sub-title></Sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -4574,6 +5094,36 @@
 <desc>Toda la cobertura de la Convencion Nacional de Bolivia 2025, que se desarrollará en Sucre durante febrero y cuyo lema es "Un llamado para nuestras generaciones".</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250404020000 +0000" stop="20250404023000 +0000" channel="Bethel.hn">
+<title>Musicales variados</title><Sub-title></Sub-title>
+<desc>Una programacion musical cristiana de adoracion para todos los gustos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404023000 +0000" stop="20250404030000 +0000" channel="Bethel.hn">
+<title>Esperanza de salvacion</title><Sub-title></Sub-title>
+<desc>Encuentra salvacion en Jesús. Desde la ciudad de Madrid - España, el Reverendo Carlos Medina llega a tí, con el mensaje de esperanza que tanto anhela tu alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404030000 +0000" stop="20250404033000 +0000" channel="Bethel.hn">
+<title>Esperanza de salvacion</title><Sub-title></Sub-title>
+<desc>Encuentra salvacion en Jesús. Desde la ciudad de Madrid - España, el Reverendo Carlos Medina llega a tí, con el mensaje de esperanza que tanto anhela tu alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404033000 +0000" stop="20250404040000 +0000" channel="Bethel.hn">
+<title>Adorando</title><Sub-title></Sub-title>
+<desc>Nos unimos en alabanzas y adoracion a Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404040000 +0000" stop="20250404043000 +0000" channel="Bethel.hn">
+<title>Adorando</title><Sub-title></Sub-title>
+<desc>Nos unimos en alabanzas y adoracion a Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404043000 +0000" stop="20250404050000 +0000" channel="Bethel.hn">
+<title>La lista de Erick</title><Sub-title></Sub-title>
+<desc>Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250328003000 +0000" stop="20250328010000 +0000" channel="CCI Channel.hn">
 <title>Haciendo Iglesia</title><Sub-title></Sub-title>
 <desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
@@ -5586,7 +6136,7 @@
 </programme>
 <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="CCI Channel.hn">
 <title>Andres Spiker</title><Sub-title></Sub-title>
-<desc></desc>
+<desc>No hay repeticiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="CCI Channel.hn">
@@ -5786,12 +6336,57 @@
 </programme>
 <programme start="20250403230000 +0000" stop="20250404000000 +0000" channel="CCI Channel.hn">
 <title>Gran comision Monterrey</title><Sub-title></Sub-title>
-<desc></desc>
+<desc>No hay repeticiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250404000000 +0000" stop="20250404003000 +0000" channel="CCI Channel.hn">
 <title>Realidades</title><Sub-title></Sub-title>
 <desc>Un espacio en el que el reconocido pastor, consejero y conferencista internacional Rene Peñalba le ofrece soluciones reales y prácticas a los problemas de hoy basadas en la Palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404003000 +0000" stop="20250404010000 +0000" channel="CCI Channel.hn">
+<title>Haciendo Iglesia</title><Sub-title></Sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404010000 +0000" stop="20250404020000 +0000" channel="CCI Channel.hn">
+<title>Sergio Hornung</title><Sub-title></Sub-title>
+<desc>Predicas un tiempo especial para Dios. Pastor principal de la iglesia agua viva.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404020000 +0000" stop="20250404023000 +0000" channel="CCI Channel.hn">
+<title>Jesús 911</title><Sub-title></Sub-title>
+<desc>Una llamada de axulio a Jesús, un mensaje de esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404023000 +0000" stop="20250404030000 +0000" channel="CCI Channel.hn">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Bayless Conley es líder y vocero de una iglesia, conocido por su clara presentacion del mensaje de la Biblia y la forma en que la aplica a la vida diaria. Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404030000 +0000" stop="20250404040000 +0000" channel="CCI Channel.hn">
+<title>Mensajes para la vida</title><Sub-title></Sub-title>
+<desc>Edicion en la que podrás conocer testimonios y reflexiones para hallar la manera de reencontrarte con Dios en una vida edificada por su gracia a traves de la oracion, el evangelio y la fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404040000 +0000" stop="20250404043000 +0000" channel="CCI Channel.hn">
+<title>Realidades</title><Sub-title></Sub-title>
+<desc>Un espacio en el que el reconocido pastor, consejero y conferencista internacional Rene Peñalba le ofrece soluciones reales y prácticas a los problemas de hoy basadas en la Palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404043000 +0000" stop="20250404050000 +0000" channel="CCI Channel.hn">
+<title>El devocional</title><Sub-title></Sub-title>
+<desc>Segmento en el cual se presenta un conjunto de oraciones, reflexiones y meditaciones para encomendar la jornada diaria a nuestro señor Jesucristo, en un acto de entrega y fe a su divina voluntad, como promesa de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404050000 +0000" stop="20250404053000 +0000" channel="CCI Channel.hn">
+<title>Jesús 911</title><Sub-title></Sub-title>
+<desc>Una llamada de axulio a Jesús, un mensaje de esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404053000 +0000" stop="20250404060000 +0000" channel="CCI Channel.hn">
+<title>CCI Kissimmee</title><Sub-title></Sub-title>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250328003000 +0000" stop="20250328010000 +0000" channel="CDM - Cadena de Milagros.hn">
@@ -7139,6 +7734,36 @@
 <desc>Edicion en la que se aborda con un enfoque espiritual los diversos acontecimientos que en la actualidad afectan a las naciones, ofreciendo consejos y recomendaciones para afrontar los tiempos venideros bajo la gracia de Dios.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250404003000 +0000" stop="20250404010000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>Viviendo con sentido común</title><Sub-title></Sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404010000 +0000" stop="20250404013000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc>Reportes que inspiran fe y motivacion para afrontar las necesidades del mundo actual. Toca temas como transformacion espiritual, ayuda humanitaria, persecucion, avivamiento, misiones, cristianos destacados, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404013000 +0000" stop="20250404020000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>En contacto</title><Sub-title></Sub-title>
+<desc>El doctor Charles Stanley te habla sobre la importancia de estar conectado con Dios, para que seas instrumento de sus bendiciones y testigo de su bondad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404020000 +0000" stop="20250404030000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>Clásicos impacto de Dios</title><Sub-title></Sub-title>
+<desc>Segmento en el cual podrás ver una recopilacion de los más grandes impactos de Dios dentro del ministerio Cristo Viene, con notas de interes, reportajes, cronicas e informes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404030000 +0000" stop="20250404033000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Cada episodio presenta historias de transformacion personal y entrevistas con expertos y profesionales, así como música, noticias, informacion y temas de actualidad, todo centrado en la multifacetica cultura de los latinos en los Estados Unidos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250404033000 +0000" stop="20250404040000 +0000" channel="CDM - Cadena de Milagros.hn">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Presentada por Omar Morillo, esta es una serie dramática sobre la vida real de personas que han experimentado los límites del dolor y el sufrimiento. Escucha al presentador compartir la manera en que es posible triunfar aunque todo parezca perdido. Además, te ayudará a descubrir como puedes superar una crisis y mirar hacia un futuro de esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250328020000 +0000" stop="20250328030000 +0000" channel="MTV 00S.pe">
 <title>Rap and RnB Jamz</title><Sub-title></Sub-title>
 <desc>Una seleccion de los mejores exitos musicales de RandB de todos los tiempos.</desc>
@@ -7290,6 +7915,41 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250331200000 +0000" stop="20250401020000 +0000" channel="MTV 00S.pe">
+<title>Hits Dont Lie!</title><Sub-title></Sub-title>
+<desc>Los exitos no mienten. Una cuenta regresiva con grandes exitos para bailar y disfrutar como nunca antes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401020000 +0000" stop="20250401030000 +0000" channel="MTV 00S.pe">
+<title>Top 20 : Crazy In Love!</title><Sub-title>Crazy In Love!</Sub-title>
+<desc>Una celebracion del amor con una seleccion de 50 melodías románticas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401030000 +0000" stop="20250401080000 +0000" channel="MTV 00S.pe">
+<title>Non-Stop Y2ks!</title><Sub-title></Sub-title>
+<desc>La decada de los 00 estuvo llena de temas emblemáticos, que se van a reproducir en este especial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401080000 +0000" stop="20250401130000 +0000" channel="MTV 00S.pe">
+<title>Hits on Shuffle!</title><Sub-title></Sub-title>
+<desc>MTV se ha puesto manos a la obra con los exitos más sonados y queridos de algunos de los artistas favoritos. Puede que haya alguna sorpresa por el camino.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="MTV 00S.pe">
+<title>Rap and RnB Jamz</title><Sub-title></Sub-title>
+<desc>Una seleccion de los mejores exitos musicales de RandB de todos los tiempos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401140000 +0000" stop="20250401190000 +0000" channel="MTV 00S.pe">
+<title>Non-Stop Y2ks!</title><Sub-title></Sub-title>
+<desc>La decada de los 00 estuvo llena de temas emblemáticos, que se van a reproducir en este especial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401190000 +0000" stop="20250401200000 +0000" channel="MTV 00S.pe">
+<title>2000 Replay!</title><Sub-title></Sub-title>
+<desc>Una tormenta de rayos musicales azota la señal de MTV y su vortice te absorbe para llevarte de vuelta al año 2000. La línea temporal solo puede ser restablecida si escuchas esta lista de reproduccion con los mejores exitos de aquellos años.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250401200000 +0000" stop="20250402020000 +0000" channel="MTV 00S.pe">
 <title>Hits Dont Lie!</title><Sub-title></Sub-title>
 <desc>Los exitos no mienten. Una cuenta regresiva con grandes exitos para bailar y disfrutar como nunca antes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
