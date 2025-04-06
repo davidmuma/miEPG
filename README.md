@@ -1,4 +1,4 @@
-# miEPG   v2.2
+# miEPG   v2.3
 
 El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre y el logo en cada canal
 
