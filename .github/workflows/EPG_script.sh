@@ -17,6 +17,7 @@ rm -f EPG_temp*
 			wget -O EPG_temp00.xml -q ${epg}
 		fi
   	cat EPG_temp00.xml >> EPG_temp.xml
+   	sed -i 's/></>\n</g' EPG_temp.xml
 	done < epgs.txt
 
  	while IFS=, read -r old new logo
