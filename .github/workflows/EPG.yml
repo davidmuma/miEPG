@@ -1,0 +1,53 @@
+name: Generar EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *" # 10:00 hora española (CET/CEST)
+    - cron: "0 12 * * *" # 14:00 hora española (CET/CEST)
+    - cron: "0 16 * * *" # 18:00 hora española (CET/CEST)
+    - cron: "0 20 * * *" # 22:00 hora española (CET/CEST)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Ejecutar script de EPG
+        run: python EPG_script.py
+
+      - name: Verificar archivos generados
+        run: |
+          ls -lh
+          if [ -f EPG.log ]; then cat EPG.log; else echo "📝 No se generó EPG.log"; fi
+
+      - name: Commit y push (opcional)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add EPG.xml
+          if [ -f EPG.log ]; then git add EPG.log; fi
+          git commit -m "🔄 EPG actualizado [$(date)]" || echo "Sin cambios para commitear"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Notificación de fallos
+      - name: Notify on failure
+        if: failure() && github.event_name == 'pull_request'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.payload.pull_request.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "⚠️ Fallo al generar EPG"
+            })
