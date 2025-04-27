@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
-<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name><icon src="https://images.open-epg.com/35852.png"/></channel>
-<channel id="MTV 00S.pe"><display-name>MTV 00S.pe</display-name><icon src="https://images.open-epg.com/26656.png"/></channel>
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="MTV Hits.uy"><display-name>MTV Hits.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
@@ -34,6 +29,11 @@
 <channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name><icon src="https://images.open-epg.com/18125.png"/></channel>
 <channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name><icon src="https://images.open-epg.com/18126.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
+<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name><icon src="https://images.open-epg.com/35852.png"/></channel>
+<channel id="MTV 00S.pe"><display-name>MTV 00S.pe</display-name><icon src="https://images.open-epg.com/26656.png"/></channel>
 <programme start="20250426030000 +0000" stop="20250426050000 +0000" channel="MTV 80s.ar">
 <title>Forever 80s</title><Sub-title></Sub-title>
 <desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
@@ -297,6 +297,41 @@
 <programme start="20250503000000 +0000" stop="20250503010000 +0000" channel="MTV 80s.ar">
 <title>Best 80s Debuts!</title><Sub-title></Sub-title>
 <desc>La primera impresion es la que cuenta. ¡Estos artistas no podrían haber causado una mejor! Una lista de los mayores exitos debut de los años ochenta.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503010000 +0000" stop="20250503030000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503030000 +0000" stop="20250503050000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title><Sub-title></Sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503050000 +0000" stop="20250503080000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title><Sub-title></Sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503080000 +0000" stop="20250503130000 +0000" channel="MTV 80s.ar">
+<title>Happy Hits of the 80s! Top 50</title><Sub-title></Sub-title>
+<desc>¿Estás con el ánimo bajo? Despreocúpate y dejate consentir con esta seleccion musical que incluye las 50 canciones de la decada de los 80 con el rimo más alegre. ¡Fuera tristeza!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503130000 +0000" stop="20250503150000 +0000" channel="MTV 80s.ar">
+<title>80s Double Shots: 2 From 1!</title><Sub-title></Sub-title>
+<desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503150000 +0000" stop="20250503200000 +0000" channel="MTV 80s.ar">
+<title>Every UK No.1 Love Song of the 80s</title><Sub-title></Sub-title>
+<desc>Los hechizos de las hadas del amor surten efecto en todo el mundo. El corazon de MTV no es la excepcion y de el se desprenden las mejores canciones románticas de los 80 hechas en el Reino Unido.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503200000 +0000" stop="20250504010000 +0000" channel="MTV 80s.ar">
+<title>Every UK No.1 Love Song of the 80s</title><Sub-title></Sub-title>
+<desc>Los hechizos de las hadas del amor surten efecto en todo el mundo. El corazon de MTV no es la excepcion y de el se desprenden las mejores canciones románticas de los 80 hechas en el Reino Unido.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250426020000 +0000" stop="20250426023000 +0000" channel="ENLACE TBN.ar">
@@ -1307,6 +1342,16 @@
 <programme start="20250428000000 +0000" stop="20250428013000 +0000" channel="Canal Luz.ar">
 <title>Noches CDV</title><Sub-title></Sub-title>
 <desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250428013000 +0000" stop="20250428023000 +0000" channel="Canal Luz.ar">
+<title>Día de bendicion</title><Sub-title></Sub-title>
+<desc>El pastor Omar Olier conduce este segmento en el cual realiza algunas predicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendicion a tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250428023000 +0000" stop="20250429023000 +0000" channel="Canal Luz.ar">
+<title>Rey de reyes</title><Sub-title></Sub-title>
+<desc>Conferencia Rey de Reyes en la que pastores y líderes de diferentes lugares del mundo reciben una imparticion especial del Espíritu Santo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250426003000 +0000" stop="20250426010000 +0000" channel="Aliento Vision.co">
@@ -2987,6 +3032,246 @@
 <programme start="20250503000000 +0000" stop="20250503003000 +0000" channel="Aliento Vision.co">
 <title>Aliento de vida</title><Sub-title></Sub-title>
 <desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503003000 +0000" stop="20250503010000 +0000" channel="Aliento Vision.co">
+<title>Apologetica: En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Joe Owen te da las herramientas para defender tu fe contra los ataques seculares de este siglo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503010000 +0000" stop="20250503013000 +0000" channel="Aliento Vision.co">
+<title>Bendiciendo la familia</title><Sub-title></Sub-title>
+<desc>Los doctores Víctor y Hattie Tiburcio, consejeros familiares, tratan problemas reales que se presentan en la vida matrimonial y familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503013000 +0000" stop="20250503020000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title><Sub-title></Sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503020000 +0000" stop="20250503023000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503023000 +0000" stop="20250503030000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503030000 +0000" stop="20250503033000 +0000" channel="Aliento Vision.co">
+<title>Santidad a Jehová</title><Sub-title></Sub-title>
+<desc>Jobino Guzmán predica la palabra de Dios, una palabra que cambiará tu vida desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503033000 +0000" stop="20250503040000 +0000" channel="Aliento Vision.co">
+<title>Música - Testimonios</title><Sub-title></Sub-title>
+<desc>Música variada con un mensaje positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503040000 +0000" stop="20250503043000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503043000 +0000" stop="20250503050000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title><Sub-title></Sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503050000 +0000" stop="20250503053000 +0000" channel="Aliento Vision.co">
+<title>Noches de adoracion</title><Sub-title></Sub-title>
+<desc>Un concierto musical diferente cada fin de semana, con los más conocidos interpretes y agrupaciones de la música cristiana latina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503053000 +0000" stop="20250503060000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title><Sub-title></Sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503060000 +0000" stop="20250503063000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503063000 +0000" stop="20250503070000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503070000 +0000" stop="20250503073000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title><Sub-title></Sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503073000 +0000" stop="20250503080000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503080000 +0000" stop="20250503083000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title><Sub-title></Sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503083000 +0000" stop="20250503090000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503090000 +0000" stop="20250503093000 +0000" channel="Aliento Vision.co">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc>Espacio informativo semanal desde San Jose de Costa Rica, con el que te mantendrás al tanto del acontecer mundial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503093000 +0000" stop="20250503100000 +0000" channel="Aliento Vision.co">
+<title>Osvaldo Carnival Online</title><Sub-title></Sub-title>
+<desc>Osvaldo Carnival presenta un espacio de reflexion, que se encarga de dar a conocer testimonios de vidas transformadas a traves de la fe, la esperanza y el amor de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503100000 +0000" stop="20250503103000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503103000 +0000" stop="20250503110000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503110000 +0000" stop="20250503113000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title><Sub-title></Sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503113000 +0000" stop="20250503120000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title><Sub-title></Sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503120000 +0000" stop="20250503123000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503123000 +0000" stop="20250503130000 +0000" channel="Aliento Vision.co">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc>Espacio informativo semanal desde San Jose de Costa Rica, con el que te mantendrás al tanto del acontecer mundial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503130000 +0000" stop="20250503133000 +0000" channel="Aliento Vision.co">
+<title>Deditos</title><Sub-title></Sub-title>
+<desc>Programas sanos con un mensaje positivo a niños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503133000 +0000" stop="20250503140000 +0000" channel="Aliento Vision.co">
+<title>La casa voladora</title><Sub-title></Sub-title>
+<desc>El profesor Bumble construye una casa que viaja por el tiempo y que le permite ir a diferentes lugares y recorrer pasajes bíblicos para dar lecciones a los niños sobre la vida de Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503140000 +0000" stop="20250503143000 +0000" channel="Aliento Vision.co">
+<title>Aventuras en Odisea</title><Sub-title></Sub-title>
+<desc>Una serie de fantásticas aventuras en dibujos animados, estos personajes viajan a traves un mundo lleno de accion y grandes experiencias, cada episodio está repleto de accion y diversion para toda la familia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503143000 +0000" stop="20250503150000 +0000" channel="Aliento Vision.co">
+<title>The Torchlighters</title><Sub-title></Sub-title>
+<desc>Sigue las aventuras de los Antorchas Heroes de la Fe y observa como Dios obra a traves de aquellos que dedican su vida a servirlo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503150000 +0000" stop="20250503153000 +0000" channel="Aliento Vision.co">
+<title>En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Un tiempo para meditar, aprender, crecer y defender la fe bíblica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503153000 +0000" stop="20250503160000 +0000" channel="Aliento Vision.co">
+<title>En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Un tiempo para meditar, aprender, crecer y defender la fe bíblica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503160000 +0000" stop="20250503163000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503163000 +0000" stop="20250503170000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title><Sub-title></Sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503170000 +0000" stop="20250503173000 +0000" channel="Aliento Vision.co">
+<title>Global 3000</title><Sub-title></Sub-title>
+<desc>El magacín de DW sobre la globalizacion trata temas de interes para todos los habitantes del planeta, en especial como la gente afronta las oportunidades y los riesgos que conlleva la globalizacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503173000 +0000" stop="20250503180000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title><Sub-title></Sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503180000 +0000" stop="20250503183000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title><Sub-title></Sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503183000 +0000" stop="20250503190000 +0000" channel="Aliento Vision.co">
+<title>Vive más</title><Sub-title></Sub-title>
+<desc>Desde Mexico, un programa que te invita a poner tu esperanza en las cosas eternas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503190000 +0000" stop="20250503193000 +0000" channel="Aliento Vision.co">
+<title>Razon de vivir</title><Sub-title></Sub-title>
+<desc>Espacio con contenidos interesantes, edificantes y sobre todo enfocados en la palabra y el mensaje de Dios. Tendremos invitados especiales que darán sus testimonios y junto a nosotros adorarán al Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503193000 +0000" stop="20250503200000 +0000" channel="Aliento Vision.co">
+<title>Razon de vivir</title><Sub-title></Sub-title>
+<desc>Espacio con contenidos interesantes, edificantes y sobre todo enfocados en la palabra y el mensaje de Dios. Tendremos invitados especiales que darán sus testimonios y junto a nosotros adorarán al Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503200000 +0000" stop="20250503203000 +0000" channel="Aliento Vision.co">
+<title>Beats</title><Sub-title></Sub-title>
+<desc>Espacio musical donde conocerás a tus cantantes favoritos de cerca, a traves de una amena conversacion donde expondrán sus secretos mejor guardados.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503203000 +0000" stop="20250503210000 +0000" channel="Aliento Vision.co">
+<title>Lo que usted debe saber</title><Sub-title></Sub-title>
+<desc>El reverendo Ruben Diaz mantiene al tanto al público acerca del mundo de la política en Nueva York. A traves del espacio, la audiencia podrá informarse al completo sobre la realidad nacional e internacional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503210000 +0000" stop="20250503213000 +0000" channel="Aliento Vision.co">
+<title>Retorno</title><Sub-title></Sub-title>
+<desc>El Dr. Kittim Silva nos da explicaciones en torno a la palabra de Dios de forma clara, tomando diferentes ejemplos de la vida cotidiana a los que aplicar estas enseñanzas que promueven la fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503213000 +0000" stop="20250503220000 +0000" channel="Aliento Vision.co">
+<title>En forma</title><Sub-title></Sub-title>
+<desc>Espacio que abarca todos los aspectos de la salud, para que conozcas las últimas novedades en tratamientos medicos, medicina alternativa, bienestar y ejercicio, así como los más recientes descubrimientos en nutricion y belleza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503220000 +0000" stop="20250503223000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title><Sub-title></Sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503223000 +0000" stop="20250503230000 +0000" channel="Aliento Vision.co">
+<title>Mundo cristiano</title><Sub-title></Sub-title>
+<desc>Espacio informativo semanal desde San Jose de Costa Rica, con el que te mantendrás al tanto del acontecer mundial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503230000 +0000" stop="20250503233000 +0000" channel="Aliento Vision.co">
+<title>Apologetica: En defensa de la Fe</title><Sub-title></Sub-title>
+<desc>Joe Owen te da las herramientas para defender tu fe contra los ataques seculares de este siglo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250503233000 +0000" stop="20250504000000 +0000" channel="Aliento Vision.co">
+<title>Música</title><Sub-title></Sub-title>
+<desc>Disfruta de la mejor música cristiana en este segmento, donde te presentamos diversos temas cargados de mensajes positivos y buena energía, todo con el objetivo de hacer tu día más entretenido en la compañía de Dios, nuestro Señor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250504000000 +0000" stop="20250504003000 +0000" channel="Aliento Vision.co">
+<title>Cine de Aliento Vision</title><Sub-title></Sub-title>
+<desc>Ciclo de películas en las que podrás recibir un mensaje alentador y disfrutar de excelentes producciones en la comodidad de tu hogar,</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250426020000 +0000" stop="20250426060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
@@ -7109,6 +7394,41 @@
 <desc>Los exitos no mienten. Una cuenta regresiva con grandes exitos para bailar y disfrutar como nunca antes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250430020000 +0000" stop="20250430030000 +0000" channel="MTV 00S.pe">
+<title>Chillout Zone</title><Sub-title></Sub-title>
+<desc>Una serie de melodías tranquilas para sentarse, relajarse y tranquilizarse.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430030000 +0000" stop="20250430080000 +0000" channel="MTV 00S.pe">
+<title>Year Clash! 2000 Vs 2009</title><Sub-title></Sub-title>
+<desc>Se alternan videos de 2000 y 2009 uno al lado del otro para ver como ha cambiado la música a traves de los años. ¿Será un choque de audio o irán perfectos juntos? ¡Vamos a descubrirlo!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430080000 +0000" stop="20250430130000 +0000" channel="MTV 00S.pe">
+<title>Hits on Shuffle!</title><Sub-title></Sub-title>
+<desc>MTV se ha puesto manos a la obra con los exitos más sonados y queridos de algunos de los artistas favoritos. Puede que haya alguna sorpresa por el camino.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="MTV 00S.pe">
+<title>Supermassive Rock Anthems!</title><Sub-title></Sub-title>
+<desc>Himnos y exitos del rock de ayer y hoy que ponen los pelos de punta y rompen paradigmas a traves de MTV.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430140000 +0000" stop="20250430190000 +0000" channel="MTV 00S.pe">
+<title>Non-Stop Y2ks!</title><Sub-title></Sub-title>
+<desc>La decada de los 00 estuvo llena de temas emblemáticos, que se van a reproducir en este especial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="MTV 00S.pe">
+<title>Beyonce X Justin Timberlake</title><Sub-title></Sub-title>
+<desc>Éxitos consecutivos de Beyonce y Justin Timberlake, dos iconos de la música.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250430200000 +0000" stop="20250501020000 +0000" channel="MTV 00S.pe">
+<title>Hits Dont Lie!</title><Sub-title></Sub-title>
+<desc>Los exitos no mienten. Una cuenta regresiva con grandes exitos para bailar y disfrutar como nunca antes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250426020000 +0000" stop="20250426070000 +0000" channel="Canal Parlamento.es">
 <title>Canal Parlamentario</title><Sub-title></Sub-title>
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
@@ -7180,6 +7500,36 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250428180000 +0000" stop="20250428220000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250428220000 +0000" stop="20250429020000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250429020000 +0000" stop="20250429070000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250429070000 +0000" stop="20250429100000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250429100000 +0000" stop="20250429140000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250429140000 +0000" stop="20250429180000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title><Sub-title></Sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250429180000 +0000" stop="20250429220000 +0000" channel="Canal Parlamento.es">
 <title>Canal Parlamentario</title><Sub-title></Sub-title>
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
