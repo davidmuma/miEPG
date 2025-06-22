@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="MTV Hits.uy"><display-name>MTV Hits.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
@@ -39,6 +38,7 @@
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="Daystar.ar">
 <title>Joni Table Talk : Joni Music: Each One Reach One</title>
 <sub-title>Joni Music: Each One Reach One</sub-title>
@@ -4351,6 +4351,18 @@
 <title>Noches CDV</title>
 <sub-title></sub-title>
 <desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250623013000 +0000" stop="20250623023000 +0000" channel="Canal Luz.ar">
+<title>Día de bendicion</title>
+<sub-title></sub-title>
+<desc>El pastor Omar Olier conduce este segmento en el cual realiza algunas predicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendicion a tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250623023000 +0000" stop="20250624023000 +0000" channel="Canal Luz.ar">
+<title>Rey de reyes</title>
+<sub-title></sub-title>
+<desc>Conferencia Rey de Reyes en la que pastores y líderes de diferentes lugares del mundo reciben una imparticion especial del Espíritu Santo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="Aliento Vision.co">
