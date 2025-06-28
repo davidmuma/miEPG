@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
-<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="MTV Hits.uy"><display-name>MTV Hits.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
@@ -39,6 +37,8 @@
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <programme start="20250627003000 +0000" stop="20250627010000 +0000" channel="Daystar.ar">
 <title>Joni Table Talk : The Dragons Prophecy Part 1</title>
 <sub-title>The Dragons Prophecy Part 1</sub-title>
@@ -4381,6 +4381,228 @@
 <title>Un día a la vez</title>
 <sub-title></sub-title>
 <desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629010000 +0000" stop="20250629020000 +0000" channel="Canal Luz.ar">
+<title>Catedral de la Fe</title>
+<sub-title></sub-title>
+<desc>El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629020000 +0000" stop="20250629030000 +0000" channel="Canal Luz.ar">
+<title>Charlando con Mabel</title>
+<sub-title></sub-title>
+<desc>Conversaciones junto a Mabel Silvestri.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629030000 +0000" stop="20250629033000 +0000" channel="Canal Luz.ar">
+<title>Jovenes heroes</title>
+<sub-title></sub-title>
+<desc>Xavier Ferro motiva a la juventud de fe a vivir al máximo su experiencia cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629033000 +0000" stop="20250629040000 +0000" channel="Canal Luz.ar">
+<title>Torre de oracion</title>
+<sub-title></sub-title>
+<desc>Emision en la que podrás experimentar un encuentro diferente con Dios, a traves de cantos de alabanza, oracion constante y la predicacion del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629040000 +0000" stop="20250629041500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629041500 +0000" stop="20250629043000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629043000 +0000" stop="20250629050000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629050000 +0000" stop="20250629053000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629053000 +0000" stop="20250629060000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629060000 +0000" stop="20250629063000 +0000" channel="Canal Luz.ar">
+<title>De corazon a corazon</title>
+<sub-title></sub-title>
+<desc>Una guía en el camino hacia la formacion de una vida de oracion mediante la adoracion eucarística, la meditacion y la reflexion, con consejos útiles que edifican el alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629063000 +0000" stop="20250629070000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629070000 +0000" stop="20250629073000 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629073000 +0000" stop="20250629083000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629083000 +0000" stop="20250629090000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629090000 +0000" stop="20250629100000 +0000" channel="Canal Luz.ar">
+<title>Catedral de la Fe</title>
+<sub-title></sub-title>
+<desc>El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629100000 +0000" stop="20250629101500 +0000" channel="Canal Luz.ar">
+<title>Centro de avivamiento familiar</title>
+<sub-title></sub-title>
+<desc>El fuego de Dios produce un despertar en la vida del creyente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629101500 +0000" stop="20250629103000 +0000" channel="Canal Luz.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629103000 +0000" stop="20250629110000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629110000 +0000" stop="20250629113000 +0000" channel="Canal Luz.ar">
+<title>Los 4 Evangelios</title>
+<sub-title></sub-title>
+<desc>Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guion, palabra por palabra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629113000 +0000" stop="20250629120000 +0000" channel="Canal Luz.ar">
+<title>La verdad y nada más</title>
+<sub-title></sub-title>
+<desc>Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oracion de Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629120000 +0000" stop="20250629130000 +0000" channel="Canal Luz.ar">
+<title>Catedral de milagros</title>
+<sub-title></sub-title>
+<desc>Una Iglesia adoradora, sanadora y restauradora. La meta principal es que todos aprendan a ministrar de Cristo en un mundo de necesidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629130000 +0000" stop="20250629140000 +0000" channel="Canal Luz.ar">
+<title>Clásicos de Canal Luz</title>
+<sub-title></sub-title>
+<desc>Revivimos los momentos más memorables de nuestra programacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629140000 +0000" stop="20250629150000 +0000" channel="Canal Luz.ar">
+<title>Vision de futuro</title>
+<sub-title></sub-title>
+<desc>Acompaña al reverendo Omar Cabrera en esta edicion en la que presenta algunos mensajes de fe y esperanza inspirados en las enseñanzas bíblicas, para que puedas edificar tu alma a traves del encuentro con Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629150000 +0000" stop="20250629160000 +0000" channel="Canal Luz.ar">
+<title>Una cita con la vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629160000 +0000" stop="20250629170000 +0000" channel="Canal Luz.ar">
+<title>Santuario de fe al aire</title>
+<sub-title></sub-title>
+<desc>Asista a un encuentro espiritual que le acercará al gran poder de Dios a traves de la oracion, y a mensajes reveladores e inspiradores sobre las Sagradas Escrituras.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629170000 +0000" stop="20250629170600 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629170600 +0000" stop="20250629171500 +0000" channel="Canal Luz.ar">
+<title>Aprender a vivir</title>
+<sub-title></sub-title>
+<desc>Una pausa para reflexionar sobre las conductas de nuestro diario vivir, junto a Arnoldo Aranda.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629171500 +0000" stop="20250629173000 +0000" channel="Canal Luz.ar">
+<title>Los 4 Evangelios</title>
+<sub-title></sub-title>
+<desc>Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guion, palabra por palabra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629173000 +0000" stop="20250629180000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629180000 +0000" stop="20250629183000 +0000" channel="Canal Luz.ar">
+<title>La verdad te hará libre</title>
+<sub-title></sub-title>
+<desc>Acompaña al pastor Gustavo Ferro en esta edicion que motivará tu vida a la fe, guiará tu conocimiento personal de la Verdad y a servir a Dios cumpliendo el mandato de Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629183000 +0000" stop="20250629190000 +0000" channel="Canal Luz.ar">
+<title>Todo es posible</title>
+<sub-title></sub-title>
+<desc>Un tiempo para alentar a los televidentes a creer en los milagros sobrenaturales de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629190000 +0000" stop="20250629193000 +0000" channel="Canal Luz.ar">
+<title>Libros con voz</title>
+<sub-title></sub-title>
+<desc>Con la conduccion de Silvia Rodríguez, se proponen entrevistas amenas, presentando recomendaciones literarias; vas a escuchar a distintos autores de libros, con un mensaje de sanidad, restauracion, sabiduría y crecimiento.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629193000 +0000" stop="20250629200000 +0000" channel="Canal Luz.ar">
+<title>El camino</title>
+<sub-title></sub-title>
+<desc>Un programa de contenido religioso para conectar con la fe y la esperanza a traves de la oracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629200000 +0000" stop="20250629210000 +0000" channel="Canal Luz.ar">
+<title>Esperanza en la ciudad</title>
+<sub-title></sub-title>
+<desc>Edicion en la cual la Iglesia Evangelica Armenia, a traves de Pedro Lapadjian, expone un mensaje de fe y amor con algunas reflexiones para fortalecer la vida del cristiano en la gracia de Dios, y que nos alientan a esperar sin desmayar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629210000 +0000" stop="20250629221500 +0000" channel="Canal Luz.ar">
+<title>Cielos abiertos</title>
+<sub-title></sub-title>
+<desc>Inspiracion y motivacion son las marcas características. La direccion para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conduccion de Jorge Ledesma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250629221500 +0000" stop="20250630000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc>Conferencias en vivo desde el auditorio de la Iglesia Evangelica Misionera Argentina. El público podrá disfrutar de un momento de reflexion e introspeccion espiritual a traves de la interpretacion de la Palabra de Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250630000000 +0000" stop="20250630013000 +0000" channel="Canal Luz.ar">
+<title>Noches CDV</title>
+<sub-title></sub-title>
+<desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250627003000 +0000" stop="20250627010000 +0000" channel="Aliento Vision.co">
