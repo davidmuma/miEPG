@@ -2,21 +2,10 @@
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 <channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
-<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
-<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
 <channel id="Bethel.hn"><display-name>Bethel.hn</display-name><icon src="https://images.open-epg.com/18117.png"/></channel>
 <channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name><icon src="https://images.open-epg.com/18125.png"/></channel>
 <channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name><icon src="https://images.open-epg.com/18126.png"/></channel>
-<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
-<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
-<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
-<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
-<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
 <channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/19526.png"/></channel>
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
@@ -48,6 +37,17 @@
 <channel id="Trailers.es"><display-name>Trailers.es</display-name><icon src="https://images.open-epg.com/5154.png"/></channel>
 <channel id="Viajes y Sabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="ZUT TV.es"><display-name>ZUT TV.es</display-name><icon src="https://images.open-epg.com/5184.png"/></channel>
+<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
+<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
+<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
+<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
+<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20250801003000 +0000" stop="20250801010000 +0000" channel="Daystar.ar">
 <title>Joni Table Talk : Break Free: Un encuentro de 45 días con Dios que cambia todo</title>
 <sub-title>Break Free: Un encuentro de 45 días con Dios que cambia todo</sub-title>
@@ -4884,10 +4884,100 @@
 <desc>Herbal es un joven voluntario que sigue a Daniel Da Barca y a su bella novia. Invisible a los ojos de la pareja, este se convierte en su sombra, pero pronto se enfrenta al descontrol y empieza a mezclar el odio con la pasion.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802022500 +0000" stop="20250803022500 +0000" channel="Atrescine.ar">
+<programme start="20250802022500 +0000" stop="20250802042000 +0000" channel="Atrescine.ar">
 <title>Luz de domingo</title>
 <sub-title></sub-title>
 <desc>En un pueblecito asturiano, llamado Cienciella, la lucha entre dos bandos políticos trae la desgracia a unos seres bondadosos e ingenuos: la pareja formada por Urbano y Estrella.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802042000 +0000" stop="20250802055500 +0000" channel="Atrescine.ar">
+<title>Una estacion de paso</title>
+<sub-title></sub-title>
+<desc>Como al final de cada verano, Antonio ha subido al tejado para deshollinar la chimenea. Desde la altura, se da cuenta de que han comenzado a reparar una de las casas vecinas: la que tiempo atrás habitaba el "nazi".</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802055500 +0000" stop="20250802074000 +0000" channel="Atrescine.ar">
+<title>Ouija</title>
+<sub-title></sub-title>
+<desc>Un grupo de jovenes se reunirán para vivir una experiencia divertida a la vez que peligrosa: una sesion ouija. Para sorpresa de todos, un enigmático ser, que dice llamarse Audscias se comunica con los jovenes a traves de la ouija.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802074000 +0000" stop="20250802093000 +0000" channel="Atrescine.ar">
+<title>Alas de mariposa</title>
+<sub-title></sub-title>
+<desc>Un matrimonio humilde del norte ansía tener un hijo varon. Sin embargo, el destino les trae una niña. Al poco tiempo, un nuevo hijo llega, pero un hecho terrible generará un conflicto familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802093000 +0000" stop="20250802100000 +0000" channel="Atrescine.ar">
+<title>La venganza de Don Mendo</title>
+<sub-title></sub-title>
+<desc>La venganza de un hombre que es condenado a morir por estar enamorado de una mujer casada. Don Mendo promete proteger el honor de su amada Magdalena, ante la injusticia de no poder mantener su amor a la vista de todos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802100000 +0000" stop="20250802110000 +0000" channel="Atrescine.ar">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Espacio de contenido infomercial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802110000 +0000" stop="20250802124000 +0000" channel="Atrescine.ar">
+<title>La diputada</title>
+<sub-title></sub-title>
+<desc>Un grupo de banqueros decide crear un partido político que cumpla sus intereses. La candidata elegida para representarlos es una bella mujer de negocios que pronto descubre lo difícil que resulta desenvolverse en el mundo de política.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802124000 +0000" stop="20250802141500 +0000" channel="Atrescine.ar">
+<title>El sol sale todos los días</title>
+<sub-title></sub-title>
+<desc>Diogenes vive, en cierto modo, retirado del mundo, cultivando una extraña filosofía. Sin otro quehacer que el cultivo de su melonar, vive tranquilo y feliz, hasta que, un chiquillo y el amor irrumpen en su vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802141500 +0000" stop="20250802154500 +0000" channel="Atrescine.ar">
+<title>Ovejas negras</title>
+<sub-title></sub-title>
+<desc>Adolfo de la Cruz, un hombre de 45 años, visita al Padre Benito, antiguo profesor suyo y actual rector del colegio donde estudio cuando era niño. Desea contarle una historia protagonizada por el mismo en sus años escolares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802154500 +0000" stop="20250802173000 +0000" channel="Atrescine.ar">
+<title>Deseo</title>
+<sub-title></sub-title>
+<desc>En 1945, Madrid intenta crecer luego de la guerra. Elvira, hija de un comunista fusilado, encuentra trabajo en casa de Pablo, un empresario argentino de origen alemán. Poco a poco, los dos se sumergen en una apasionada relacion amorosa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802173000 +0000" stop="20250802192000 +0000" channel="Atrescine.ar">
+<title>Secretos del corazon</title>
+<sub-title></sub-title>
+<desc>Durante las vacaciones, Javi y su hermano van al pueblo en la montaña. Allí Javi se siente atraído por el secreto que oculta una habitacion de la casa que siempre permanece cerrada: la sala donde encontraron muerto a su padre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802192000 +0000" stop="20250802210500 +0000" channel="Atrescine.ar">
+<title>Para que no me olvides</title>
+<sub-title></sub-title>
+<desc>David está enamorado de Clara a pesar de que Irene, la madre de el, no la acepta. Mateo, su abuelo experimentado, capea el temporal hasta que un día un hecho inesperado pondrá a todos a prueba.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802210500 +0000" stop="20250802225000 +0000" channel="Atrescine.ar">
+<title>Esquilache</title>
+<sub-title></sub-title>
+<desc>El marques de Esquilache, ministro de Carlos III, llega a su residencia y comprueba horrorizado los efectos del saqueo a que ha sido sometida su casa. Una mirada al ascenso y declive político de este personaje historico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802225000 +0000" stop="20250803004000 +0000" channel="Atrescine.ar">
+<title>La Lola se va a los puertos</title>
+<sub-title></sub-title>
+<desc>La Lola es la cantante más afamada de Andalucía. Todos los hombres la desean: su guitarrista Heredia, el adinerado Don Diego y su hombre de confianza "Panza Triste", amigo de camorras. Sin embargo, ella se enamorará de otro muchacho.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803004000 +0000" stop="20250803023000 +0000" channel="Atrescine.ar">
+<title>Pudor</title>
+<sub-title></sub-title>
+<desc>Pudor es una mirada a la intimidad, a los deseos, obsesiones, secretos y miedos que no confesamos ni siquiera a quienes más queremos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803023000 +0000" stop="20250804023000 +0000" channel="Atrescine.ar">
+<title>Celos</title>
+<sub-title></sub-title>
+<desc>Un accidente fatal y una fotografía del lugar del accidente desatan los celos de Antonio y develan el pasado de Carmen. Todo lo que habían soñado para los dos pasará por un túnel interminable de desconfianza.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250801010000 +0000" stop="20250801023000 +0000" channel="Canal Luz.ar">
@@ -5376,6 +5466,228 @@
 <desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250803010000 +0000" stop="20250803020000 +0000" channel="Canal Luz.ar">
+<title>Catedral de la Fe</title>
+<sub-title></sub-title>
+<desc>El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803020000 +0000" stop="20250803030000 +0000" channel="Canal Luz.ar">
+<title>Charlando con Mabel</title>
+<sub-title></sub-title>
+<desc>Conversaciones junto a Mabel Silvestri.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803030000 +0000" stop="20250803033000 +0000" channel="Canal Luz.ar">
+<title>Jovenes heroes</title>
+<sub-title></sub-title>
+<desc>Xavier Ferro motiva a la juventud de fe a vivir al máximo su experiencia cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803033000 +0000" stop="20250803040000 +0000" channel="Canal Luz.ar">
+<title>Torre de oracion</title>
+<sub-title></sub-title>
+<desc>Emision en la que podrás experimentar un encuentro diferente con Dios, a traves de cantos de alabanza, oracion constante y la predicacion del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803040000 +0000" stop="20250803041500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803041500 +0000" stop="20250803043000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803043000 +0000" stop="20250803050000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803050000 +0000" stop="20250803053000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803053000 +0000" stop="20250803060000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803060000 +0000" stop="20250803063000 +0000" channel="Canal Luz.ar">
+<title>De corazon a corazon</title>
+<sub-title></sub-title>
+<desc>Una guía en el camino hacia la formacion de una vida de oracion mediante la adoracion eucarística, la meditacion y la reflexion, con consejos útiles que edifican el alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803063000 +0000" stop="20250803070000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803070000 +0000" stop="20250803073000 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803073000 +0000" stop="20250803083000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803083000 +0000" stop="20250803090000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803090000 +0000" stop="20250803100000 +0000" channel="Canal Luz.ar">
+<title>Catedral de la Fe</title>
+<sub-title></sub-title>
+<desc>El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803100000 +0000" stop="20250803101500 +0000" channel="Canal Luz.ar">
+<title>Centro de avivamiento familiar</title>
+<sub-title></sub-title>
+<desc>El fuego de Dios produce un despertar en la vida del creyente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803101500 +0000" stop="20250803103000 +0000" channel="Canal Luz.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803103000 +0000" stop="20250803110000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803110000 +0000" stop="20250803113000 +0000" channel="Canal Luz.ar">
+<title>Los 4 Evangelios</title>
+<sub-title></sub-title>
+<desc>Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guion, palabra por palabra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803113000 +0000" stop="20250803120000 +0000" channel="Canal Luz.ar">
+<title>La verdad y nada más</title>
+<sub-title></sub-title>
+<desc>Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oracion de Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803120000 +0000" stop="20250803130000 +0000" channel="Canal Luz.ar">
+<title>Catedral de milagros</title>
+<sub-title></sub-title>
+<desc>Una Iglesia adoradora, sanadora y restauradora. La meta principal es que todos aprendan a ministrar de Cristo en un mundo de necesidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803130000 +0000" stop="20250803140000 +0000" channel="Canal Luz.ar">
+<title>Clásicos de Canal Luz</title>
+<sub-title></sub-title>
+<desc>Revivimos los momentos más memorables de nuestra programacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803140000 +0000" stop="20250803150000 +0000" channel="Canal Luz.ar">
+<title>Vision de futuro</title>
+<sub-title></sub-title>
+<desc>Acompaña al reverendo Omar Cabrera en esta edicion en la que presenta algunos mensajes de fe y esperanza inspirados en las enseñanzas bíblicas, para que puedas edificar tu alma a traves del encuentro con Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803150000 +0000" stop="20250803160000 +0000" channel="Canal Luz.ar">
+<title>Una cita con la vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803160000 +0000" stop="20250803170000 +0000" channel="Canal Luz.ar">
+<title>Santuario de fe al aire</title>
+<sub-title></sub-title>
+<desc>Asista a un encuentro espiritual que le acercará al gran poder de Dios a traves de la oracion, y a mensajes reveladores e inspiradores sobre las Sagradas Escrituras.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803170000 +0000" stop="20250803170600 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803170600 +0000" stop="20250803171500 +0000" channel="Canal Luz.ar">
+<title>Aprender a vivir</title>
+<sub-title></sub-title>
+<desc>Una pausa para reflexionar sobre las conductas de nuestro diario vivir, junto a Arnoldo Aranda.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803171500 +0000" stop="20250803173000 +0000" channel="Canal Luz.ar">
+<title>Los 4 Evangelios</title>
+<sub-title></sub-title>
+<desc>Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guion, palabra por palabra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803173000 +0000" stop="20250803180000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803180000 +0000" stop="20250803183000 +0000" channel="Canal Luz.ar">
+<title>La verdad te hará libre</title>
+<sub-title></sub-title>
+<desc>Acompaña al pastor Gustavo Ferro en esta edicion que motivará tu vida a la fe, guiará tu conocimiento personal de la Verdad y a servir a Dios cumpliendo el mandato de Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803183000 +0000" stop="20250803190000 +0000" channel="Canal Luz.ar">
+<title>Todo es posible</title>
+<sub-title></sub-title>
+<desc>Un tiempo para alentar a los televidentes a creer en los milagros sobrenaturales de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803190000 +0000" stop="20250803193000 +0000" channel="Canal Luz.ar">
+<title>Libros con voz</title>
+<sub-title></sub-title>
+<desc>Con la conduccion de Silvia Rodríguez, se proponen entrevistas amenas, presentando recomendaciones literarias; vas a escuchar a distintos autores de libros, con un mensaje de sanidad, restauracion, sabiduría y crecimiento.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803193000 +0000" stop="20250803200000 +0000" channel="Canal Luz.ar">
+<title>El camino</title>
+<sub-title></sub-title>
+<desc>Un programa de contenido religioso para conectar con la fe y la esperanza a traves de la oracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803200000 +0000" stop="20250803210000 +0000" channel="Canal Luz.ar">
+<title>Esperanza en la ciudad</title>
+<sub-title></sub-title>
+<desc>Edicion en la cual la Iglesia Evangelica Armenia, a traves de Pedro Lapadjian, expone un mensaje de fe y amor con algunas reflexiones para fortalecer la vida del cristiano en la gracia de Dios, y que nos alientan a esperar sin desmayar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803210000 +0000" stop="20250803221500 +0000" channel="Canal Luz.ar">
+<title>Cielos abiertos</title>
+<sub-title></sub-title>
+<desc>Inspiracion y motivacion son las marcas características. La direccion para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conduccion de Jorge Ledesma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803221500 +0000" stop="20250804000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc>Conferencias en vivo desde el auditorio de la Iglesia Evangelica Misionera Argentina. El público podrá disfrutar de un momento de reflexion e introspeccion espiritual a traves de la interpretacion de la Palabra de Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804000000 +0000" stop="20250804013000 +0000" channel="Canal Luz.ar">
+<title>Noches CDV</title>
+<sub-title></sub-title>
+<desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250801020000 +0000" stop="20250801060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
@@ -5412,127 +5724,163 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802020000 +0000" stop="20250803020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802020000 +0000" stop="20250802060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803020000 +0000" stop="20250803060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802060000 +0000" stop="20250802100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803060000 +0000" stop="20250803100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802100000 +0000" stop="20250802140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803100000 +0000" stop="20250803140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802140000 +0000" stop="20250802180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803140000 +0000" stop="20250803180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802180000 +0000" stop="20250802220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803180000 +0000" stop="20250803220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250802220000 +0000" stop="20250803020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250803220000 +0000" stop="20250804020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250803020000 +0000" stop="20250804020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250804020000 +0000" stop="20250805020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804020000 +0000" stop="20250804060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805020000 +0000" stop="20250805060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804060000 +0000" stop="20250804100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805060000 +0000" stop="20250805100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804100000 +0000" stop="20250804140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805100000 +0000" stop="20250805140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804140000 +0000" stop="20250804180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805140000 +0000" stop="20250805180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804180000 +0000" stop="20250804220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805180000 +0000" stop="20250805220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250804220000 +0000" stop="20250805020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250805220000 +0000" stop="20250806020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250805020000 +0000" stop="20250806020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250806020000 +0000" stop="20250807020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806020000 +0000" stop="20250806060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807020000 +0000" stop="20250807060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806060000 +0000" stop="20250806100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807060000 +0000" stop="20250807100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806100000 +0000" stop="20250806140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807100000 +0000" stop="20250807140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806140000 +0000" stop="20250806180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807140000 +0000" stop="20250807180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806180000 +0000" stop="20250806220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807180000 +0000" stop="20250807220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250806220000 +0000" stop="20250807020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250807220000 +0000" stop="20250808020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250807020000 +0000" stop="20250808020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808020000 +0000" stop="20250808060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808060000 +0000" stop="20250808100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808100000 +0000" stop="20250808140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808140000 +0000" stop="20250808180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808180000 +0000" stop="20250808220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808220000 +0000" stop="20250809020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
@@ -12180,6 +12528,42 @@
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250803220000 +0000" stop="20250804020000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804020000 +0000" stop="20250804070000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804070000 +0000" stop="20250804100000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804140000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804140000 +0000" stop="20250804180000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804180000 +0000" stop="20250804220000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250801050000 +0000" stop="20250801101000 +0000" channel="Libertad Digital TV.es">
 <title>Es la mañana de Federico</title>
 <sub-title></sub-title>
@@ -12516,6 +12900,120 @@
 <desc>Compra comodamente desde casa y al mejor precio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250803220000 +0000" stop="20250804050000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804050000 +0000" stop="20250804101000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804101000 +0000" stop="20250804112500 +0000" channel="Libertad Digital TV.es">
+<title>A Toda Salud</title>
+<sub-title></sub-title>
+<desc>Presenta María Jose Peláez. Espacio que responde a los temas de salud que más preocupan a los espectadores, quienes, vía telefonica, pueden hacer sus preguntas para que María les pueda ofrecer los mejores consejos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804112500 +0000" stop="20250804114500 +0000" channel="Libertad Digital TV.es">
+<title>La biblioteca de...</title>
+<sub-title></sub-title>
+<desc>Programa que abre la puerta a las galerías ocultas de las bibliotecas personales más envidiadas, secretas e inimaginables. Los tesoros, las colecciones, las piezas únicas, sus historias, las clasificaciones maniáticas...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804114500 +0000" stop="20250804115500 +0000" channel="Libertad Digital TV.es">
+<title>Ejercicio y nutricion</title>
+<sub-title></sub-title>
+<desc>Programa sobre ejercicio y nutricion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804115500 +0000" stop="20250804121000 +0000" channel="Libertad Digital TV.es">
+<title>Cine y series</title>
+<sub-title></sub-title>
+<desc>Programa en el que Andres Arconada comenta las últimas novedades sobre cine y series.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804121000 +0000" stop="20250804130500 +0000" channel="Libertad Digital TV.es">
+<title>Es cine</title>
+<sub-title></sub-title>
+<desc>Programa sobre cine con reportajes sobre películas, directores y equipo tecnico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804130500 +0000" stop="20250804140000 +0000" channel="Libertad Digital TV.es">
+<title>Economía Para Todos</title>
+<sub-title></sub-title>
+<desc>Carmen Tomás y sus invitados acercan la economía a todos los públicos de una forma sencilla pero rigurosa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804140000 +0000" stop="20250804145000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804145000 +0000" stop="20250804161000 +0000" channel="Libertad Digital TV.es">
+<title>A Toda Salud</title>
+<sub-title></sub-title>
+<desc>Presenta María Jose Peláez. Espacio que responde a los temas de salud que más preocupan a los espectadores, quienes, vía telefonica, pueden hacer sus preguntas para que María les pueda ofrecer los mejores consejos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804161000 +0000" stop="20250804161500 +0000" channel="Libertad Digital TV.es">
+<title>Ejercicio y nutricion</title>
+<sub-title></sub-title>
+<desc>Programa sobre ejercicio y nutricion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804161500 +0000" stop="20250804164500 +0000" channel="Libertad Digital TV.es">
+<title>La biblioteca de...</title>
+<sub-title></sub-title>
+<desc>Programa que abre la puerta a las galerías ocultas de las bibliotecas personales más envidiadas, secretas e inimaginables. Los tesoros, las colecciones, las piezas únicas, sus historias, las clasificaciones maniáticas...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804164500 +0000" stop="20250804170500 +0000" channel="Libertad Digital TV.es">
+<title>Libros con Marco</title>
+<sub-title></sub-title>
+<desc>Programa cultural en el que Jose María Marco y Nuria Richart analizan y conversan sobre los libros más relevantes de la semana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804170500 +0000" stop="20250804172500 +0000" channel="Libertad Digital TV.es">
+<title>Par-Impar</title>
+<sub-title></sub-title>
+<desc>Juanma González y Daniel Palacios se enfrentan cara a cara, para conversar sobre cine de estreno y clásico, además de las mejores series de moda.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804172500 +0000" stop="20250804174000 +0000" channel="Libertad Digital TV.es">
+<title>La Pizarra de Domingo Soriano</title>
+<sub-title></sub-title>
+<desc>Programa en el que Domingo Soriano explica la actualidad economica y los principales conceptos sobre economía.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804174000 +0000" stop="20250804180000 +0000" channel="Libertad Digital TV.es">
+<title>Escritores y libros</title>
+<sub-title></sub-title>
+<desc>Espacio en el que se entrevista a los escritores del momento sobre las últimas novedades editoriales y se repasa la obra y la vida de los artistas más importantes de la historia de la literatura universal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804180000 +0000" stop="20250804200000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804200000 +0000" stop="20250804210000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804210000 +0000" stop="20250804213000 +0000" channel="Libertad Digital TV.es">
+<title>Infocomerciales</title>
+<sub-title></sub-title>
+<desc>Compra comodamente desde casa y al mejor precio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250801030000 +0000" stop="20250801060000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
 <sub-title></sub-title>
@@ -12580,7 +13078,7 @@
 <title>Girl Power Hour!</title>
 <sub-title></sub-title>
 <desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
 </programme>
 <programme start="20250802065500 +0000" stop="20250802095500 +0000" channel="MTV 90s.es">
 <title>90s Mixtape!</title>
@@ -12592,19 +13090,19 @@
 <title>I Like To Move It! Top 50 90s...</title>
 <sub-title></sub-title>
 <desc>... Classix! Were turning back time to give you the chance to pull out those retired dance moves, or if youre new to the decade, try out some retro rhythm! This is the 90s, and these are classix!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
 </programme>
 <programme start="20250802131000 +0000" stop="20250802170000 +0000" channel="MTV 90s.es">
 <title>Saturday Night Party!</title>
 <sub-title></sub-title>
 <desc>¿Estás listo? ¡El fin de semana comienza aquí! Te traemos la última lista de reproduccion de la fiesta del sábado por la noche y la banda sonora de tu fin de semana.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
 </programme>
 <programme start="20250802170000 +0000" stop="20250802210000 +0000" channel="MTV 90s.es">
 <title>Dance Megamix!</title>
 <sub-title></sub-title>
 <desc>Theres no better way to celebrate the 90s than to dance, dance, dance your way through the years! From house to techno, via intergalactic disco, well make sure you dont... stop... movin!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
 </programme>
 <programme start="20250802210000 +0000" stop="20250803000000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
@@ -12652,9 +13150,69 @@
 <title>Top Hits Of 1995!</title>
 <sub-title></sub-title>
 <desc>Were counting down 50 of the biggest hits from another great year of the 90s! These are the top hits of 1995!</desc>
-<episode-num system="xmltv_ns">1992.0.</episode-num>
+<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20250803202000 +0000" stop="20250804000000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250804000000 +0000" stop="20250804030000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250804030000 +0000" stop="20250804060000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250804060000 +0000" stop="20250804070000 +0000" channel="MTV 90s.es">
+<title>Girl Power Hour!</title>
+<sub-title></sub-title>
+<desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250804070000 +0000" stop="20250804100000 +0000" channel="MTV 90s.es">
+<title>Saved By The 90s!</title>
+<sub-title></sub-title>
+<desc>Si necesitas un descanso del pop moderno, ¡no busques más! Los años 90 han llegado para salvarnos, así que disfrutad estos exitos de la epoca dorada de la música.</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804130000 +0000" channel="MTV 90s.es">
+<title>USA Hitlist!</title>
+<sub-title></sub-title>
+<desc>From the Backstreet Boys to Britney, Mariah to Janet, Bon Jovi to Green Day - its time to celebrate the best that the USA had to offer in the 1990s!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250804130000 +0000" stop="20250804140000 +0000" channel="MTV 90s.es">
+<title>Alternative Nation!</title>
+<sub-title></sub-title>
+<desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250804140000 +0000" stop="20250804170000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250804170000 +0000" stop="20250804200000 +0000" channel="MTV 90s.es">
+<title>Boys vs Girls</title>
+<sub-title>90s Hits!</sub-title>
+<desc>Los chicos se enfrentan a las chicas en nuestra lista de reproduccion de exitos clásicos de los 90. ¿El resultado? Todo el mundo gana.</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250804200000 +0000" stop="20250804210000 +0000" channel="MTV 90s.es">
+<title>Alternative Nation!</title>
+<sub-title></sub-title>
+<desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250804210000 +0000" stop="20250805000000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
 <sub-title></sub-title>
 <desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
@@ -12954,76 +13512,10 @@
 <desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802040000 +0000" stop="20250802040600 +0000" channel="Canal 33.es">
+<programme start="20250802035000 +0000" stop="20250802114000 +0000" channel="Canal 33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802040600 +0000" stop="20250802043000 +0000" channel="Canal 33.es">
-<title>Obrint plaça: La rivalitat</title>
-<sub-title></sub-title>
-<desc>El programa davui parlarà des de diversos angles de la rivalitat. ncara es tan present entre les colles castelleres, o amb les noves generacions sha perdut? El programa sho preguntarà confrontant les dues colles de Valls, la Vella i...</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802043000 +0000" stop="20250802045500 +0000" channel="Canal 33.es">
-<title>Obrint plaça: Lassaig</title>
-<sub-title></sub-title>
-<desc>Sense assajar, sense entrenar, es molt difícil aconseguir els objectius previstos. Descobrirem com assaja una de les colles que ha assolit en els darrers anys castells de gamma extra, la Jove Xiquets de Tarragona.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802045500 +0000" stop="20250802052700 +0000" channel="Canal 33.es">
-<title>A 2 veus: 31 FAM</title>
-<sub-title></sub-title>
-<desc>Dues finalistes es preparen per poder cantar la canço Valentina al costat de 31 FAM.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802052700 +0000" stop="20250802055600 +0000" channel="Canal 33.es">
-<title>Entre quatre parets: Rocío Quillahuaman</title>
-<sub-title></sub-title>
-<desc>La Rocío Quillahuaman va neixer al Perú i amb 11 anys va venir a viure a Barcelona. Una ciutat que lha vist convertir-se en una de les il·lustradores mes populars del moment gràcies a les seves animacions plenes dhumor i de denúncia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802055600 +0000" stop="20250802064900 +0000" channel="Canal 33.es">
-<title>El Foraster: Masdenverge</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per anar a Masdenverge, a la comarca del Montsià.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802064900 +0000" stop="20250802074400 +0000" channel="Canal 33.es">
-<title>El Foraster: Andorra especial</title>
-<sub-title></sub-title>
-<desc>Aquesta vegada, El Foraster te un nou repte: 48 hores per conèixer un país sencer. En comptes de visitar un petit gran poble, Quim Masferrer sendinsa en un petit gran estat, Andorra.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802074400 +0000" stop="20250802082600 +0000" channel="Canal 33.es">
-<title>Cool hunters: La cuina</title>
-<sub-title></sub-title>
-<desc>Està tan i tan de moda saber cuinar que la segona temporada de Coolhunters havia d’estrenar-se parlant dels grans plaers del paladar. L’únic problema es que el Serapi es creu un gran cuiner i ningú s’atreveix a dir-li que no en te ni...</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802082600 +0000" stop="20250802090800 +0000" channel="Canal 33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802090800 +0000" stop="20250802095600 +0000" channel="Canal 33.es">
-<title>Lau pair: Gimcana eufòrica</title>
-<sub-title></sub-title>
-<desc>David Fernández i Carol Rovira son els au pairs daquesta edicio.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802095600 +0000" stop="20250802104400 +0000" channel="Canal 33.es">
-<title>Lau pair: Un dia a la natura</title>
-<sub-title></sub-title>
-<desc>La Sara Roy marxarà dexcursio amb la Bruna (6 anys) i el Jan (3 anys) per les muntanyes de Vacarisses (Vallès Occidental). I el Marc Clotet sen va de càmping a Viver i Serrateix (Berguedà) amb el Jan (8 anys) i lAleix (6 anys).</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802104400 +0000" stop="20250802114000 +0000" channel="Canal 33.es">
-<title>Vosaltres mateixos: Infiltracio sorpresa</title>
-<sub-title></sub-title>
-<desc>El reporter dinvestigacio Carles Tamayo sinfiltra al programa com un membre (mes) de lequip sense que ni lAndreu ni la majoria de companys ho sàpiguen.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250802114000 +0000" stop="20250802123000 +0000" channel="Canal 33.es">
@@ -13138,6 +13630,456 @@
 <title>Bienvenidos a mi extraña ciudad: La Paz</title>
 <sub-title></sub-title>
 <desc>La Paz es la capital mes alta del mon i els seus barris arriben fins als 4000 metres daltitud! Aquí, el mal daltura es nota des que baixes de lavio i et pot fulminar des del principi.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803035200 +0000" stop="20250803040000 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803040000 +0000" stop="20250803040600 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803040600 +0000" stop="20250803043000 +0000" channel="Canal 33.es">
+<title>Obrint plaça: El lideratge</title>
+<sub-title></sub-title>
+<desc>A les colles castelleres, com en moltíssims aspectes de la vida, es clau la figura del líder. Un bon líder pot canviar dinàmiques i aconseguir que el grup assoleixi objectius fins aleshores inabastables.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803043000 +0000" stop="20250803045500 +0000" channel="Canal 33.es">
+<title>Obrint plaça: La dona castellera</title>
+<sub-title></sub-title>
+<desc>Fins no fa gaires anys, la dona no tenia un paper gaire destacat al mon dels castells.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803045500 +0000" stop="20250803052700 +0000" channel="Canal 33.es">
+<title>A 2 veus: Judit Neddermann</title>
+<sub-title></sub-title>
+<desc>Els espectadors descobriran tots els detalls que van portar la guanyadora d’aquesta setmana a compartir escenari amb Judit Neddermann en el concert que va tenir lloc a les coves del Salnitre de Collbato.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803052700 +0000" stop="20250803055400 +0000" channel="Canal 33.es">
+<title>Entre quatre parets: Peyu</title>
+<sub-title></sub-title>
+<desc>En Peyu fa ràdio, tele i teatre des dOsona, però confessa ser un interiorista frustrat. Tambe te una granja de 100 cabres amb la seva parella que ell ha ajudat a construir amb les seves pròpies mans.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803055400 +0000" stop="20250803064600 +0000" channel="Canal 33.es">
+<title>El Foraster: Els paisatges del foraster</title>
+<sub-title></sub-title>
+<desc>El foraster acomiada temporada amb un capítol especial que recull els millors moments que Quim Masferrer ha compartit en els últims 3 mesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803064600 +0000" stop="20250803073800 +0000" channel="Canal 33.es">
+<title>El Foraster: Especial La Mina</title>
+<sub-title></sub-title>
+<desc>Quim Masferrer sendinsa en una de les zones amb mes personalitat de Sant Adrià de Besòs.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803073800 +0000" stop="20250803081900 +0000" channel="Canal 33.es">
+<title>Cool hunters: La moda</title>
+<sub-title></sub-title>
+<desc>Què està realment de moda en el mon de la moda?.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803081900 +0000" stop="20250803090200 +0000" channel="Canal 33.es">
+<title>Cool hunters: El sexe</title>
+<sub-title></sub-title>
+<desc>En el programa dedicat al sexe el Serapi s’enamora i vol sorprendre a la seva parella.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803090200 +0000" stop="20250803095100 +0000" channel="Canal 33.es">
+<title>Lau pair: Resum</title>
+<sub-title></sub-title>
+<desc>Un famos accepta el repte de convertir-se en el cangur duns nens que ni coneix ni ha vist mai. Amb ells ha dafrontar tot un dia de convivència amb el hàndicap dhaver-se dintegrar en el context familiar, totalment desconegut pe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803095100 +0000" stop="20250803104000 +0000" channel="Canal 33.es">
+<title>Lau pair: Un dia de platja i Au pair League</title>
+<sub-title></sub-title>
+<desc>La cantant Mariona Escoda i l’actor Pep Plaza son els primers cangurs de la temporada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803104000 +0000" stop="20250803113600 +0000" channel="Canal 33.es">
+<title>Vosaltres mateixos: A bon port</title>
+<sub-title></sub-title>
+<desc>LAndreu parla amb el creador de la barretina mes llarga del mon i amb un valent que sha construït una embarcacio per travessar lAtlàntic a rem.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803113600 +0000" stop="20250803122400 +0000" channel="Canal 33.es">
+<title>El Foraster: Ventallo</title>
+<sub-title></sub-title>
+<desc>El programa viatja fins a Ventallo, un poble on els pastors parlen amb les pedres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803122400 +0000" stop="20250803125400 +0000" channel="Canal 33.es">
+<title>Quèquicom: Arquitectura sostenible</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803125400 +0000" stop="20250803132600 +0000" channel="Canal 33.es">
+<title>Quèquicom: Invents: un problema, una solucio</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803132600 +0000" stop="20250803141800 +0000" channel="Canal 33.es">
+<title>Apocalipsis: La Segunda Guerra Mundial: El estallido</title>
+<sub-title></sub-title>
+<desc>París está ocupada, al igual que casi todas las capitales Europeas salvo Londres, que resiste a los bombardeos y los submarinos alemanes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803141800 +0000" stop="20250803151000 +0000" channel="Canal 33.es">
+<title>Apocalipsis: La Segunda Guerra Mundial: El punto de inflexion</title>
+<sub-title></sub-title>
+<desc>Amb latac japonès a Pearl Harbor i la declaracio de guerra als Estats Units per part de Hitler, la guerra ja es mundial. El Japo es un país superpoblat que necessita matèries primeres, i decideix aconseguir-les per la força.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803151000 +0000" stop="20250803160200 +0000" channel="Canal 33.es">
+<title>La Historia al descubierto: Mao, ¿el fundador de la China moderna?</title>
+<sub-title></sub-title>
+<desc>Mao Tse-tung assumeix la presidència del país i proclama la República Popular de la Xina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803160200 +0000" stop="20250803165400 +0000" channel="Canal 33.es">
+<title>Secreto ancestral. Guardianes de la medicina indígena: Episodio 2</title>
+<sub-title></sub-title>
+<desc>Arran de la pandèmia de covid-19, lilla polinèsia de Rapa Nui ha quedat tancada a lexterior, i la seva comunitat aprofita lavinentesa per celebrar la Tapati, una festa ancestral a base de danses i competicions, sense turistes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803165400 +0000" stop="20250803171800 +0000" channel="Canal 33.es">
+<title>Les Feres: Manacor Connection</title>
+<sub-title></sub-title>
+<desc>Actuacions musicals de petit format amb el millor de lescena musical catalana en indrets insòlits.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803171800 +0000" stop="20250803181000 +0000" channel="Canal 33.es">
+<title>A tocar de laigua: Episodi 2</title>
+<sub-title></sub-title>
+<desc>En aquest episodi, comencem un recorregut per seguir el curs de la Noguera Pallaresa, un riu que neix al Pallars Sobirà, travessa els Pirineus i desemboca al Segre, a tocar de Camarasa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803181000 +0000" stop="20250803190200 +0000" channel="Canal 33.es">
+<title>Las recetas de Julie: La Ruta Turquesa</title>
+<sub-title></sub-title>
+<desc>La Julie recorre la Ruta Turquesa, al departament de Vauclusa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803190200 +0000" stop="20250803195500 +0000" channel="Canal 33.es">
+<title>Las recetas de Julie: Montes de Forez</title>
+<sub-title></sub-title>
+<desc>Aquest cop la Julie visita els monts de Forez, una antiga província de França.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803195500 +0000" stop="20250803203900 +0000" channel="Canal 33.es">
+<title>Zac Efron: Con los pies en la tierra: Puerto Rico</title>
+<sub-title></sub-title>
+<desc>En Zac i en Darin veuen com es reconstrueix despres dun huracà mortífer lilla de Puerto Rico, on la supervivència en forma de sostenibilitat ha passat de ser una comoditat a ser una necessitat.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803203900 +0000" stop="20250803212400 +0000" channel="Canal 33.es">
+<title>Zac Efron: Con los pies en la tierra: Islandia</title>
+<sub-title></sub-title>
+<desc>En Zac i en Darin visiten Islàndia, el país conegut per la terra de foc i gel.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803212400 +0000" stop="20250803220800 +0000" channel="Canal 33.es">
+<title>Ben Fogle: Return to the Wild: Norway</title>
+<sub-title></sub-title>
+<desc>El Ben Fogle torna a visitar la Lynx Vilden, que va decidir viure com es vivia a ledat de pedra. Va deixar les muntanyes cobertes de neu de lestat de Washington, al nord dels Estats Units, per anar-sen a viure a les profunditats dand#...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803220800 +0000" stop="20250803225200 +0000" channel="Canal 33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
+<sub-title></sub-title>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803225200 +0000" stop="20250803234400 +0000" channel="Canal 33.es">
+<title>Apocalipsis: La Segunda Guerra Mundial: El estallido</title>
+<sub-title></sub-title>
+<desc>París está ocupada, al igual que casi todas las capitales Europeas salvo Londres, que resiste a los bombardeos y los submarinos alemanes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803234400 +0000" stop="20250804003600 +0000" channel="Canal 33.es">
+<title>Apocalipsis: La Segunda Guerra Mundial: El punto de inflexion</title>
+<sub-title></sub-title>
+<desc>Amb latac japonès a Pearl Harbor i la declaracio de guerra als Estats Units per part de Hitler, la guerra ja es mundial. El Japo es un país superpoblat que necessita matèries primeres, i decideix aconseguir-les per la força.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804003600 +0000" stop="20250804012800 +0000" channel="Canal 33.es">
+<title>La Historia al descubierto: Mao, ¿el fundador de la China moderna?</title>
+<sub-title></sub-title>
+<desc>Mao Tse-tung assumeix la presidència del país i proclama la República Popular de la Xina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804012800 +0000" stop="20250804021600 +0000" channel="Canal 33.es">
+<title>Retrats: "Albert Pons: un pastor economista"</title>
+<sub-title></sub-title>
+<desc>Programa dentrevistes presentat i dirigit per Jaume Barberà.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804021600 +0000" stop="20250804030500 +0000" channel="Canal 33.es">
+<title>Retrats: Dones del Delta</title>
+<sub-title></sub-title>
+<desc>Programa dentrevistes presentat i dirigit per Jaume Barberà.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804030500 +0000" stop="20250804034600 +0000" channel="Canal 33.es">
+<title>La mar de be: Felicitat</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al Parc Natural de Cap de Creus, viu una jornada de pesca descorpora amb lIsca Garcia, patro i pescador de La Felicitat, li mostra la visio mes tradicional i propera de lofici de pescador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804034600 +0000" stop="20250804035200 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804035200 +0000" stop="20250804040000 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804040000 +0000" stop="20250804040800 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804040800 +0000" stop="20250804044400 +0000" channel="Canal 33.es">
+<title>El gran dictat: Episodi 637</title>
+<sub-title></sub-title>
+<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804044400 +0000" stop="20250804052100 +0000" channel="Canal 33.es">
+<title>El gran dictat: Episodi 638</title>
+<sub-title></sub-title>
+<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804052100 +0000" stop="20250804054900 +0000" channel="Canal 33.es">
+<title>Quèquicom: Objectiu amfibis</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804054900 +0000" stop="20250804061800 +0000" channel="Canal 33.es">
+<title>Quèquicom: Carregar les piles</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804061800 +0000" stop="20250804064600 +0000" channel="Canal 33.es">
+<title>Quèquicom: Loteria, latzar en joc</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804064600 +0000" stop="20250804071600 +0000" channel="Canal 33.es">
+<title>Quèquicom: QQC i... la geologia (part 1)</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804071600 +0000" stop="20250804080400 +0000" channel="Canal 33.es">
+<title>This is Art: Éxtasis</title>
+<sub-title></sub-title>
+<desc>Lèxtasi es aquell estat sublim segons el qual tot artista, religios o laic aspira a assolir. En aquesta recerca dallò mes profunda a traves de lart, recorrerem llocs tan fascinants com lesglesia de Santa Maria Assumpta a land#x0003;...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804080400 +0000" stop="20250804083100 +0000" channel="Canal 33.es">
+<title>Òpera en texans: Carmen</title>
+<sub-title></sub-title>
+<desc>El programa desmunta la cèlebre òpera Carmen, del compositor parisenc Georges Bizet.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804083100 +0000" stop="20250804085900 +0000" channel="Canal 33.es">
+<title>Quèquicom: Causa de la mort: lentropia</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804085900 +0000" stop="20250804092800 +0000" channel="Canal 33.es">
+<title>Quèquicom: Rescat al mar</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804092800 +0000" stop="20250804095700 +0000" channel="Canal 33.es">
+<title>Quèquicom: Circ, els equilibris de la ciència</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804095700 +0000" stop="20250804102700 +0000" channel="Canal 33.es">
+<title>Quèquicom: QQC i... lenergia (part 2)</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804102700 +0000" stop="20250804111100 +0000" channel="Canal 33.es">
+<title>Señora Isabel: Episodio 1</title>
+<sub-title></sub-title>
+<desc>El gat de la Isabel, l’Angelet, s’ha posat malalt.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804111100 +0000" stop="20250804113700 +0000" channel="Canal 33.es">
+<title>Viure als Pirineus: Una enòloga dels Pirineus (Primavera - Estiu)</title>
+<sub-title></sub-title>
+<desc>El mon dAnna Espelt son les caves familiars i les vinyes del cap de Creus.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804113700 +0000" stop="20250804120400 +0000" channel="Canal 33.es">
+<title>Viure als Pirineus: Un múixer dels Pirineus (Primavera - Estiu)</title>
+<sub-title></sub-title>
+<desc>François Pagnoux porta trineus amb gossos: es un múixer. Lapassionen la muntanya i els grans espais i des de fa anys sha instal·lat amb la seva família a Font-Romeu, als Pirineus Orientals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804120400 +0000" stop="20250804122800 +0000" channel="Canal 33.es">
+<title>Ja tho faràs estiu</title>
+<sub-title></sub-title>
+<desc>El ninot Rafelgurimi es lencarregat de presentar els deu programes extres destiu.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804122800 +0000" stop="20250804132000 +0000" channel="Canal 33.es">
+<title>Gent de mon: Romania</title>
+<sub-title></sub-title>
+<desc>El país dels antics romans, del vells comunistes i duna bona part dels nostres nouvinguts. Un indret sorprenent, tranquil i ordenat que va molt mes enllà dels tòpics. Avui visitarem Romania, el país de la por.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804132000 +0000" stop="20250804140800 +0000" channel="Canal 33.es">
+<title>Aeroport: Manteniment</title>
+<sub-title></sub-title>
+<desc>A laeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor dun A320 que pesa mes de 2.000 quilos o asfaltar una pista da...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804140800 +0000" stop="20250804145500 +0000" channel="Canal 33.es">
+<title>Una de les Nostres: Laia Palau</title>
+<sub-title></sub-title>
+<desc>La Laia Palau, llegenda del bàsquet que ha guanyat 33 títols i 12 medalles durant la seva carrera esportiva, no havia tornat a entrenar des que es va retirar el passat mes de maig. En aquest capítol es posarà de nou les vambes de bàsquet.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804145500 +0000" stop="20250804152400 +0000" channel="Canal 33.es">
+<title>Quèquicom: QQC i ... arqueologia</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804152400 +0000" stop="20250804154600 +0000" channel="Canal 33.es">
+<title>Salut i muntanyes: Vilamur</title>
+<sub-title></sub-title>
+<desc>La reportera Eva Clauso Estival anirà a visitar el poble de Vilamur al Pallars Sobirà. Amb el Marc, un veí del poble, descobrirà alguns secrets del poblat medieval, un dels mes alts de Catalunya.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804154600 +0000" stop="20250804162500 +0000" channel="Canal 33.es">
+<title>La mar de be: Llafranc</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al seu restaurant Casamar de Llafranc. Inclou imatges aèries de Llafranc, del seu restaurant Casamar, imatges subaquàtiques (submarines) de peixos nedant, pops, escorpores, vistes aèries de les Illes Medes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804162500 +0000" stop="20250804171700 +0000" channel="Canal 33.es">
+<title>Bienvenidos a mi extraña ciudad: Iakoutsk</title>
+<sub-title></sub-title>
+<desc>Iakutsk, al cor de Sibèria, es la terra dels humans prehistòrics i dels mamuts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804171700 +0000" stop="20250804181000 +0000" channel="Canal 33.es">
+<title>Bienvenidos a mi extraña ciudad: La Paz</title>
+<sub-title></sub-title>
+<desc>La Paz es la capital mes alta del mon i els seus barris arriben fins als 4000 metres daltitud! Aquí, el mal daltura es nota des que baixes de lavio i et pot fulminar des del principi.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804181000 +0000" stop="20250804190200 +0000" channel="Canal 33.es">
+<title>Deserts and Life: Thar</title>
+<sub-title></sub-title>
+<desc>El desert del Thar o gran desert indi, de 200 000 km2, està dominat per grans mars de sorra transportada pel vent i dunes que arriben als 152 metres dalçada. Tot i el seu clima extrem, el Thar es el desert amb mes densitat de poblacio del mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804190200 +0000" stop="20250804195500 +0000" channel="Canal 33.es">
+<title>Deserts and Life: Gobi</title>
+<sub-title></sub-title>
+<desc>El Gobi, tot i que compta amb poca presència humana, es llar duna increïble vida natural.El Parc Nacional del Gran Gobi es una de les Reserves de Biosfera mes grans del mon, amb una superfície mes extensa que Suïssa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804195500 +0000" stop="20250804201900 +0000" channel="Canal 33.es">
+<title>13 anys i un dia (T1): Ep.3 Ordre</title>
+<sub-title></sub-title>
+<desc>El Ricard està instal·lat al pis i tots, especialment el Roger, comencen a notar la seva vertadera personalitat, obsessiva pel que fa a lordre, un ordre que a mes vol imposar a la vida del seu fill, que fins ara era absolutament anàrquica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804201900 +0000" stop="20250804211800 +0000" channel="Canal 33.es">
+<title>Rick Stein: De Venecia a Estambul: Croacia</title>
+<sub-title></sub-title>
+<desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804211800 +0000" stop="20250804221000 +0000" channel="Canal 33.es">
+<title>Bienvenidos a mi extraña ciudad: Ganvie</title>
+<sub-title></sub-title>
+<desc>En algun lloc de lÀfrica occidental, al sud del Benín, hi ha una ciutat de pescadors irreductibles: Ganvie, tambe anomenada la Venècia africana. Aquí, no hi ha carrers ni voreres i la piragua es lúnic mitjà de tran...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804221000 +0000" stop="20250804230200 +0000" channel="Canal 33.es">
+<title>Bienvenidos a mi extraña ciudad: Manila</title>
+<sub-title></sub-title>
+<desc>LAlexandra Aleveque vola cap a Manila. Amb mes de 43 000 habitants per quilòmetre quadrat, la capital de les Filipines ostenta el rècord mundial de densitat de poblacio. La majoria dels habitants viu per sota del llindar de pobresa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804230200 +0000" stop="20250804234300 +0000" channel="Canal 33.es">
+<title>Citas (T1): Ep.9 Paula y Sofia / Blanca y Víctor</title>
+<sub-title></sub-title>
+<desc>Fa molt de temps que la Blanca no sap res del Víctor, però finalment avui han quedat.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250804234300 +0000" stop="20250805002400 +0000" channel="Canal 33.es">
+<title>Citas (T1): Ep.10 Alex y Ona / Imma y Pinyo</title>
+<sub-title></sub-title>
+<desc>Tot i les males experiències acumulades, el Pinyo i la Imma continuen buscant algú.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805002400 +0000" stop="20250805010800 +0000" channel="Canal 33.es">
+<title>Ben Fogle: Return to the Wild: Norway</title>
+<sub-title></sub-title>
+<desc>El Ben Fogle torna a visitar la Lynx Vilden, que va decidir viure com es vivia a ledat de pedra. Va deixar les muntanyes cobertes de neu de lestat de Washington, al nord dels Estats Units, per anar-sen a viure a les profunditats dand#...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805010800 +0000" stop="20250805015200 +0000" channel="Canal 33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
+<sub-title></sub-title>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805015200 +0000" stop="20250805022200 +0000" channel="Canal 33.es">
+<title>Amb filosofia: La violència</title>
+<sub-title></sub-title>
+<desc>Reflexionem sobre lorigen, la presència, les formes de la violència al nostre mon. Amb les intervencions dels filòsofs Marina Garces, Mercè Rius, Oriol Ponsatí-Murlà i el poeta i assagista Ramon Andres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805022200 +0000" stop="20250805025200 +0000" channel="Canal 33.es">
+<title>Amb filosofia: El menjar</title>
+<sub-title></sub-title>
+<desc>Menjar es a la vegada una necessitat biològica i un acte de civilitzacio. Des del dret mes bàsic a la nutricio fins al refinament gastronòmic, la nostra relacio amb el menjar ens uneix i ens separa dels animals. Seure a taula es un ritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805025200 +0000" stop="20250805034200 +0000" channel="Canal 33.es">
+<title>Bogeria a la pastisseria: Episodi 6</title>
+<sub-title></sub-title>
+<desc>En aquest capítol de Bogeria a la pastisseria lequip Escribà rep la missio dendolcir una de les desfilades de la passarel·la 080 Fashion Week.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250805034200 +0000" stop="20250805034800 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250801050000 +0000" stop="20250801060000 +0000" channel="7TV Andalucía.es">
@@ -35160,10 +36102,16 @@
 <desc>Presentacion: Espacio dedicado a los deportes nauticos en diferentes lugares de españa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250801223000 +0000" stop="20250802000000 +0000" channel="levante tv.es">
+<programme start="20250801220000 +0000" stop="20250801233000 +0000" channel="levante tv.es">
 <title>¿Donde está Kyra?</title>
 <sub-title></sub-title>
 <desc>Presentacion: Michelle Pfeiffer, Kiefer Sutherland, Suzanne Shepherd, Anthony Okungbowa: Tras perder su trabajo y sufrir para sobrevivir tan solo con los ingresos de su madre enferma, Kyra inicia un peligroso y enigmático camino que pone en riesgo su vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250801233000 +0000" stop="20250802000000 +0000" channel="levante tv.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín que muestra la actualidad de Levante a los espectadores.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250802000000 +0000" stop="20250802003000 +0000" channel="levante tv.es">
@@ -35172,58 +36120,46 @@
 <desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802033000 +0000" stop="20250802050000 +0000" channel="levante tv.es">
+<programme start="20250802033000 +0000" stop="20250802060000 +0000" channel="levante tv.es">
 <title>En archivo</title>
 <sub-title></sub-title>
 <desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802090000 +0000" stop="20250802100000 +0000" channel="levante tv.es">
-<title>Super Deportes</title>
-<sub-title></sub-title>
-<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802103000 +0000" stop="20250802120000 +0000" channel="levante tv.es">
-<title>Pequeños genios</title>
-<sub-title></sub-title>
-<desc>Presentacion: Sin descripcion</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802124000 +0000" stop="20250802140000 +0000" channel="levante tv.es">
-<title>Bus Driver</title>
-<sub-title></sub-title>
-<desc>Presentacion: Steven Chase, Steve Daron, Holly Elissa, Robert Forster, Michael Bailey Smith, Mitch Holleman, Patrick Johnson, Olivia Alexander, Ashley Jackson, Tom Williamson, Ari Boyland, Josh Butcher, Joshua Lou Friedman, Michael Guarnera, Jeff Gurwood: Un autobús escolar tiene una avería e interrumpe una operacion de drogas. El conductor defiende a los alumnos de criminales que no quieren testigos.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802140000 +0000" stop="20250802150000 +0000" channel="levante tv.es">
+<programme start="20250802100000 +0000" stop="20250802110000 +0000" channel="levante tv.es">
 <title>Revista de sociedad</title>
 <sub-title></sub-title>
 <desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802154500 +0000" stop="20250802161500 +0000" channel="levante tv.es">
+<programme start="20250802113000 +0000" stop="20250802120000 +0000" channel="levante tv.es">
 <title>Receta a voces</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802161500 +0000" stop="20250802163000 +0000" channel="levante tv.es">
-<title>Laia</title>
+<programme start="20250802123000 +0000" stop="20250802140000 +0000" channel="levante tv.es">
+<title>Bus Driver</title>
+<sub-title></sub-title>
+<desc>Presentacion: Steven Chase, Steve Daron, Holly Elissa, Robert Forster, Michael Bailey Smith, Mitch Holleman, Patrick Johnson, Olivia Alexander, Ashley Jackson, Tom Williamson, Ari Boyland, Josh Butcher, Joshua Lou Friedman, Michael Guarnera, Jeff Gurwood: Un autobús escolar tiene una avería e interrumpe una operacion de drogas. El conductor defiende a los alumnos de criminales que no quieren testigos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802150000 +0000" stop="20250802153000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802163000 +0000" stop="20250802170000 +0000" channel="levante tv.es">
+<programme start="20250802160000 +0000" stop="20250802163000 +0000" channel="levante tv.es">
 <title>Mundo natural</title>
 <sub-title></sub-title>
-<desc>Presentacion: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802170000 +0000" stop="20250802173000 +0000" channel="levante tv.es">
-<title>Super Running</title>
+<programme start="20250802163000 +0000" stop="20250802173000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
 <sub-title></sub-title>
-<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250802173000 +0000" stop="20250802180000 +0000" channel="levante tv.es">
@@ -35238,13 +36174,121 @@
 <desc>Presentacion: Michael Bacalso, Ken Bressers, Kylah Dela Peña, Andrew Davis II, Shayla Hale: El viaje de aniversario al extranjero que inicia una joven pareja, se convierte en una experiencia posiblemente mortal.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802203000 +0000" stop="20250802213000 +0000" channel="levante tv.es">
-<title>Esta noche bailamos</title>
+<programme start="20250802183000 +0000" stop="20250802190000 +0000" channel="levante tv.es">
+<title>Super Running</title>
 <sub-title></sub-title>
-<desc>Presentacion: Espacio en el que diferentes participantes procedentes de escuelas, academias, bailarines amateur o campeones se darán cita para desempeñar diversos bailes y actuaciones.</desc>
+<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802213000 +0000" stop="20250801223000 +0000" channel="levante tv.es">
+<programme start="20250802193000 +0000" stop="20250802210000 +0000" channel="levante tv.es">
+<title>Pequeños genios</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802203000 +0000" stop="20250802213000 +0000" channel="levante tv.es">
+<title>Tot es festa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa fallero con aire desenvuelto, fresco y divertido. Un espacio que informa, entretiene y propone debates a los espectadores sobre el mundo de las fallas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802203000 +0000" stop="20250802204500 +0000" channel="levante tv.es">
+<title>Valencians 100%</title>
+<sub-title></sub-title>
+<desc>Presentacion: Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802204500 +0000" stop="20250802210000 +0000" channel="levante tv.es">
+<title>Maletas a la vista</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802230000 +0000" stop="20250803003000 +0000" channel="levante tv.es">
+<title>Plan de vuelo: secuestrado</title>
+<sub-title></sub-title>
+<desc>Presentacion: Dean Cain, Anthony Michael Hall, Ernie Hudson, Sunny Mabrey, Lea Thompson, William Forsythe: Una mujer es secuestrada a punta de pistola al mismo tiempo que un grupo terrorista se apodera del avion en el que viaja su marido. El grupo exige la liberacion inmediata de su líder sin saber que el exagente del FBI que intervino en su detencion va a bordo de la nave.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803000000 +0000" stop="20250803003000 +0000" channel="levante tv.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803033000 +0000" stop="20250803060000 +0000" channel="levante tv.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803100000 +0000" stop="20250803103000 +0000" channel="levante tv.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803100000 +0000" stop="20250803110000 +0000" channel="levante tv.es">
+<title>Revista de sociedad</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803113000 +0000" stop="20250803120000 +0000" channel="levante tv.es">
+<title>Receta a voces</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803113000 +0000" stop="20250803130000 +0000" channel="levante tv.es">
+<title>Blowtorch</title>
+<sub-title></sub-title>
+<desc>Presentacion: Lois Robbins, Jared Abrahamson, Armand Assante, William Baldwin, Paul Ben-Victor, Deirdre Brennan, Victoria Cartagena, Olivia Cella, Teddy Coluca, Jed Rave de Asis, Medgie Desir, Alex Emanuel, Jack Falahee, Alison Fraser, Franky G: El hijo mayor de Ann Willis ha sido asesinado. Ante la pasividad del policía encargado del caso, decide llevar a cabo su propia investigacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803143000 +0000" stop="20250803150000 +0000" channel="levante tv.es">
+<title>Euroacademy</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803150000 +0000" stop="20250803153000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803163000 +0000" stop="20250803173000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803170000 +0000" stop="20250803173000 +0000" channel="levante tv.es">
+<title>Ya estás en casa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803173000 +0000" stop="20250803180000 +0000" channel="levante tv.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803183000 +0000" stop="20250803190000 +0000" channel="levante tv.es">
+<title>Super Running</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803193000 +0000" stop="20250803210000 +0000" channel="levante tv.es">
+<title>Pequeños genios</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803203000 +0000" stop="20250803213000 +0000" channel="levante tv.es">
 <title>Tot es festa</title>
 <sub-title></sub-title>
 <desc>Presentacion: Programa fallero con aire desenvuelto, fresco y divertido. Un espacio que informa, entretiene y propone debates a los espectadores sobre el mundo de las fallas.</desc>
@@ -35352,19 +36396,31 @@
 <desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802020000 +0000" stop="20250802063000 +0000" channel="tv rioja.es">
+<programme start="20250801220000 +0000" stop="20250801223000 +0000" channel="tv rioja.es">
+<title>Gravedad zero</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250801233000 +0000" stop="20250802060000 +0000" channel="tv rioja.es">
 <title>Redifusiones</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802080000 +0000" stop="20250802090000 +0000" channel="tv rioja.es">
+<programme start="20250802083000 +0000" stop="20250802091500 +0000" channel="tv rioja.es">
 <title>Dibujos animados</title>
 <sub-title></sub-title>
 <desc>Presentacion: Incluye Ripleys, Nanook. Programa dirigido al público infantil que incluye diversas series de animacion.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802120000 +0000" stop="20250802123000 +0000" channel="tv rioja.es">
+<programme start="20250802093000 +0000" stop="20250802103000 +0000" channel="tv rioja.es">
+<title>Vaughan</title>
+<sub-title></sub-title>
+<desc>Presentacion: Cursos de ingles a medida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802103000 +0000" stop="20250802110000 +0000" channel="tv rioja.es">
 <title>El gusto es mío</title>
 <sub-title></sub-title>
 <desc>Presentacion: Programa de cocina que pretende ofrecer a los espectadores las recetas más sabrosas, originales y divertidas.</desc>
@@ -35376,28 +36432,16 @@
 <desc>La semana</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802130000 +0000" stop="20250802140000 +0000" channel="tv rioja.es">
-<title>Gravedad zero</title>
-<sub-title></sub-title>
-<desc>Presentacion: Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20250802130000 +0000" stop="20250802133500 +0000" channel="tv rioja.es">
 <title>La cocina de Ventura y Gabi</title>
 <sub-title></sub-title>
 <desc>Presentacion: Espacio gastronomico.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802143000 +0000" stop="20250802163000 +0000" channel="tv rioja.es">
-<title>Vaughan</title>
-<sub-title></sub-title>
-<desc>Presentacion: Cursos de ingles a medida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20250802163000 +0000" stop="20250802170000 +0000" channel="tv rioja.es">
+<programme start="20250802160000 +0000" stop="20250802163000 +0000" channel="tv rioja.es">
 <title>Mundo natural</title>
 <sub-title></sub-title>
-<desc>Presentacion: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250802173000 +0000" stop="20250802180000 +0000" channel="tv rioja.es">
@@ -35406,19 +36450,91 @@
 <desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250802173000 +0000" stop="20250802193000 +0000" channel="tv rioja.es">
-<title>Aquí La Rioja. Edicion verano</title>
-<sub-title></sub-title>
-<desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20250802200000 +0000" stop="20250802213000 +0000" channel="tv rioja.es">
 <title>Showdown in Manila</title>
 <sub-title></sub-title>
 <desc>Presentacion: Alexander Nevsky, Casper Van Dien, Cary-Hiroyuki Tagawa, Tia Carrere, Mark Dacascos, Matthias Hues, Don Wilson, Cynthia Rothrock, Olivier Gruner, Dmitriy Dyuzhev, Maria Bravikova, Iza Calzado, Jake Macapagal, Hazel Faith Dela Cruz, Robert Madrid: La investigacion de un asesinato en Manila, lleva a dos detectives privados a la jungla donde encuentran el campamento de un terrorista internacional.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250802210000 +0000" stop="20250801220000 +0000" channel="tv rioja.es">
+<title>Aquí La Rioja. Edicion verano</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250802213000 +0000" stop="20250802000000 +0000" channel="tv rioja.es">
+<title>Toni Rovira y tú</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802220000 +0000" stop="20250802223000 +0000" channel="tv rioja.es">
+<title>Gravedad zero</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250802233000 +0000" stop="20250803060000 +0000" channel="tv rioja.es">
+<title>Redifusiones</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803063000 +0000" stop="20250803070000 +0000" channel="tv rioja.es">
+<title>Rodaje</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado al mundo del motor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803083000 +0000" stop="20250803091500 +0000" channel="tv rioja.es">
+<title>Dibujos animados</title>
+<sub-title></sub-title>
+<desc>Presentacion: Incluye Ripleys, Nanook. Programa dirigido al público infantil que incluye diversas series de animacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803093000 +0000" stop="20250803103000 +0000" channel="tv rioja.es">
+<title>Vaughan</title>
+<sub-title></sub-title>
+<desc>Presentacion: Cursos de ingles a medida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803103000 +0000" stop="20250803110000 +0000" channel="tv rioja.es">
+<title>El gusto es mío</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de cocina que pretende ofrecer a los espectadores las recetas más sabrosas, originales y divertidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803123000 +0000" stop="20250803130000 +0000" channel="tv rioja.es">
+<title>La semana</title>
+<sub-title></sub-title>
+<desc>La semana</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803160000 +0000" stop="20250803163000 +0000" channel="tv rioja.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803173000 +0000" stop="20250803180000 +0000" channel="tv rioja.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803180000 +0000" stop="20250803190000 +0000" channel="tv rioja.es">
+<title>Sol y sombra</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de actualidad taurina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803210000 +0000" stop="20250802220000 +0000" channel="tv rioja.es">
+<title>Aquí La Rioja. Edicion verano</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250803213000 +0000" stop="20250803000000 +0000" channel="tv rioja.es">
 <title>Toni Rovira y tú</title>
 <sub-title></sub-title>
 <desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
