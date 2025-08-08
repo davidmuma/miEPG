@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/19436.png"/></channel>
-<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/19526.png"/></channel>
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
-<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Bon Dia TV.es"><display-name>Bon Dia TV.es</display-name><icon src="https://images.open-epg.com/4950.png"/></channel>
@@ -49,6 +42,13 @@
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/19436.png"/></channel>
+<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/19526.png"/></channel>
+<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20250807003000 +0000" stop="20250807010000 +0000" channel="Daystar.ar">
 <title>Joni Table Talk : You Didnt Miss It</title>
 <sub-title>You Didnt Miss It</sub-title>
@@ -1060,8 +1060,8 @@
 <programme start="20250810223000 +0000" stop="20250810230000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250810230000 +0000" stop="20250810233000 +0000" channel="Daystar.ar">
 <title>The Potters Touch with T.D. Jakes</title>
@@ -1096,8 +1096,8 @@
 <programme start="20250811020000 +0000" stop="20250811023000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250811023000 +0000" stop="20250811030000 +0000" channel="Daystar.ar">
 <title>Dr. David Jeremiah</title>
@@ -1196,10 +1196,10 @@
 <episode-num system="xmltv_ns">.48.</episode-num>
 </programme>
 <programme start="20250811113000 +0000" stop="20250811120000 +0000" channel="Daystar.ar">
-<title>Religious Programming</title>
+<title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250811120000 +0000" stop="20250811123000 +0000" channel="Daystar.ar">
 <title>Jentezen Franklin</title>
@@ -1246,8 +1246,8 @@
 <programme start="20250811153000 +0000" stop="20250811160000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250811160000 +0000" stop="20250811170000 +0000" channel="Daystar.ar">
 <title>Ministry Now</title>
@@ -1448,9 +1448,9 @@
 <episode-num system="xmltv_ns">.23.</episode-num>
 </programme>
 <programme start="20250812113000 +0000" stop="20250812120000 +0000" channel="Daystar.ar">
-<title>Religious Programming</title>
+<title>Andres Spyker de "Más vida"</title>
 <sub-title></sub-title>
-<desc></desc>
+<desc>Un mensaje fresco de la palabra de Dios con una aplicacion práctica para la vida.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250812120000 +0000" stop="20250812123000 +0000" channel="Daystar.ar">
@@ -1694,7 +1694,7 @@
 <episode-num system="xmltv_ns">.114.</episode-num>
 </programme>
 <programme start="20250813113000 +0000" stop="20250813120000 +0000" channel="Daystar.ar">
-<title>Religious Programming</title>
+<title>Aqua viva</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -1768,8 +1768,8 @@
 <programme start="20250813183000 +0000" stop="20250813190000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250813190000 +0000" stop="20250813193000 +0000" channel="Daystar.ar">
 <title>Jason Lozano</title>
@@ -1798,8 +1798,8 @@
 <programme start="20250813210000 +0000" stop="20250813213000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
 <sub-title></sub-title>
-<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
 </programme>
 <programme start="20250813213000 +0000" stop="20250813220000 +0000" channel="Daystar.ar">
 <title>Samuel Rodriguez</title>
@@ -1830,6 +1830,252 @@
 <sub-title></sub-title>
 <desc>El investigador mesiánico Sid Roth examina la realidad sobrenatural a partir del testimonio de Isaac Pitre.</desc>
 <episode-num system="xmltv_ns">.11.</episode-num>
+</programme>
+<programme start="20250814003000 +0000" stop="20250814010000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Take Heed, Watch and Pray</title>
+<sub-title>Take Heed, Watch and Pray</sub-title>
+<desc>Lee Cummings comparte la importancia de tener discernimiento y vision espiritual. Enfrentar el engaño generalizado. Participar en una batalla sobrenatural.</desc>
+<episode-num system="xmltv_ns">.114.</episode-num>
+</programme>
+<programme start="20250814010000 +0000" stop="20250814020000 +0000" channel="Daystar.ar">
+<title>Ministry Now : David Diga Hernandez</title>
+<sub-title>David Diga Hernandez</sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814020000 +0000" stop="20250814023000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814023000 +0000" stop="20250814030000 +0000" channel="Daystar.ar">
+<title>Jason Lozano</title>
+<sub-title></sub-title>
+<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814030000 +0000" stop="20250814033000 +0000" channel="Daystar.ar">
+<title>Lo sobrenatural ahora</title>
+<sub-title></sub-title>
+<desc>Un estudio práctico de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814033000 +0000" stop="20250814040000 +0000" channel="Daystar.ar">
+<title>Aqua viva</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814040000 +0000" stop="20250814043000 +0000" channel="Daystar.ar">
+<title>Dios de milagros</title>
+<sub-title></sub-title>
+<desc>Programa con predicacion llena de enseñanza y revelacion directa al corazon de cada televidente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814043000 +0000" stop="20250814050000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814050000 +0000" stop="20250814060000 +0000" channel="Daystar.ar">
+<title>Ministry Now : David Diga Hernandez</title>
+<sub-title>David Diga Hernandez</sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814060000 +0000" stop="20250814063000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Take Heed, Watch and Pray</title>
+<sub-title>Take Heed, Watch and Pray</sub-title>
+<desc>Lee Cummings comparte la importancia de tener discernimiento y vision espiritual. Enfrentar el engaño generalizado. Participar en una batalla sobrenatural.</desc>
+<episode-num system="xmltv_ns">.114.</episode-num>
+</programme>
+<programme start="20250814063000 +0000" stop="20250814070000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen</title>
+<sub-title></sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814070000 +0000" stop="20250814073000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814073000 +0000" stop="20250814083000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814083000 +0000" stop="20250814093000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814093000 +0000" stop="20250814100000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef proclama apasionadamente la verdad de la Palabra de Dios a las personas alrededor del mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814100000 +0000" stop="20250814103000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814103000 +0000" stop="20250814110000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Potential</title>
+<sub-title>Potential</sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns">.20.</episode-num>
+</programme>
+<programme start="20250814113000 +0000" stop="20250814120000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef proclama apasionadamente la verdad de la Palabra de Dios a las personas alrededor del mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814120000 +0000" stop="20250814123000 +0000" channel="Daystar.ar">
+<title>Robert Jeffress: Courageous</title>
+<sub-title></sub-title>
+<desc>El pastor y autor Robert Jeffress ofrece poderosas estrategias bíblicas que ayudarán a otros a prosperar en un mundo antagonico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814123000 +0000" stop="20250814130000 +0000" channel="Daystar.ar">
+<title>Andrew Wommack: La verdad del evangelio</title>
+<sub-title></sub-title>
+<desc>Andrew Wommack afirma que la vida eterna tiene que ver con tener una relacion íntima con Dios mientras uno todavía está en este mundo.</desc>
+<episode-num system="xmltv_ns">.258.</episode-num>
+</programme>
+<programme start="20250814130000 +0000" stop="20250814133000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
+</programme>
+<programme start="20250814133000 +0000" stop="20250814140000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814140000 +0000" stop="20250814143000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural! : Joseph Z</title>
+<sub-title>Joseph Z</sub-title>
+<desc>El autor Joseph Zupetz.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
+</programme>
+<programme start="20250814143000 +0000" stop="20250814150000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814150000 +0000" stop="20250814153000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen : Viviendo contra corriente</title>
+<sub-title>Viviendo contra corriente</sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814153000 +0000" stop="20250814160000 +0000" channel="Daystar.ar">
+<title>Lo sobrenatural ahora</title>
+<sub-title></sub-title>
+<desc>Un estudio práctico de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814160000 +0000" stop="20250814170000 +0000" channel="Daystar.ar">
+<title>Ministry Now : Dr. Robert Malone</title>
+<sub-title>Dr. Robert Malone</sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns">1..</episode-num>
+</programme>
+<programme start="20250814170000 +0000" stop="20250814173000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural! : Joseph Z</title>
+<sub-title>Joseph Z</sub-title>
+<desc>El autor Joseph Zupetz.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
+</programme>
+<programme start="20250814173000 +0000" stop="20250814180000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814180000 +0000" stop="20250814183000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : Vuelve a evangelizar como antes</title>
+<sub-title>Vuelve a evangelizar como antes</sub-title>
+<desc>No se debe poner a Dios en una caja, hay mucho mas de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
+<episode-num system="xmltv_ns">.11.</episode-num>
+</programme>
+<programme start="20250814183000 +0000" stop="20250814190000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino Mesiánico Schneider: un creyente judío lleno del Espíritu en Jesús ayuda a conectar el Antiguo y el Nuevo Testamento.</desc>
+<episode-num system="xmltv_ns">.39.</episode-num>
+</programme>
+<programme start="20250814190000 +0000" stop="20250814193000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814193000 +0000" stop="20250814200000 +0000" channel="Daystar.ar">
+<title>The Potters Touch with T.D. Jakes</title>
+<sub-title></sub-title>
+<desc>El ministerio del obispo T.D. Jakes aborda los temas y problemas de hoy ofreciendo soluciones prácticas y espirituales a las preguntas más difíciles de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814200000 +0000" stop="20250814203000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814203000 +0000" stop="20250814210000 +0000" channel="Daystar.ar">
+<title>Andrew Wommack: La verdad del evangelio</title>
+<sub-title></sub-title>
+<desc>Andrew Wommack afirma que la vida eterna tiene que ver con tener una relacion íntima con Dios mientras uno todavía está en este mundo.</desc>
+<episode-num system="xmltv_ns">.258.</episode-num>
+</programme>
+<programme start="20250814210000 +0000" stop="20250814220000 +0000" channel="Daystar.ar">
+<title>El cielo en la Tierra</title>
+<sub-title></sub-title>
+<desc>Predicacion de la Iglesia Cristiana "El lugar de su presencia" en Bogotá, Colombia. Con temas relevantes y prácticos, aplicables a la vida diaria y consejos bíblicos para alentar, animar y reflexionar en toda situacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814220000 +0000" stop="20250814223000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814223000 +0000" stop="20250814230000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen</title>
+<sub-title></sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814230000 +0000" stop="20250815000000 +0000" channel="Daystar.ar">
+<title>Voz News</title>
+<sub-title></sub-title>
+<desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250815000000 +0000" stop="20250815003000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural! : Joseph Z</title>
+<sub-title>Joseph Z</sub-title>
+<desc>El autor Joseph Zupetz.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
 </programme>
 <programme start="20250807030000 +0000" stop="20250807050000 +0000" channel="MTV 80s.ar">
 <title>Forever 80s</title>
@@ -1891,13 +2137,13 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250808080000 +0000" stop="20250808130000 +0000" channel="MTV 80s.ar">
+<programme start="20250808080000 +0000" stop="20250808114000 +0000" channel="MTV 80s.ar">
 <title>Ultimate 50 80s Karaoke Classics</title>
 <sub-title></sub-title>
 <desc>¡Prepara tu microfono! Estos son los 50 mejores exitos de karaoke de los 80, que no podrás evitar cantar a todo pulmon.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250808130000 +0000" stop="20250808160000 +0000" channel="MTV 80s.ar">
+<programme start="20250808114000 +0000" stop="20250808160000 +0000" channel="MTV 80s.ar">
 <title>Pump Up The 80s Party!</title>
 <sub-title></sub-title>
 <desc>Una seleccion de los mejores exitos de los 80 están incluidos en esta lista de reproduccion fabulosa para fiestas de los 80. ¡A subir el volumen y a bailar con algunas de las mejores melodías clásicas de los 80!</desc>
@@ -1933,25 +2179,25 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809080000 +0000" stop="20250809130000 +0000" channel="MTV 80s.ar">
+<programme start="20250809080000 +0000" stop="20250809110500 +0000" channel="MTV 80s.ar">
 <title>Club Tropicana! 80s Summer Party</title>
 <sub-title></sub-title>
 <desc>No se puede prometer que las bebidas serán gratis, pero sí se pude prometer una impresionante lista de reproduccion con clásicos exitos veraniegos de los 80 para poner un ambiente festivo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809130000 +0000" stop="20250809150000 +0000" channel="MTV 80s.ar">
+<programme start="20250809110500 +0000" stop="20250809150000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title>
 <sub-title></sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809150000 +0000" stop="20250809200000 +0000" channel="MTV 80s.ar">
+<programme start="20250809150000 +0000" stop="20250809183000 +0000" channel="MTV 80s.ar">
 <title>1984 Wrapped!</title>
 <sub-title></sub-title>
 <desc>La máquina del tiempo se enciende para celebrar los mejores temas de la vida. Un aterrizaje en el año 1984, con exitos de Duran Duran, Frankie Goes To Hollywood y Wham!.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809200000 +0000" stop="20250810010000 +0000" channel="MTV 80s.ar">
+<programme start="20250809183000 +0000" stop="20250810010000 +0000" channel="MTV 80s.ar">
 <title>MTV 80s @ The Movies!</title>
 <sub-title></sub-title>
 <desc>MTV 80s trae todos los exitos de las bandas sonoras que llegaron hasta la pantalla grande.</desc>
@@ -2029,37 +2275,37 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811080000 +0000" stop="20250811130000 +0000" channel="MTV 80s.ar">
+<programme start="20250811080000 +0000" stop="20250811110500 +0000" channel="MTV 80s.ar">
 <title>The Sun Always Shines On MTV 80s!</title>
 <sub-title></sub-title>
 <desc>Videos e himnos iconicos de la decada de los ochenta para disfrutar en cualquier parte, incluso para ambientar las actividades cotidianas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811130000 +0000" stop="20250811140000 +0000" channel="MTV 80s.ar">
+<programme start="20250811110500 +0000" stop="20250811140000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title>
 <sub-title></sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811140000 +0000" stop="20250811190000 +0000" channel="MTV 80s.ar">
+<programme start="20250811140000 +0000" stop="20250811173000 +0000" channel="MTV 80s.ar">
 <title>Ll Around The World: Greatest Global No.1s!</title>
 <sub-title></sub-title>
 <desc>¡Contando los mayores exitos que llegaron al primer puesto en todo el mundo!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811190000 +0000" stop="20250811200000 +0000" channel="MTV 80s.ar">
+<programme start="20250811173000 +0000" stop="20250811200000 +0000" channel="MTV 80s.ar">
 <title>Guess the Year</title>
 <sub-title></sub-title>
 <desc>En este programa el espectador podrá averiguar cuánto sabe de música intentando adivinar en que año fueron emitidos una serie de video clips.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811200000 +0000" stop="20250812010000 +0000" channel="MTV 80s.ar">
+<programme start="20250811200000 +0000" stop="20250811233500 +0000" channel="MTV 80s.ar">
 <title>1985 Wrapped!</title>
 <sub-title></sub-title>
 <desc>Se activa la máquina del tiempo para recordar los mejores temas de la vida. Esta vez, se aterriza en 1985.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250812010000 +0000" stop="20250812030000 +0000" channel="MTV 80s.ar">
+<programme start="20250811233500 +0000" stop="20250812030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title>
 <sub-title></sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
@@ -2153,6 +2399,54 @@
 <title>The Sun Always Shines On MTV 80s!</title>
 <sub-title></sub-title>
 <desc>Videos e himnos iconicos de la decada de los ochenta para disfrutar en cualquier parte, incluso para ambientar las actividades cotidianas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814010000 +0000" stop="20250814030000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814030000 +0000" stop="20250814050000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title>
+<sub-title></sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814050000 +0000" stop="20250814080000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814080000 +0000" stop="20250814130000 +0000" channel="MTV 80s.ar">
+<title>1985 Wrapped!</title>
+<sub-title></sub-title>
+<desc>Se activa la máquina del tiempo para recordar los mejores temas de la vida. Esta vez, se aterriza en 1985.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814130000 +0000" stop="20250814140000 +0000" channel="MTV 80s.ar">
+<title>80s Double Shots: 2 From 1!</title>
+<sub-title></sub-title>
+<desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814140000 +0000" stop="20250814190000 +0000" channel="MTV 80s.ar">
+<title>The Sun Always Shines On MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Videos e himnos iconicos de la decada de los ochenta para disfrutar en cualquier parte, incluso para ambientar las actividades cotidianas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814190000 +0000" stop="20250814200000 +0000" channel="MTV 80s.ar">
+<title>Guess the Year</title>
+<sub-title></sub-title>
+<desc>En este programa el espectador podrá averiguar cuánto sabe de música intentando adivinar en que año fueron emitidos una serie de video clips.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814200000 +0000" stop="20250815010000 +0000" channel="MTV 80s.ar">
+<title>The 50 Greatest Voices Of The 80s!</title>
+<sub-title></sub-title>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250807003000 +0000" stop="20250807010000 +0000" channel="ALIENTOVISION.ar">
@@ -4591,10 +4885,94 @@
 <desc>Julia, una simple dependienta de una zapatería, sueña con ser la esposa del Teniente Ernesto, el galán más apuesto de la ciudad. Para que su sueño se cumpla debe aparecer un Hada Madrina y, en esta ocasion el hada será hombre.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250808021500 +0000" stop="20250809021500 +0000" channel="Atrescine.ar">
+<programme start="20250808021500 +0000" stop="20250808040000 +0000" channel="Atrescine.ar">
 <title>Verano 70</title>
 <sub-title></sub-title>
 <desc>Cuatro matrimonios veranean en Benidom. Sin embargo, cuando los maridos dejan a las familias en la playa y se van a Madrid de juerga, las esposas los critican, seguras de sus infidelidades.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808040000 +0000" stop="20250808052000 +0000" channel="Atrescine.ar">
+<title>Oh, cielos</title>
+<sub-title></sub-title>
+<desc>A Pablo Ventura, un publicista amoral, seductor y divorciado, lo mata de un balazo Aurelio, un compañero de trabajo. Pero a Pablo no le ha llegado todavía la hora de morir, antes tendrá que hacer una campaña publicitaria.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808052000 +0000" stop="20250808070000 +0000" channel="Atrescine.ar">
+<title>Evelyn</title>
+<sub-title></sub-title>
+<desc>Evelyn viaja a España desde su pueblo natal en Perú. Piensa que va a trabajar con su prima en un restaurante. Pero es engañada y secuestrada para ejercer la prostitucion en un club de carretera.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808070000 +0000" stop="20250808085500 +0000" channel="Atrescine.ar">
+<title>Desde que amanece, apetece</title>
+<sub-title></sub-title>
+<desc>Una familia envía a su hijo a vivir con su tío para que se convierta en un hombre exitoso, sin imaginar que este tiene un nuevo negocio: una agencia de prostitutos, donde el chico será la estrella.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808085500 +0000" stop="20250808105000 +0000" channel="Atrescine.ar">
+<title>Sagitario</title>
+<sub-title></sub-title>
+<desc>La vida de dos amigos maduros, Rosa y Jaime, quienes nacieron bajo el signo de Sagitario, se cruza con un joven repartidor de pizzas, mostrando el tremendo vacío de un Madrid actual donde cabe todo el horoscopo humano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808105000 +0000" stop="20250808122500 +0000" channel="Atrescine.ar">
+<title>Perdona, bonita, pero Lucas me quería a mí</title>
+<sub-title></sub-title>
+<desc>Hasta que Lucas aparecio en sus vidas, Dani, Carlos y Toni llevaban una existencia tranquila y sin grandes preocupaciones. Entonces aparecio Lucas para cambiar por completo la vida y el destino de sus enamorados caseros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808122500 +0000" stop="20250808142000 +0000" channel="Atrescine.ar">
+<title>El palomo cojo</title>
+<sub-title></sub-title>
+<desc>Un niño de diez años, aquejado de una larga enfermedad llega a la casona de sus abuelos, situada en un barrio alto de una poblacion señorial gaditana a pasar los tres meses de un verano, que se anuncian tristes y aburridos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808142000 +0000" stop="20250808161500 +0000" channel="Atrescine.ar">
+<title>Los atracadores</title>
+<sub-title></sub-title>
+<desc>Vidal y sus amigos Ramon y Carmelo, son unos pequeños delincuentes que se divierten asaltando farmacias. Al robar un cine cometen su primer asesinato y entonces, ya no podrán detener una carrera criminal que terminará trágicamente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808161500 +0000" stop="20250808180000 +0000" channel="Atrescine.ar">
+<title>La carta esferica</title>
+<sub-title></sub-title>
+<desc>Coy, un marinero desterrado del mar conoce en Barcelona a una mujer atractiva y misteriosa, Tanger, que en dura pugna con un aventurero italiano consigue hacerse con una joya cartográfica: el Atlas Marítimo de Urrutia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808180000 +0000" stop="20250808194000 +0000" channel="Atrescine.ar">
+<title>A los que aman</title>
+<sub-title></sub-title>
+<desc>Una noche, un viejo medico y maestro, le cuenta a un joven la historia del gran amor de su vida. Cuando era joven, se había enamorado apasionadamente y en silencio de Matilde.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808194000 +0000" stop="20250808213000 +0000" channel="Atrescine.ar">
+<title>After</title>
+<sub-title></sub-title>
+<desc>Tres amigos de la adolescencia a punto de cumplir los 40 años se reencuentran tras largo tiempo. Insatisfechos con su presente, emprenden juntos una carrera descontrolada hacia el corazon de la noche: sexo, drogas, alcohol y excesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808213000 +0000" stop="20250808231000 +0000" channel="Atrescine.ar">
+<title>Adosados</title>
+<sub-title></sub-title>
+<desc>Un auditor de cuentas vive feliz en un paisaje urbano de casas adosadas. La rutina y comodidad se ven afectados cuando un hecho misterioso desencadena una serie de mentiras que alteran radicalmente su vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250808231000 +0000" stop="20250809004000 +0000" channel="Atrescine.ar">
+<title>El Robobo de la jojoya</title>
+<sub-title></sub-title>
+<desc>El Ojo de Nefertiti, un diamante egipcio de gran valor, está siendo expuesto al público cuando los hermanos Mangoni, ladrones de poca monta, intentan robarlo descolgándose del techo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809004000 +0000" stop="20250809022500 +0000" channel="Atrescine.ar">
+<title>Alegre ma non troppo</title>
+<sub-title></sub-title>
+<desc>Pablo, un joven homosexual, pretende ser músico, para lo cual procura ingresar en la joven Orquesta Nacional, en calidad de músico de trompa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809022500 +0000" stop="20250810022500 +0000" channel="Atrescine.ar">
+<title>Cafe solo... o con ellas</title>
+<sub-title></sub-title>
+<desc>Javi, Hugo, Dani y Pedro son cuatro amigos que se están acercando a los treinta años y buscan su lugar en la vida. Preocupados, por encima de todo, por lo más importante para ellos: sus relaciones con el sexo opuesto.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250807013000 +0000" stop="20250807020000 +0000" channel="Canal Luz.ar">
@@ -5047,6 +5425,258 @@
 <desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250809010000 +0000" stop="20250809013000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809013000 +0000" stop="20250809023000 +0000" channel="Canal Luz.ar">
+<title>Noche de oracion</title>
+<sub-title></sub-title>
+<desc>Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809023000 +0000" stop="20250809030000 +0000" channel="Canal Luz.ar">
+<title>Eleva+</title>
+<sub-title></sub-title>
+<desc>David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="Canal Luz.ar">
+<title>Feedback con Jesús</title>
+<sub-title></sub-title>
+<desc>Un espacio que aborda diferentes temas actuales bajo una mirada de fe, amor y religion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="Canal Luz.ar">
+<title>Un amor eterno</title>
+<sub-title></sub-title>
+<desc>Desde Arequito, Elsio Romero, director del diario digital "Arequito Hoy", nos invita a conocer un amor incondicional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="Canal Luz.ar">
+<title>Edificados por la palabra</title>
+<sub-title></sub-title>
+<desc>Desde Ushuaia, Tierra del Fuego del Espíritu Santo, Fabián Rotemberg funda los cimientos de una solida vida cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="Canal Luz.ar">
+<title>Cristo, la solucion</title>
+<sub-title></sub-title>
+<desc>Emision en la que se abordan algunos pasajes bíblicos, reflexiones y mensajes sobre la obra de Cristo en la vida del ser humano, así como tambien se ofrecen algunos consejos útiles para discernir en la búsqueda espiritual personal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809050000 +0000" stop="20250809053000 +0000" channel="Canal Luz.ar">
+<title>Vision, fe y accion</title>
+<sub-title></sub-title>
+<desc>Tres palabras clave que, juntas, aseguran el triunfo. El pastor Ezequiel Ortellado brinda testimonios transformadores, entrevistas exclusivas y notas de interes relacionadas con el quehacer de personas y comunidades cristianas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809053000 +0000" stop="20250809060000 +0000" channel="Canal Luz.ar">
+<title>Hillsong Latam TV</title>
+<sub-title></sub-title>
+<desc>El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazon de Dios hacia las personas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809060000 +0000" stop="20250809063000 +0000" channel="Canal Luz.ar">
+<title>Todo es posible</title>
+<sub-title></sub-title>
+<desc>Un tiempo para alentar a los televidentes a creer en los milagros sobrenaturales de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="Canal Luz.ar">
+<title>Avivamiento</title>
+<sub-title></sub-title>
+<desc>Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y predicas del evangelio, la renovacion de la vida a traves de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809070000 +0000" stop="20250809073000 +0000" channel="Canal Luz.ar">
+<title>Somos la voz</title>
+<sub-title></sub-title>
+<desc>Una vision joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809073000 +0000" stop="20250809083000 +0000" channel="Canal Luz.ar">
+<title>El cruce</title>
+<sub-title></sub-title>
+<desc>Un programa conducido por Jesús Ottaviano, donde diferentes personas cuentan su experiencia antes y despues de su cruce con Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809083000 +0000" stop="20250809090000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809090000 +0000" stop="20250809100000 +0000" channel="Canal Luz.ar">
+<title>La puerta abierta</title>
+<sub-title></sub-title>
+<desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809100000 +0000" stop="20250809101500 +0000" channel="Canal Luz.ar">
+<title>Centro de avivamiento familiar</title>
+<sub-title></sub-title>
+<desc>El fuego de Dios produce un despertar en la vida del creyente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809101500 +0000" stop="20250809103000 +0000" channel="Canal Luz.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809103000 +0000" stop="20250809110000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809110000 +0000" stop="20250809120000 +0000" channel="Canal Luz.ar">
+<title>Un tiempo con Jesús</title>
+<sub-title></sub-title>
+<desc>Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809123000 +0000" stop="20250809130000 +0000" channel="Canal Luz.ar">
+<title>Una paloma sobre el mundo</title>
+<sub-title></sub-title>
+<desc>Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809130000 +0000" stop="20250809140000 +0000" channel="Canal Luz.ar">
+<title>Iglesia Redentor</title>
+<sub-title></sub-title>
+<desc>Se partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a traves de la oracion y experimentar su gracia en tu vida. Con la conduccion de Daniel Cattaneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809140000 +0000" stop="20250809143000 +0000" channel="Canal Luz.ar">
+<title>La palabra de Dios</title>
+<sub-title></sub-title>
+<desc>Los Pastores rosarinos Jose María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809143000 +0000" stop="20250809150000 +0000" channel="Canal Luz.ar">
+<title>Micros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809150000 +0000" stop="20250809153000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809153000 +0000" stop="20250809160000 +0000" channel="Canal Luz.ar">
+<title>Tutti y los frutis</title>
+<sub-title></sub-title>
+<desc>Tutti, los frutis y mango te esperan para vivir increíbles aventuras!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809160000 +0000" stop="20250809163000 +0000" channel="Canal Luz.ar">
+<title>Vida dura</title>
+<sub-title></sub-title>
+<desc>La más impactante serie sobre personas que casi pagan con su vida por sus propios errores.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809163000 +0000" stop="20250809170000 +0000" channel="Canal Luz.ar">
+<title>Momento decisivo</title>
+<sub-title></sub-title>
+<desc>Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809170000 +0000" stop="20250809173000 +0000" channel="Canal Luz.ar">
+<title>Torre de oracion</title>
+<sub-title></sub-title>
+<desc>Emision en la que podrás experimentar un encuentro diferente con Dios, a traves de cantos de alabanza, oracion constante y la predicacion del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809173000 +0000" stop="20250809174500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809174500 +0000" stop="20250809180000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809183000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809183000 +0000" stop="20250809190000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809190000 +0000" stop="20250809193000 +0000" channel="Canal Luz.ar">
+<title>De corazon a corazon</title>
+<sub-title></sub-title>
+<desc>Una guía en el camino hacia la formacion de una vida de oracion mediante la adoracion eucarística, la meditacion y la reflexion, con consejos útiles que edifican el alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809193000 +0000" stop="20250809200000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809200000 +0000" stop="20250809203000 +0000" channel="Canal Luz.ar">
+<title>Si queres un cambio</title>
+<sub-title></sub-title>
+<desc>El cambio es posible, cualquiera sea la circunstancia. María Rosa Morellato, te anima a hacerlo mediante la fe en Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809203000 +0000" stop="20250809204500 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809204500 +0000" stop="20250809210000 +0000" channel="Canal Luz.ar">
+<title>Bendita luz</title>
+<sub-title></sub-title>
+<desc>En compañía de la apostol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809213000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809213000 +0000" stop="20250809220000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250809220000 +0000" stop="20250810000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc>Conferencias en vivo desde el auditorio de la Iglesia Evangelica Misionera Argentina. El público podrá disfrutar de un momento de reflexion e introspeccion espiritual a traves de la interpretacion de la Palabra de Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250810000000 +0000" stop="20250810010000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250807020000 +0000" stop="20250807060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
@@ -5083,127 +5713,163 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250808020000 +0000" stop="20250809020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808020000 +0000" stop="20250808060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809020000 +0000" stop="20250809060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808060000 +0000" stop="20250808100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809060000 +0000" stop="20250809100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808100000 +0000" stop="20250808140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809100000 +0000" stop="20250809140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808140000 +0000" stop="20250808180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809140000 +0000" stop="20250809180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808180000 +0000" stop="20250808220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809180000 +0000" stop="20250809220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250808220000 +0000" stop="20250809020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250809220000 +0000" stop="20250810020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250809020000 +0000" stop="20250810020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250810020000 +0000" stop="20250811020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810020000 +0000" stop="20250810060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811020000 +0000" stop="20250811060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810060000 +0000" stop="20250810100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811060000 +0000" stop="20250811100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810100000 +0000" stop="20250810140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811100000 +0000" stop="20250811140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810140000 +0000" stop="20250810180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811140000 +0000" stop="20250811180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810180000 +0000" stop="20250810220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811180000 +0000" stop="20250811220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250810220000 +0000" stop="20250811020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250811220000 +0000" stop="20250812020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250811020000 +0000" stop="20250812020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250812020000 +0000" stop="20250813020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812020000 +0000" stop="20250812060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813020000 +0000" stop="20250813060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812060000 +0000" stop="20250812100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813060000 +0000" stop="20250813100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812100000 +0000" stop="20250812140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813100000 +0000" stop="20250813140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812140000 +0000" stop="20250812180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813140000 +0000" stop="20250813180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812180000 +0000" stop="20250812220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813180000 +0000" stop="20250813220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250812220000 +0000" stop="20250813020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250813220000 +0000" stop="20250814020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250813020000 +0000" stop="20250814020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814020000 +0000" stop="20250814060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814060000 +0000" stop="20250814100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814100000 +0000" stop="20250814140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814140000 +0000" stop="20250814180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814180000 +0000" stop="20250814220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250814220000 +0000" stop="20250815020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
@@ -12419,6 +13085,162 @@
 <title>Bus Driver</title>
 <sub-title></sub-title>
 <desc>Un autobús escolar pincha una rueda y se detiene en un rancho para pedir ayuda. El conductor, cinco estudiantes problemáticos y su profesor de gimnasia, se encuentran con unos criminales que no quieren que sus operaciones de droga se descubran.Bus Driver es una película de accion dirigida y escrita por Brian Herzlinger, con la ayuda en el guion de Jay Black. Este es el único largometraje de genero de accion del realizador, más acostumbrado a dirigir comedias y dramas como Baby on Board, Hermano White y How Sweet It Is.Steve Daron, conocido por protagonizar Hollow Creek, es tambien el personaje principal de este filme. Además, le acompañan en el reparto: Steven Chase, Holly Elissa, Robert Forster y Michael Bailey Smith.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250810230000 +0000" stop="20250811003000 +0000" channel="Levante TV.es">
+<title>Las buenas relaciones</title>
+<sub-title></sub-title>
+<desc>Tras ganar un importante caso, un abogado afroamericano decide mudarse con su mujer y sus hijos de su barrio de clase trabajadora a una comunidad más elegante, en Connecticut. Pronto el sueño americano se convierte en una pesadilla.Un telefilme a caballo entre la comedia y el drama, protagonizado por dos de las grandes estrellas afroamericanas de Hollywood como son Danny Glover y Whoopi Goldberg, y producido por ellas mismas y por el cineasta Spike Lee. Seguramente por ello, el director de la cinta fue Ernest R. Dickerson, uno de los operadores de cámara habituales de Lee, que tambien ha realizado algunas películas, como Bones o Juego de supervivencia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811003000 +0000" stop="20250811060000 +0000" channel="Levante TV.es">
+<title>En Archivo</title>
+<sub-title></sub-title>
+<desc>En Archivo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811060000 +0000" stop="20250811070000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811070000 +0000" stop="20250811083000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811083000 +0000" stop="20250811091500 +0000" channel="Levante TV.es">
+<title>Entre tu amor y mi amor</title>
+<sub-title></sub-title>
+<desc>Sol decide cambiar de vida y mudarse al campo. Allí conoce a Alejando, de quien se enamora locamente sin saber que es hijo de quien ordeno matar a sus padres cuando ella era un bebe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811091500 +0000" stop="20250811094500 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811094500 +0000" stop="20250811100000 +0000" channel="Levante TV.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Laia cuenta los mejores cuentos para grandes y pequeños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811100000 +0000" stop="20250811110000 +0000" channel="Levante TV.es">
+<title>Revista de Sociedad</title>
+<sub-title></sub-title>
+<desc>La sociedad, la cultura, la moda y el ocio de la Comunidad Valenciana se juntan en este programa semanal, donde se compaginan reportajes a pie de calle con entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811110000 +0000" stop="20250811113000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811113000 +0000" stop="20250811120000 +0000" channel="Levante TV.es">
+<title>Receta a voces</title>
+<sub-title></sub-title>
+<desc>Receta a voces</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811120000 +0000" stop="20250811123000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811123000 +0000" stop="20250811130000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811130000 +0000" stop="20250811133000 +0000" channel="Levante TV.es">
+<title>Panorama esports</title>
+<sub-title></sub-title>
+<desc>Panorama esports</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811133000 +0000" stop="20250811141500 +0000" channel="Levante TV.es">
+<title>Entre tu amor y mi amor</title>
+<sub-title></sub-title>
+<desc>Sol decide cambiar de vida y mudarse al campo. Allí conoce a Alejando, de quien se enamora locamente sin saber que es hijo de quien ordeno matar a sus padres cuando ella era un bebe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811141500 +0000" stop="20250811150000 +0000" channel="Levante TV.es">
+<title>Entre tu amor y mi amor</title>
+<sub-title></sub-title>
+<desc>Sol decide cambiar de vida y mudarse al campo. Allí conoce a Alejando, de quien se enamora locamente sin saber que es hijo de quien ordeno matar a sus padres cuando ella era un bebe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811150000 +0000" stop="20250811153000 +0000" channel="Levante TV.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Laia cuenta los mejores cuentos para grandes y pequeños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811153000 +0000" stop="20250811160000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811160000 +0000" stop="20250811163000 +0000" channel="Levante TV.es">
+<title>Mundo Natural</title>
+<sub-title></sub-title>
+<desc>Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811163000 +0000" stop="20250811173000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811173000 +0000" stop="20250811180000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811180000 +0000" stop="20250811183000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811183000 +0000" stop="20250811190000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811190000 +0000" stop="20250811193000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811193000 +0000" stop="20250811210000 +0000" channel="Levante TV.es">
+<title>Pequeños genios</title>
+<sub-title></sub-title>
+<desc>Programa infantil en el que els mes petits de la casa mostren el mon a traves dels seus ulls. Cada edicio de lespai es una aventura sota el mando de Bea Carrascosa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811210000 +0000" stop="20250811213000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250811213000 +0000" stop="20250811220000 +0000" channel="Levante TV.es">
+<title>Panorama esports</title>
+<sub-title></sub-title>
+<desc>Panorama esports</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250807020000 +0000" stop="20250807070000 +0000" channel="Canal Parlamento.es">
