@@ -2,15 +2,8 @@
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 <channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
 <channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
-<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
-<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
-<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
-<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
 <channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/19436.png"/></channel>
 <channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/19526.png"/></channel>
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Bon Dia TV.es"><display-name>Bon Dia TV.es</display-name><icon src="https://images.open-epg.com/4950.png"/></channel>
@@ -49,6 +42,13 @@
 <channel id="Bethel.hn"><display-name>Bethel.hn</display-name><icon src="https://images.open-epg.com/18117.png"/></channel>
 <channel id="CCI Channel.hn"><display-name>CCI Channel.hn</display-name><icon src="https://images.open-epg.com/18125.png"/></channel>
 <channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name><icon src="https://images.open-epg.com/18126.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
+<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
+<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
 <programme start="20250817000000 +0000" stop="20250817003000 +0000" channel="Daystar.ar">
 <title>Sid Roth: ¡Es sobrenatural!</title>
 <sub-title></sub-title>
@@ -3901,6 +3901,18 @@
 <desc>Cosme, un chico de quince años, vive con sus padres y su hermana en un chalet adosado. La monotonía de su vida cambia cuando se enamora de su vecina Merche, una hermosa mujer que tiene casi veinte años más que el.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250818004000 +0000" stop="20250818024000 +0000" channel="Atrescine.ar">
+<title>El camino de los ingleses</title>
+<sub-title></sub-title>
+<desc>En Málaga a finales de los 70, Miguelito Dávila es un joven de alma inquieta a quien le acaban de quitar un riñon. Durante ese verano, el y sus amigos experimentarán al extremo con el sexo, la amistad, la violencia y el amor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250818024000 +0000" stop="20250819024000 +0000" channel="Atrescine.ar">
+<title>El Bola</title>
+<sub-title></sub-title>
+<desc>El Bola es un chico de 12 años que vive una atmosfera violenta y sordida. Su situacion familiar, que oculta avergonzado, lo incapacita para relacionarse y comunicarse con otros chicos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250817000000 +0000" stop="20250817010000 +0000" channel="Canal Luz.ar">
 <title>Un día a la vez</title>
 <sub-title></sub-title>
@@ -4127,6 +4139,18 @@
 <title>Noches CDV</title>
 <sub-title></sub-title>
 <desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250818013000 +0000" stop="20250818023000 +0000" channel="Canal Luz.ar">
+<title>Día de bendicion</title>
+<sub-title></sub-title>
+<desc>El pastor Omar Olier conduce este segmento en el cual realiza algunas predicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendicion a tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250818023000 +0000" stop="20250819023000 +0000" channel="Canal Luz.ar">
+<title>Rey de reyes</title>
+<sub-title></sub-title>
+<desc>Conferencia Rey de Reyes en la que pastores y líderes de diferentes lugares del mundo reciben una imparticion especial del Espíritu Santo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250817020000 +0000" stop="20250817060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
@@ -10825,6 +10849,42 @@
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20250818220000 +0000" stop="20250819020000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819020000 +0000" stop="20250819070000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819070000 +0000" stop="20250819100000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819100000 +0000" stop="20250819140000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819140000 +0000" stop="20250819180000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819180000 +0000" stop="20250819220000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250817000000 +0000" stop="20250817030000 +0000" channel="MTV 90s.es">
 <title>90s Mixtape!</title>
 <sub-title></sub-title>
@@ -10889,13 +10949,13 @@
 <title>Girl Power Hour!</title>
 <sub-title></sub-title>
 <desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
-<episode-num system="xmltv_ns">1992.64.</episode-num>
+<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20250818070000 +0000" stop="20250818100000 +0000" channel="MTV 90s.es">
 <title>Saved By The 90s!</title>
 <sub-title></sub-title>
 <desc>Si necesitas un descanso del pop moderno, ¡no busques más! Los años 90 han llegado para salvarnos, así que disfrutad estos exitos de la epoca dorada de la música.</desc>
-<episode-num system="xmltv_ns">1992.64.</episode-num>
+<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20250818100000 +0000" stop="20250818130000 +0000" channel="MTV 90s.es">
 <title>USA Hitlist!</title>
@@ -10907,7 +10967,7 @@
 <title>Alternative Nation!</title>
 <sub-title></sub-title>
 <desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
-<episode-num system="xmltv_ns">1992.64.</episode-num>
+<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20250818140000 +0000" stop="20250818170000 +0000" channel="MTV 90s.es">
 <title>90s Mixtape!</title>
@@ -10925,9 +10985,69 @@
 <title>Alternative Nation!</title>
 <sub-title></sub-title>
 <desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
-<episode-num system="xmltv_ns">1992.64.</episode-num>
+<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20250818210000 +0000" stop="20250819000000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">1992.64.</episode-num>
+</programme>
+<programme start="20250819000000 +0000" stop="20250819030000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">1992.64.</episode-num>
+</programme>
+<programme start="20250819030000 +0000" stop="20250819060000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">1992.64.</episode-num>
+</programme>
+<programme start="20250819060000 +0000" stop="20250819070000 +0000" channel="MTV 90s.es">
+<title>Girl Power Hour!</title>
+<sub-title></sub-title>
+<desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250819070000 +0000" stop="20250819100000 +0000" channel="MTV 90s.es">
+<title>Mmm Bop!</title>
+<sub-title>Perfect 90s Pop</sub-title>
+<desc>Te traemos la lista de exitos pop de los años 90 perfecta.</desc>
+<episode-num system="xmltv_ns">0.1.</episode-num>
+</programme>
+<programme start="20250819100000 +0000" stop="20250819140000 +0000" channel="MTV 90s.es">
+<title>I Like To Move It! Top 50 90s...</title>
+<sub-title></sub-title>
+<desc>... Classix! Were turning back time to give you the chance to pull out those retired dance moves, or if youre new to the decade, try out some retro rhythm! This is the 90s, and these are classix!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250819140000 +0000" stop="20250819170000 +0000" channel="MTV 90s.es">
+<title>2 for 1</title>
+<sub-title>90s double drop!</sub-title>
+<desc>¿Por que tener 1 cuando puedes tener 2? Disfruta de un doble saque de las mejores actuaciones de los 90, ¡aquí mismo!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250819170000 +0000" stop="20250819180000 +0000" channel="MTV 90s.es">
+<title>Nirvana: MTV Unplugged</title>
+<sub-title>Nirvana</sub-title>
+<desc>On the 18th November 1993, Nirvana recorded their now legendary MTV Unplugged performance. Relive the special gig now, including seminal classics like Come As You Are and All Apologies.</desc>
+<episode-num system="xmltv_ns">1992.0.</episode-num>
+</programme>
+<programme start="20250819180000 +0000" stop="20250819200000 +0000" channel="MTV 90s.es">
+<title>MTV 90s @ The Movies!</title>
+<sub-title></sub-title>
+<desc>Grab your popcorn, MTV 90s is heading to the movies, with all the big-screen soundtrack hits of the decade!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250819200000 +0000" stop="20250819210000 +0000" channel="MTV 90s.es">
+<title>Alternative Nation!</title>
+<sub-title></sub-title>
+<desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20250819210000 +0000" stop="20250820000000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
 <sub-title></sub-title>
 <desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
