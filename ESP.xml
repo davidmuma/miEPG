@@ -2,7 +2,6 @@
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 <channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
 <channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
@@ -50,6 +49,7 @@
 <channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20250901003000 +0000" stop="20250901010000 +0000" channel="Daystar.ar">
 <title>Aqua viva</title>
 <sub-title></sub-title>
@@ -4268,127 +4268,163 @@
 <desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250901020000 +0000" stop="20250902020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901020000 +0000" stop="20250901060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902020000 +0000" stop="20250902060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901060000 +0000" stop="20250901100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902060000 +0000" stop="20250902100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901100000 +0000" stop="20250901140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902100000 +0000" stop="20250902140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901140000 +0000" stop="20250901180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902140000 +0000" stop="20250902180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901180000 +0000" stop="20250901220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902180000 +0000" stop="20250902220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250901220000 +0000" stop="20250902020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250902220000 +0000" stop="20250903020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250902020000 +0000" stop="20250903020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250903020000 +0000" stop="20250904020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903020000 +0000" stop="20250903060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904020000 +0000" stop="20250904060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903060000 +0000" stop="20250903100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904060000 +0000" stop="20250904100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903100000 +0000" stop="20250903140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904100000 +0000" stop="20250904140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903140000 +0000" stop="20250903180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904140000 +0000" stop="20250904180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903180000 +0000" stop="20250903220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904180000 +0000" stop="20250904220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250903220000 +0000" stop="20250904020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250904220000 +0000" stop="20250905020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250904020000 +0000" stop="20250905020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250905020000 +0000" stop="20250906020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905020000 +0000" stop="20250905060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906020000 +0000" stop="20250906060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905060000 +0000" stop="20250905100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906060000 +0000" stop="20250906100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905100000 +0000" stop="20250905140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906100000 +0000" stop="20250906140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905140000 +0000" stop="20250905180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906140000 +0000" stop="20250906180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905180000 +0000" stop="20250905220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906180000 +0000" stop="20250906220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250905220000 +0000" stop="20250906020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250906220000 +0000" stop="20250907020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250906020000 +0000" stop="20250907020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907020000 +0000" stop="20250907060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907060000 +0000" stop="20250907100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907100000 +0000" stop="20250907140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907140000 +0000" stop="20250907180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907180000 +0000" stop="20250907220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250907220000 +0000" stop="20250908020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
