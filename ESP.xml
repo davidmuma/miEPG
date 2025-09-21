@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
@@ -51,6 +48,9 @@
 <channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
 <channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
 <channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20250921000000 +0000" stop="20250921003000 +0000" channel="Daystar.ar">
 <title>Sid Roth: ¡Es sobrenatural!</title>
 <sub-title></sub-title>
@@ -874,10 +874,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250924040000 +0000" stop="20250924043000 +0000" channel="Daystar.ar">
-<title>Sid Roth: ¡Es sobrenatural!</title>
-<sub-title></sub-title>
-<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Sid Roth: ¡Es sobrenatural! : Steve Witt</title>
+<sub-title>Steve Witt</sub-title>
+<desc>Entrevista con Steve Witt.</desc>
+<episode-num system="xmltv_ns">.19.</episode-num>
 </programme>
 <programme start="20250924043000 +0000" stop="20250924050000 +0000" channel="Daystar.ar">
 <title>Reflections</title>
@@ -1575,6 +1575,270 @@
 <desc>Mike Shreve comparte una estrategia sobrenatural para evitar que los niños se pierdan las bendiciones de Dios.</desc>
 <episode-num system="xmltv_ns">.36.</episode-num>
 </programme>
+<programme start="20250927003000 +0000" stop="20250927010000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Overcoming Trauma</title>
+<sub-title>Overcoming Trauma</sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns">.98.</episode-num>
+</programme>
+<programme start="20250927010000 +0000" stop="20250927020000 +0000" channel="Daystar.ar">
+<title>Marcus Lamb : Como superar los problemas</title>
+<sub-title>Como superar los problemas</sub-title>
+<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
+<episode-num system="xmltv_ns">0.25.</episode-num>
+</programme>
+<programme start="20250927020000 +0000" stop="20250927023000 +0000" channel="Daystar.ar">
+<title>Aqua viva</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927023000 +0000" stop="20250927030000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927030000 +0000" stop="20250927033000 +0000" channel="Daystar.ar">
+<title>Jason Lozano</title>
+<sub-title></sub-title>
+<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927033000 +0000" stop="20250927040000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927040000 +0000" stop="20250927043000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef, un respetado líder religioso, ofrece un discurso sobre la verdad y las enseñanzas del Todopoderoso.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927043000 +0000" stop="20250927050000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927050000 +0000" stop="20250927060000 +0000" channel="Daystar.ar">
+<title>Marcus Lamb : Como superar los problemas</title>
+<sub-title>Como superar los problemas</sub-title>
+<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
+<episode-num system="xmltv_ns">0.25.</episode-num>
+</programme>
+<programme start="20250927060000 +0000" stop="20250927063000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Overcoming Trauma</title>
+<sub-title>Overcoming Trauma</sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns">.98.</episode-num>
+</programme>
+<programme start="20250927063000 +0000" stop="20250927073000 +0000" channel="Daystar.ar">
+<title>El cielo en la Tierra</title>
+<sub-title></sub-title>
+<desc>Predicacion de la Iglesia Cristiana "El lugar de su presencia" en Bogotá, Colombia. Con temas relevantes y prácticos, aplicables a la vida diaria y consejos bíblicos para alentar, animar y reflexionar en toda situacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927073000 +0000" stop="20250927080000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927080000 +0000" stop="20250927083000 +0000" channel="Daystar.ar">
+<title>Gabby Mejia</title>
+<sub-title></sub-title>
+<desc>Lectura especial de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927083000 +0000" stop="20250927093000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927093000 +0000" stop="20250927100000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927100000 +0000" stop="20250927103000 +0000" channel="Daystar.ar">
+<title>Andres Spyker de "Más vida"</title>
+<sub-title></sub-title>
+<desc>Un mensaje fresco de la palabra de Dios con una aplicacion práctica para la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927103000 +0000" stop="20250927110000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927110000 +0000" stop="20250927113000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927113000 +0000" stop="20250927120000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927120000 +0000" stop="20250927123000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927123000 +0000" stop="20250927130000 +0000" channel="Daystar.ar">
+<title>Dios de milagros</title>
+<sub-title></sub-title>
+<desc>Programa con predicacion llena de enseñanza y revelacion directa al corazon de cada televidente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927130000 +0000" stop="20250927133000 +0000" channel="Daystar.ar">
+<title>A toda luz</title>
+<sub-title></sub-title>
+<desc>Un espacio lleno de vida, con conversaciones y risas que inspiran. Voces dinámicas y temas relevantes para acercarse más a Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927133000 +0000" stop="20250927140000 +0000" channel="Daystar.ar">
+<title>The Torchlighters</title>
+<sub-title></sub-title>
+<desc>Heroes y heroínas de la fe cristiana, bíblica y contemporánea.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927140000 +0000" stop="20250927143000 +0000" channel="Daystar.ar">
+<title>Su presencia Kids</title>
+<sub-title></sub-title>
+<desc>Una iglesia para niños a la que asisten desde los tres hasta los once años.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927143000 +0000" stop="20250927150000 +0000" channel="Daystar.ar">
+<title>Lessons From the Bible</title>
+<sub-title></sub-title>
+<desc>El pastor Doug, Dusty, Amelia y los personajes aprenden sobre la Biblia y como se aplica a la vida diaria con la ayuda de juegos, canciones y títeres divertidos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927150000 +0000" stop="20250927153000 +0000" channel="Daystar.ar">
+<title>Superlibro : Gedeon: El guerrero inesperado</title>
+<sub-title>Gedeon: El guerrero inesperado</sub-title>
+<desc>Chris, Joy y Gizmo conocen a Gideon, un hombre cobarde que se convierte en un líder audaz.</desc>
+<episode-num system="xmltv_ns">.23.</episode-num>
+</programme>
+<programme start="20250927153000 +0000" stop="20250927160000 +0000" channel="Daystar.ar">
+<title>The Torchlighters</title>
+<sub-title></sub-title>
+<desc>Heroes y heroínas de la fe cristiana, bíblica y contemporánea.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927160000 +0000" stop="20250927163000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927163000 +0000" stop="20250927170000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : No habrá desperdicio</title>
+<sub-title>No habrá desperdicio</sub-title>
+<desc>David agarro cinco piedras para luchar con Goliat. Uso una piedra y regreso con cuatro. David lanzo la piedra espiritual antes que la piedra física. Todo lo usado para Dios será recompensado.</desc>
+<episode-num system="xmltv_ns">.18.</episode-num>
+</programme>
+<programme start="20250927170000 +0000" stop="20250927173000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927173000 +0000" stop="20250927180000 +0000" channel="Daystar.ar">
+<title>A toda luz</title>
+<sub-title></sub-title>
+<desc>Un espacio lleno de vida, con conversaciones y risas que inspiran. Voces dinámicas y temas relevantes para acercarse más a Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="Daystar.ar">
+<title>Robert Jeffress: Courageous</title>
+<sub-title></sub-title>
+<desc>El pastor y autor Robert Jeffress ofrece poderosas estrategias bíblicas que ayudarán a otros a prosperar en un mundo antagonico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="Daystar.ar">
+<title>Lo sobrenatural ahora</title>
+<sub-title></sub-title>
+<desc>Un estudio práctico de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927190000 +0000" stop="20250927193000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927193000 +0000" stop="20250927200000 +0000" channel="Daystar.ar">
+<title>En contacto con el Dr. Charles Stanley</title>
+<sub-title></sub-title>
+<desc>El Dr. Charles Stanley, pastor de la primera iglesia bautista de Atlanta, comparte sus ideas sobre la fe cristiana e instruye a los espectadores con motivacion espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927200000 +0000" stop="20250927203000 +0000" channel="Daystar.ar">
+<title>Christian Worship Hour</title>
+<sub-title></sub-title>
+<desc>El Dr. Harold E. Salem difunde la palabra de Dios con sencillez, humildad, sinceridad y pureza. El Dr. Salem demuestra preocupacion y compasion por aquellos que han sufrido una perdida y les ofrece esperanza a los creyentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927203000 +0000" stop="20250927210000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927210000 +0000" stop="20250927213000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : No habrá desperdicio</title>
+<sub-title>No habrá desperdicio</sub-title>
+<desc>David agarro cinco piedras para luchar con Goliat. Uso una piedra y regreso con cuatro. David lanzo la piedra espiritual antes que la piedra física. Todo lo usado para Dios será recompensado.</desc>
+<episode-num system="xmltv_ns">.18.</episode-num>
+</programme>
+<programme start="20250927220000 +0000" stop="20250927223000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927223000 +0000" stop="20250927230000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927230000 +0000" stop="20250927233000 +0000" channel="Daystar.ar">
+<title>Jason Lozano</title>
+<sub-title></sub-title>
+<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927233000 +0000" stop="20250928000000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk</title>
+<sub-title></sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250928000000 +0000" stop="20250928003000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20250921010000 +0000" stop="20250921030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title>
 <sub-title></sub-title>
@@ -1635,37 +1899,37 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922080000 +0000" stop="20250922130000 +0000" channel="MTV 80s.ar">
+<programme start="20250922080000 +0000" stop="20250922114000 +0000" channel="MTV 80s.ar">
 <title>Ultimate 50 80s Soft Rock Anthems</title>
 <sub-title></sub-title>
 <desc>Una lista de reproduccion con algunos de los mejores himnos del soft rock de los años ochenta.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922130000 +0000" stop="20250922140000 +0000" channel="MTV 80s.ar">
+<programme start="20250922114000 +0000" stop="20250922140000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title>
 <sub-title></sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922140000 +0000" stop="20250922190000 +0000" channel="MTV 80s.ar">
+<programme start="20250922140000 +0000" stop="20250922173500 +0000" channel="MTV 80s.ar">
 <title>Tiffanys 80s Hits From The Girls!</title>
 <sub-title></sub-title>
 <desc>Una lista de reproduccion a cargo de Tiffany. No pierdas tiempo, ajusta el volumen de la television y dejate envolver por la magia musical de los años 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922190000 +0000" stop="20250922200000 +0000" channel="MTV 80s.ar">
+<programme start="20250922173500 +0000" stop="20250922200000 +0000" channel="MTV 80s.ar">
 <title>Guess the Year</title>
 <sub-title></sub-title>
 <desc>En este programa el espectador podrá averiguar cuánto sabe de música intentando adivinar en que año fueron emitidos una serie de video clips.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922200000 +0000" stop="20250923010000 +0000" channel="MTV 80s.ar">
+<programme start="20250922200000 +0000" stop="20250922230000 +0000" channel="MTV 80s.ar">
 <title>1981 Wrapped!</title>
 <sub-title></sub-title>
 <desc>Se enciende la máquina del tiempo para celebrar los mejores temas de la vida. Esta vez se aterriza en 1981.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923010000 +0000" stop="20250923030000 +0000" channel="MTV 80s.ar">
+<programme start="20250922230000 +0000" stop="20250923030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title>
 <sub-title></sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
@@ -1683,37 +1947,37 @@
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923080000 +0000" stop="20250923130000 +0000" channel="MTV 80s.ar">
+<programme start="20250923080000 +0000" stop="20250923112000 +0000" channel="MTV 80s.ar">
 <title>Sing-A-long Movies and Musicals!</title>
 <sub-title></sub-title>
 <desc>Un recuento de las 50 mejores películas y musicales para cantar.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923130000 +0000" stop="20250923140000 +0000" channel="MTV 80s.ar">
+<programme start="20250923112000 +0000" stop="20250923140000 +0000" channel="MTV 80s.ar">
 <title>80s Double Shots: 2 From 1!</title>
 <sub-title></sub-title>
 <desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923140000 +0000" stop="20250923190000 +0000" channel="MTV 80s.ar">
+<programme start="20250923140000 +0000" stop="20250923170000 +0000" channel="MTV 80s.ar">
 <title>1981 Wrapped!</title>
 <sub-title></sub-title>
 <desc>Se enciende la máquina del tiempo para celebrar los mejores temas de la vida. Esta vez se aterriza en 1981.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923190000 +0000" stop="20250923200000 +0000" channel="MTV 80s.ar">
+<programme start="20250923170000 +0000" stop="20250923200000 +0000" channel="MTV 80s.ar">
 <title>Guess the Year</title>
 <sub-title></sub-title>
 <desc>En este programa el espectador podrá averiguar cuánto sabe de música intentando adivinar en que año fueron emitidos una serie de video clips.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923200000 +0000" stop="20250924010000 +0000" channel="MTV 80s.ar">
+<programme start="20250923200000 +0000" stop="20250923233500 +0000" channel="MTV 80s.ar">
 <title>Tiffanys 80s Hits From The Girls!</title>
 <sub-title></sub-title>
 <desc>Una lista de reproduccion a cargo de Tiffany. No pierdas tiempo, ajusta el volumen de la television y dejate envolver por la magia musical de los años 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924010000 +0000" stop="20250924030000 +0000" channel="MTV 80s.ar">
+<programme start="20250923233500 +0000" stop="20250924030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title>
 <sub-title></sub-title>
 <desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
@@ -1855,6 +2119,54 @@
 <title>Top 100 Guilty Pleasures Were Never Gonna Give Up!</title>
 <sub-title></sub-title>
 <desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927000000 +0000" stop="20250927010000 +0000" channel="MTV 80s.ar">
+<title>Top 100 Guilty Pleasures Were Never Gonna Give Up!</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927010000 +0000" stop="20250927030000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927030000 +0000" stop="20250927050000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title>
+<sub-title></sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927050000 +0000" stop="20250927080000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927080000 +0000" stop="20250927130000 +0000" channel="MTV 80s.ar">
+<title>Tiffanys 80s Hits From The Girls!</title>
+<sub-title></sub-title>
+<desc>Una lista de reproduccion a cargo de Tiffany. No pierdas tiempo, ajusta el volumen de la television y dejate envolver por la magia musical de los años 80.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927130000 +0000" stop="20250927150000 +0000" channel="MTV 80s.ar">
+<title>80s Double Shots: 2 From 1!</title>
+<sub-title></sub-title>
+<desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927150000 +0000" stop="20250927200000 +0000" channel="MTV 80s.ar">
+<title>1981 Wrapped!</title>
+<sub-title></sub-title>
+<desc>Se enciende la máquina del tiempo para celebrar los mejores temas de la vida. Esta vez se aterriza en 1981.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927200000 +0000" stop="20250928010000 +0000" channel="MTV 80s.ar">
+<title>Non-Stop Rock Anthems!</title>
+<sub-title></sub-title>
+<desc>Sube el volumen y prepárate para disfrutar. Un clavado a los archivos para descubrir las canciones más poderosas de los 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20250921000000 +0000" stop="20250921003000 +0000" channel="ALIENTOVISION.ar">
@@ -3687,127 +3999,163 @@
 <desc>Conferencia Rey de Reyes en la que pastores y líderes de diferentes lugares del mundo reciben una imparticion especial del Espíritu Santo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250921020000 +0000" stop="20250922020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921020000 +0000" stop="20250921060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922020000 +0000" stop="20250922060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921060000 +0000" stop="20250921100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922060000 +0000" stop="20250922100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921100000 +0000" stop="20250921140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922100000 +0000" stop="20250922140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921140000 +0000" stop="20250921180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922140000 +0000" stop="20250922180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921180000 +0000" stop="20250921220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922180000 +0000" stop="20250922220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250921220000 +0000" stop="20250922020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250922020000 +0000" stop="20250923020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250923020000 +0000" stop="20250924020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923060000 +0000" stop="20250923100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924060000 +0000" stop="20250924100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923100000 +0000" stop="20250923140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924100000 +0000" stop="20250924140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923140000 +0000" stop="20250923180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923180000 +0000" stop="20250923220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924180000 +0000" stop="20250924220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250924220000 +0000" stop="20250925020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250924020000 +0000" stop="20250925020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250925020000 +0000" stop="20250926020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925020000 +0000" stop="20250925060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926020000 +0000" stop="20250926060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925060000 +0000" stop="20250925100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926060000 +0000" stop="20250926100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925100000 +0000" stop="20250925140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926100000 +0000" stop="20250926140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925140000 +0000" stop="20250925180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926140000 +0000" stop="20250926180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925180000 +0000" stop="20250925220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926180000 +0000" stop="20250926220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250925220000 +0000" stop="20250926020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20250926220000 +0000" stop="20250927020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20250926020000 +0000" stop="20250927020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927020000 +0000" stop="20250927060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927060000 +0000" stop="20250927100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927100000 +0000" stop="20250927140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927140000 +0000" stop="20250927180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927180000 +0000" stop="20250927220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20250927220000 +0000" stop="20250928020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
