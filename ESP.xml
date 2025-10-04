@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
-<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
@@ -51,6 +48,9 @@
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
+<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
+<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
 <programme start="20251004000000 +0000" stop="20251004003000 +0000" channel="Daystar.ar">
 <title>Sid Roth: ¡Es sobrenatural! : Mike Shreve</title>
 <sub-title>Mike Shreve</sub-title>
@@ -4317,127 +4317,163 @@
 <desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251004020000 +0000" stop="20251005020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004020000 +0000" stop="20251004060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005020000 +0000" stop="20251005060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004060000 +0000" stop="20251004100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005060000 +0000" stop="20251005100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004100000 +0000" stop="20251004140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005100000 +0000" stop="20251005140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004140000 +0000" stop="20251004180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005140000 +0000" stop="20251005180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004180000 +0000" stop="20251004220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005180000 +0000" stop="20251005220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251004220000 +0000" stop="20251005020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251005220000 +0000" stop="20251006020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251005020000 +0000" stop="20251006020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251006020000 +0000" stop="20251007020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006020000 +0000" stop="20251006060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007020000 +0000" stop="20251007060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006060000 +0000" stop="20251006100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007060000 +0000" stop="20251007100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006100000 +0000" stop="20251006140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007100000 +0000" stop="20251007140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006140000 +0000" stop="20251006180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007140000 +0000" stop="20251007180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006180000 +0000" stop="20251006220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007180000 +0000" stop="20251007220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251006220000 +0000" stop="20251007020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251007220000 +0000" stop="20251008020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251007020000 +0000" stop="20251008020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251008020000 +0000" stop="20251009020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008020000 +0000" stop="20251008060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009020000 +0000" stop="20251009060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008060000 +0000" stop="20251008100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009060000 +0000" stop="20251009100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008100000 +0000" stop="20251008140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009100000 +0000" stop="20251009140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008140000 +0000" stop="20251008180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009140000 +0000" stop="20251009180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008180000 +0000" stop="20251008220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009180000 +0000" stop="20251009220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251008220000 +0000" stop="20251009020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251009220000 +0000" stop="20251010020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251009020000 +0000" stop="20251010020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010020000 +0000" stop="20251010060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010060000 +0000" stop="20251010100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010100000 +0000" stop="20251010140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010140000 +0000" stop="20251010180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010180000 +0000" stop="20251010220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251010220000 +0000" stop="20251011020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
@@ -31225,6 +31261,372 @@
 <title>La Calle</title>
 <sub-title></sub-title>
 <desc>Programa de música urbana, centrado en los generos de Hip Hop, rap y trap.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251003233000 +0000" stop="20251004000000 +0000" channel="levante tv.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín que muestra la actualidad de Levante a los espectadores.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004000000 +0000" stop="20251004003000 +0000" channel="levante tv.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004033000 +0000" stop="20251004060000 +0000" channel="levante tv.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004094500 +0000" stop="20251004100000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004103000 +0000" stop="20251004120000 +0000" channel="levante tv.es">
+<title>Pequeños genios</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004103000 +0000" stop="20251004130000 +0000" channel="levante tv.es">
+<title>Especial Fonteta</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004113000 +0000" stop="20251004120000 +0000" channel="levante tv.es">
+<title>Receta a voces</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece historias de vida, humanas, de corazon ligadas al mundo del deporte.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004123000 +0000" stop="20251004140000 +0000" channel="levante tv.es">
+<title>Puertas al infierno</title>
+<sub-title></sub-title>
+<desc>Presentacion: Amanda Schull, Shawn Ashmore, Milo Ventimiglia: Devils Gate, en Dakota del Norte, hace honor a su nombre, ya que en ella ocurren sucesos extraños, como la desaparicion de Maria y de su hijo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004130000 +0000" stop="20251004153000 +0000" channel="levante tv.es">
+<title>Kung Fu</title>
+<sub-title></sub-title>
+<desc>Presentacion: Tras una crisis personal, la joven norteamericana de origen asiático Nicky Shen deja atrás su vida en San Francisco para embarcarse en un viaje de autoconocimiento que acaba en un apartado templo shaolin, en lo más profundo de China. Allí encuentra la paz consigo misma y con su pasado a traves del conocimiento del kung fu y de otras artes marciales. Tras el trágico asesinato de su mentora, la joven regresa a su ciudad natal, donde descubre que el asesino de su maestra ahora quiere acabar con ella. Además, se encuentra que la ciudad está tomada por el crimen, la delincuencia y la violencia. Ha llegado el momento de poner en práctica todos sus conocimientos de artes marciales y adaptarlos a un entorno actual, peligroso y despiadado.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004150000 +0000" stop="20251004153000 +0000" channel="levante tv.es">
+<title>Aprende ingles con Julie</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004150000 +0000" stop="20251004151500 +0000" channel="levante tv.es">
+<title>Álex Gimenez</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004160000 +0000" stop="20251004163000 +0000" channel="levante tv.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004161500 +0000" stop="20251004163000 +0000" channel="levante tv.es">
+<title>Valencians 100%</title>
+<sub-title></sub-title>
+<desc>Presentacion: Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004163000 +0000" stop="20251004173000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004170000 +0000" stop="20251004173000 +0000" channel="levante tv.es">
+<title>Consum</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004173000 +0000" stop="20251004183000 +0000" channel="levante tv.es">
+<title>Revista de sociedad</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004180000 +0000" stop="20251003223000 +0000" channel="levante tv.es">
+<title>From the Depths</title>
+<sub-title></sub-title>
+<desc>Presentacion: Angelica Briones, Terra Strong, Marissa Godinez: Tras el feroz ataque de un tiburon, una joven sufre de un severo estres postraumático, alucinaciones, pesadillas y la culpa del superviviente despues de presenciar la muerte de dos seres queridos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004230000 +0000" stop="20251005003000 +0000" channel="levante tv.es">
+<title>Reparar a los vivos (Decision difícil)</title>
+<sub-title></sub-title>
+<desc>Presentacion: Tahar Rahim, Emmanuelle Seigner, Anne Dorval, Bouli Lanners, Kool Shen, Alice Taglioni, Monia Chokri: Tras una jornada de surf en un mar tempestuoso, tres jovenes sufren un accidente en el camino de vuelta. Trasladados al hospital del Havre, la vida de Simon pende de un hilo. Mientras tanto, en París, una mujer espera un trasplante providencial que pueda prolongar su vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005000000 +0000" stop="20251005003000 +0000" channel="levante tv.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005033000 +0000" stop="20251005060000 +0000" channel="levante tv.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005094500 +0000" stop="20251005100000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005100000 +0000" stop="20251005110000 +0000" channel="levante tv.es">
+<title>Tot es festa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa fallero con aire desenvuelto, fresco y divertido. Un espacio que informa, entretiene y propone debates a los espectadores sobre el mundo de las fallas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005103000 +0000" stop="20251005130000 +0000" channel="levante tv.es">
+<title>Especial Fonteta</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005113000 +0000" stop="20251005120000 +0000" channel="levante tv.es">
+<title>Receta a voces</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece historias de vida, humanas, de corazon ligadas al mundo del deporte.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005130000 +0000" stop="20251005153000 +0000" channel="levante tv.es">
+<title>Kung Fu</title>
+<sub-title></sub-title>
+<desc>Presentacion: Tras una crisis personal, la joven norteamericana de origen asiático Nicky Shen deja atrás su vida en San Francisco para embarcarse en un viaje de autoconocimiento que acaba en un apartado templo shaolin, en lo más profundo de China. Allí encuentra la paz consigo misma y con su pasado a traves del conocimiento del kung fu y de otras artes marciales. Tras el trágico asesinato de su mentora, la joven regresa a su ciudad natal, donde descubre que el asesino de su maestra ahora quiere acabar con ella. Además, se encuentra que la ciudad está tomada por el crimen, la delincuencia y la violencia. Ha llegado el momento de poner en práctica todos sus conocimientos de artes marciales y adaptarlos a un entorno actual, peligroso y despiadado.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005150000 +0000" stop="20251005153000 +0000" channel="levante tv.es">
+<title>Aprende ingles con Julie</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="levante tv.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005163000 +0000" stop="20251005173000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005170000 +0000" stop="20251005173000 +0000" channel="levante tv.es">
+<title>Ya estás en casa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005173000 +0000" stop="20251005183000 +0000" channel="levante tv.es">
+<title>Revista de sociedad</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005183000 +0000" stop="20251005190000 +0000" channel="levante tv.es">
+<title>Super Running</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005193000 +0000" stop="20251005203000 +0000" channel="levante tv.es">
+<title>Esta noche bailamos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio en el que diferentes participantes procedentes de escuelas, academias, bailarines amateur o campeones se darán cita para desempeñar diversos bailes y actuaciones.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005213000 +0000" stop="20251004230000 +0000" channel="levante tv.es">
+<title>Matones sobre ruedas</title>
+<sub-title></sub-title>
+<desc>Presentacion: Szabolcs Thuroczy, Zoltán Fenyvesi, Ádám Fekete, Bjorn Freiberg, Zoltán Mucsi, Monika Balsai: Ruspaszov es un exbombero que se encuentra en una silla de ruedas desde hace tres años, a raíz de un accidente de trabajo. El cinismo y el alcohol ayudan al menos a soportar su situacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251003234500 +0000" stop="20251004060000 +0000" channel="tv rioja.es">
+<title>Redifusiones</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004080000 +0000" stop="20251004083000 +0000" channel="tv rioja.es">
+<title>La cocina del Garabato</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece trucos y secretos culinarios para hacer más fácil el arte de cocinar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004083000 +0000" stop="20251004091500 +0000" channel="tv rioja.es">
+<title>Dibujos animados</title>
+<sub-title></sub-title>
+<desc>Presentacion: Incluye Tristán e Isolda, Simba Jr.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004090000 +0000" stop="20251004120000 +0000" channel="tv rioja.es">
+<title>Logroño en fiestas</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004091500 +0000" stop="20251004093000 +0000" channel="tv rioja.es">
+<title>What SUP</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado exclusivamente a la cultura de Stand Up Paddling, un deporte acuático de rápido crecimiento.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004093000 +0000" stop="20251004103000 +0000" channel="tv rioja.es">
+<title>Vaughan</title>
+<sub-title></sub-title>
+<desc>Presentacion: Cursos de ingles a medida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004123000 +0000" stop="20251004130000 +0000" channel="tv rioja.es">
+<title>La semana</title>
+<sub-title></sub-title>
+<desc>La semana</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004123000 +0000" stop="20251004140000 +0000" channel="tv rioja.es">
+<title>Puertas al infierno</title>
+<sub-title></sub-title>
+<desc>Presentacion: Amanda Schull, Shawn Ashmore, Milo Ventimiglia: Devils Gate, en Dakota del Norte, hace honor a su nombre, ya que en ella ocurren sucesos extraños, como la desaparicion de Maria y de su hijo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004130000 +0000" stop="20251004133500 +0000" channel="tv rioja.es">
+<title>La cocina de Ventura y Gabi</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio gastronomico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004160000 +0000" stop="20251004163000 +0000" channel="tv rioja.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004173000 +0000" stop="20251004180000 +0000" channel="tv rioja.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004173000 +0000" stop="20251004183000 +0000" channel="tv rioja.es">
+<title>En mis tiempos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado a los mayores.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004183000 +0000" stop="20251004193000 +0000" channel="tv rioja.es">
+<title>De pura cepa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004213000 +0000" stop="20251004000000 +0000" channel="tv rioja.es">
+<title>Toni Rovira y tú</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251004234500 +0000" stop="20251005060000 +0000" channel="tv rioja.es">
+<title>Redifusiones</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005063000 +0000" stop="20251005070000 +0000" channel="tv rioja.es">
+<title>Rodaje</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado al mundo del motor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005080000 +0000" stop="20251005083000 +0000" channel="tv rioja.es">
+<title>La cocina del Garabato</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece trucos y secretos culinarios para hacer más fácil el arte de cocinar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005083000 +0000" stop="20251005091500 +0000" channel="tv rioja.es">
+<title>Dibujos animados</title>
+<sub-title></sub-title>
+<desc>Presentacion: Incluye Tristán e Isolda, Simba Jr.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005090000 +0000" stop="20251005100000 +0000" channel="tv rioja.es">
+<title>Aquí La Rioja. Edicion verano</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005091500 +0000" stop="20251005093000 +0000" channel="tv rioja.es">
+<title>What SUP</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado exclusivamente a la cultura de Stand Up Paddling, un deporte acuático de rápido crecimiento.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005093000 +0000" stop="20251005103000 +0000" channel="tv rioja.es">
+<title>Vaughan</title>
+<sub-title></sub-title>
+<desc>Presentacion: Cursos de ingles a medida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005123000 +0000" stop="20251005130000 +0000" channel="tv rioja.es">
+<title>La semana</title>
+<sub-title></sub-title>
+<desc>La semana</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005130000 +0000" stop="20251005133500 +0000" channel="tv rioja.es">
+<title>La cocina de Ventura y Gabi</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio gastronomico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="tv rioja.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005173000 +0000" stop="20251005180000 +0000" channel="tv rioja.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005180000 +0000" stop="20251005190000 +0000" channel="tv rioja.es">
+<title>Riojanitos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005193000 +0000" stop="20251005210000 +0000" channel="tv rioja.es">
+<title>Galardones de Pura cepa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251005213000 +0000" stop="20251005000000 +0000" channel="tv rioja.es">
+<title>Toni Rovira y tú</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251004000000 +0000" stop="20251004003000 +0000" channel="KSCEDT2.us">
