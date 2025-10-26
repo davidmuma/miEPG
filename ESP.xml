@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
-<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
-<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
-<channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
-<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
@@ -51,6 +44,13 @@
 <channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
 <channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
 <channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
+<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
+<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
+<channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20251026000000 +0000" stop="20251026003000 +0000" channel="Daystar.ar">
 <title>Sid Roth: ¡Es sobrenatural!</title>
 <sub-title></sub-title>
@@ -1551,6 +1551,264 @@
 <desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251101003000 +0000" stop="20251101010000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : Finding Grace After Abortion</title>
+<sub-title>Finding Grace After Abortion</sub-title>
+<desc>Sheila Harper y el Dr. Doug Weiss comparten el plan de Dios para la redencion y como la Iglesia puede apoyar a las madres afligidas tras un aborto.</desc>
+<episode-num system="xmltv_ns">.84.</episode-num>
+</programme>
+<programme start="20251101010000 +0000" stop="20251101020000 +0000" channel="Daystar.ar">
+<title>Marcus Lamb : La historia de Daystar</title>
+<sub-title>La historia de Daystar</sub-title>
+<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
+<episode-num system="xmltv_ns">0.23.</episode-num>
+</programme>
+<programme start="20251101020000 +0000" stop="20251101023000 +0000" channel="Daystar.ar">
+<title>Aqua viva</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101023000 +0000" stop="20251101030000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101030000 +0000" stop="20251101040000 +0000" channel="Daystar.ar">
+<title>Voz News</title>
+<sub-title></sub-title>
+<desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101040000 +0000" stop="20251101043000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef, un respetado líder religioso, ofrece un discurso sobre la verdad y las enseñanzas del Todopoderoso.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101043000 +0000" stop="20251101050000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101050000 +0000" stop="20251101060000 +0000" channel="Daystar.ar">
+<title>Marcus Lamb : La historia de Daystar</title>
+<sub-title>La historia de Daystar</sub-title>
+<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
+<episode-num system="xmltv_ns">0.23.</episode-num>
+</programme>
+<programme start="20251101060000 +0000" stop="20251101063000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk</title>
+<sub-title></sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101063000 +0000" stop="20251101073000 +0000" channel="Daystar.ar">
+<title>El cielo en la Tierra</title>
+<sub-title></sub-title>
+<desc>Predicacion de la Iglesia Cristiana "El lugar de su presencia" en Bogotá, Colombia. Con temas relevantes y prácticos, aplicables a la vida diaria y consejos bíblicos para alentar, animar y reflexionar en toda situacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101073000 +0000" stop="20251101080000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101080000 +0000" stop="20251101083000 +0000" channel="Daystar.ar">
+<title>Gabby Mejia</title>
+<sub-title></sub-title>
+<desc>Lectura especial de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101083000 +0000" stop="20251101093000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101093000 +0000" stop="20251101100000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101100000 +0000" stop="20251101103000 +0000" channel="Daystar.ar">
+<title>Andres Spyker de "Más vida"</title>
+<sub-title></sub-title>
+<desc>Un mensaje fresco de la palabra de Dios con una aplicacion práctica para la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101103000 +0000" stop="20251101110000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101110000 +0000" stop="20251101113000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101113000 +0000" stop="20251101120000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101120000 +0000" stop="20251101123000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101123000 +0000" stop="20251101130000 +0000" channel="Daystar.ar">
+<title>Superlibro</title>
+<sub-title></sub-title>
+<desc>Aventuras que capturan la imaginacion de niños alrededor del mundo con Anita, Luis y su simpático robot, Tuercas. Junto con ellos, niños de todas las edades aprenden sobre las asombrosas historias de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101130000 +0000" stop="20251101133000 +0000" channel="Daystar.ar">
+<title>Su presencia Kids</title>
+<sub-title></sub-title>
+<desc>Una iglesia para niños a la que asisten desde los tres hasta los once años.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101133000 +0000" stop="20251101140000 +0000" channel="Daystar.ar">
+<title>The Torchlighters</title>
+<sub-title></sub-title>
+<desc>Heroes y heroínas de la fe cristiana, bíblica y contemporánea.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101140000 +0000" stop="20251101143000 +0000" channel="Daystar.ar">
+<title>Su presencia Kids</title>
+<sub-title></sub-title>
+<desc>Una iglesia para niños a la que asisten desde los tres hasta los once años.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101143000 +0000" stop="20251101150000 +0000" channel="Daystar.ar">
+<title>Lessons From the Bible</title>
+<sub-title></sub-title>
+<desc>El pastor Doug, Dusty, Amelia y los personajes aprenden sobre la Biblia y como se aplica a la vida diaria con la ayuda de juegos, canciones y títeres divertidos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101150000 +0000" stop="20251101153000 +0000" channel="Daystar.ar">
+<title>Superlibro</title>
+<sub-title></sub-title>
+<desc>Aventuras que capturan la imaginacion de niños alrededor del mundo con Anita, Luis y su simpático robot, Tuercas. Junto con ellos, niños de todas las edades aprenden sobre las asombrosas historias de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101153000 +0000" stop="20251101160000 +0000" channel="Daystar.ar">
+<title>The Torchlighters</title>
+<sub-title></sub-title>
+<desc>Heroes y heroínas de la fe cristiana, bíblica y contemporánea.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101160000 +0000" stop="20251101163000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101163000 +0000" stop="20251101170000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : Vuelve a evangelizar como antes</title>
+<sub-title>Vuelve a evangelizar como antes</sub-title>
+<desc>No se debe poner a Dios en una caja, hay mucho mas de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
+<episode-num system="xmltv_ns">.11.</episode-num>
+</programme>
+<programme start="20251101170000 +0000" stop="20251101173000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101173000 +0000" stop="20251101180000 +0000" channel="Daystar.ar">
+<title>A toda luz</title>
+<sub-title></sub-title>
+<desc>Un espacio lleno de vida, con conversaciones y risas que inspiran. Voces dinámicas y temas relevantes para acercarse más a Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101180000 +0000" stop="20251101183000 +0000" channel="Daystar.ar">
+<title>Robert Jeffress: Courageous</title>
+<sub-title></sub-title>
+<desc>El pastor y autor Robert Jeffress ofrece poderosas estrategias bíblicas que ayudarán a otros a prosperar en un mundo antagonico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101183000 +0000" stop="20251101190000 +0000" channel="Daystar.ar">
+<title>Lo sobrenatural ahora</title>
+<sub-title></sub-title>
+<desc>Un estudio práctico de la palabra de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101190000 +0000" stop="20251101193000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101193000 +0000" stop="20251101200000 +0000" channel="Daystar.ar">
+<title>En contacto con el Dr. Charles Stanley</title>
+<sub-title></sub-title>
+<desc>El Dr. Charles Stanley, pastor de la primera iglesia bautista de Atlanta, comparte sus ideas sobre la fe cristiana e instruye a los espectadores con motivacion espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101200000 +0000" stop="20251101203000 +0000" channel="Daystar.ar">
+<title>Christian Worship Hour</title>
+<sub-title></sub-title>
+<desc>El Dr. Harold E. Salem difunde la palabra de Dios con sencillez, humildad, sinceridad y pureza. El Dr. Salem demuestra preocupacion y compasion por aquellos que han sufrido una perdida y les ofrece esperanza a los creyentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101203000 +0000" stop="20251101210000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101210000 +0000" stop="20251101213000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101213000 +0000" stop="20251101220000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : Vuelve a evangelizar como antes</title>
+<sub-title>Vuelve a evangelizar como antes</sub-title>
+<desc>No se debe poner a Dios en una caja, hay mucho mas de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
+<episode-num system="xmltv_ns">.11.</episode-num>
+</programme>
+<programme start="20251101220000 +0000" stop="20251101223000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101223000 +0000" stop="20251101230000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101230000 +0000" stop="20251101233000 +0000" channel="Daystar.ar">
+<title>Jason Lozano</title>
+<sub-title></sub-title>
+<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101233000 +0000" stop="20251102000000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk</title>
+<sub-title></sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251102000000 +0000" stop="20251102003000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251026000000 +0000" stop="20251026030000 +0000" channel="MTV 80s.ar">
 <title>I Want My MTV 80s!</title>
 <sub-title></sub-title>
@@ -1873,6 +2131,48 @@
 <title>Monster Classics Party!</title>
 <sub-title></sub-title>
 <desc>Las brujas vuelan por toda la ciudad y los fantasmas tocan a tu puerta, pero no te preocupes, porque no te quieren asustar. Simplemente ansían escuchar nuestra lista con lo mejor de los 80. ¡Invítalos a pasar! Serás la envidia de Wes Craven.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101020000 +0000" stop="20251101040000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101040000 +0000" stop="20251101060000 +0000" channel="MTV 80s.ar">
+<title>Forever 80s</title>
+<sub-title></sub-title>
+<desc>¡Un repaso por los mejores hits de una de las decadas más importantes para la música!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101060000 +0000" stop="20251101090000 +0000" channel="MTV 80s.ar">
+<title>I Want My MTV 80s!</title>
+<sub-title></sub-title>
+<desc>Es el mes de los 80 en MTV, una decada llena de íconos del pop. ¡Es tal la nostalgia que es imposible parar en MTV 80s!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101090000 +0000" stop="20251101140000 +0000" channel="MTV 80s.ar">
+<title>50 Pop Firecrackers Of The 80s!</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101140000 +0000" stop="20251101160000 +0000" channel="MTV 80s.ar">
+<title>80s Double Shots: 2 From 1!</title>
+<sub-title></sub-title>
+<desc>Los artistas favoritos de los 80 ¡en partida doble!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101160000 +0000" stop="20251101210000 +0000" channel="MTV 80s.ar">
+<title>1984 Wrapped!</title>
+<sub-title></sub-title>
+<desc>La máquina del tiempo se enciende para celebrar los mejores temas de la vida. Un aterrizaje en el año 1984, con exitos de Duran Duran, Frankie Goes To Hollywood y Wham!.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101210000 +0000" stop="20251102020000 +0000" channel="MTV 80s.ar">
+<title>Electric 80s!</title>
+<sub-title></sub-title>
+<desc>Los mejores exitos de la música electronica de los 80.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251026000000 +0000" stop="20251026003000 +0000" channel="ALIENTOVISION.ar">
@@ -3447,10 +3747,88 @@
 <desc>En una cena ofrecida por los Reyes de España, Diana, una habitual de las revistas del corazon y Santi, miembro de la escolta real se encuentran treinta años despues de su primer encuentro en un hotel donde se alojaron los Beatles en Madrid.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026024000 +0000" stop="20251027024000 +0000" channel="Atrescine.ar">
+<programme start="20251026024000 +0000" stop="20251026041000 +0000" channel="Atrescine.ar">
 <title>Cuernos de mujer</title>
 <sub-title></sub-title>
 <desc>Ana y Miguel viven una crisis matrimonial y la posibilidad de divorcio aparece cuando ella descubre que el tiene una amante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026041000 +0000" stop="20251026055000 +0000" channel="Atrescine.ar">
+<title>Los ángeles del volante</title>
+<sub-title></sub-title>
+<desc>Unos taxistas intentan reanimar a una joven que ha estado a punto de ser atropellada por uno de ellos. Para mejorar su estado de ánimo todos los miembros del gremio le cuentan curiosas anecdotas protagonizadas por clientes muy peculiares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026055000 +0000" stop="20251026075000 +0000" channel="Atrescine.ar">
+<title>La plaza del Diamante</title>
+<sub-title></sub-title>
+<desc>Durante el verano de 1928, bajo el entoldado de la plaza del Diamante, se celebra la fiesta mayor del barrio de Gracia de Barcelona. La bella Natalia conoce a un joven. Ese encuentro marcará la vida de la joven.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026075000 +0000" stop="20251026093500 +0000" channel="Atrescine.ar">
+<title>El rey del río</title>
+<sub-title></sub-title>
+<desc>Una aeromoza está embarazada pero no sabe el nombre del padre, que es extranjero. Cuando el bebe nace, se lo da a su hermana que tiene otros hijos. A pesar de que es todo un secreto, los niños saben que algo es diferente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026093500 +0000" stop="20251026120500 +0000" channel="Atrescine.ar">
+<title>Secretaria para todo</title>
+<sub-title></sub-title>
+<desc>Cristina es la perfecta secretaria hasta el punto de ayudar a su jefe en la consecucion de un importante contrato con un empresario holandes. Éste llega a Madrid para casarse con una española, muy parecida a Cristina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026120500 +0000" stop="20251026135500 +0000" channel="Atrescine.ar">
+<title>Las razones de mis amigos</title>
+<sub-title></sub-title>
+<desc>Santiago, Marta y Carlos se reúnen una vez al mes para comer juntos. Son amigos desde los tiempos de la Universidad, hace ya más de quince años. En una de esas comidas, uno pide un prestamo a los otros, y su amistad cambia para siempre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026135500 +0000" stop="20251026153000 +0000" channel="Atrescine.ar">
+<title>Venta por pisos</title>
+<sub-title></sub-title>
+<desc>Situaciones divertidas con los distintos clientes de una inmobiliaria, que involucran a cuatro familias que han comprado un piso en una casa recien construida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026153000 +0000" stop="20251026171000 +0000" channel="Atrescine.ar">
+<title>Animales de compañía</title>
+<sub-title></sub-title>
+<desc>Rafa cumple 65 años y sabe de sobra que las cosas salen siempre mal. Lo que el espera es que su hijo pequeño llegue tarde, que su hija mediana llegue más tarde y que su hija mayor no pare de meter cizaña. Pero siempre puede ser peor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026171000 +0000" stop="20251026190500 +0000" channel="Atrescine.ar">
+<title>El Secreto de Monica</title>
+<sub-title></sub-title>
+<desc>Cuando se dirigía a Buenos Aires para reunirse con su esposa, Juan Valdes sufre un accidente que le obliga a permanecer unas horas en un pueblo. Entonces descubre que su mujer vivio allí y que se vio involucrada en un proceso judicial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026190500 +0000" stop="20251026205500 +0000" channel="Atrescine.ar">
+<title>Surcos</title>
+<sub-title></sub-title>
+<desc>En los años cuarenta, finalizado el conflicto de la Guerra Civil Española, una familia abandona el campo y emigra a Madrid con la esperanza de mejorar sus condiciones de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026205500 +0000" stop="20251026222500 +0000" channel="Atrescine.ar">
+<title>Bajarse al moro</title>
+<sub-title></sub-title>
+<desc>Un trío de amigos (un policía, su prima y un artesano) ve rota su vida cotidiana y su acostumbrada armonía con la llegada de una joven hermosa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026222500 +0000" stop="20251027001000 +0000" channel="Atrescine.ar">
+<title>Tata mía</title>
+<sub-title></sub-title>
+<desc>Elvira abandona el convento en el que lleva años enclaustrada e intenta recomponer su vida en un mundo muy diferente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251027001000 +0000" stop="20251027014000 +0000" channel="Atrescine.ar">
+<title>Esta noche, no</title>
+<sub-title></sub-title>
+<desc>Un tribunal de la República China sentencia a Luis Ortega a 6 años de cárcel por tráfico ilegal de diamantes. Tras cumplir su condena, intenta localizar a su compañera sentimental Rita Fernández, pero no lo consigue.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251027014000 +0000" stop="20251028014000 +0000" channel="Atrescine.ar">
+<title>Aunque tú no lo sepas</title>
+<sub-title></sub-title>
+<desc>Lucía se encuentra despues de veinticinco años con Juan, un muchacho que en su adolescencia se había enamorado perdidamente de ella, pero que, por culpa de los padres de la chica, nunca logro conquistarla. Ahora, los papeles se invertirán.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251026000000 +0000" stop="20251026010000 +0000" channel="Canal Luz.ar">
@@ -3516,7 +3894,7 @@
 <programme start="20251026060000 +0000" stop="20251026063000 +0000" channel="Canal Luz.ar">
 <title>De corazon a corazon</title>
 <sub-title></sub-title>
-<desc>Acompaña al pastor Abel Martínez en esta edicion en la cual se encarga de orientar y ofrecer un mensaje positivo al cristiano actual mediante la palabra de Dios, con reflexiones y comentarios que edificarán y liberarán tu alma.</desc>
+<desc>Una guía en el camino hacia la formacion de una vida de oracion mediante la adoracion eucarística, la meditacion y la reflexion, con consejos útiles que edifican el alma.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251026063000 +0000" stop="20251026070000 +0000" channel="Canal Luz.ar">
@@ -3675,127 +4053,175 @@
 <desc>Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026020000 +0000" stop="20251027020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251027013000 +0000" stop="20251027023000 +0000" channel="Canal Luz.ar">
+<title>Día de bendicion</title>
+<sub-title></sub-title>
+<desc>El pastor Omar Olier conduce este segmento en el cual realiza algunas predicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendicion a tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251027023000 +0000" stop="20251028023000 +0000" channel="Canal Luz.ar">
+<title>Rey de reyes</title>
+<sub-title></sub-title>
+<desc>Conferencia Rey de Reyes en la que pastores y líderes de diferentes lugares del mundo reciben una imparticion especial del Espíritu Santo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026020000 +0000" stop="20251026060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027020000 +0000" stop="20251027060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251026060000 +0000" stop="20251026100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027060000 +0000" stop="20251027100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251026100000 +0000" stop="20251026140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027100000 +0000" stop="20251027140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251026140000 +0000" stop="20251026180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027140000 +0000" stop="20251027180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251026180000 +0000" stop="20251026220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027180000 +0000" stop="20251027220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251026220000 +0000" stop="20251027020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027220000 +0000" stop="20251028020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251027020000 +0000" stop="20251028020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028020000 +0000" stop="20251029020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028020000 +0000" stop="20251028060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029020000 +0000" stop="20251029060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028060000 +0000" stop="20251028100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029060000 +0000" stop="20251029100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028100000 +0000" stop="20251028140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029100000 +0000" stop="20251029140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028140000 +0000" stop="20251028180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029140000 +0000" stop="20251029180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028180000 +0000" stop="20251028220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029180000 +0000" stop="20251029220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251028220000 +0000" stop="20251029020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029220000 +0000" stop="20251030020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251029020000 +0000" stop="20251030020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251030020000 +0000" stop="20251031020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030020000 +0000" stop="20251030060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031020000 +0000" stop="20251031060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030060000 +0000" stop="20251030100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031060000 +0000" stop="20251031100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030100000 +0000" stop="20251030140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031100000 +0000" stop="20251031140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030140000 +0000" stop="20251030180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031140000 +0000" stop="20251031180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030180000 +0000" stop="20251030220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031180000 +0000" stop="20251031220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251030220000 +0000" stop="20251031020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251031220000 +0000" stop="20251101020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20251031020000 +0000" stop="20251101020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101020000 +0000" stop="20251101060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101060000 +0000" stop="20251101100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101100000 +0000" stop="20251101140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101140000 +0000" stop="20251101180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101180000 +0000" stop="20251101220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101220000 +0000" stop="20251102020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
@@ -8175,1187 +8601,947 @@
 <desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251026052600 +0000" stop="20251026060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
+<programme start="20251026050000 +0000" stop="20251026050600 +0000" channel="33.es">
+<title>Videoclips catalans</title>
 <sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026060200 +0000" stop="20251026064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026064600 +0000" stop="20251026073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251026073600 +0000" stop="20251026082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251026082500 +0000" stop="20251026091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026091900 +0000" stop="20251026101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026101400 +0000" stop="20251026110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026110200 +0000" stop="20251026113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251026113500 +0000" stop="20251026122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026122800 +0000" stop="20251026132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026132400 +0000" stop="20251026141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026141000 +0000" stop="20251026145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251026145400 +0000" stop="20251026160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026160100 +0000" stop="20251026162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
+<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026162600 +0000" stop="20251026171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
+<programme start="20251026050600 +0000" stop="20251026055500 +0000" channel="33.es">
+<title>Arrelats: Alicia Gimenez Bartlett</title>
 <sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
+<desc>Espai, presentat per Ernest Folch, que retrata la vida professional de diferents personatges que tenen un punt en comú: tots han nascut en diferents indrets dEspanya i han arrelat a Catalunya. Mateo Valero, Edurne Pasaban o Javier Cercas, son alguns dels protagonistes.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251026171700 +0000" stop="20251026180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
+<programme start="20251026055500 +0000" stop="20251026064600 +0000" channel="33.es">
+<title>Terreny personal: El Montseny</title>
 <sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
+<desc>El programa descobreix una de les muntanyes mes emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaro hi ha una pica que impregna de caràcter els tres vessants: el Montseny. Els protagonistes expliquen què els lliga a aquest paisatge.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251026064600 +0000" stop="20251026071000 +0000" channel="33.es">
+<title>Riu avall: Noguera Ribagorçana</title>
+<sub-title></sub-title>
+<desc>Marcant la divisòria de Catalunya amb lArago, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el recorregut davui coneixerem millor els tresors del romànic de la Vall de Boí o lespectacular Congost de Mont-rebei.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026180800 +0000" stop="20251026190000 +0000" channel="33.es">
+<programme start="20251026071000 +0000" stop="20251026073600 +0000" channel="33.es">
+<title>Riu avall: Freser</title>
+<sub-title></sub-title>
+<desc>El Freser es un dels principals rius del Pirineu Oriental. Las seves aigues i les dels seus afluents travessen un paisatge amb molta força, on la natura es mante gairebe intacta i encara es pot gaudir de la pau de les muntanyes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026073600 +0000" stop="20251026080800 +0000" channel="33.es">
+<title>GR Pirineus: El ball del gegant</title>
+<sub-title></sub-title>
+<desc>Avui a la nostra ruta travessarem el Solsonès. Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des dallà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026080800 +0000" stop="20251026084000 +0000" channel="33.es">
+<title>GR Pirineus: Viatge al centre de la nostra terra</title>
+<sub-title></sub-title>
+<desc>Avui la ruta ens portarà des del Solsonès fins al Bages. El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinos. I des daquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques mes conegudes de la zona.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026084000 +0000" stop="20251026090700 +0000" channel="33.es">
+<title>Viure als Pirineus: Una empresària dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Vanesa Freixa viu amb una obsessio, promoure persones que, fent de pagesos, siguin feliços fent aquesta feina. Ella aposta per lagroecologia, un concepte cada vegada mes estès, però que en el fons es tracta de tornar a la pagesia de tota la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026090700 +0000" stop="20251026093500 +0000" channel="33.es">
+<title>Viure als Pirineus: Uns pastors dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Cedric Lacraberie i Yann Brianti tenen tots dos quaranta anys i son pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passio al cor de les muntanyes dels Pirineus, a 1.000 metres dalçada, on fan de pagesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026093500 +0000" stop="20251026100500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026100500 +0000" stop="20251026103500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026103500 +0000" stop="20251026110100 +0000" channel="33.es">
+<title>Caçadors de bolets: Bombers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251026110100 +0000" stop="20251026112700 +0000" channel="33.es">
+<title>Caçadors de bolets: Perruqueres</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251026112700 +0000" stop="20251026115500 +0000" channel="33.es">
+<title>Caçadors de bolets: Paradistes</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251026115500 +0000" stop="20251026123600 +0000" channel="33.es">
+<title>La mar de be: Felicitat</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al Parc Natural de Cap de Creus, viu una jornada de pesca descorpora amb lIsca Garcia, patro i pescador de La Felicitat, li mostra la visio mes tradicional i propera de lofici de pescador. Naveguen fins a Tudela, tiren les xarxes, les recullen plenes, arriben a port, fan la tria, van al Centre Primer de Venda i venen als particulars perquè a Cadaques no hi ha Llotja. LIsca explica en una entrevista posterior la historia del vaixell, que la pesca no li ve de familia. Inclou imatges de Port Lligat, imatges aèries de La Felicitat navegant pel Cap de Creus, imatges subaquàtiques descorpores, un rap gros, molles, escorpores, imatges aèries de Cadaques, de Cala Judora amb la barraca, Cala Cullero, Cala Colip.- GRÀFIC Animacio explica què es una escorpora.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026123600 +0000" stop="20251026130500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... gravetat, Einstein i relativitat</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251026130500 +0000" stop="20251026133500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... els insectes</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251026133500 +0000" stop="20251026140600 +0000" channel="33.es">
+<title>Quèquicom: QQC i... matemàtiques: fent números</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251026140600 +0000" stop="20251026143200 +0000" channel="33.es">
+<title>Caçadors de bolets: Castellers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251026143200 +0000" stop="20251026152200 +0000" channel="33.es">
+<title>Grandes viajes en tren: Las Filipinas 1</title>
+<sub-title></sub-title>
+<desc>Pel fet destar formades per 7.000 illes, les Filipines no son un país on el tren sigui la millor opcio per moure-shi. Per això, en aquest viatge Philippe Gougler utilitza altres mitjans de transport per voltar per la capital, pel camp i per la costa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026152200 +0000" stop="20251026160800 +0000" channel="33.es">
+<title>Reizen Waes: Sierra Leone</title>
+<sub-title></sub-title>
+<desc>El 2014, el virus de lEbola va devastar Sierra Leone. El país es va tancar als turistes. Dos anys mes tard, el país està oficialment declarat lliure dEbola. En Tom no dubta i decideix ser el primer turista que hi viatja.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026160800 +0000" stop="20251026165200 +0000" channel="33.es">
+<title>Reizen Waes: Sudan del Sud</title>
+<sub-title></sub-title>
+<desc>El Sudan del Sud, independent des del 9 de juliol del 2011, es el país mes nou del mon. En Tom visita un país en plena construccio i amb pocs recursos per al turisme. Concretament, vol visitar el parc nacional de Boma, on te lloc la migracio dantílops mes gran del mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026165200 +0000" stop="20251026174400 +0000" channel="33.es">
 <title>Arbres genials</title>
 <sub-title></sub-title>
 <desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026190000 +0000" stop="20251026195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251026195900 +0000" stop="20251026204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
+<programme start="20251026174400 +0000" stop="20251026175300 +0000" channel="33.es">
+<title>Gran!: Tirant lo Blanc</title>
 <sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251026204600 +0000" stop="20251026224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
+<desc>És lobra mes important de lescriptor i cavaller valencià Joanot Martorell i el màxim exponent de la novel·la cavalleresca en català. Lautor dEl Quixot, Miguel de Cervantes, va assegurar que Tirant lo Blanc era el millor llibre del mon.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026224000 +0000" stop="20251026233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
+<programme start="20251026175300 +0000" stop="20251026180200 +0000" channel="33.es">
+<title>Gran!: Sau: "Quina nit"</title>
 <sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
+<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. Quina nit (1990) va ser làlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva canço mes emblemàtica, Boig per tu.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026233300 +0000" stop="20251026234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
+<programme start="20251026180200 +0000" stop="20251026190500 +0000" channel="33.es">
+<title>LHospitalet, simfonia duna ciutat</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>A lHospitalet de Llobregat, comissaris internacionals dels anomenats districtes culturals, agents immobiliaris, urbanistes de lAjuntament, gestors culturals i comissaris dart han col·laborat per dibuixar el mapa duna ciutat en plena transformacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251026234600 +0000" stop="20251027001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
+<programme start="20251026190500 +0000" stop="20251026200000 +0000" channel="33.es">
+<title>Amb tots vostès, Joan Pera</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Joan Pera està a punt de complir 60 anys dalt dels escenaris. 60 anys de passio pel drama, la tragèdia i, per damunt de tot, la comèdia. Al documental Amb tots vostès, Joan Pera, l’actor que ha fet riure generacions senceres es despulla davant de les càmeres.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027001100 +0000" stop="20251027002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
+<programme start="20251026200000 +0000" stop="20251026205100 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027002700 +0000" stop="20251027005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
+<programme start="20251026205100 +0000" stop="20251026221000 +0000" channel="33.es">
+<title>El traginer de cançons</title>
 <sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
+<desc>Pep Gimeno Botifarra no es nomes un cantaor portentos; es, sobretot, un recopilador perseverant del cant tradicional valencià.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026221000 +0000" stop="20251026225500 +0000" channel="33.es">
+<title>Reizen Waes: Haití</title>
+<sub-title></sub-title>
+<desc>En Tom visita Haití, un dels països mes pobres del mon. El 2010 va ser notícia pel terratrèmol que va destruir la capital, Port-au-Prince, i va causar mes de 200.000 morts. Tot i que el turisme hi es gairebe inexistent, en Tom troba alguns llocs que val la pena visitar. Sendinsa a linterior, on rarament arriben turistes, i assisteix a una cerimònia de vudú. És el relat dun viatge ple dentrebancs en un país amb greus problemes però que te un gran potencial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251026225500 +0000" stop="20251027224000 +0000" channel="33.es">
+<title>Reizen Waes: Bhutan</title>
+<sub-title></sub-title>
+<desc>Bhutan es un regne situat al mig de lHimàlaia els habitants del qual intenten mantenir les tradicions amb lobjectiu de ser feliços. En Tom investiga si un viatge a aquest país sense semàfors i amb cases decorades amb penis serveix realment per ser mes feliç.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251027224000 +0000" stop="20251027233200 +0000" channel="33.es">
+<title>JFK: Lhomme et la legende: Episodio 2</title>
+<sub-title></sub-title>
+<desc>Un recorregut per lexcepcional trajectòria de John F. Kennedy, 60 anys despres del seu assassinat. La imatge pública del 35è president dels Estats Units senfronta als aspectes de la seva vida que va intentar mantenir en silenci.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
+</programme>
+<programme start="20251027233200 +0000" stop="20251028011200 +0000" channel="33.es">
+<title>Sempre amunt!</title>
+<sub-title></sub-title>
+<desc>Documental que narra com van patir la pandèmia les colles castelleres i com se nestan sortint a base desforç i determinacio. El treball, produït per la productora vilafranquina Punt tv i dirigit per Jordi Escofet, te com a protagonistes els Castellers de Vilafranca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028011200 +0000" stop="20251028012700 +0000" channel="33.es">
+<title>Els Pets: Bon dia, joves!</title>
+<sub-title></sub-title>
+<desc>Son lúnic grup que perviu en actiu del famos boom del rock català dels anys 80. La seva carrera musical es, tambe, la banda sonora de tres generacions. Els Pets: bon dia, joves recorre la petja emocional duna de les bandes mes carismàtiques del país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028012700 +0000" stop="20251028014100 +0000" channel="33.es">
+<title>El sopar: Tenir son</title>
+<sub-title></sub-title>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251027005600 +0000" stop="20251027012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
+<programme start="20251028014100 +0000" stop="20251028015700 +0000" channel="33.es">
+<title>El sopar: Tenir poble</title>
 <sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251027012600 +0000" stop="20251027020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251027020100 +0000" stop="20251027023700 +0000" channel="33.es">
-<title>Tot el temps del mon: Converses: Màrius Serra</title>
-<sub-title></sub-title>
-<desc>Màrius Serra ha escrit La novel·la de Sant Jordi, una sàtira sobre una diada molt estimada, que està a punt darribar, i que en aquesta ocasio es plena despines.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251028015700 +0000" stop="20251028034500 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tocar fons</sub-title>
+<desc>LOna sensorra quan per culpa seva tot se nha anat en orris i evita trobar-se amb els seus companys. Al pis de dalt, continua la guerra entre les germanes per veure qui dirigirà els cellers i sospiten que el seu pare ha elaborat un pla per decidir el futur.</desc>
+<episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20251027023700 +0000" stop="20251027034800 +0000" channel="33.es">
-<title>Inèdits: Antoni Cayrol</title>
-<sub-title></sub-title>
-<desc>Programa presentat per la periodista Pete Soler i que mostra diferents gravacions enregistrades durant els 35 anys demissio de les diferents cadenes de la Corporacio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251028034500 +0000" stop="20251028043800 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tancar</sub-title>
+<desc>El Nil i els altres se senten traïts per lOna i no en volen saber res, tot i els esforços della per explicar-se. Quan els treballadors ja diuen adeu al karaoke, arriba un policia buscant el mico fugitiu. Al mateix temps, la Carolina vol aclarir les coses amb el Gerard.</desc>
+<episode-num system="xmltv_ns">0.9.</episode-num>
 </programme>
-<programme start="20251027034800 +0000" stop="20251027035400 +0000" channel="33.es">
+<programme start="20251028043800 +0000" stop="20251028044400 +0000" channel="33.es">
+<title>Gran!: "Umpah-pah"</title>
+<sub-title></sub-title>
+<desc>Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques. La banda gironina, dissolta lany 1996, segueix gaudint avui dia dun culte merescut.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028044400 +0000" stop="20251028045000 +0000" channel="33.es">
+<title>Gran!: Carla Simon: "Estiu 1993"</title>
+<sub-title></sub-title>
+<desc>Lany 2017 es va estrenar una pel·lícula duna directora emergent. El seu impacte ens va descobrir una de les veus mes personals del cinema català actual. Aquesta es la història dEstiu 1993, de Carla Simon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028045000 +0000" stop="20251028045200 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027035400 +0000" stop="20251027040000 +0000" channel="33.es">
+<programme start="20251028045200 +0000" stop="20251028050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027040000 +0000" stop="20251027041000 +0000" channel="33.es">
+<programme start="20251028050000 +0000" stop="20251028050600 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027041000 +0000" stop="20251027045700 +0000" channel="33.es">
-<title>Aeroport: Meteo</title>
+<programme start="20251028050600 +0000" stop="20251028055500 +0000" channel="33.es">
+<title>Arrelats: Alicia Gimenez Bartlett</title>
 <sub-title></sub-title>
-<desc>El mal temps afecta el funcionament de laeroport i tambe els seus treballadors: fred siberià els matins dhivern i calor infernal a lestiu. Enmig, tempestes del tipus Mordor que obliguen a tancar laeroport.</desc>
+<desc>Espai, presentat per Ernest Folch, que retrata la vida professional de diferents personatges que tenen un punt en comú: tots han nascut en diferents indrets dEspanya i han arrelat a Catalunya. Mateo Valero, Edurne Pasaban o Javier Cercas, son alguns dels protagonistes.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251028055500 +0000" stop="20251028064600 +0000" channel="33.es">
+<title>Terreny personal: El Montseny</title>
+<sub-title></sub-title>
+<desc>El programa descobreix una de les muntanyes mes emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaro hi ha una pica que impregna de caràcter els tres vessants: el Montseny. Els protagonistes expliquen què els lliga a aquest paisatge.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251028064600 +0000" stop="20251028071000 +0000" channel="33.es">
+<title>Riu avall: Noguera Ribagorçana</title>
+<sub-title></sub-title>
+<desc>Marcant la divisòria de Catalunya amb lArago, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el recorregut davui coneixerem millor els tresors del romànic de la Vall de Boí o lespectacular Congost de Mont-rebei.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027045700 +0000" stop="20251027052600 +0000" channel="33.es">
-<title>Kanviem?: Episodi 10</title>
+<programme start="20251028071000 +0000" stop="20251028073600 +0000" channel="33.es">
+<title>Riu avall: Freser</title>
 <sub-title></sub-title>
-<desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027052600 +0000" stop="20251027060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
-<sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027060200 +0000" stop="20251027064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027064600 +0000" stop="20251027073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251027073600 +0000" stop="20251027082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251027082500 +0000" stop="20251027091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027091900 +0000" stop="20251027101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027101400 +0000" stop="20251027110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027110200 +0000" stop="20251027113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251027113500 +0000" stop="20251027122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027122800 +0000" stop="20251027132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027132400 +0000" stop="20251027141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027141000 +0000" stop="20251027145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251027145400 +0000" stop="20251027160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027160100 +0000" stop="20251027162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
+<desc>El Freser es un dels principals rius del Pirineu Oriental. Las seves aigues i les dels seus afluents travessen un paisatge amb molta força, on la natura es mante gairebe intacta i encara es pot gaudir de la pau de les muntanyes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027162600 +0000" stop="20251027171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
+<programme start="20251028073600 +0000" stop="20251028080800 +0000" channel="33.es">
+<title>GR Pirineus: El ball del gegant</title>
 <sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251027171700 +0000" stop="20251027180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
-<sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
+<desc>Avui a la nostra ruta travessarem el Solsonès. Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des dallà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027180800 +0000" stop="20251027190000 +0000" channel="33.es">
+<programme start="20251028080800 +0000" stop="20251028084000 +0000" channel="33.es">
+<title>GR Pirineus: Viatge al centre de la nostra terra</title>
+<sub-title></sub-title>
+<desc>Avui la ruta ens portarà des del Solsonès fins al Bages. El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinos. I des daquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques mes conegudes de la zona.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028084000 +0000" stop="20251028090700 +0000" channel="33.es">
+<title>Viure als Pirineus: Una empresària dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Vanesa Freixa viu amb una obsessio, promoure persones que, fent de pagesos, siguin feliços fent aquesta feina. Ella aposta per lagroecologia, un concepte cada vegada mes estès, però que en el fons es tracta de tornar a la pagesia de tota la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028090700 +0000" stop="20251028093500 +0000" channel="33.es">
+<title>Viure als Pirineus: Uns pastors dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Cedric Lacraberie i Yann Brianti tenen tots dos quaranta anys i son pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passio al cor de les muntanyes dels Pirineus, a 1.000 metres dalçada, on fan de pagesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028093500 +0000" stop="20251028100500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028100500 +0000" stop="20251028103500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028103500 +0000" stop="20251028110100 +0000" channel="33.es">
+<title>Caçadors de bolets: Bombers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251028110100 +0000" stop="20251028112700 +0000" channel="33.es">
+<title>Caçadors de bolets: Perruqueres</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251028112700 +0000" stop="20251028115500 +0000" channel="33.es">
+<title>Caçadors de bolets: Paradistes</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251028115500 +0000" stop="20251028123600 +0000" channel="33.es">
+<title>La mar de be: Felicitat</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al Parc Natural de Cap de Creus, viu una jornada de pesca descorpora amb lIsca Garcia, patro i pescador de La Felicitat, li mostra la visio mes tradicional i propera de lofici de pescador. Naveguen fins a Tudela, tiren les xarxes, les recullen plenes, arriben a port, fan la tria, van al Centre Primer de Venda i venen als particulars perquè a Cadaques no hi ha Llotja. LIsca explica en una entrevista posterior la historia del vaixell, que la pesca no li ve de familia. Inclou imatges de Port Lligat, imatges aèries de La Felicitat navegant pel Cap de Creus, imatges subaquàtiques descorpores, un rap gros, molles, escorpores, imatges aèries de Cadaques, de Cala Judora amb la barraca, Cala Cullero, Cala Colip.- GRÀFIC Animacio explica què es una escorpora.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028123600 +0000" stop="20251028130500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... gravetat, Einstein i relativitat</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251028130500 +0000" stop="20251028133500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... els insectes</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251028133500 +0000" stop="20251028140600 +0000" channel="33.es">
+<title>Quèquicom: QQC i... matemàtiques: fent números</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251028140600 +0000" stop="20251028143200 +0000" channel="33.es">
+<title>Caçadors de bolets: Castellers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251028143200 +0000" stop="20251028152200 +0000" channel="33.es">
+<title>Grandes viajes en tren: Las Filipinas 1</title>
+<sub-title></sub-title>
+<desc>Pel fet destar formades per 7.000 illes, les Filipines no son un país on el tren sigui la millor opcio per moure-shi. Per això, en aquest viatge Philippe Gougler utilitza altres mitjans de transport per voltar per la capital, pel camp i per la costa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028152200 +0000" stop="20251028160800 +0000" channel="33.es">
+<title>Reizen Waes: Sierra Leone</title>
+<sub-title></sub-title>
+<desc>El 2014, el virus de lEbola va devastar Sierra Leone. El país es va tancar als turistes. Dos anys mes tard, el país està oficialment declarat lliure dEbola. En Tom no dubta i decideix ser el primer turista que hi viatja.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028160800 +0000" stop="20251028165200 +0000" channel="33.es">
+<title>Reizen Waes: Sudan del Sud</title>
+<sub-title></sub-title>
+<desc>El Sudan del Sud, independent des del 9 de juliol del 2011, es el país mes nou del mon. En Tom visita un país en plena construccio i amb pocs recursos per al turisme. Concretament, vol visitar el parc nacional de Boma, on te lloc la migracio dantílops mes gran del mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028165200 +0000" stop="20251028174400 +0000" channel="33.es">
 <title>Arbres genials</title>
 <sub-title></sub-title>
 <desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027190000 +0000" stop="20251027195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251027195900 +0000" stop="20251027204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
+<programme start="20251028174400 +0000" stop="20251028175300 +0000" channel="33.es">
+<title>Gran!: Tirant lo Blanc</title>
 <sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251027204600 +0000" stop="20251027224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
+<desc>És lobra mes important de lescriptor i cavaller valencià Joanot Martorell i el màxim exponent de la novel·la cavalleresca en català. Lautor dEl Quixot, Miguel de Cervantes, va assegurar que Tirant lo Blanc era el millor llibre del mon.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027224000 +0000" stop="20251027233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
+<programme start="20251028175300 +0000" stop="20251028180200 +0000" channel="33.es">
+<title>Gran!: Sau: "Quina nit"</title>
 <sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
+<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. Quina nit (1990) va ser làlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva canço mes emblemàtica, Boig per tu.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027233300 +0000" stop="20251027234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
+<programme start="20251028180200 +0000" stop="20251028190500 +0000" channel="33.es">
+<title>LHospitalet, simfonia duna ciutat</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>A lHospitalet de Llobregat, comissaris internacionals dels anomenats districtes culturals, agents immobiliaris, urbanistes de lAjuntament, gestors culturals i comissaris dart han col·laborat per dibuixar el mapa duna ciutat en plena transformacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251027234600 +0000" stop="20251028001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
+<programme start="20251028190500 +0000" stop="20251028200000 +0000" channel="33.es">
+<title>Amb tots vostès, Joan Pera</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Joan Pera està a punt de complir 60 anys dalt dels escenaris. 60 anys de passio pel drama, la tragèdia i, per damunt de tot, la comèdia. Al documental Amb tots vostès, Joan Pera, l’actor que ha fet riure generacions senceres es despulla davant de les càmeres.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028001100 +0000" stop="20251028002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
+<programme start="20251028200000 +0000" stop="20251028205100 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028002700 +0000" stop="20251028005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
+<programme start="20251028205100 +0000" stop="20251028221000 +0000" channel="33.es">
+<title>El traginer de cançons</title>
 <sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
+<desc>Pep Gimeno Botifarra no es nomes un cantaor portentos; es, sobretot, un recopilador perseverant del cant tradicional valencià.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028221000 +0000" stop="20251028225500 +0000" channel="33.es">
+<title>Reizen Waes: Haití</title>
+<sub-title></sub-title>
+<desc>En Tom visita Haití, un dels països mes pobres del mon. El 2010 va ser notícia pel terratrèmol que va destruir la capital, Port-au-Prince, i va causar mes de 200.000 morts. Tot i que el turisme hi es gairebe inexistent, en Tom troba alguns llocs que val la pena visitar. Sendinsa a linterior, on rarament arriben turistes, i assisteix a una cerimònia de vudú. És el relat dun viatge ple dentrebancs en un país amb greus problemes però que te un gran potencial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251028225500 +0000" stop="20251029224000 +0000" channel="33.es">
+<title>Reizen Waes: Bhutan</title>
+<sub-title></sub-title>
+<desc>Bhutan es un regne situat al mig de lHimàlaia els habitants del qual intenten mantenir les tradicions amb lobjectiu de ser feliços. En Tom investiga si un viatge a aquest país sense semàfors i amb cases decorades amb penis serveix realment per ser mes feliç.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251029224000 +0000" stop="20251029233200 +0000" channel="33.es">
+<title>JFK: Lhomme et la legende: Episodio 2</title>
+<sub-title></sub-title>
+<desc>Un recorregut per lexcepcional trajectòria de John F. Kennedy, 60 anys despres del seu assassinat. La imatge pública del 35è president dels Estats Units senfronta als aspectes de la seva vida que va intentar mantenir en silenci.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
+</programme>
+<programme start="20251029233200 +0000" stop="20251030011200 +0000" channel="33.es">
+<title>Sempre amunt!</title>
+<sub-title></sub-title>
+<desc>Documental que narra com van patir la pandèmia les colles castelleres i com se nestan sortint a base desforç i determinacio. El treball, produït per la productora vilafranquina Punt tv i dirigit per Jordi Escofet, te com a protagonistes els Castellers de Vilafranca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030011200 +0000" stop="20251030012700 +0000" channel="33.es">
+<title>Els Pets: Bon dia, joves!</title>
+<sub-title></sub-title>
+<desc>Son lúnic grup que perviu en actiu del famos boom del rock català dels anys 80. La seva carrera musical es, tambe, la banda sonora de tres generacions. Els Pets: bon dia, joves recorre la petja emocional duna de les bandes mes carismàtiques del país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030012700 +0000" stop="20251030014100 +0000" channel="33.es">
+<title>El sopar: Tenir son</title>
+<sub-title></sub-title>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251028005600 +0000" stop="20251028012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
+<programme start="20251030014100 +0000" stop="20251030015700 +0000" channel="33.es">
+<title>El sopar: Tenir poble</title>
 <sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251028012600 +0000" stop="20251028020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251028020100 +0000" stop="20251028023700 +0000" channel="33.es">
-<title>Tot el temps del mon: Converses: Màrius Serra</title>
-<sub-title></sub-title>
-<desc>Màrius Serra ha escrit La novel·la de Sant Jordi, una sàtira sobre una diada molt estimada, que està a punt darribar, i que en aquesta ocasio es plena despines.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251030015700 +0000" stop="20251030034500 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tocar fons</sub-title>
+<desc>LOna sensorra quan per culpa seva tot se nha anat en orris i evita trobar-se amb els seus companys. Al pis de dalt, continua la guerra entre les germanes per veure qui dirigirà els cellers i sospiten que el seu pare ha elaborat un pla per decidir el futur.</desc>
+<episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20251028023700 +0000" stop="20251028034800 +0000" channel="33.es">
-<title>Inèdits: Antoni Cayrol</title>
-<sub-title></sub-title>
-<desc>Programa presentat per la periodista Pete Soler i que mostra diferents gravacions enregistrades durant els 35 anys demissio de les diferents cadenes de la Corporacio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251030034500 +0000" stop="20251030043800 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tancar</sub-title>
+<desc>El Nil i els altres se senten traïts per lOna i no en volen saber res, tot i els esforços della per explicar-se. Quan els treballadors ja diuen adeu al karaoke, arriba un policia buscant el mico fugitiu. Al mateix temps, la Carolina vol aclarir les coses amb el Gerard.</desc>
+<episode-num system="xmltv_ns">0.9.</episode-num>
 </programme>
-<programme start="20251028034800 +0000" stop="20251028035400 +0000" channel="33.es">
+<programme start="20251030043800 +0000" stop="20251030044400 +0000" channel="33.es">
+<title>Gran!: "Umpah-pah"</title>
+<sub-title></sub-title>
+<desc>Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques. La banda gironina, dissolta lany 1996, segueix gaudint avui dia dun culte merescut.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030044400 +0000" stop="20251030045000 +0000" channel="33.es">
+<title>Gran!: Carla Simon: "Estiu 1993"</title>
+<sub-title></sub-title>
+<desc>Lany 2017 es va estrenar una pel·lícula duna directora emergent. El seu impacte ens va descobrir una de les veus mes personals del cinema català actual. Aquesta es la història dEstiu 1993, de Carla Simon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030045000 +0000" stop="20251030045200 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028035400 +0000" stop="20251028040000 +0000" channel="33.es">
+<programme start="20251030045200 +0000" stop="20251030050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028040000 +0000" stop="20251028041000 +0000" channel="33.es">
+<programme start="20251030050000 +0000" stop="20251030050600 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028041000 +0000" stop="20251028045700 +0000" channel="33.es">
-<title>Aeroport: Meteo</title>
+<programme start="20251030050600 +0000" stop="20251030055500 +0000" channel="33.es">
+<title>Arrelats: Alicia Gimenez Bartlett</title>
 <sub-title></sub-title>
-<desc>El mal temps afecta el funcionament de laeroport i tambe els seus treballadors: fred siberià els matins dhivern i calor infernal a lestiu. Enmig, tempestes del tipus Mordor que obliguen a tancar laeroport.</desc>
+<desc>Espai, presentat per Ernest Folch, que retrata la vida professional de diferents personatges que tenen un punt en comú: tots han nascut en diferents indrets dEspanya i han arrelat a Catalunya. Mateo Valero, Edurne Pasaban o Javier Cercas, son alguns dels protagonistes.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251030055500 +0000" stop="20251030064600 +0000" channel="33.es">
+<title>Terreny personal: El Montseny</title>
+<sub-title></sub-title>
+<desc>El programa descobreix una de les muntanyes mes emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaro hi ha una pica que impregna de caràcter els tres vessants: el Montseny. Els protagonistes expliquen què els lliga a aquest paisatge.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251030064600 +0000" stop="20251030071000 +0000" channel="33.es">
+<title>Riu avall: Noguera Ribagorçana</title>
+<sub-title></sub-title>
+<desc>Marcant la divisòria de Catalunya amb lArago, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el recorregut davui coneixerem millor els tresors del romànic de la Vall de Boí o lespectacular Congost de Mont-rebei.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028045700 +0000" stop="20251028052600 +0000" channel="33.es">
-<title>Kanviem?: Episodi 10</title>
+<programme start="20251030071000 +0000" stop="20251030073600 +0000" channel="33.es">
+<title>Riu avall: Freser</title>
 <sub-title></sub-title>
-<desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028052600 +0000" stop="20251028060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
-<sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028060200 +0000" stop="20251028064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028064600 +0000" stop="20251028073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251028073600 +0000" stop="20251028082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251028082500 +0000" stop="20251028091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028091900 +0000" stop="20251028101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028101400 +0000" stop="20251028110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028110200 +0000" stop="20251028113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251028113500 +0000" stop="20251028122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028122800 +0000" stop="20251028132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028132400 +0000" stop="20251028141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028141000 +0000" stop="20251028145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251028145400 +0000" stop="20251028160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028160100 +0000" stop="20251028162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
+<desc>El Freser es un dels principals rius del Pirineu Oriental. Las seves aigues i les dels seus afluents travessen un paisatge amb molta força, on la natura es mante gairebe intacta i encara es pot gaudir de la pau de les muntanyes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028162600 +0000" stop="20251028171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
+<programme start="20251030073600 +0000" stop="20251030080800 +0000" channel="33.es">
+<title>GR Pirineus: El ball del gegant</title>
 <sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251028171700 +0000" stop="20251028180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
-<sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
+<desc>Avui a la nostra ruta travessarem el Solsonès. Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des dallà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028180800 +0000" stop="20251028190000 +0000" channel="33.es">
+<programme start="20251030080800 +0000" stop="20251030084000 +0000" channel="33.es">
+<title>GR Pirineus: Viatge al centre de la nostra terra</title>
+<sub-title></sub-title>
+<desc>Avui la ruta ens portarà des del Solsonès fins al Bages. El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinos. I des daquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques mes conegudes de la zona.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030084000 +0000" stop="20251030090700 +0000" channel="33.es">
+<title>Viure als Pirineus: Una empresària dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Vanesa Freixa viu amb una obsessio, promoure persones que, fent de pagesos, siguin feliços fent aquesta feina. Ella aposta per lagroecologia, un concepte cada vegada mes estès, però que en el fons es tracta de tornar a la pagesia de tota la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030090700 +0000" stop="20251030093500 +0000" channel="33.es">
+<title>Viure als Pirineus: Uns pastors dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Cedric Lacraberie i Yann Brianti tenen tots dos quaranta anys i son pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passio al cor de les muntanyes dels Pirineus, a 1.000 metres dalçada, on fan de pagesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030093500 +0000" stop="20251030100500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030100500 +0000" stop="20251030103500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030103500 +0000" stop="20251030110100 +0000" channel="33.es">
+<title>Caçadors de bolets: Bombers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251030110100 +0000" stop="20251030112700 +0000" channel="33.es">
+<title>Caçadors de bolets: Perruqueres</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251030112700 +0000" stop="20251030115500 +0000" channel="33.es">
+<title>Caçadors de bolets: Paradistes</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251030115500 +0000" stop="20251030123600 +0000" channel="33.es">
+<title>La mar de be: Felicitat</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al Parc Natural de Cap de Creus, viu una jornada de pesca descorpora amb lIsca Garcia, patro i pescador de La Felicitat, li mostra la visio mes tradicional i propera de lofici de pescador. Naveguen fins a Tudela, tiren les xarxes, les recullen plenes, arriben a port, fan la tria, van al Centre Primer de Venda i venen als particulars perquè a Cadaques no hi ha Llotja. LIsca explica en una entrevista posterior la historia del vaixell, que la pesca no li ve de familia. Inclou imatges de Port Lligat, imatges aèries de La Felicitat navegant pel Cap de Creus, imatges subaquàtiques descorpores, un rap gros, molles, escorpores, imatges aèries de Cadaques, de Cala Judora amb la barraca, Cala Cullero, Cala Colip.- GRÀFIC Animacio explica què es una escorpora.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030123600 +0000" stop="20251030130500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... gravetat, Einstein i relativitat</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251030130500 +0000" stop="20251030133500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... els insectes</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251030133500 +0000" stop="20251030140600 +0000" channel="33.es">
+<title>Quèquicom: QQC i... matemàtiques: fent números</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251030140600 +0000" stop="20251030143200 +0000" channel="33.es">
+<title>Caçadors de bolets: Castellers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251030143200 +0000" stop="20251030152200 +0000" channel="33.es">
+<title>Grandes viajes en tren: Las Filipinas 1</title>
+<sub-title></sub-title>
+<desc>Pel fet destar formades per 7.000 illes, les Filipines no son un país on el tren sigui la millor opcio per moure-shi. Per això, en aquest viatge Philippe Gougler utilitza altres mitjans de transport per voltar per la capital, pel camp i per la costa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030152200 +0000" stop="20251030160800 +0000" channel="33.es">
+<title>Reizen Waes: Sierra Leone</title>
+<sub-title></sub-title>
+<desc>El 2014, el virus de lEbola va devastar Sierra Leone. El país es va tancar als turistes. Dos anys mes tard, el país està oficialment declarat lliure dEbola. En Tom no dubta i decideix ser el primer turista que hi viatja.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030160800 +0000" stop="20251030165200 +0000" channel="33.es">
+<title>Reizen Waes: Sudan del Sud</title>
+<sub-title></sub-title>
+<desc>El Sudan del Sud, independent des del 9 de juliol del 2011, es el país mes nou del mon. En Tom visita un país en plena construccio i amb pocs recursos per al turisme. Concretament, vol visitar el parc nacional de Boma, on te lloc la migracio dantílops mes gran del mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030165200 +0000" stop="20251030174400 +0000" channel="33.es">
 <title>Arbres genials</title>
 <sub-title></sub-title>
 <desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028190000 +0000" stop="20251028195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251028195900 +0000" stop="20251028204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
+<programme start="20251030174400 +0000" stop="20251030175300 +0000" channel="33.es">
+<title>Gran!: Tirant lo Blanc</title>
 <sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251028204600 +0000" stop="20251028224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
+<desc>És lobra mes important de lescriptor i cavaller valencià Joanot Martorell i el màxim exponent de la novel·la cavalleresca en català. Lautor dEl Quixot, Miguel de Cervantes, va assegurar que Tirant lo Blanc era el millor llibre del mon.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028224000 +0000" stop="20251028233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
+<programme start="20251030175300 +0000" stop="20251030180200 +0000" channel="33.es">
+<title>Gran!: Sau: "Quina nit"</title>
 <sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
+<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. Quina nit (1990) va ser làlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva canço mes emblemàtica, Boig per tu.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028233300 +0000" stop="20251028234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
+<programme start="20251030180200 +0000" stop="20251030190500 +0000" channel="33.es">
+<title>LHospitalet, simfonia duna ciutat</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>A lHospitalet de Llobregat, comissaris internacionals dels anomenats districtes culturals, agents immobiliaris, urbanistes de lAjuntament, gestors culturals i comissaris dart han col·laborat per dibuixar el mapa duna ciutat en plena transformacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251028234600 +0000" stop="20251029001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
+<programme start="20251030190500 +0000" stop="20251030200000 +0000" channel="33.es">
+<title>Amb tots vostès, Joan Pera</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Joan Pera està a punt de complir 60 anys dalt dels escenaris. 60 anys de passio pel drama, la tragèdia i, per damunt de tot, la comèdia. Al documental Amb tots vostès, Joan Pera, l’actor que ha fet riure generacions senceres es despulla davant de les càmeres.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029001100 +0000" stop="20251029002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
+<programme start="20251030200000 +0000" stop="20251030205100 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029002700 +0000" stop="20251029005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
+<programme start="20251030205100 +0000" stop="20251030221000 +0000" channel="33.es">
+<title>El traginer de cançons</title>
 <sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
+<desc>Pep Gimeno Botifarra no es nomes un cantaor portentos; es, sobretot, un recopilador perseverant del cant tradicional valencià.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030221000 +0000" stop="20251030225500 +0000" channel="33.es">
+<title>Reizen Waes: Haití</title>
+<sub-title></sub-title>
+<desc>En Tom visita Haití, un dels països mes pobres del mon. El 2010 va ser notícia pel terratrèmol que va destruir la capital, Port-au-Prince, i va causar mes de 200.000 morts. Tot i que el turisme hi es gairebe inexistent, en Tom troba alguns llocs que val la pena visitar. Sendinsa a linterior, on rarament arriben turistes, i assisteix a una cerimònia de vudú. És el relat dun viatge ple dentrebancs en un país amb greus problemes però que te un gran potencial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251030225500 +0000" stop="20251031224000 +0000" channel="33.es">
+<title>Reizen Waes: Bhutan</title>
+<sub-title></sub-title>
+<desc>Bhutan es un regne situat al mig de lHimàlaia els habitants del qual intenten mantenir les tradicions amb lobjectiu de ser feliços. En Tom investiga si un viatge a aquest país sense semàfors i amb cases decorades amb penis serveix realment per ser mes feliç.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251031224000 +0000" stop="20251031233200 +0000" channel="33.es">
+<title>JFK: Lhomme et la legende: Episodio 2</title>
+<sub-title></sub-title>
+<desc>Un recorregut per lexcepcional trajectòria de John F. Kennedy, 60 anys despres del seu assassinat. La imatge pública del 35è president dels Estats Units senfronta als aspectes de la seva vida que va intentar mantenir en silenci.</desc>
+<episode-num system="xmltv_ns">.1.</episode-num>
+</programme>
+<programme start="20251031233200 +0000" stop="20251101011200 +0000" channel="33.es">
+<title>Sempre amunt!</title>
+<sub-title></sub-title>
+<desc>Documental que narra com van patir la pandèmia les colles castelleres i com se nestan sortint a base desforç i determinacio. El treball, produït per la productora vilafranquina Punt tv i dirigit per Jordi Escofet, te com a protagonistes els Castellers de Vilafranca.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101011200 +0000" stop="20251101012700 +0000" channel="33.es">
+<title>Els Pets: Bon dia, joves!</title>
+<sub-title></sub-title>
+<desc>Son lúnic grup que perviu en actiu del famos boom del rock català dels anys 80. La seva carrera musical es, tambe, la banda sonora de tres generacions. Els Pets: bon dia, joves recorre la petja emocional duna de les bandes mes carismàtiques del país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101012700 +0000" stop="20251101014100 +0000" channel="33.es">
+<title>El sopar: Tenir son</title>
+<sub-title></sub-title>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251029005600 +0000" stop="20251029012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
+<programme start="20251101014100 +0000" stop="20251101015700 +0000" channel="33.es">
+<title>El sopar: Tenir poble</title>
 <sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251029012600 +0000" stop="20251029020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>Quatre celebritats es reuneixen cada setmana per sopar amb Roger de Gràcia. Els convidats parlen dexperiències íntimes i personals, i reflexionen sobre els temes universals de manera tranquil·la i distesa, en un ambient com el que hi pot haver en qualsevol casa.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251029020100 +0000" stop="20251029023700 +0000" channel="33.es">
-<title>Tot el temps del mon: Converses: Màrius Serra</title>
-<sub-title></sub-title>
-<desc>Màrius Serra ha escrit La novel·la de Sant Jordi, una sàtira sobre una diada molt estimada, que està a punt darribar, i que en aquesta ocasio es plena despines.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251101015700 +0000" stop="20251101034500 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tocar fons</sub-title>
+<desc>LOna sensorra quan per culpa seva tot se nha anat en orris i evita trobar-se amb els seus companys. Al pis de dalt, continua la guerra entre les germanes per veure qui dirigirà els cellers i sospiten que el seu pare ha elaborat un pla per decidir el futur.</desc>
+<episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20251029023700 +0000" stop="20251029034800 +0000" channel="33.es">
-<title>Inèdits: Antoni Cayrol</title>
-<sub-title></sub-title>
-<desc>Programa presentat per la periodista Pete Soler i que mostra diferents gravacions enregistrades durant els 35 anys demissio de les diferents cadenes de la Corporacio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
+<programme start="20251101034500 +0000" stop="20251101043800 +0000" channel="33.es">
+<title>Lúltima nit del Karaoke</title>
+<sub-title>Una per tancar</sub-title>
+<desc>El Nil i els altres se senten traïts per lOna i no en volen saber res, tot i els esforços della per explicar-se. Quan els treballadors ja diuen adeu al karaoke, arriba un policia buscant el mico fugitiu. Al mateix temps, la Carolina vol aclarir les coses amb el Gerard.</desc>
+<episode-num system="xmltv_ns">0.9.</episode-num>
 </programme>
-<programme start="20251029034800 +0000" stop="20251029035400 +0000" channel="33.es">
+<programme start="20251101043800 +0000" stop="20251101044400 +0000" channel="33.es">
+<title>Gran!: "Umpah-pah"</title>
+<sub-title></sub-title>
+<desc>Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques. La banda gironina, dissolta lany 1996, segueix gaudint avui dia dun culte merescut.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101044400 +0000" stop="20251101045000 +0000" channel="33.es">
+<title>Gran!: Carla Simon: "Estiu 1993"</title>
+<sub-title></sub-title>
+<desc>Lany 2017 es va estrenar una pel·lícula duna directora emergent. El seu impacte ens va descobrir una de les veus mes personals del cinema català actual. Aquesta es la història dEstiu 1993, de Carla Simon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101045000 +0000" stop="20251101045200 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029035400 +0000" stop="20251029040000 +0000" channel="33.es">
+<programme start="20251101045200 +0000" stop="20251101050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029040000 +0000" stop="20251029041000 +0000" channel="33.es">
+<programme start="20251101050000 +0000" stop="20251101050600 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029041000 +0000" stop="20251029045700 +0000" channel="33.es">
-<title>Aeroport: Meteo</title>
+<programme start="20251101050600 +0000" stop="20251101055500 +0000" channel="33.es">
+<title>Arrelats: Alicia Gimenez Bartlett</title>
 <sub-title></sub-title>
-<desc>El mal temps afecta el funcionament de laeroport i tambe els seus treballadors: fred siberià els matins dhivern i calor infernal a lestiu. Enmig, tempestes del tipus Mordor que obliguen a tancar laeroport.</desc>
+<desc>Espai, presentat per Ernest Folch, que retrata la vida professional de diferents personatges que tenen un punt en comú: tots han nascut en diferents indrets dEspanya i han arrelat a Catalunya. Mateo Valero, Edurne Pasaban o Javier Cercas, son alguns dels protagonistes.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251101055500 +0000" stop="20251101064600 +0000" channel="33.es">
+<title>Terreny personal: El Montseny</title>
+<sub-title></sub-title>
+<desc>El programa descobreix una de les muntanyes mes emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaro hi ha una pica que impregna de caràcter els tres vessants: el Montseny. Els protagonistes expliquen què els lliga a aquest paisatge.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251101064600 +0000" stop="20251101071000 +0000" channel="33.es">
+<title>Riu avall: Noguera Ribagorçana</title>
+<sub-title></sub-title>
+<desc>Marcant la divisòria de Catalunya amb lArago, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el recorregut davui coneixerem millor els tresors del romànic de la Vall de Boí o lespectacular Congost de Mont-rebei.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029045700 +0000" stop="20251029052600 +0000" channel="33.es">
-<title>Kanviem?: Episodi 10</title>
+<programme start="20251101071000 +0000" stop="20251101073600 +0000" channel="33.es">
+<title>Riu avall: Freser</title>
 <sub-title></sub-title>
-<desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029052600 +0000" stop="20251029060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
-<sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029060200 +0000" stop="20251029064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029064600 +0000" stop="20251029073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251029073600 +0000" stop="20251029082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251029082500 +0000" stop="20251029091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029091900 +0000" stop="20251029101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029101400 +0000" stop="20251029110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029110200 +0000" stop="20251029113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251029113500 +0000" stop="20251029122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029122800 +0000" stop="20251029132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029132400 +0000" stop="20251029141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029141000 +0000" stop="20251029145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251029145400 +0000" stop="20251029160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029160100 +0000" stop="20251029162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
+<desc>El Freser es un dels principals rius del Pirineu Oriental. Las seves aigues i les dels seus afluents travessen un paisatge amb molta força, on la natura es mante gairebe intacta i encara es pot gaudir de la pau de les muntanyes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029162600 +0000" stop="20251029171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
+<programme start="20251101073600 +0000" stop="20251101080800 +0000" channel="33.es">
+<title>GR Pirineus: El ball del gegant</title>
 <sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251029171700 +0000" stop="20251029180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
-<sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
+<desc>Avui a la nostra ruta travessarem el Solsonès. Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des dallà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029180800 +0000" stop="20251029190000 +0000" channel="33.es">
+<programme start="20251101080800 +0000" stop="20251101084000 +0000" channel="33.es">
+<title>GR Pirineus: Viatge al centre de la nostra terra</title>
+<sub-title></sub-title>
+<desc>Avui la ruta ens portarà des del Solsonès fins al Bages. El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinos. I des daquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques mes conegudes de la zona.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101084000 +0000" stop="20251101090700 +0000" channel="33.es">
+<title>Viure als Pirineus: Una empresària dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Vanesa Freixa viu amb una obsessio, promoure persones que, fent de pagesos, siguin feliços fent aquesta feina. Ella aposta per lagroecologia, un concepte cada vegada mes estès, però que en el fons es tracta de tornar a la pagesia de tota la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101090700 +0000" stop="20251101093500 +0000" channel="33.es">
+<title>Viure als Pirineus: Uns pastors dels Pirineus (Primavera-Estiu)</title>
+<sub-title></sub-title>
+<desc>Cedric Lacraberie i Yann Brianti tenen tots dos quaranta anys i son pastors. Aquests dos amics de la infantesa han decidit compartir la seva vida i la seva passio al cor de les muntanyes dels Pirineus, a 1.000 metres dalçada, on fan de pagesos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101093500 +0000" stop="20251101100500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101100500 +0000" stop="20251101103500 +0000" channel="33.es">
+<title>Tocats de lala</title>
+<sub-title></sub-title>
+<desc>Programa que descobreix desenes despècies interessants que conviuen en espais naturals darreu de Catalunya, un país de gran riquesa ornitològica. El delta de lEbre, els aiguamolls de lEmpordà o els secans de Lleida reben cada any aficionats de tot el mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101103500 +0000" stop="20251101110100 +0000" channel="33.es">
+<title>Caçadors de bolets: Bombers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251101110100 +0000" stop="20251101112700 +0000" channel="33.es">
+<title>Caçadors de bolets: Perruqueres</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251101112700 +0000" stop="20251101115500 +0000" channel="33.es">
+<title>Caçadors de bolets: Paradistes</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251101115500 +0000" stop="20251101123600 +0000" channel="33.es">
+<title>La mar de be: Felicitat</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas al Parc Natural de Cap de Creus, viu una jornada de pesca descorpora amb lIsca Garcia, patro i pescador de La Felicitat, li mostra la visio mes tradicional i propera de lofici de pescador. Naveguen fins a Tudela, tiren les xarxes, les recullen plenes, arriben a port, fan la tria, van al Centre Primer de Venda i venen als particulars perquè a Cadaques no hi ha Llotja. LIsca explica en una entrevista posterior la historia del vaixell, que la pesca no li ve de familia. Inclou imatges de Port Lligat, imatges aèries de La Felicitat navegant pel Cap de Creus, imatges subaquàtiques descorpores, un rap gros, molles, escorpores, imatges aèries de Cadaques, de Cala Judora amb la barraca, Cala Cullero, Cala Colip.- GRÀFIC Animacio explica què es una escorpora.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101123600 +0000" stop="20251101130500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... gravetat, Einstein i relativitat</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251101130500 +0000" stop="20251101133500 +0000" channel="33.es">
+<title>Quèquicom: QQC i... els insectes</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251101133500 +0000" stop="20251101140600 +0000" channel="33.es">
+<title>Quèquicom: QQC i... matemàtiques: fent números</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns">11..</episode-num>
+</programme>
+<programme start="20251101140600 +0000" stop="20251101143200 +0000" channel="33.es">
+<title>Caçadors de bolets: Castellers</title>
+<sub-title></sub-title>
+<desc>Sèrie divulgativa on experts boletaires expliquen com conèixer, trobar i posteriorment cuinar les diferents espècies de bolets existents arreu de Catalunya. Tres avis boletaires del Montseny condimenten cada capítol amb el seu particular punt de vista.</desc>
+<episode-num system="xmltv_ns">9..</episode-num>
+</programme>
+<programme start="20251101143200 +0000" stop="20251101152200 +0000" channel="33.es">
+<title>Grandes viajes en tren: Las Filipinas 1</title>
+<sub-title></sub-title>
+<desc>Pel fet destar formades per 7.000 illes, les Filipines no son un país on el tren sigui la millor opcio per moure-shi. Per això, en aquest viatge Philippe Gougler utilitza altres mitjans de transport per voltar per la capital, pel camp i per la costa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101152200 +0000" stop="20251101160800 +0000" channel="33.es">
+<title>Reizen Waes: Sierra Leone</title>
+<sub-title></sub-title>
+<desc>El 2014, el virus de lEbola va devastar Sierra Leone. El país es va tancar als turistes. Dos anys mes tard, el país està oficialment declarat lliure dEbola. En Tom no dubta i decideix ser el primer turista que hi viatja.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101160800 +0000" stop="20251101165200 +0000" channel="33.es">
+<title>Reizen Waes: Sudan del Sud</title>
+<sub-title></sub-title>
+<desc>El Sudan del Sud, independent des del 9 de juliol del 2011, es el país mes nou del mon. En Tom visita un país en plena construccio i amb pocs recursos per al turisme. Concretament, vol visitar el parc nacional de Boma, on te lloc la migracio dantílops mes gran del mon.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251101165200 +0000" stop="20251101174400 +0000" channel="33.es">
 <title>Arbres genials</title>
 <sub-title></sub-title>
 <desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029190000 +0000" stop="20251029195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251029195900 +0000" stop="20251029204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
+<programme start="20251101174400 +0000" stop="20251101175300 +0000" channel="33.es">
+<title>Gran!: Tirant lo Blanc</title>
 <sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251029204600 +0000" stop="20251029224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
+<desc>És lobra mes important de lescriptor i cavaller valencià Joanot Martorell i el màxim exponent de la novel·la cavalleresca en català. Lautor dEl Quixot, Miguel de Cervantes, va assegurar que Tirant lo Blanc era el millor llibre del mon.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029224000 +0000" stop="20251029233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
+<programme start="20251101175300 +0000" stop="20251101180200 +0000" channel="33.es">
+<title>Gran!: Sau: "Quina nit"</title>
 <sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
+<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. Quina nit (1990) va ser làlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva canço mes emblemàtica, Boig per tu.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029233300 +0000" stop="20251029234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
+<programme start="20251101180200 +0000" stop="20251101190500 +0000" channel="33.es">
+<title>LHospitalet, simfonia duna ciutat</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>A lHospitalet de Llobregat, comissaris internacionals dels anomenats districtes culturals, agents immobiliaris, urbanistes de lAjuntament, gestors culturals i comissaris dart han col·laborat per dibuixar el mapa duna ciutat en plena transformacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251029234600 +0000" stop="20251030001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
+<programme start="20251101190500 +0000" stop="20251101200000 +0000" channel="33.es">
+<title>Amb tots vostès, Joan Pera</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Joan Pera està a punt de complir 60 anys dalt dels escenaris. 60 anys de passio pel drama, la tragèdia i, per damunt de tot, la comèdia. Al documental Amb tots vostès, Joan Pera, l’actor que ha fet riure generacions senceres es despulla davant de les càmeres.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251030001100 +0000" stop="20251030002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
+<programme start="20251101200000 +0000" stop="20251101205100 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251030002700 +0000" stop="20251030005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
+<programme start="20251101205100 +0000" stop="20251101221000 +0000" channel="33.es">
+<title>El traginer de cançons</title>
 <sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030005600 +0000" stop="20251030012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
-<sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251030012600 +0000" stop="20251030020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030020100 +0000" stop="20251030023700 +0000" channel="33.es">
-<title>Tot el temps del mon: Converses: Màrius Serra</title>
-<sub-title></sub-title>
-<desc>Màrius Serra ha escrit La novel·la de Sant Jordi, una sàtira sobre una diada molt estimada, que està a punt darribar, i que en aquesta ocasio es plena despines.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030023700 +0000" stop="20251030034800 +0000" channel="33.es">
-<title>Inèdits: Antoni Cayrol</title>
-<sub-title></sub-title>
-<desc>Programa presentat per la periodista Pete Soler i que mostra diferents gravacions enregistrades durant els 35 anys demissio de les diferents cadenes de la Corporacio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030034800 +0000" stop="20251030035400 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<desc>Pep Gimeno Botifarra no es nomes un cantaor portentos; es, sobretot, un recopilador perseverant del cant tradicional valencià.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251030035400 +0000" stop="20251030040000 +0000" channel="33.es">
-<title>Videoclips catalans</title>
+<programme start="20251101221000 +0000" stop="20251101225500 +0000" channel="33.es">
+<title>Reizen Waes: Haití</title>
 <sub-title></sub-title>
-<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<desc>En Tom visita Haití, un dels països mes pobres del mon. El 2010 va ser notícia pel terratrèmol que va destruir la capital, Port-au-Prince, i va causar mes de 200.000 morts. Tot i que el turisme hi es gairebe inexistent, en Tom troba alguns llocs que val la pena visitar. Sendinsa a linterior, on rarament arriben turistes, i assisteix a una cerimònia de vudú. És el relat dun viatge ple dentrebancs en un país amb greus problemes però que te un gran potencial.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251030040000 +0000" stop="20251030041000 +0000" channel="33.es">
-<title>Videoclips catalans</title>
+<programme start="20251101225500 +0000" stop="20251102224000 +0000" channel="33.es">
+<title>Reizen Waes: Bhutan</title>
 <sub-title></sub-title>
-<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<desc>Bhutan es un regne situat al mig de lHimàlaia els habitants del qual intenten mantenir les tradicions amb lobjectiu de ser feliços. En Tom investiga si un viatge a aquest país sense semàfors i amb cases decorades amb penis serveix realment per ser mes feliç.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030041000 +0000" stop="20251030045700 +0000" channel="33.es">
-<title>Aeroport: Meteo</title>
-<sub-title></sub-title>
-<desc>El mal temps afecta el funcionament de laeroport i tambe els seus treballadors: fred siberià els matins dhivern i calor infernal a lestiu. Enmig, tempestes del tipus Mordor que obliguen a tancar laeroport.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030045700 +0000" stop="20251030052600 +0000" channel="33.es">
-<title>Kanviem?: Episodi 10</title>
-<sub-title></sub-title>
-<desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030052600 +0000" stop="20251030060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
-<sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030060200 +0000" stop="20251030064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030064600 +0000" stop="20251030073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251030073600 +0000" stop="20251030082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251030082500 +0000" stop="20251030091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030091900 +0000" stop="20251030101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030101400 +0000" stop="20251030110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030110200 +0000" stop="20251030113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251030113500 +0000" stop="20251030122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030122800 +0000" stop="20251030132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030132400 +0000" stop="20251030141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030141000 +0000" stop="20251030145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251030145400 +0000" stop="20251030160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030160100 +0000" stop="20251030162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030162600 +0000" stop="20251030171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
-<sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251030171700 +0000" stop="20251030180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
-<sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030180800 +0000" stop="20251030190000 +0000" channel="33.es">
-<title>Arbres genials</title>
-<sub-title></sub-title>
-<desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030190000 +0000" stop="20251030195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251030195900 +0000" stop="20251030204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
-<sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251030204600 +0000" stop="20251030224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030224000 +0000" stop="20251030233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
-<sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030233300 +0000" stop="20251030234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251030234600 +0000" stop="20251031001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031001100 +0000" stop="20251031002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031002700 +0000" stop="20251031005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
-<sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031005600 +0000" stop="20251031012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
-<sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251031012600 +0000" stop="20251031020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031020100 +0000" stop="20251031023700 +0000" channel="33.es">
-<title>Tot el temps del mon: Converses: Màrius Serra</title>
-<sub-title></sub-title>
-<desc>Màrius Serra ha escrit La novel·la de Sant Jordi, una sàtira sobre una diada molt estimada, que està a punt darribar, i que en aquesta ocasio es plena despines.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031023700 +0000" stop="20251031034800 +0000" channel="33.es">
-<title>Inèdits: Antoni Cayrol</title>
-<sub-title></sub-title>
-<desc>Programa presentat per la periodista Pete Soler i que mostra diferents gravacions enregistrades durant els 35 anys demissio de les diferents cadenes de la Corporacio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031034800 +0000" stop="20251031035400 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031035400 +0000" stop="20251031040000 +0000" channel="33.es">
-<title>Videoclips catalans</title>
-<sub-title></sub-title>
-<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031040000 +0000" stop="20251031041000 +0000" channel="33.es">
-<title>Videoclips catalans</title>
-<sub-title></sub-title>
-<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031041000 +0000" stop="20251031045700 +0000" channel="33.es">
-<title>Aeroport: Meteo</title>
-<sub-title></sub-title>
-<desc>El mal temps afecta el funcionament de laeroport i tambe els seus treballadors: fred siberià els matins dhivern i calor infernal a lestiu. Enmig, tempestes del tipus Mordor que obliguen a tancar laeroport.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031045700 +0000" stop="20251031052600 +0000" channel="33.es">
-<title>Kanviem?: Episodi 10</title>
-<sub-title></sub-title>
-<desc>Les consequències que el canvi climàtic està produint a Catalunya, ensenyant la realitat sense filtres. Però, al mateix temps, el programa cerca projectes i iniciatives que estan assolint èxits importants en la lluita contra el canvi climàtic al nostre país.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031052600 +0000" stop="20251031060200 +0000" channel="33.es">
-<title>QuèQui: Catalunya a la deriva</title>
-<sub-title></sub-title>
-<desc>Tots hem estudiat la teoria de la tectònica de plaques. Si observem la forma dels continents veurem que encaixen de manera sorprenent. Aquesta correspondència va portar a Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031060200 +0000" stop="20251031064600 +0000" channel="33.es">
-<title>El llenguado: El català de Menorca i els glosadors</title>
-<sub-title></sub-title>
-<desc>La glosa o cant improvisat triomfa en festes majors i actes populars arreu del país, i la Yolanda Sey decideix aprendre a cantar-la amb els millors mestres disponibles, de Mateu Xurí i Maribel Servera, a Ferriol Macip i Imma de Sopa.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031064600 +0000" stop="20251031073600 +0000" channel="33.es">
-<title>El Foraster: Guils de Cerdanya</title>
-<sub-title></sub-title>
-<desc>Quim Masferrer puja a la seva pick-up per arribar a Guils, tot un altre mon a laltra banda del túnel del Cadí.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251031073600 +0000" stop="20251031082500 +0000" channel="33.es">
-<title>El Foraster: Penelles</title>
-<sub-title></sub-title>
-<desc>A Penelles -474 habitants, comarca de la Noguera-, Quim Masferrer descobreix un poble que ha decidit omplir els carrers de murals, pintures i grafits.</desc>
-<episode-num system="xmltv_ns">4..</episode-num>
-</programme>
-<programme start="20251031082500 +0000" stop="20251031091900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 59</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031091900 +0000" stop="20251031101400 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 60</title>
-<sub-title></sub-title>
-<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031101400 +0000" stop="20251031110200 +0000" channel="33.es">
-<title>De bon humor: Altres maneres de fer humor</title>
-<sub-title></sub-title>
-<desc>Riure, a part de per passar una bona estona, te moltes altres utilitats. Lhumor sha utilitzat per vendre, per seduir, per cridar latencio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031110200 +0000" stop="20251031113500 +0000" channel="33.es">
-<title>Oh Happy Day!: Quartet Mèlt: fent les maletes</title>
-<sub-title></sub-title>
-<desc>Una setmana abans que arrenqui la nova temporada del programa, la cadena comença a escalfar motors amb Quartet Mèlt: fent les maletes, un resum de la gira europea del Quartet Mèlt, guanyadors de la 3era edicio del concurs musical.</desc>
-<episode-num system="xmltv_ns">2015..</episode-num>
-</programme>
-<programme start="20251031113500 +0000" stop="20251031122800 +0000" channel="33.es">
-<title>Katalonski: Brussel·les</title>
-<sub-title></sub-title>
-<desc>A Brussel·les, en Halldor troba katalonskis per casualitat. Per exemple, vivim lúltim dia al país de la violoncel·lista sèrbia Lidia Cviktovac i riem amb el peculiar humor del curios linguista finès Johan Hagmann.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031122800 +0000" stop="20251031132400 +0000" channel="33.es">
-<title>Katalonski: Santiago de Xile</title>
-<sub-title></sub-title>
-<desc>A Santiago de Xile vivim intensament les fiestas pátrias. El psicòleg Oliver Arancibia ens ensenya a ballar la cueca, el ball nacional i perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031132400 +0000" stop="20251031141000 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 5</title>
-<sub-title></sub-title>
-<desc>Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols daquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031141000 +0000" stop="20251031145400 +0000" channel="33.es">
-<title>Cool hunters: Tenir fills</title>
-<sub-title></sub-title>
-<desc>Aquesta setmana els Coolhunters s’endinsen en el mon de tenir fills, perquè tambe aquí hi ha tendències. I moltes! Evitar les pantalles, gadgets tecnològics, cotxets a mida.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251031145400 +0000" stop="20251031160100 +0000" channel="33.es">
-<title>Còmics: Gila</title>
-<sub-title></sub-title>
-<desc>¿Está el enemigo? Que se ponga.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031160100 +0000" stop="20251031162600 +0000" channel="33.es">
-<title>La piel de los muros: Albert Àlvarez-Santi Suárez</title>
-<sub-title></sub-title>
-<desc>Aquest episodi està dedicat a lil·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de lAjuntament dIgualada: realitzar un mural a la Plaça del Rei daquesta ciutat que serveixi per inaugurar la condicio de capital de la cultura catalana.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031162600 +0000" stop="20251031171700 +0000" channel="33.es">
-<title>No pot ser!: Sexe digital</title>
-<sub-title></sub-title>
-<desc>Els estudis afirmen que el primer acces a la pornografia dels joves es produeix abans dels 10 anys. Una dada demolidora que porta el programa a identificar les consequències i els riscos daquesta realitat; començant per una visio distorsionada de la sexualitat.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251031171700 +0000" stop="20251031180800 +0000" channel="33.es">
-<title>Lúltim sopar</title>
-<sub-title></sub-title>
-<desc>Documental que mostra el comiat de Carme Ruscalleda del restaurant Sant Pau. Despres de 30 anys, el reconegut restaurant tanca les portes definitivament el 27 d’octubre. El treball documenta les vint-i-quatre hores que transcorren abans, durant i despres del tancament.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031180800 +0000" stop="20251031190000 +0000" channel="33.es">
-<title>Arbres genials</title>
-<sub-title></sub-title>
-<desc>Els arbres son els pilars de la biosfera i tenen un paper de valor incalculable en la regulacio del clima i del cicle de laigua. Son essencials per a lequilibri de la Terra; els millors aliats.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031190000 +0000" stop="20251031195900 +0000" channel="33.es">
-<title>Porca Misèria</title>
-<sub-title>SOS (Save Our Souls)</sub-title>
-<desc>La Laia busca feina mentre viu a casa dels seus pares i el Pere intenta convertir-se en el seu millor amic. Mentrestant, el Roger està obsessionat amb la idea que la Sònia es quedi embarassada de seguida, i lÀlex suggereix a la Cardona que intenti ser mes amable amb la gent de la productora.</desc>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-</programme>
-<programme start="20251031195900 +0000" stop="20251031204600 +0000" channel="33.es">
-<title>La Renaixença: Millors moments - setmana 8</title>
-<sub-title></sub-title>
-<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251031204600 +0000" stop="20251031224000 +0000" channel="33.es">
-<title>El bon patro</title>
-<sub-title></sub-title>
-<desc>El propietario de una empresa de básculas intenta resolver rápidamente cualquier problema de sus trabajadores.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031224000 +0000" stop="20251031233300 +0000" channel="33.es">
-<title>Tornar a començar. 100 científiques a lAntàrtida: feminisme i accio climàtica</title>
-<sub-title></sub-title>
-<desc>LAnna, física del clima i oceanògrafa, participa en el programa de formacio i empoderament Homeward Bound, que es proposa crear una xarxa global de 1000 dones científiques treballant per un planeta sostenible.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031233300 +0000" stop="20251031234600 +0000" channel="33.es">
-<title>Thalassa: Lencanyissada del Mar Menor</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251031234600 +0000" stop="20251101001100 +0000" channel="33.es">
-<title>Thalassa curts: Lofici de fer gòndoles</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251101001100 +0000" stop="20251101002700 +0000" channel="33.es">
-<title>Thalassa curts: Julio i els molins de vent</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251101002700 +0000" stop="20251101005600 +0000" channel="33.es">
-<title>Lofici de viure: Sigues el canvi que vols veure al mon</title>
-<sub-title></sub-title>
-<desc>Gandhi va dir: Sigues el canvi que vols veure al mon. Els especialistes que aquesta setmana entrevista Gaspar Hernàndez son partidaris de començar a fer canvis cadascun de nosaltres, com a individus, i no nomes esperar que els canvis vinguin de fora.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251101005600 +0000" stop="20251101012600 +0000" channel="33.es">
-<title>Lofici de viure: Si et fa patir, no es amor</title>
-<sub-title></sub-title>
-<desc>Hi ha persones enganxades al sofriment amoros, persones que confonen estar enamorades amb patir. El programa analitza aquesta falsa creença, i el mal que han fet algunes cançons i pel·lícules, amb les psicòlogues Mercè Conangla i Mònia Presta.</desc>
-<episode-num system="xmltv_ns">1..</episode-num>
-</programme>
-<programme start="20251101012600 +0000" stop="20251101020100 +0000" channel="33.es">
-<title>Tot el temps del mon: Llucia Ramis</title>
-<sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
 </programme>
 <programme start="20251025223000 +0000" stop="20251026010000 +0000" channel="Levante TV.es">
 <title>Return of Special Forces IV</title>
