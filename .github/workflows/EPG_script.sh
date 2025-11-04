@@ -5,19 +5,19 @@ sed -i '/^ *$/d' canales.txt
 
 rm -f EPG_temp*
 
- 	while IFS=, read -r epg
+	while IFS=, read -r epg
 	do
- 		extension="${epg##*.}"
-		if [ $extension = "gz" ]; then
-			echo Descargando y descomprimiendo epg
-			wget -O EPG_temp00.xml.gz -q ${epg}
-      			gzip -d -f EPG_temp00.xml.gz
-	  	else
-			echo Descargando epg
-			wget -O EPG_temp00.xml -q ${epg}
+		extension="${epg##*.}"
+		if [ "$extension" = "gz" ]; then
+			echo "Descargando y descomprimiendo EPG: $epg"
+			wget -O EPG_temp00.xml.gz -q "$epg"
+			gzip -d -f EPG_temp00.xml.gz
+		else
+			echo "Descargando EPG: $epg"
+			wget -O EPG_temp00.xml -q "$epg"
 		fi
-  	cat EPG_temp00.xml >> EPG_temp.xml
-   	sed -i 's/></>\n</g' EPG_temp.xml
+		cat EPG_temp00.xml >> EPG_temp.xml
+		sed -i 's/></>\n</g' EPG_temp.xml
 	done < epgs.txt
 
  	while IFS=, read -r old new logo
