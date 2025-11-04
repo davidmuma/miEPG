@@ -35,7 +35,6 @@ while IFS=, read -r epg; do
     if [ -f EPG_temp00.xml ]; then
         cat EPG_temp00.xml >> EPG_temp.xml
         sed -i 's/></>\n</g' EPG_temp.xml
-        rm -f EPG_temp00.xml
     fi
 done < epgs.txt
 
