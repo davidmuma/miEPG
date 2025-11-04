@@ -10,19 +10,35 @@ sed -i '/^ *$/d' canales.txt
 
 rm -f EPG_temp*
 
-while IFS=, read -r epg
-do
+while IFS=, read -r epg; do
     extension="${epg##*.}"
     if [ "$extension" = "gz" ]; then
         echo "Descargando y descomprimiendo EPG: $epg"
         wget -O EPG_temp00.xml.gz -q "$epg"
+        if [ ! -s EPG_temp00.xml.gz ]; then
+            echo "❌ Error: El archivo descargado está vacío o no se descargó correctamente: $epg"
+            continue
+        fi
+        if ! gzip -t EPG_temp00.xml.gz 2>/dev/null; then
+            echo "❌ Error: El archivo no es un gzip válido: $epg"
+            continue
+        fi
         gzip -d -f EPG_temp00.xml.gz
     else
         echo "Descargando EPG: $epg"
         wget -O EPG_temp00.xml -q "$epg"
+        if [ ! -s EPG_temp00.xml ]; then
+            echo "❌ Error: El archivo descargado está vacío o no se descargó correctamente: $epg"
+            continue
+        fi
     fi
-    cat EPG_temp00.xml >> EPG_temp.xml
-    sed -i 's/></>\n</g' EPG_temp.xml
+
+    # Añadir al archivo final si existe
+    if [ -f EPG_temp00.xml ]; then
+        cat EPG_temp00.xml >> EPG_temp.xml
+        sed -i 's/></>\n</g' EPG_temp.xml
+        rm -f EPG_temp00.xml
+    fi
 done < epgs.txt
 
 mapfile -t canales < canales.txt
