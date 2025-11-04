@@ -1,4 +1,8 @@
 #!/bin/bash
+# ==============================================================================
+# Script: miEPG.sh
+# Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta horas
+# ==============================================================================
 
 sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
