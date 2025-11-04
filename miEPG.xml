@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 04/11/2025 15:44" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 04/11/2025 15:54" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -8,10 +8,6 @@
     <display-name>La 2 Super Full HD 8k</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
   </channel>
-  <channel id="MX | Canal TV Azteca">
-    <display-name>MX | Canal TV Azteca</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
-  </channel>
   <channel id="Eleven Sports 1 Polonia">
     <display-name>Eleven Sports 1 Polonia</display-name>
     <icon src="http://epg.ovh/logo/Eleven+Sports+1.png" />
@@ -19,6 +15,10 @@
   <channel id="Eleven Sports 2 Polonia">
     <display-name>Eleven Sports 2 Polonia</display-name>
     <icon src="http://epg.ovh/logo/Eleven+Sports+2.png" />
+  </channel>
+  <channel id="MX | Canal TV Azteca">
+    <display-name>MX | Canal TV Azteca</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
   </channel>
   <programme start="20251104075000 +0100" stop="20251104103500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E218</title>
@@ -2594,1115 +2594,437 @@
 · Un viaje al corazón de la naturaleza más salvaje del sur de Europa.
 · País: España</desc>
   </programme>
-  <programme start="20251103003000 -0600" stop="20251103010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103010000 -0600" stop="20251103013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103013000 -0600" stop="20251103020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103020000 -0600" stop="20251103023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103023000 -0600" stop="20251103030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103030000 -0600" stop="20251103033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103033000 -0600" stop="20251103040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103040000 -0600" stop="20251103041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251103041500 -0600" stop="20251103043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251103043000 -0600" stop="20251103050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103050000 -0600" stop="20251103060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251103060000 -0600" stop="20251103070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251103070000 -0600" stop="20251103080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251103080000 -0600" stop="20251103090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251103090000 -0600" stop="20251103110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251103110000 -0600" stop="20251103130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251103130000 -0600" stop="20251103140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251103140000 -0600" stop="20251103150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251103150000 -0600" stop="20251103160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251103160000 -0600" stop="20251103170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251103170000 -0600" stop="20251103190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251103190000 -0600" stop="20251103210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251103210000 -0600" stop="20251103223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251103223000 -0600" stop="20251103231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251103231500 -0600" stop="20251104001500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La revolución de la libertad</title>
-  </programme>
-  <programme start="20251104001500 -0600" stop="20251104003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251104003000 -0600" stop="20251104010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251104010000 -0600" stop="20251104013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104013000 -0600" stop="20251104020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104020000 -0600" stop="20251104023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104023000 -0600" stop="20251104030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104030000 -0600" stop="20251104033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104033000 -0600" stop="20251104040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104040000 -0600" stop="20251104041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251104041500 -0600" stop="20251104043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251104043000 -0600" stop="20251104050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104050000 -0600" stop="20251104060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251104060000 -0600" stop="20251104070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251104070000 -0600" stop="20251104080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251104080000 -0600" stop="20251104090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251104090000 -0600" stop="20251104110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251104110000 -0600" stop="20251104133000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251104133000 -0600" stop="20251104140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251104140000 -0600" stop="20251104150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251104150000 -0600" stop="20251104160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251104160000 -0600" stop="20251104170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251104170000 -0600" stop="20251104190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251104190000 -0600" stop="20251104210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251104210000 -0600" stop="20251104223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251104223000 -0600" stop="20251104231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251104231500 -0600" stop="20251104233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251104233000 -0600" stop="20251105003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251105003000 -0600" stop="20251105010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251105010000 -0600" stop="20251105013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105013000 -0600" stop="20251105020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105020000 -0600" stop="20251105023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105023000 -0600" stop="20251105030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105030000 -0600" stop="20251105033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105033000 -0600" stop="20251105040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105040000 -0600" stop="20251105041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251105041500 -0600" stop="20251105043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251105043000 -0600" stop="20251105050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105050000 -0600" stop="20251105060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251105060000 -0600" stop="20251105070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251105070000 -0600" stop="20251105080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251105080000 -0600" stop="20251105090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251105090000 -0600" stop="20251105110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251105110000 -0600" stop="20251105130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251105130000 -0600" stop="20251105140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251105140000 -0600" stop="20251105150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251105150000 -0600" stop="20251105160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251105160000 -0600" stop="20251105170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251105170000 -0600" stop="20251105190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251105190000 -0600" stop="20251105210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251105210000 -0600" stop="20251105223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251105223000 -0600" stop="20251105231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251105231500 -0600" stop="20251105233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251105233000 -0600" stop="20251106003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251106003000 -0600" stop="20251106010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251106010000 -0600" stop="20251106013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106013000 -0600" stop="20251106020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106020000 -0600" stop="20251106023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106023000 -0600" stop="20251106030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106030000 -0600" stop="20251106033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106033000 -0600" stop="20251106040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106040000 -0600" stop="20251106041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251106041500 -0600" stop="20251106043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251106043000 -0600" stop="20251106050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106050000 -0600" stop="20251106060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251106060000 -0600" stop="20251106070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251106070000 -0600" stop="20251106080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251106080000 -0600" stop="20251106090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251106090000 -0600" stop="20251106110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251106110000 -0600" stop="20251106130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251106130000 -0600" stop="20251106140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251106140000 -0600" stop="20251106150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251106150000 -0600" stop="20251106160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251106160000 -0600" stop="20251106170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251106170000 -0600" stop="20251106190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251106190000 -0600" stop="20251106210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251106210000 -0600" stop="20251106223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251106223000 -0600" stop="20251106231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251106231500 -0600" stop="20251106233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251106233000 -0600" stop="20251107003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251103003000 -0600" stop="20251103010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103010000 -0600" stop="20251103013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103013000 -0600" stop="20251103020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103020000 -0600" stop="20251103023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103023000 -0600" stop="20251103030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103030000 -0600" stop="20251103033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103033000 -0600" stop="20251103040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103040000 -0600" stop="20251103041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251103041500 -0600" stop="20251103043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251103043000 -0600" stop="20251103050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251103050000 -0600" stop="20251103060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251103060000 -0600" stop="20251103070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251103070000 -0600" stop="20251103080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251103080000 -0600" stop="20251103090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251103090000 -0600" stop="20251103110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251103110000 -0600" stop="20251103130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251103130000 -0600" stop="20251103140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251103140000 -0600" stop="20251103150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251103150000 -0600" stop="20251103160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251103160000 -0600" stop="20251103170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251103170000 -0600" stop="20251103190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251103190000 -0600" stop="20251103210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251103210000 -0600" stop="20251103223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251103223000 -0600" stop="20251103231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251103231500 -0600" stop="20251104001500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La revolución de la libertad</title>
-  </programme>
-  <programme start="20251104001500 -0600" stop="20251104003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251104003000 -0600" stop="20251104010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251104010000 -0600" stop="20251104013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104013000 -0600" stop="20251104020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104020000 -0600" stop="20251104023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104023000 -0600" stop="20251104030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104030000 -0600" stop="20251104033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104033000 -0600" stop="20251104040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104040000 -0600" stop="20251104041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251104041500 -0600" stop="20251104043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251104043000 -0600" stop="20251104050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251104050000 -0600" stop="20251104060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251104060000 -0600" stop="20251104070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251104070000 -0600" stop="20251104080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251104080000 -0600" stop="20251104090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251104090000 -0600" stop="20251104110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251104110000 -0600" stop="20251104133000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251104133000 -0600" stop="20251104140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251104140000 -0600" stop="20251104150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251104150000 -0600" stop="20251104160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251104160000 -0600" stop="20251104170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251104170000 -0600" stop="20251104190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251104190000 -0600" stop="20251104210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251104210000 -0600" stop="20251104223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251104223000 -0600" stop="20251104231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251104231500 -0600" stop="20251104233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251104233000 -0600" stop="20251105003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251105003000 -0600" stop="20251105010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251105010000 -0600" stop="20251105013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105013000 -0600" stop="20251105020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105020000 -0600" stop="20251105023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105023000 -0600" stop="20251105030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105030000 -0600" stop="20251105033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105033000 -0600" stop="20251105040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105040000 -0600" stop="20251105041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251105041500 -0600" stop="20251105043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251105043000 -0600" stop="20251105050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251105050000 -0600" stop="20251105060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251105060000 -0600" stop="20251105070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251105070000 -0600" stop="20251105080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251105080000 -0600" stop="20251105090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251105090000 -0600" stop="20251105110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251105110000 -0600" stop="20251105130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251105130000 -0600" stop="20251105140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251105140000 -0600" stop="20251105150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251105150000 -0600" stop="20251105160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251105160000 -0600" stop="20251105170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251105170000 -0600" stop="20251105190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251105190000 -0600" stop="20251105210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251105210000 -0600" stop="20251105223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251105223000 -0600" stop="20251105231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251105231500 -0600" stop="20251105233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251105233000 -0600" stop="20251106003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251106003000 -0600" stop="20251106010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Iglesia Universal</title>
-  </programme>
-  <programme start="20251106010000 -0600" stop="20251106013000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106013000 -0600" stop="20251106020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106020000 -0600" stop="20251106023000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106023000 -0600" stop="20251106030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106030000 -0600" stop="20251106033000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106033000 -0600" stop="20251106040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106040000 -0600" stop="20251106041500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Barras de ajuste</title>
-  </programme>
-  <programme start="20251106041500 -0600" stop="20251106043000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20251106043000 -0600" stop="20251106050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Inova</title>
-  </programme>
-  <programme start="20251106050000 -0600" stop="20251106060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20251106060000 -0600" stop="20251106070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20251106070000 -0600" stop="20251106080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM</title>
-  </programme>
-  <programme start="20251106080000 -0600" stop="20251106090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20251106090000 -0600" stop="20251106110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251106110000 -0600" stop="20251106130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20251106130000 -0600" stop="20251106140000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando con Pati Chapoy</title>
-  </programme>
-  <programme start="20251106140000 -0600" stop="20251106150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20251106150000 -0600" stop="20251106160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">100 mexicanos</title>
-  </programme>
-  <programme start="20251106160000 -0600" stop="20251106170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Al Extremo</title>
-  </programme>
-  <programme start="20251106170000 -0600" stop="20251106190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20251106190000 -0600" stop="20251106210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Exatlón México</title>
-  </programme>
-  <programme start="20251106210000 -0600" stop="20251106223000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">La granja VIP</title>
-  </programme>
-  <programme start="20251106223000 -0600" stop="20251106231500 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos noche</title>
-  </programme>
-  <programme start="20251106231500 -0600" stop="20251106233000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos CDMX</title>
-  </programme>
-  <programme start="20251106233000 -0600" stop="20251107003000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20251103002000 +0100" stop="20251103022000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103012000 +0100" stop="20251103032000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: 1. FC Köln - Hamburger SV</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251103022000 +0100" stop="20251103041500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103032000 +0100" stop="20251103051500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6026432.jpg" />
   </programme>
-  <programme start="20251103041500 +0100" stop="20251103045500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103051500 +0100" stop="20251103055500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251103045500 +0100" stop="20251103053500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103055500 +0100" stop="20251103063500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251103053500 +0100" stop="20251103060000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103063500 +0100" stop="20251103070000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Podróż do świata Calcio</title>
     <sub-title lang="pl">San Siro</sub-title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20251103060000 +0100" stop="20251103064000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103070000 +0100" stop="20251103074000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ronaldo</title>
     <desc lang="pl">Biografia Luisa Nazario de Limy. Piłkarski idol początkowo święcił triumfy w barwach FC Barcelony. Potem grał m.in. dla Realu Madryt. Ma w dorobku tytuł mistrza świata za wygranie mundialu w 2002 r.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251103064000 +0100" stop="20251103080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103074000 +0100" stop="20251103090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Gol Live</title>
     <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
-  <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103090000 +0100" stop="20251103110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103110000 +0100" stop="20251103130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251103120000 +0100" stop="20251103140000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103130000 +0100" stop="20251103150000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251103140000 +0100" stop="20251103160000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103150000 +0100" stop="20251103170000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251103160000 +0100" stop="20251103163500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103170000 +0100" stop="20251103173500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue1</title>
     <desc lang="pl">Magazyn sportowy poświęcony rozgrywkom francuskiej Ligue 1. Prezentowane są w nim skróty wszystkich meczów minionego weekendu oraz bramki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251103163500 +0100" stop="20251103171500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103173500 +0100" stop="20251103181500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga</title>
     <desc lang="pl">Program poświęcony rozgrywkom niemieckiej Bundesligi. Skróty najciekawszych spotkań ostatniej kolejki ligowej, wywiady z piłkarzami i trenerami oraz fachowe analizy i komentarze ekspertów.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20251103171500 +0100" stop="20251103174500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103181500 +0100" stop="20251103184500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Serie A</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi włoskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251103174500 +0100" stop="20251103182500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103184500 +0100" stop="20251103192500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">LaLiga</title>
     <desc lang="pl">Program poświęcony rozgrywkom LaLigi podsumowujący ostatnią kolejkę. Prezentowane są w nim skróty wszystkich meczów, ciekawe dane statyczne oraz wywiady z zawodnikami.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251103182500 +0100" stop="20251103204000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103192500 +0100" stop="20251103214000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: US Sassuolo Calcio - Genoa CFC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6459648.jpg" />
   </programme>
-  <programme start="20251103204000 +0100" stop="20251103230000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251103214000 +0100" stop="20251104000000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: SS Lazio - Cagliari Calcio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153386.jpg" />
   </programme>
-  <programme start="20251103230000 +0100" stop="20251104000000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104000000 +0100" stop="20251104010000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251104000000 +0100" stop="20251104020000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104010000 +0100" stop="20251104030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251104020000 +0100" stop="20251104040000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104030000 +0100" stop="20251104050000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6011501.jpg" />
   </programme>
-  <programme start="20251104040000 +0100" stop="20251104045000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104050000 +0100" stop="20251104055000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251104045000 +0100" stop="20251104053500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104055000 +0100" stop="20251104063500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251104053500 +0100" stop="20251104060000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104063500 +0100" stop="20251104070000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">RC Lens 2022/23</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251104060000 +0100" stop="20251104070000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104070000 +0100" stop="20251104080000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Leo Messi</title>
     <desc lang="pl">Twórcy programu prezentują biografię Lionela Messiego. Przez lata gry dla FC Barcelony Argentyńczyk zapracował sobie na miano najlepszego piłkarza globu. Sześciokrotnie sięgał po Złotą Piłkę.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3575173.jpg" />
   </programme>
-  <programme start="20251104070000 +0100" stop="20251104080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104080000 +0100" stop="20251104090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251104080000 +0100" stop="20251104100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104090000 +0100" stop="20251104110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251104100000 +0100" stop="20251104120000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104110000 +0100" stop="20251104130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251104120000 +0100" stop="20251104140000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104130000 +0100" stop="20251104150000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: SSC Napoli - Como 1907</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
   </programme>
-  <programme start="20251104140000 +0100" stop="20251104160000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104150000 +0100" stop="20251104170000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6119707.jpg" />
   </programme>
-  <programme start="20251104160000 +0100" stop="20251104180000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104170000 +0100" stop="20251104190000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
   </programme>
-  <programme start="20251104180000 +0100" stop="20251104200000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104190000 +0100" stop="20251104210000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251104200000 +0100" stop="20251104203500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104210000 +0100" stop="20251104213500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251104203500 +0100" stop="20251104210000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104213500 +0100" stop="20251104220000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">GP Confidential</title>
     <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
     <category lang="pl">magazyn Formuły 1</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
   </programme>
-  <programme start="20251104210000 +0100" stop="20251104214500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104220000 +0100" stop="20251104224500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Singapuru</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251104214500 +0100" stop="20251104222500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104224500 +0100" stop="20251104232500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix USA</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251104222500 +0100" stop="20251104230000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251104232500 +0100" stop="20251105000000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251104230000 +0100" stop="20251105000000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105000000 +0100" stop="20251105010000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251105000000 +0100" stop="20251105020000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105010000 +0100" stop="20251105030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: RB Lipsk - VfB Stuttgart</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
   </programme>
-  <programme start="20251105020000 +0100" stop="20251105040000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105030000 +0100" stop="20251105050000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
   </programme>
-  <programme start="20251105040000 +0100" stop="20251105045500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105050000 +0100" stop="20251105055500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251105045500 +0100" stop="20251105054500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105055500 +0100" stop="20251105064500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251105054500 +0100" stop="20251105060000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105064500 +0100" stop="20251105070000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Unikalne tradycje LaLiga</title>
     <desc lang="pl">Twórcy przedstawiają tradycje związane z ligą hiszpańską. Jedną z nich jest zwyczaj, według którego drużyny przyjezdne, przed meczem z Athletikiem w Bilbao, składały kwiaty pod popiersiem Pichichiego.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251105060000 +0100" stop="20251105061500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105070000 +0100" stop="20251105071500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251105061500 +0100" stop="20251105065500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105071500 +0100" stop="20251105075500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Najlepsi bramkarze Bundesligi lat 90</title>
     <desc lang="pl">Biografie najlepszych bramkarzy lat 90., którzy zapisali się w historii niemieckiej ekstraklasy. Widzowie poznają życiorysy Olivera Kahna, Gabora Kiraly'a, Jensa Lehmanna czy Dirka Heynena.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251105065500 +0100" stop="20251105073000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105075500 +0100" stop="20251105083000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251105073000 +0100" stop="20251105080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105083000 +0100" stop="20251105090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">GP Confidential</title>
     <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
     <category lang="pl">magazyn Formuły 1</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
   </programme>
-  <programme start="20251105080000 +0100" stop="20251105100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105090000 +0100" stop="20251105110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: RB Lipsk - VfB Stuttgart</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
   </programme>
-  <programme start="20251105100000 +0100" stop="20251105120000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105110000 +0100" stop="20251105130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251105120000 +0100" stop="20251105140000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105130000 +0100" stop="20251105150000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
   </programme>
-  <programme start="20251105140000 +0100" stop="20251105160000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105150000 +0100" stop="20251105170000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251105160000 +0100" stop="20251105180000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105170000 +0100" stop="20251105190000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251105180000 +0100" stop="20251105200000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105190000 +0100" stop="20251105210000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251105200000 +0100" stop="20251105203500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105210000 +0100" stop="20251105213500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Full Impact</title>
     <date>2025</date>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251105203500 +0100" stop="20251105210500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105213500 +0100" stop="20251105220500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251105210500 +0100" stop="20251105214500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105220500 +0100" stop="20251105224500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Holandii</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6157985.jpg" />
   </programme>
-  <programme start="20251105214500 +0100" stop="20251105222500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105224500 +0100" stop="20251105232500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Włoch</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251105222500 +0100" stop="20251105230000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251105232500 +0100" stop="20251106000000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Azerbejdżanu</title>
     <desc lang="pl">Po awarii bolidu Landa Norrisa w Holandii temperatura rywalizacji o tytuł mistrzowski nieco opadła. Przewaga Oscara Piastriego nad zespołowym kolegą wynosi obecnie 31 oczek. Dwa tygodnie temu podczas Grand Prix Włoch Norris odrobił do Australijczyka zaledwie trzy punkty. Na słynnym torze Monza kierowców McLarena pogodził Max Verstappen, który wywalczył pole position, a następnie wygrał wyścig. Teraz karuzela F1 przenosi się do Azerbejdżanu. Przed rokiem w Baku triumfował Oscar Piastri. Jeśli powtórzy ten wynik, bardzo przybliży się do mistrzostwa. Norris jednak na pewno nie podda się bez walki, a to na szybkim, ulicznym torze może zwiastować wiele emocji.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251105230000 +0100" stop="20251105234000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106000000 +0100" stop="20251106004000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">GP Confidential</title>
     <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
     <category lang="pl">magazyn Formuły 1</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
   </programme>
-  <programme start="20251105234000 +0100" stop="20251106000000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106004000 +0100" stop="20251106010000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Lille OSC 2020/21</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251106000000 +0100" stop="20251106020000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106010000 +0100" stop="20251106030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251106020000 +0100" stop="20251106040000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106030000 +0100" stop="20251106050000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
   </programme>
-  <programme start="20251106040000 +0100" stop="20251106045000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106050000 +0100" stop="20251106055000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251106045000 +0100" stop="20251106053000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106055000 +0100" stop="20251106063000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251106053000 +0100" stop="20251106060000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106063000 +0100" stop="20251106070000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Hugo Sanchez</title>
     <desc lang="pl">Hugo Sanchez to symbol Realu Madryt drugiej połowy lat 80. Meksykanin był niezwykle skutecznym zawodnikiem - w sezonie 1989/1990 strzelił 38 goli i został najlepszym strzelcem Europy.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
-  <programme start="20251106060000 +0100" stop="20251106062000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106070000 +0100" stop="20251106072000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Zaklinacz piłki - historia Andresa Iniesty</title>
     <desc lang="pl">Biografia Andresa Iniesty - legendy FC Barcelony i reprezentacji Hiszpanii. Urodzony w 1984 roku pomocnik czterokrotnie wygrywał Ligę Mistrzów, będąc kluczowym piłkarzem Dumy Katalonii.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6304551.jpg" />
   </programme>
-  <programme start="20251106062000 +0100" stop="20251106065500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106072000 +0100" stop="20251106075500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">Gaizka Mendieta</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251106065500 +0100" stop="20251106073000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106075500 +0100" stop="20251106083000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251106073000 +0100" stop="20251106080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106083000 +0100" stop="20251106090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Full Impact</title>
     <date>2025</date>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251106080000 +0100" stop="20251106100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106090000 +0100" stop="20251106110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251106100000 +0100" stop="20251106120000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106110000 +0100" stop="20251106130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251106120000 +0100" stop="20251106140000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106130000 +0100" stop="20251106150000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251106140000 +0100" stop="20251106160000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106150000 +0100" stop="20251106170000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
   </programme>
-  <programme start="20251106160000 +0100" stop="20251106180000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106170000 +0100" stop="20251106190000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: SSC Napoli - Como 1907</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
   </programme>
-  <programme start="20251106180000 +0100" stop="20251106200000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106190000 +0100" stop="20251106210000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6132267.jpg" />
   </programme>
-  <programme start="20251106200000 +0100" stop="20251106204000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106210000 +0100" stop="20251106214000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251106204000 +0100" stop="20251106210500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106214000 +0100" stop="20251106220500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251106210500 +0100" stop="20251106215000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106220500 +0100" stop="20251106225000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Singapuru</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251106215000 +0100" stop="20251106223000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106225000 +0100" stop="20251106233000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix USA</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251106223000 +0100" stop="20251106230000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251106233000 +0100" stop="20251107000000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251106230000 +0100" stop="20251106231500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107000000 +0100" stop="20251107001500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251106231500 +0100" stop="20251106233000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107001500 +0100" stop="20251107003000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251106233000 +0100" stop="20251107000000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107003000 +0100" stop="20251107010000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Full Impact</title>
     <date>2025</date>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251107000000 +0100" stop="20251107020000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107010000 +0100" stop="20251107030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251107020000 +0100" stop="20251107040000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107030000 +0100" stop="20251107050000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
-  </programme>
-  <programme start="20251107040000 +0100" stop="20251107050000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
   <programme start="20251107050000 +0100" stop="20251107060000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
@@ -3710,845 +3032,1187 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251107060000 +0100" stop="20251107061500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107060000 +0100" stop="20251107070000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
+  </programme>
+  <programme start="20251107070000 +0100" stop="20251107071500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Tajemnice szatni</title>
     <sub-title lang="pl">Dante</sub-title>
     <desc lang="pl">Program przedstawia futbol od kulis. Piłkarze dzielą się w nim wspomnieniami z szatni. Będą ciekawe historie, zabawne anegdotki i opisy wydarzeń, o których większość kibiców do tej pory nie słyszała.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251107061500 +0100" stop="20251107065000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107071500 +0100" stop="20251107075000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Full Impact</title>
     <date>2025</date>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251107065000 +0100" stop="20251107073000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107075000 +0100" stop="20251107083000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251107073000 +0100" stop="20251107080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107083000 +0100" stop="20251107090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251107080000 +0100" stop="20251107100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107090000 +0100" stop="20251107110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251107100000 +0100" stop="20251107120000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107110000 +0100" stop="20251107130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251107120000 +0100" stop="20251107140000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107130000 +0100" stop="20251107150000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: SSC Napoli - Como 1907</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
   </programme>
-  <programme start="20251107140000 +0100" stop="20251107143500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107150000 +0100" stop="20251107153500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251107143500 +0100" stop="20251107151000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107153500 +0100" stop="20251107161000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">GP Confidential</title>
     <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
     <category lang="pl">magazyn Formuły 1</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
   </programme>
-  <programme start="20251107151000 +0100" stop="20251107152500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107161000 +0100" stop="20251107162500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107152500 +0100" stop="20251107164000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107162500 +0100" stop="20251107174000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - 1. sesja treningowa</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107164000 +0100" stop="20251107171000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107174000 +0100" stop="20251107181000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107171000 +0100" stop="20251107182500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107181000 +0100" stop="20251107192500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - 1. sesja treningowa</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107182500 +0100" stop="20251107190000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107192500 +0100" stop="20251107200000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Inside Serie A</title>
     <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251107190000 +0100" stop="20251107192500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107200000 +0100" stop="20251107202500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107192500 +0100" stop="20251107202000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107202500 +0100" stop="20251107212000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - kwalifikacje do sprintu</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107202000 +0100" stop="20251107205000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107212000 +0100" stop="20251107215000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107205000 +0100" stop="20251107220000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107215000 +0100" stop="20251107230000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - kwalifikacje do sprintu</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251107220000 +0100" stop="20251108000000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251107230000 +0100" stop="20251108010000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251108000000 +0100" stop="20251108020000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108010000 +0100" stop="20251108030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: Werder Brema - VfL Wolfsburg</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6361085.jpg" />
   </programme>
-  <programme start="20251108020000 +0100" stop="20251108040000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108030000 +0100" stop="20251108050000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: Pisa SC - US Cremonese</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20251108040000 +0100" stop="20251108045000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108050000 +0100" stop="20251108055000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251108045000 +0100" stop="20251108053500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108055000 +0100" stop="20251108063500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20251108053500 +0100" stop="20251108060000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108063500 +0100" stop="20251108070000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Girondins de Bordeaux 2008/09</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251108060000 +0100" stop="20251108065000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108070000 +0100" stop="20251108075000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Javier Irureta</title>
     <desc lang="pl">Widzowie poznają biografię Javiera Iruretay, piłkarza Atletico Madryt i Athleticu Bilbao. Jako zawodnik Bask święcił triumfy w barwach Rojiblancos, zdobywając dwukrotnie mistrzostwo Hiszpanii.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20251108065000 +0100" stop="20251108072000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108075000 +0100" stop="20251108082000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251108072000 +0100" stop="20251108074000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108082000 +0100" stop="20251108084000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251108074000 +0100" stop="20251108080000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108084000 +0100" stop="20251108090000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251108080000 +0100" stop="20251108100000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108090000 +0100" stop="20251108110000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: Werder Brema - VfL Wolfsburg</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6361085.jpg" />
   </programme>
-  <programme start="20251108100000 +0100" stop="20251108104000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108110000 +0100" stop="20251108114000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251108104000 +0100" stop="20251108110500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108114000 +0100" stop="20251108120500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Podróż do świata Calcio</title>
     <sub-title lang="pl">Oczami sędziego</sub-title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
   </programme>
-  <programme start="20251108110500 +0100" stop="20251108114000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108120500 +0100" stop="20251108124000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Inside Serie A</title>
     <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251108114000 +0100" stop="20251108131500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108124000 +0100" stop="20251108141500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - 1. sesja treningowa</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108131500 +0100" stop="20251108141500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108141500 +0100" stop="20251108151500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - kwalifikacje do sprintu</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108141500 +0100" stop="20251108145500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108151500 +0100" stop="20251108155500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108145500 +0100" stop="20251108161500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108155500 +0100" stop="20251108171500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - sprint</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108161500 +0100" stop="20251108171000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108171500 +0100" stop="20251108181000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108171000 +0100" stop="20251108181500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108181000 +0100" stop="20251108191500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - sprint</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108181500 +0100" stop="20251108185500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108191500 +0100" stop="20251108195500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108185500 +0100" stop="20251108201500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108195500 +0100" stop="20251108211500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - sesja kwalifikacyjna</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6157985.jpg" />
   </programme>
-  <programme start="20251108201500 +0100" stop="20251108211500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108211500 +0100" stop="20251108221500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251108211500 +0100" stop="20251108224500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108221500 +0100" stop="20251108234500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Sao Paulo - sesja kwalifikacyjna</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6157985.jpg" />
   </programme>
-  <programme start="20251108224500 +0100" stop="20251108230000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251108234500 +0100" stop="20251109000000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251108230000 +0100" stop="20251109003000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20251109000000 +0100" stop="20251109013000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Gol Live</title>
     <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
-  <programme start="20251103000000 +0100" stop="20251103020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103010000 +0100" stop="20251103030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251103020000 +0100" stop="20251103024000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103030000 +0100" stop="20251103034000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">Joaquin</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251103024000 +0100" stop="20251103040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103034000 +0100" stop="20251103050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Gol Live</title>
     <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
-  <programme start="20251103040000 +0100" stop="20251103060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103050000 +0100" stop="20251103070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: ACF Fiorentina - US Lecce</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20251103060000 +0100" stop="20251103080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103070000 +0100" stop="20251103090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251103080000 +0100" stop="20251103100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103090000 +0100" stop="20251103110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251103100000 +0100" stop="20251103120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103110000 +0100" stop="20251103130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6119707.jpg" />
   </programme>
-  <programme start="20251103120000 +0100" stop="20251103140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103130000 +0100" stop="20251103150000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: RB Lipsk - VfB Stuttgart</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
   </programme>
-  <programme start="20251103140000 +0100" stop="20251103160000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103150000 +0100" stop="20251103170000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6026432.jpg" />
   </programme>
-  <programme start="20251103160000 +0100" stop="20251103180000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103170000 +0100" stop="20251103190000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251103180000 +0100" stop="20251103200000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103190000 +0100" stop="20251103210000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251103200000 +0100" stop="20251103203000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103210000 +0100" stop="20251103213000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">GP Confidential</title>
     <desc lang="pl">W programie informacje o gwiazdach najbardziej prestiżowej serii wyścigów samochodowych. Ponadto wypowiedzi kierowców i ludzi związanych z Formułą 1. Twórcy zaglądają z kamerą za kulisy cyklu.</desc>
     <category lang="pl">magazyn Formuły 1</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3529738.jpg" />
   </programme>
-  <programme start="20251103203000 +0100" stop="20251103205500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103213000 +0100" stop="20251103215500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251103205500 +0100" stop="20251103230500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251103215500 +0100" stop="20251104000500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Oviedo - CA Osasuna</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251103230500 +0100" stop="20251103234500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104000500 +0100" stop="20251104004500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Magazyn piłkarski</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
   </programme>
-  <programme start="20251103234500 +0100" stop="20251104000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104004500 +0100" stop="20251104010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251104000000 +0100" stop="20251104020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104010000 +0100" stop="20251104030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: AJ Auxerre - Olympique Marsylia</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
-  <programme start="20251104020000 +0100" stop="20251104030000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104030000 +0100" stop="20251104040000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251104030000 +0100" stop="20251104040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104040000 +0100" stop="20251104050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Leo Messi</title>
     <desc lang="pl">Twórcy programu prezentują biografię Lionela Messiego. Przez lata gry dla FC Barcelony Argentyńczyk zapracował sobie na miano najlepszego piłkarza globu. Sześciokrotnie sięgał po Złotą Piłkę.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3575173.jpg" />
   </programme>
-  <programme start="20251104040000 +0100" stop="20251104060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104050000 +0100" stop="20251104070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6011501.jpg" />
   </programme>
-  <programme start="20251104060000 +0100" stop="20251104080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104070000 +0100" stop="20251104090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251104080000 +0100" stop="20251104084500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104090000 +0100" stop="20251104094500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Potrójna korona Bayernu Monachium</title>
     <desc lang="pl">Twórcy dokumentu przypominają historyczny sezon Bayernu Monachium, w którym bawarski zespół wygrał Bundesligę, Puchar Niemiec oraz prestiżową Ligę Mistrzów.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
-  <programme start="20251104084500 +0100" stop="20251104090000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104094500 +0100" stop="20251104100000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251104090000 +0100" stop="20251104100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104100000 +0100" stop="20251104110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251104100000 +0100" stop="20251104120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104110000 +0100" stop="20251104130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: AJ Auxerre - Olympique Marsylia</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
-  <programme start="20251104120000 +0100" stop="20251104140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104130000 +0100" stop="20251104150000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251104140000 +0100" stop="20251104160000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104150000 +0100" stop="20251104170000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251104160000 +0100" stop="20251104180000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104170000 +0100" stop="20251104190000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251104180000 +0100" stop="20251104183500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104190000 +0100" stop="20251104193500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251104183500 +0100" stop="20251104190000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104193500 +0100" stop="20251104200000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Lille OSC 2020/21</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
   </programme>
-  <programme start="20251104190000 +0100" stop="20251104210000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104200000 +0100" stop="20251104220000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: SSC Napoli - Como 1907</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
   </programme>
-  <programme start="20251104210000 +0100" stop="20251104230000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251104220000 +0100" stop="20251105000000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251104230000 +0100" stop="20251104233000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105000000 +0100" stop="20251105003000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Legendy LaLiga</title>
     <sub-title lang="pl">Jesús Navas</sub-title>
     <desc lang="pl">Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619004.jpg" />
   </programme>
-  <programme start="20251104233000 +0100" stop="20251105000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105003000 +0100" stop="20251105010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Legendy LaLiga</title>
     <sub-title lang="pl">Roberto Carlos</sub-title>
     <desc lang="pl">Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619004.jpg" />
   </programme>
-  <programme start="20251105000000 +0100" stop="20251105020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105010000 +0100" stop="20251105030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6119707.jpg" />
   </programme>
-  <programme start="20251105020000 +0100" stop="20251105024000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105030000 +0100" stop="20251105034000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251105024000 +0100" stop="20251105033000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105034000 +0100" stop="20251105043000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">Fernando Morientes</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251105033000 +0100" stop="20251105040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105043000 +0100" stop="20251105050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Undiano Mallenco</title>
     <desc lang="pl">Dokument poświęcony arbitrowi Undianiemu Mallenco. W latach 2000-2019 sędziował mecze na szczeblu Primera Division. W swojej bogatej karierze prowadził także spotkania na szczeblu międzynarodowym.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619006.jpg" />
   </programme>
-  <programme start="20251105040000 +0100" stop="20251105060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105050000 +0100" stop="20251105070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6011501.jpg" />
   </programme>
-  <programme start="20251105060000 +0100" stop="20251105080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105070000 +0100" stop="20251105090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251105080000 +0100" stop="20251105090000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105090000 +0100" stop="20251105100000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251105090000 +0100" stop="20251105093500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105100000 +0100" stop="20251105103500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251105093500 +0100" stop="20251105100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105103500 +0100" stop="20251105110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Girondins de Bordeaux 2008/09</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
   </programme>
-  <programme start="20251105100000 +0100" stop="20251105120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105110000 +0100" stop="20251105130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6119707.jpg" />
   </programme>
-  <programme start="20251105120000 +0100" stop="20251105140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105130000 +0100" stop="20251105150000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251105140000 +0100" stop="20251105160000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105150000 +0100" stop="20251105170000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: SSC Napoli - Como 1907</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
   </programme>
-  <programme start="20251105160000 +0100" stop="20251105180000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105170000 +0100" stop="20251105190000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: RB Lipsk - VfB Stuttgart</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
   </programme>
-  <programme start="20251105180000 +0100" stop="20251105183000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105190000 +0100" stop="20251105193000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Full Impact Serie A</title>
     <desc lang="pl">Program poświęcony jednej z najlepszych piłkarskich lig na świecie - włoskiej Serie A.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6011501.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251105183000 +0100" stop="20251105190000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105193000 +0100" stop="20251105200000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Podróż do świata Calcio: Oczami sędziego</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984489.jpg" />
   </programme>
-  <programme start="20251105190000 +0100" stop="20251105210000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105200000 +0100" stop="20251105220000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
   </programme>
-  <programme start="20251105210000 +0100" stop="20251105230000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251105220000 +0100" stop="20251106000000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6092848.jpg" />
   </programme>
-  <programme start="20251105230000 +0100" stop="20251106000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106000000 +0100" stop="20251106010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251106000000 +0100" stop="20251106020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106010000 +0100" stop="20251106030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: AJ Auxerre - Olympique Marsylia</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
-  <programme start="20251106020000 +0100" stop="20251106024000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106030000 +0100" stop="20251106034000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251106024000 +0100" stop="20251106031500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106034000 +0100" stop="20251106041500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">Javier Mascherano</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251106031500 +0100" stop="20251106040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106041500 +0100" stop="20251106050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Javier Irureta</title>
     <desc lang="pl">Widzowie poznają biografię Javiera Iruretay, piłkarza Atletico Madryt i Athleticu Bilbao. Jako zawodnik Bask święcił triumfy w barwach Rojiblancos, zdobywając dwukrotnie mistrzostwo Hiszpanii.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20251106040000 +0100" stop="20251106060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106050000 +0100" stop="20251106070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
   </programme>
-  <programme start="20251106060000 +0100" stop="20251106080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106070000 +0100" stop="20251106090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Elche CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6132267.jpg" />
   </programme>
-  <programme start="20251106080000 +0100" stop="20251106083500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106090000 +0100" stop="20251106093500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
   </programme>
-  <programme start="20251106083500 +0100" stop="20251106090500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106093500 +0100" stop="20251106100500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">David Albelda</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251106090500 +0100" stop="20251106094000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106100500 +0100" stop="20251106104000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251106094000 +0100" stop="20251106100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106104000 +0100" stop="20251106110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Full Impact</title>
     <date>2025</date>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20251106100000 +0100" stop="20251106120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106110000 +0100" stop="20251106130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: AJ Auxerre - Olympique Marsylia</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
-  <programme start="20251106120000 +0100" stop="20251106140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106130000 +0100" stop="20251106150000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: RB Lipsk - VfB Stuttgart</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
   </programme>
-  <programme start="20251106140000 +0100" stop="20251106160000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106150000 +0100" stop="20251106170000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
   </programme>
-  <programme start="20251106160000 +0100" stop="20251106180000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106170000 +0100" stop="20251106190000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251106180000 +0100" stop="20251106183000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106190000 +0100" stop="20251106193000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251106183000 +0100" stop="20251106190000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106193000 +0100" stop="20251106200000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251106190000 +0100" stop="20251106210000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106200000 +0100" stop="20251106220000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251106210000 +0100" stop="20251106230000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251106220000 +0100" stop="20251107000000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251106230000 +0100" stop="20251106233000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107000000 +0100" stop="20251107003000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251106233000 +0100" stop="20251107000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107003000 +0100" stop="20251107010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251107000000 +0100" stop="20251107020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107010000 +0100" stop="20251107030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
   </programme>
-  <programme start="20251107020000 +0100" stop="20251107030000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107030000 +0100" stop="20251107040000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251107030000 +0100" stop="20251107033500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107040000 +0100" stop="20251107043500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Andoni Zubizarreta</title>
     <desc lang="pl">Był symbolem hiszpańskiej piłki przełomu lat 80. i 90. Andoni Zubizarreta miał na koncie najwięcej występów w reprezentacji kraju. Rysą na jego karierze był błąd na mundialu w 1998 roku.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251107033500 +0100" stop="20251107040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107043500 +0100" stop="20251107050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">RC Lens 2022/23</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
-  <programme start="20251107040000 +0100" stop="20251107060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107050000 +0100" stop="20251107070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: US Cremonese - Juventus FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
   </programme>
-  <programme start="20251107060000 +0100" stop="20251107080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107070000 +0100" stop="20251107090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Real Sociedad - Athletic Club</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6413040.jpg" />
   </programme>
-  <programme start="20251107080000 +0100" stop="20251107083500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107090000 +0100" stop="20251107093500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Undiano Mallenco</title>
     <desc lang="pl">Dokument poświęcony arbitrowi Undianiemu Mallenco. W latach 2000-2019 sędziował mecze na szczeblu Primera Division. W swojej bogatej karierze prowadził także spotkania na szczeblu międzynarodowym.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619006.jpg" />
   </programme>
-  <programme start="20251107083500 +0100" stop="20251107085000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107093500 +0100" stop="20251107095000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251107085000 +0100" stop="20251107092000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107095000 +0100" stop="20251107102000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251107092000 +0100" stop="20251107095000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107102000 +0100" stop="20251107105000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251107095000 +0100" stop="20251107100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107105000 +0100" stop="20251107110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Olympique Lyon - RC Lens 2001/02</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
   </programme>
-  <programme start="20251107100000 +0100" stop="20251107120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107110000 +0100" stop="20251107130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - OGC Nice</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
   </programme>
-  <programme start="20251107120000 +0100" stop="20251107140000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107130000 +0100" stop="20251107150000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - Bayer 04 Leverkusen</title>
     <desc lang="pl">Przez długi czas wydawało się, że Aptekarze znaleźli receptę na Bayern Monachium. Drużyna z Leverkusen od dwóch lat nie przegrała z Bawarczykami żadnego spotkania w rozgrywkach krajowych. Ostatnim razem, gdy w marcu 2025 roku drogi niemieckich gigantów przecięły się w 1/8 finału Ligi Mistrzów, Die Roten udzielili jednak Bayerowi bolesnej lekcji futbolu. Podopieczni Vincenta Kompany'ego ograli Aptekarzy 3:0 na własnym stadionie i 2:0 na wyjeździe. Jeśli w hicie 9. kolejki Bundesligi odniosą trzecie z rzędu zwycięstwo nad Bayerem, znajdą się na autostradzie do mistrzostwa Niemiec.</desc>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251107140000 +0100" stop="20251107160000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107150000 +0100" stop="20251107170000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: AC Milan - AS Roma</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6068691.jpg" />
   </programme>
-  <programme start="20251107160000 +0100" stop="20251107163000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107170000 +0100" stop="20251107173000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Inside Serie A</title>
     <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251107163000 +0100" stop="20251107170000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107173000 +0100" stop="20251107180000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Podróż do świata Calcio</title>
     <sub-title lang="pl">San Siro</sub-title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
-  <programme start="20251107170000 +0100" stop="20251107190000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107180000 +0100" stop="20251107200000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: FC Augsburg - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
   </programme>
-  <programme start="20251107190000 +0100" stop="20251107192500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107200000 +0100" stop="20251107202500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">AS Monaco 2016/17</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży, AS Monaco 2016/17</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
-  <programme start="20251107192500 +0100" stop="20251107195500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107202500 +0100" stop="20251107205500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251107195500 +0100" stop="20251107202000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107205500 +0100" stop="20251107212000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251107202000 +0100" stop="20251107224000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107212000 +0100" stop="20251107234000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: Werder Brema - VfL Wolfsburg</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6361085.jpg" />
   </programme>
-  <programme start="20251107224000 +0100" stop="20251107225500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107234000 +0100" stop="20251107235500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251107225500 +0100" stop="20251107234500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251107235500 +0100" stop="20251108004500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Pierwszy tytuł Kloppa</title>
     <desc lang="pl">Jürgen Klopp poprowadził Borussię Dortmund do mistrzostwa Bundesligi w sezonie 2010/2011. O sile zespołu stanowiło wówczas trzech Polaków: Robert Lewandowski, Jakub Błaszczykowski i Łukasz Piszczek.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20251107234500 +0100" stop="20251108000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108004500 +0100" stop="20251108010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Lyon kontra Saint-Etienne</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży, Lyon kontra Saint-Etienne</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251108000000 +0100" stop="20251108020000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108010000 +0100" stop="20251108030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Elche CF - Real Sociedad</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6450091.jpg" />
   </programme>
-  <programme start="20251108020000 +0100" stop="20251108024000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108030000 +0100" stop="20251108034000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Inside Serie A</title>
     <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20251108024000 +0100" stop="20251108032000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108034000 +0100" stop="20251108042000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Preview</title>
     <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251108032000 +0100" stop="20251108034500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108042000 +0100" stop="20251108044500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20251108034500 +0100" stop="20251108040000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108044500 +0100" stop="20251108050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251108040000 +0100" stop="20251108060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108050000 +0100" stop="20251108070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">2. liga niemiecka - mecz: SG Dynamo Drezno - 1. FC Norymberga</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
   </programme>
-  <programme start="20251108060000 +0100" stop="20251108080000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108070000 +0100" stop="20251108090000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga hiszpańska - mecz: Elche CF - Real Sociedad</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6450091.jpg" />
   </programme>
-  <programme start="20251108080000 +0100" stop="20251108085000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108090000 +0100" stop="20251108095000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">HHH - Hamburger SV</title>
     <desc lang="pl">Historia jednego z najważniejszych zespołów niemieckiej piłki. Hamburger SV sześć razy zdobywał tytuł mistrza Niemiec. Aktualnie drużyna stara się wrócić do elity niemieckiej piłki klubowej.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251108085000 +0100" stop="20251108091000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108095000 +0100" stop="20251108101000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Najlepsze gole Schalke 04</title>
     <desc lang="pl">Barwy klubu FC Schalke 04 Gelsenkirchhen reprezentowało wielu snajperów, m.in. Klaus Fischer, Ebbe Sand, Kevin Kuranyi. W programie widzowie zobaczą najlepsze gole w historii drużyny z Gelsenkirchen.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20251108091000 +0100" stop="20251108094000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108101000 +0100" stop="20251108104000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Best 11</title>
     <sub-title lang="pl">Fredéric Kanouté</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20251108094000 +0100" stop="20251108100000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108104000 +0100" stop="20251108110000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Nicea kontra Marsylia</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20251108100000 +0100" stop="20251108120000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108110000 +0100" stop="20251108130000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">2. liga niemiecka - mecz: SpVgg Greuther Fürth - Preußen Münster</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
   </programme>
-  <programme start="20251108120000 +0100" stop="20251108121500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108130000 +0100" stop="20251108131500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Bundesliga Clubs</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251108121500 +0100" stop="20251108125500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108131500 +0100" stop="20251108135500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Najlepsi bramkarze Bundesligi lat 90</title>
     <desc lang="pl">Biografie najlepszych bramkarzy lat 90., którzy zapisali się w historii niemieckiej ekstraklasy. Widzowie poznają życiorysy Olivera Kahna, Gabora Kiraly'a, Jensa Lehmanna czy Dirka Heynena.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
   </programme>
-  <programme start="20251108125500 +0100" stop="20251108150000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108135500 +0100" stop="20251108160000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">2. liga niemiecka - mecz: FC Schalke 04 - SV 07 Elversberg</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
   </programme>
-  <programme start="20251108150000 +0100" stop="20251108152000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108160000 +0100" stop="20251108162000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">OGC Nice 2014/15</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
-  <programme start="20251108152000 +0100" stop="20251108173500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108162000 +0100" stop="20251108183500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - FC Bayern Monachium</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
   </programme>
-  <programme start="20251108173500 +0100" stop="20251108175500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108183500 +0100" stop="20251108185500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
   </programme>
-  <programme start="20251108175500 +0100" stop="20251108200500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108185500 +0100" stop="20251108210500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Juventus FC - Torino FC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
   </programme>
-  <programme start="20251108200500 +0100" stop="20251108204000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108210500 +0100" stop="20251108214000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Podróż do świata Calcio</title>
     <sub-title lang="pl">Oczami sędziego</sub-title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
-  <programme start="20251108204000 +0100" stop="20251108230000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251108214000 +0100" stop="20251109000000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Parma Calcio - AC Milan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20251108230000 +0100" stop="20251108234000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251109000000 +0100" stop="20251109004000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Legendy LaLiga</title>
     <sub-title lang="pl">Samuel Eto'o</sub-title>
     <desc lang="pl">Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619004.jpg" />
   </programme>
-  <programme start="20251108234000 +0100" stop="20251109000000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251109004000 +0100" stop="20251109010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Zaklinacz piłki - historia Andresa Iniesty</title>
     <desc lang="pl">Biografia Andresa Iniesty - legendy FC Barcelony i reprezentacji Hiszpanii. Urodzony w 1984 roku pomocnik czterokrotnie wygrywał Ligę Mistrzów, będąc kluczowym piłkarzem Dumy Katalonii.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6304551.jpg" />
+  </programme>
+  <programme start="20251103003000 -0600" stop="20251103010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103010000 -0600" stop="20251103013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103013000 -0600" stop="20251103020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103020000 -0600" stop="20251103023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103023000 -0600" stop="20251103030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103030000 -0600" stop="20251103033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103033000 -0600" stop="20251103040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103040000 -0600" stop="20251103041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251103041500 -0600" stop="20251103043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251103043000 -0600" stop="20251103050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251103050000 -0600" stop="20251103060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251103060000 -0600" stop="20251103070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251103070000 -0600" stop="20251103080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251103080000 -0600" stop="20251103090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251103090000 -0600" stop="20251103110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251103110000 -0600" stop="20251103130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251103130000 -0600" stop="20251103140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251103140000 -0600" stop="20251103150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251103150000 -0600" stop="20251103160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 mexicanos</title>
+  </programme>
+  <programme start="20251103160000 -0600" stop="20251103170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251103170000 -0600" stop="20251103190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251103190000 -0600" stop="20251103210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251103210000 -0600" stop="20251103223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251103223000 -0600" stop="20251103231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251103231500 -0600" stop="20251104001500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La revolución de la libertad</title>
+  </programme>
+  <programme start="20251104001500 -0600" stop="20251104003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20251104003000 -0600" stop="20251104010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251104010000 -0600" stop="20251104013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104013000 -0600" stop="20251104020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104020000 -0600" stop="20251104023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104023000 -0600" stop="20251104030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104030000 -0600" stop="20251104033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104033000 -0600" stop="20251104040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104040000 -0600" stop="20251104041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251104041500 -0600" stop="20251104043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251104043000 -0600" stop="20251104050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251104050000 -0600" stop="20251104060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251104060000 -0600" stop="20251104070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251104070000 -0600" stop="20251104080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251104080000 -0600" stop="20251104090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251104090000 -0600" stop="20251104110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251104110000 -0600" stop="20251104133000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251104133000 -0600" stop="20251104140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251104140000 -0600" stop="20251104150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251104150000 -0600" stop="20251104160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 mexicanos</title>
+  </programme>
+  <programme start="20251104160000 -0600" stop="20251104170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251104170000 -0600" stop="20251104190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251104190000 -0600" stop="20251104210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251104210000 -0600" stop="20251104223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251104223000 -0600" stop="20251104231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251104231500 -0600" stop="20251104233000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20251104233000 -0600" stop="20251105003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20251105003000 -0600" stop="20251105010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251105010000 -0600" stop="20251105013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105013000 -0600" stop="20251105020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105020000 -0600" stop="20251105023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105023000 -0600" stop="20251105030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105030000 -0600" stop="20251105033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105033000 -0600" stop="20251105040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105040000 -0600" stop="20251105041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251105041500 -0600" stop="20251105043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251105043000 -0600" stop="20251105050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251105050000 -0600" stop="20251105060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251105060000 -0600" stop="20251105070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251105070000 -0600" stop="20251105080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251105080000 -0600" stop="20251105090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251105090000 -0600" stop="20251105110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251105110000 -0600" stop="20251105130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251105130000 -0600" stop="20251105140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251105140000 -0600" stop="20251105150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251105150000 -0600" stop="20251105160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 mexicanos</title>
+  </programme>
+  <programme start="20251105160000 -0600" stop="20251105170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251105170000 -0600" stop="20251105190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251105190000 -0600" stop="20251105210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251105210000 -0600" stop="20251105223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251105223000 -0600" stop="20251105231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251105231500 -0600" stop="20251105233000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20251105233000 -0600" stop="20251106003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20251106003000 -0600" stop="20251106010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251106010000 -0600" stop="20251106013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106013000 -0600" stop="20251106020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106020000 -0600" stop="20251106023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106023000 -0600" stop="20251106030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106030000 -0600" stop="20251106033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106033000 -0600" stop="20251106040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106040000 -0600" stop="20251106041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251106041500 -0600" stop="20251106043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251106043000 -0600" stop="20251106050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251106050000 -0600" stop="20251106060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251106060000 -0600" stop="20251106070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251106070000 -0600" stop="20251106080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251106080000 -0600" stop="20251106090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251106090000 -0600" stop="20251106110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251106110000 -0600" stop="20251106130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251106130000 -0600" stop="20251106140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251106140000 -0600" stop="20251106150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251106150000 -0600" stop="20251106160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 mexicanos</title>
+  </programme>
+  <programme start="20251106160000 -0600" stop="20251106170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251106170000 -0600" stop="20251106190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251106190000 -0600" stop="20251106210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251106210000 -0600" stop="20251106223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251106223000 -0600" stop="20251106231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251106231500 -0600" stop="20251106233000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20251106233000 -0600" stop="20251107003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Los protagonistas</title>
   </programme>
 </tv>
