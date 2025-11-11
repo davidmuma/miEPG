@@ -1,16 +1,19 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.0
+# Versión: 3.1
 # Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
 
-rm -f EPG_temp*
+rm -f EPG_temp* canales_epg*.txt
+
+epg_count=0
 
 while IFS=, read -r epg; do
+	((epg_count++))
     extension="${epg##*.}"
     if [ "$extension" = "gz" ]; then
         echo "Descargando y descomprimiendo EPG: $epg"
@@ -32,10 +35,28 @@ while IFS=, read -r epg; do
             continue
         fi
     fi
-    if [ -f EPG_temp00.xml ]; then
-        cat EPG_temp00.xml >> EPG_temp.xml
-        sed -i 's/></>\n</g' EPG_temp.xml
-    fi
+	if [ -f EPG_temp00.xml ]; then
+        listado="canales_epg${epg_count}.txt"
+        echo "Generando listado de canales: $listado"
+        echo "# Fuente: $epg" > "$listado"
+        awk '
+        /<channel / { 
+            match($0, /id="([^"]+)"/, a); id=a[1]; next
+        }
+        /<display-name>/ { 
+            match($0, /<display-name>([^<]+)<\/display-name>/, a); name=a[1]; next
+        }
+        /<icon src/ { 
+            match($0, /src="([^"]+)"/, a); logo=a[1]; next
+        }
+        /<\/channel>/ {
+            print id "," name "," logo
+            id=""; name=""; logo=""
+        }
+        ' EPG_temp00.xml >> "$listado"
+		cat EPG_temp00.xml >> EPG_temp.xml
+        sed -i 's/></>\n</g' EPG_temp.xml		
+    fi	
 done < epgs.txt
 
 mapfile -t canales < canales.txt
@@ -54,7 +75,7 @@ done
 for linea in "${canales[@]}"; do
     IFS=',' read -r old new logo offset <<< "$linea"
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
-    if [ $contar_channel -gt 1 ]; then
+    if [ "${contar_channel:-0}" -gt 0 ]; then
         sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
         sed -i '/<icon src/!d' EPG_temp01.xml
         if [ "$logo" ]; then
