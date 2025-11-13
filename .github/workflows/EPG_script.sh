@@ -39,21 +39,21 @@ while IFS=, read -r epg; do
         listado="canales_epg${epg_count}.txt"
         echo "Generando listado de canales: $listado"
         echo "# Fuente: $epg" > "$listado"
-        awk '
-        /<channel / { 
-            match($0, /id="([^"]+)"/, a); id=a[1]; next
-        }
-        /<display-name>/ { 
-            match($0, /<display-name>([^<]+)<\/display-name>/, a); name=a[1]; next
-        }
-        /<icon src/ { 
-            match($0, /src="([^"]+)"/, a); logo=a[1]; next
-        }
-        /<\/channel>/ {
-            print id "," name "," logo
-            id=""; name=""; logo=""
-        }
-        ' EPG_temp00.xml >> "$listado"
+		awk '
+		/<channel / { 
+		    match($0, /id="([^"]+)"/, a); id=a[1]; next
+		}
+		/<display-name>/ { 
+		    match($0, /<display-name>([^<]+)<\/display-name>/, a); name=a[1]; next
+		}
+		/<icon src/ { 
+		    match($0, /src="([^"]+)"/, a); logo=a[1]; next
+		}
+		/<\/channel>/ {
+		    print id "," name "," logo
+		    id=""; name=""; logo=""
+		}
+		' EPG_temp00.xml >> "$listado"
 		cat EPG_temp00.xml >> EPG_temp.xml
         sed -i 's/></>\n</g' EPG_temp.xml		
     fi	
