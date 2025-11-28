@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
-<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Club MTV.uy"><display-name>Club MTV.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="7TV Andalucía.es"><display-name>7TV Andalucía.es</display-name><icon src="https://images.open-epg.com/4911.png"/></channel>
@@ -52,6 +48,10 @@
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
+<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <programme start="20251128000000 +0000" stop="20251128010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -3748,10 +3748,94 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128014000 +0000" stop="20251129014000 +0000" channel="Atrescine.ar">
+<programme start="20251128014000 +0000" stop="20251128031500 +0000" channel="Atrescine.ar">
 <title>Un ángel paso por Brooklyn</title>
 <sub-title></sub-title>
 <desc>Todos los emigrantes italianos, recien llegados a Nueva York, viven en un edificio en el barrio de Brooklyn. Todos unidos mantienen un lazo de union con su antigua patria al poder seguir con sus ancestrales costumbres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128031500 +0000" stop="20251128045000 +0000" channel="Atrescine.ar">
+<title>Vaya par de gemelos</title>
+<sub-title></sub-title>
+<desc>A pesar de ser gemelos, Lucas y Pedro solo se asemejan en el físico, ya que mientras el primero es un hombre retraído y dominado por su mujer, al segundo le sobran experiencia, arrogancia e ingenio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128045000 +0000" stop="20251128064000 +0000" channel="Atrescine.ar">
+<title>El anacoreta</title>
+<sub-title></sub-title>
+<desc>Fernando Tobajas decidio hace once años vivir en el cuarto de baño. Su contacto con el mundo se reduce a los mensajes que envía por el retrete, y Arabel Lee, una chica preciosa, encuentra uno.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128064000 +0000" stop="20251128082000 +0000" channel="Atrescine.ar">
+<title>El tesoro</title>
+<sub-title></sub-title>
+<desc>En una localidad un agricultor encuentra un tesoro celtiberico. Un profesor de Arqueología llega al pueblo junto con un grupo de estudiantes. La presencia del grupo de investigadores crea un ambiente de hostilidad y desconfianza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128082000 +0000" stop="20251128102000 +0000" channel="Atrescine.ar">
+<title>Desafinado</title>
+<sub-title></sub-title>
+<desc>Tres famosos tenores cantan juntos desde hace años, pero, en el fondo, no se soportan. Sin embargo, con motivo de la boda de uno de ellos, se reúnen los tres en una mansion durante un fin de semana y sacan todos sus trapos sucios a relucir.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128102000 +0000" stop="20251128121000 +0000" channel="Atrescine.ar">
+<title>Surcos</title>
+<sub-title></sub-title>
+<desc>En los años cuarenta, finalizado el conflicto de la Guerra Civil Española, una familia abandona el campo y emigra a Madrid con la esperanza de mejorar sus condiciones de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128121000 +0000" stop="20251128135000 +0000" channel="Atrescine.ar">
+<title>La venganza de Ira Vamp</title>
+<sub-title></sub-title>
+<desc>Lord Winston, tras la extraña muerte de su primera esposa se ha vuelto a casar con la cantante italiana Claretta Castafiore. Frida, su ama de llaves, siempre ha estado enamorada de lord Winston y evidentemente odia a la recien llegada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128135000 +0000" stop="20251128154000 +0000" channel="Atrescine.ar">
+<title>Luna de lobos</title>
+<sub-title></sub-title>
+<desc>Al final de la Guerra Civil española, tres soldados republicanos se refugian en las montañas de la Cordillera Cantábrica huyendo de la guardia civil.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128154000 +0000" stop="20251128171000 +0000" channel="Atrescine.ar">
+<title>No somos ni Romeo ni Julieta</title>
+<sub-title></sub-title>
+<desc>Los Caporeto y los Negresco son dos familias que rivalizan en un barrio de Madrid. Sus hijos, Julita y Roberto, con una ingenuidad encantadora, con su gran amor, obligan a que sus padres terminen perdonándolos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128171000 +0000" stop="20251128185500 +0000" channel="Atrescine.ar">
+<title>Mambrú se fue a la guerra</title>
+<sub-title></sub-title>
+<desc>Tras la muerte de Franco, Florentina, la madre de una pequeña familia de pueblo, comunica que su marido, al que habían dado por muerto en la guerra civil, está vivo. Durante el franquismo ha permanecido oculto en esa misma vivienda.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128185500 +0000" stop="20251128202000 +0000" channel="Atrescine.ar">
+<title>El Coyote: El tribunal del Coyote</title>
+<sub-title></sub-title>
+<desc>Como respuesta a la injusticia social, entra de nuevo en accion el enigmático enmascarado "El Coyote", que se enfrenta a la gente sin escrúpulos que intenta apoderarse de las tierras con la connivencia de los corruptos que gobiernan.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128202000 +0000" stop="20251128220500 +0000" channel="Atrescine.ar">
+<title>Esquilache</title>
+<sub-title></sub-title>
+<desc>El marques de Esquilache, ministro de Carlos III, llega a su residencia y comprueba horrorizado los efectos del saqueo a que ha sido sometida su casa. Una mirada al ascenso y declive político de este personaje historico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128220500 +0000" stop="20251128235500 +0000" channel="Atrescine.ar">
+<title>Sin noticias de Dios</title>
+<sub-title></sub-title>
+<desc>En el cielo se recibe una peticion: una madre ruega que intenten salvar el alma de su hijo, Many Chaves, un boxeador. El cielo decide entonces mandar a la Tierra a Lola Nevado. Pero el Infierno contrataca con su propia agente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128235500 +0000" stop="20251129014000 +0000" channel="Atrescine.ar">
+<title>Deseo</title>
+<sub-title></sub-title>
+<desc>En 1945, Madrid intenta crecer luego de la guerra. Elvira, hija de un comunista fusilado, encuentra trabajo en casa de Pablo, un empresario argentino de origen alemán. Poco a poco, los dos se sumergen en una apasionada relacion amorosa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129014000 +0000" stop="20251130014000 +0000" channel="Atrescine.ar">
+<title>I Love You Baby</title>
+<sub-title></sub-title>
+<desc>Marcos llega a la gran ciudad y se enamora de Daniel, pero cuando la relacion se rompe, encuentra consuelo en Carmen, su mejor amiga, aunque es Marisol, la que le hace volver a enamorarse. Tres amantes, dos amores... una historia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251128000000 +0000" stop="20251128010000 +0000" channel="Canal Luz.ar">
@@ -3998,6 +4082,258 @@
 <title>La puerta abierta</title>
 <sub-title></sub-title>
 <desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129010000 +0000" stop="20251129014500 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129014500 +0000" stop="20251129023000 +0000" channel="Canal Luz.ar">
+<title>Noche de oracion</title>
+<sub-title></sub-title>
+<desc>Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129023000 +0000" stop="20251129030000 +0000" channel="Canal Luz.ar">
+<title>Eleva+</title>
+<sub-title></sub-title>
+<desc>David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129033000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129040000 +0000" channel="Canal Luz.ar">
+<title>Un amor eterno</title>
+<sub-title></sub-title>
+<desc>Desde Arequito, Elsio Romero, director del diario digital "Arequito Hoy", nos invita a conocer un amor incondicional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129040000 +0000" stop="20251129043000 +0000" channel="Canal Luz.ar">
+<title>Edificados por la palabra</title>
+<sub-title></sub-title>
+<desc>Desde Ushuaia, Tierra del Fuego del Espíritu Santo, Fabián Rotemberg funda los cimientos de una solida vida cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129043000 +0000" stop="20251129050000 +0000" channel="Canal Luz.ar">
+<title>Cristo, la solucion</title>
+<sub-title></sub-title>
+<desc>Emision en la que se abordan algunos pasajes bíblicos, reflexiones y mensajes sobre la obra de Cristo en la vida del ser humano, así como tambien se ofrecen algunos consejos útiles para discernir en la búsqueda espiritual personal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129053000 +0000" channel="Canal Luz.ar">
+<title>Vision, fe y accion</title>
+<sub-title></sub-title>
+<desc>Tres palabras clave que, juntas, aseguran el triunfo. El pastor Ezequiel Ortellado brinda testimonios transformadores, entrevistas exclusivas y notas de interes relacionadas con el quehacer de personas y comunidades cristianas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129053000 +0000" stop="20251129060000 +0000" channel="Canal Luz.ar">
+<title>Hillsong Latam TV</title>
+<sub-title></sub-title>
+<desc>El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazon de Dios hacia las personas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129060000 +0000" stop="20251129063000 +0000" channel="Canal Luz.ar">
+<title>Todo es posible</title>
+<sub-title></sub-title>
+<desc>Un tiempo para alentar a los televidentes a creer en los milagros sobrenaturales de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129063000 +0000" stop="20251129070000 +0000" channel="Canal Luz.ar">
+<title>Avivamiento</title>
+<sub-title></sub-title>
+<desc>Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y predicas del evangelio, la renovacion de la vida a traves de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129073000 +0000" channel="Canal Luz.ar">
+<title>Somos la voz</title>
+<sub-title></sub-title>
+<desc>Una vision joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129083000 +0000" channel="Canal Luz.ar">
+<title>El cruce</title>
+<sub-title></sub-title>
+<desc>Un programa conducido por Jesús Ottaviano, donde diferentes personas cuentan su experiencia antes y despues de su cruce con Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129090000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129100000 +0000" channel="Canal Luz.ar">
+<title>La puerta abierta</title>
+<sub-title></sub-title>
+<desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129100000 +0000" stop="20251129101500 +0000" channel="Canal Luz.ar">
+<title>Centro de avivamiento familiar</title>
+<sub-title></sub-title>
+<desc>El fuego de Dios produce un despertar en la vida del creyente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129101500 +0000" stop="20251129103000 +0000" channel="Canal Luz.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129103000 +0000" stop="20251129110000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129120000 +0000" channel="Canal Luz.ar">
+<title>Un tiempo con Jesús</title>
+<sub-title></sub-title>
+<desc>Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129123000 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129123000 +0000" stop="20251129130000 +0000" channel="Canal Luz.ar">
+<title>Una paloma sobre el mundo</title>
+<sub-title></sub-title>
+<desc>Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Canal Luz.ar">
+<title>Iglesia Redentor</title>
+<sub-title></sub-title>
+<desc>Se partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a traves de la oracion y experimentar su gracia en tu vida. Con la conduccion de Daniel Cattaneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Canal Luz.ar">
+<title>La palabra de Dios</title>
+<sub-title></sub-title>
+<desc>Los Pastores rosarinos Jose María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Canal Luz.ar">
+<title>Micros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129153000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129153000 +0000" stop="20251129160000 +0000" channel="Canal Luz.ar">
+<title>Tutti y los frutis</title>
+<sub-title></sub-title>
+<desc>Tutti, los frutis y mango te esperan para vivir increíbles aventuras!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129160000 +0000" stop="20251129163000 +0000" channel="Canal Luz.ar">
+<title>Vida dura</title>
+<sub-title></sub-title>
+<desc>La más impactante serie sobre personas que casi pagan con su vida por sus propios errores.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129163000 +0000" stop="20251129170000 +0000" channel="Canal Luz.ar">
+<title>Momento decisivo</title>
+<sub-title></sub-title>
+<desc>Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129170000 +0000" stop="20251129173000 +0000" channel="Canal Luz.ar">
+<title>Torre de oracion</title>
+<sub-title></sub-title>
+<desc>Emision en la que podrás experimentar un encuentro diferente con Dios, a traves de cantos de alabanza, oracion constante y la predicacion del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129173000 +0000" stop="20251129174500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129174500 +0000" stop="20251129180000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129180000 +0000" stop="20251129183000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129183000 +0000" stop="20251129190000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129190000 +0000" stop="20251129193000 +0000" channel="Canal Luz.ar">
+<title>De corazon a corazon</title>
+<sub-title></sub-title>
+<desc>Acompaña al pastor Abel Martínez en esta edicion en la cual se encarga de orientar y ofrecer un mensaje positivo al cristiano actual mediante la palabra de Dios, con reflexiones y comentarios que edificarán y liberarán tu alma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129193000 +0000" stop="20251129200000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129200000 +0000" stop="20251129203000 +0000" channel="Canal Luz.ar">
+<title>Si queres un cambio</title>
+<sub-title></sub-title>
+<desc>El cambio es posible, cualquiera sea la circunstancia. María Rosa Morellato, te anima a hacerlo mediante la fe en Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129203000 +0000" stop="20251129204500 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129204500 +0000" stop="20251129210000 +0000" channel="Canal Luz.ar">
+<title>Bendita luz</title>
+<sub-title></sub-title>
+<desc>En compañía de la apostol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129210000 +0000" stop="20251129213000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129213000 +0000" stop="20251129220000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129220000 +0000" stop="20251130000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc>Conferencias desde el auditorio de la Iglesia Evangelica Misionera Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251128000000 +0000" stop="20251128003000 +0000" channel="Aliento Vision.co">
@@ -10570,190 +10906,178 @@
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128050000 +0000" stop="20251128050600 +0000" channel="33.es">
+<programme start="20251128050000 +0000" stop="20251128050900 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128050600 +0000" stop="20251128052600 +0000" channel="33.es">
-<title>Marcians: Entre 1300</title>
+<programme start="20251128050900 +0000" stop="20251128053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
 <sub-title></sub-title>
-<desc>On son les dones en el mon les arts plàstiques? Amb motiu del Dia Internacional de la Dona, el programa fa visible lobra de tres artistes catalanes: lescultora i ceramista Madola, la pintora tèxtil Kima Guitart i lartista visual Marga Ximenez.</desc>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251128052600 +0000" stop="20251128055200 +0000" channel="33.es">
-<title>Marcians: Realitat diversa, relats diversos</title>
+<programme start="20251128053500 +0000" stop="20251128055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
 <sub-title></sub-title>
-<desc>La realitat dels nostres carrers es molt diversa, però no ho son pas las seves representacions en tot tipus dobres de ficcio, ja siguin literàries, cinematogràfiques, teatrals o artístiques en general.</desc>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251128055200 +0000" stop="20251128063300 +0000" channel="33.es">
-<title>Tot el temps del mon: Miquel Cabal</title>
+<programme start="20251128055300 +0000" stop="20251128063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
 <sub-title></sub-title>
-<desc>Aquesta setmana entrevistem el traductor Miquel Cabal Guarro, que, en el bicentenari de Dostoievski, acaba de traduir Crim i càstig (Ed. La Casa dels Clàssics). Cabal es un referent de la traduccio del rus a casa nostra.</desc>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128063300 +0000" stop="20251128071200 +0000" channel="33.es">
-<title>Tot el temps del mon: Víctor García Tur</title>
+<programme start="20251128063300 +0000" stop="20251128071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
 <sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128071200 +0000" stop="20251128084100 +0000" channel="33.es">
-<title>La travessa: La resistència</title>
+<programme start="20251128071300 +0000" stop="20251128083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
 <sub-title></sub-title>
-<desc>Nomes han passat 24 hores i ja comencen a sorgir les primeres tensions. Tots son molt amics fins que comença el joc. Nhi ha que confonen la competitivitat amb les males arts. I, en una etapa tan dura, quedar-se enrere els pot posar en perill.</desc>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128084100 +0000" stop="20251128093600 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 34</title>
+<programme start="20251128083700 +0000" stop="20251128093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.33.</episode-num>
+<episode-num system="xmltv_ns">1.37.</episode-num>
 </programme>
-<programme start="20251128093600 +0000" stop="20251128103100 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 35</title>
+<programme start="20251128093100 +0000" stop="20251128102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.34.</episode-num>
+<episode-num system="xmltv_ns">1.38.</episode-num>
 </programme>
-<programme start="20251128103100 +0000" stop="20251128111800 +0000" channel="33.es">
-<title>Globus sonda: Xantal Llavina - Vall dÀneu</title>
+<programme start="20251128102600 +0000" stop="20251128111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
 <sub-title></sub-title>
-<desc>En el setè capítol, les valls dÀneu son el paisatge escollit per aquest Globus sonda. I la periodista Xantal Llavina, la passatgera que les sobrevolarà. Una revolucionària del periodisme, que va un pas endavant en temes relacionats amb la innovacio i la tecnologia.</desc>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128111800 +0000" stop="20251128120700 +0000" channel="33.es">
-<title>Bogeria a la pastisseria: Episodi 12</title>
-<sub-title></sub-title>
-<desc>El Bogeria davui anirà sobre rodes. Primer, per celebrar ni mes ni menys que els 375 anys de lempresa dautobusos Sagales, i despres per fabricar un cotxe de Formula 1 a escala real. Això sí, a canvi de passar un dia al parc datraccions de Ferrari Land.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251128120700 +0000" stop="20251128131700 +0000" channel="33.es">
+<programme start="20251128111200 +0000" stop="20251128122200 +0000" channel="33.es">
 <title>Soc i Sere</title>
 <sub-title></sub-title>
 <desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128131700 +0000" stop="20251128143600 +0000" channel="33.es">
-<title>Molta merda</title>
+<programme start="20251128122200 +0000" stop="20251128122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
 <sub-title></sub-title>
-<desc>Quim Masferrer sencarrega dexplicar la realitat del reciclatge a la comarca del Maresme i, per extensio, darreu de Catalunya, duna forma molt amena i pedagògica però al mateix temps rigorosa. El documental està dividit en quatre capítols.</desc>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128143600 +0000" stop="20251128152300 +0000" channel="33.es">
-<title>La Renaixença: La pua de guitarra</title>
+<programme start="20251128122900 +0000" stop="20251128141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128141200 +0000" stop="20251128155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128155600 +0000" stop="20251128165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251128165200 +0000" stop="20251128173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128152300 +0000" stop="20251128161000 +0000" channel="33.es">
-<title>Pueblos bajo tierra: Episodi 3</title>
+<programme start="20251128173900 +0000" stop="20251128180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>En Jean-Simon sen va a viure uns quants dies a les famoses coves del Sacromonte. Actualment, aquests habitatges on havien viscut tradicionalment els gitanos son un reclam per als turistes que busquen imatges castisses de Granada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251128161000 +0000" stop="20251128164500 +0000" channel="33.es">
-<title>El gran dictat: Episodi 788</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.787.</episode-num>
-</programme>
-<programme start="20251128164500 +0000" stop="20251128172100 +0000" channel="33.es">
-<title>El gran dictat: Episodi 789</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.788.</episode-num>
-</programme>
-<programme start="20251128172100 +0000" stop="20251128172900 +0000" channel="33.es">
-<title>Gran!: Mar i cel</title>
-<sub-title></sub-title>
-<desc>Mar i cel es el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història damor entre Saïd i Blanca, les cançons i lespectacular escenografia ha captivat a diverses generacions despectadors.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251128172900 +0000" stop="20251128175900 +0000" channel="33.es">
-<title>Afers exteriors: Anglaterra moderna</title>
-<sub-title></sub-title>
-<desc>Miquel Calçada sendinsa en la modernitat de Londres per anar de compres amb una dissenyadora de moda i per enregistrar un disc. La capital dAnglaterra es una ciutat de 10 milions dhabitants, alguns dels quals mostraran al programa la seva faceta mes creativa.</desc>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
-<programme start="20251128175900 +0000" stop="20251128183100 +0000" channel="33.es">
-<title>Afers exteriors: Corea del Nord</title>
+<programme start="20251128180100 +0000" stop="20251128183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada es desplaça fins a Pyongyang per aprendre a cantar en coreà en companyia dAlejandro Cao de Benos de Les i Perez. El programa demostrarà què es possible entrar a Corea del Nord i parlar català amb una certa normalitat.</desc>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
 <programme start="20251128183100 +0000" stop="20251128191500 +0000" channel="33.es">
-<title>Los habitantes del fin del mundo: Zambia</title>
+<title>Los habitantes del fin del mundo: Les Açores</title>
 <sub-title></sub-title>
-<desc>El Ben Fogle viatja a Zàmbia, on passarà uns dies amb els seus amfitrions, la Ruth i el Lyndon Pinches, una parella britànica que ha muntat un allotjament a les ribes del riu Kafue.</desc>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128191500 +0000" stop="20251128200200 +0000" channel="33.es">
-<title>Tesoros perdidos de Egipto: Los misterios de la Esfinge</title>
+<programme start="20251128191500 +0000" stop="20251128200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
 <sub-title></sub-title>
-<desc>A lantic Egipte molts deus tenien cos de persona i cap danimal, però els egipcis tambe havien imaginat essers amb poders sobrenaturals que tenien cos danimal i cap de persona, com ara les esfinxs, que tenien cos de lleo.</desc>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128200200 +0000" stop="20251128205900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 207</title>
+<programme start="20251128200300 +0000" stop="20251128210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
 <episode-num system="xmltv_ns">6..</episode-num>
 </programme>
-<programme start="20251128205900 +0000" stop="20251128214600 +0000" channel="33.es">
-<title>La Renaixença: El pintallavis</title>
+<programme start="20251128210200 +0000" stop="20251128214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251128214600 +0000" stop="20251128234500 +0000" channel="33.es">
-<title>Festival Zoom Igualada</title>
+<programme start="20251128214900 +0000" stop="20251128232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
 <sub-title></sub-title>
-<desc>Des del Teatre Ateneu dIgualada, emissio de la cerimònia de lliurament dels Premis Zoom 2025, en un acte presentat per la periodista Danae Boronat.</desc>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251128234500 +0000" stop="20251129005900 +0000" channel="33.es">
-<title>15 hores</title>
+<programme start="20251128232800 +0000" stop="20251129000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
 <sub-title></sub-title>
-<desc>LAura i el Manuel, el matrimoni aparentment perfecte, amaguen un terrible secret: ell la maltracta durant anys, fins que un dia lAura reuneix la valentia necessària per a demanar ajuda.</desc>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129005900 +0000" stop="20251129021400 +0000" channel="33.es">
-<title>El Cerro de los Dioses</title>
+<programme start="20251129000100 +0000" stop="20251129005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
 <sub-title></sub-title>
-<desc>Paula i Pedro, directors de documentals, van darrere dels passos de Marcos, Itziar i Will. Tots tres reben una misteriosa invitacio a una celebracio en un poble de Castella-la Manxa. La sobtada desaparicio de Pedro obre una trama en què sinvolucra la filla de lalcalde.Despres de mes de 20 anys dedicats a la direccio de curtmetratges, Daniel M. Caneiro es posa per primera vegada al capdavant dun llargmetratge amb un fals documental que, al mes estil de “[REC]”, esdeve una barreja de suspens i terror. El director i tambe guionista daquest film compta amb un repartiment format per noms com Paula Muñoz (El club de los incomprendidos), Jaume Ulled (Indetectables), Itziar Castro (Matar a Dios), Carmen Muga ( Weekender) i Will Shepard (Miamor perdido), entre molts altres.La cinta compta amb les col·laboracions especials dIsabel Coixet, Jose Corbacho o Raúl Arevalo, entre daltres cares conegudes del cinema espanyol.</desc>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251129005900 +0000" stop="20251129015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129021400 +0000" stop="20251129024100 +0000" channel="33.es">
-<title>Les Feres: Veus Flamenques</title>
+<programme start="20251129015000 +0000" stop="20251129024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
 <sub-title></sub-title>
-<desc>Programa especial de Les Feres en què es presenten cinc veus emergents del flamenc que es fa ara mateix a Catalunya: Lidia Mora, Irene Ribas, Paula Domínguez, Ana Brenes i Cristina Lopez ens mostren diferents maneres dacostar-se a una música.</desc>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129024000 +0000" stop="20251129032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129032900 +0000" stop="20251129034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
 <episode-num system="xmltv_ns">1..</episode-num>
 </programme>
-<programme start="20251129024100 +0000" stop="20251129033100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Norte de Brasil 1</title>
+<programme start="20251129034900 +0000" stop="20251129043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>En Philippe visita el Brasil per presentar-nos uns trens peculiars. Nhi ha que travessen la selva amazònica i daltres que llisquen sobre el mar, i allà on no hi ha trens hi ha altres mitjans de transport ben peculiars.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251129033100 +0000" stop="20251129042100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Africa del Sur 1</title>
-<sub-title></sub-title>
-<desc>En aquest episodi, Philippe Gougler viatja a Sud-àfrica, un país de contrastos, de desigualtats i dextrems. Fa poc mes de 20 anys que va desaparèixer lapartheid, però les injustícies que provocava aquell sistema encara es perceben en la distribucio de la riquesa.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251129042100 +0000" stop="20251129043400 +0000" channel="33.es">
-<title>Thalassa: Un mar sense arrossegadors</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251129043400 +0000" stop="20251129043900 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251129043900 +0000" stop="20251129044500 +0000" channel="33.es">
@@ -10762,202 +11086,190 @@
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129044500 +0000" stop="20251129045000 +0000" channel="33.es">
+<programme start="20251129044500 +0000" stop="20251129045100 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129045000 +0000" stop="20251129050000 +0000" channel="33.es">
+<programme start="20251129045100 +0000" stop="20251129050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129050000 +0000" stop="20251129050600 +0000" channel="33.es">
+<programme start="20251129050000 +0000" stop="20251129050900 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129050600 +0000" stop="20251129052600 +0000" channel="33.es">
-<title>Marcians: Entre 1300</title>
+<programme start="20251129050900 +0000" stop="20251129053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
 <sub-title></sub-title>
-<desc>On son les dones en el mon les arts plàstiques? Amb motiu del Dia Internacional de la Dona, el programa fa visible lobra de tres artistes catalanes: lescultora i ceramista Madola, la pintora tèxtil Kima Guitart i lartista visual Marga Ximenez.</desc>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251129052600 +0000" stop="20251129055200 +0000" channel="33.es">
-<title>Marcians: Realitat diversa, relats diversos</title>
+<programme start="20251129053500 +0000" stop="20251129055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
 <sub-title></sub-title>
-<desc>La realitat dels nostres carrers es molt diversa, però no ho son pas las seves representacions en tot tipus dobres de ficcio, ja siguin literàries, cinematogràfiques, teatrals o artístiques en general.</desc>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251129055200 +0000" stop="20251129063300 +0000" channel="33.es">
-<title>Tot el temps del mon: Miquel Cabal</title>
+<programme start="20251129055300 +0000" stop="20251129063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
 <sub-title></sub-title>
-<desc>Aquesta setmana entrevistem el traductor Miquel Cabal Guarro, que, en el bicentenari de Dostoievski, acaba de traduir Crim i càstig (Ed. La Casa dels Clàssics). Cabal es un referent de la traduccio del rus a casa nostra.</desc>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129063300 +0000" stop="20251129071200 +0000" channel="33.es">
-<title>Tot el temps del mon: Víctor García Tur</title>
+<programme start="20251129063300 +0000" stop="20251129071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
 <sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129071200 +0000" stop="20251129084100 +0000" channel="33.es">
-<title>La travessa: La resistència</title>
+<programme start="20251129071300 +0000" stop="20251129083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
 <sub-title></sub-title>
-<desc>Nomes han passat 24 hores i ja comencen a sorgir les primeres tensions. Tots son molt amics fins que comença el joc. Nhi ha que confonen la competitivitat amb les males arts. I, en una etapa tan dura, quedar-se enrere els pot posar en perill.</desc>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129084100 +0000" stop="20251129093600 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 34</title>
+<programme start="20251129083700 +0000" stop="20251129093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.33.</episode-num>
+<episode-num system="xmltv_ns">1.37.</episode-num>
 </programme>
-<programme start="20251129093600 +0000" stop="20251129103100 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 35</title>
+<programme start="20251129093100 +0000" stop="20251129102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.34.</episode-num>
+<episode-num system="xmltv_ns">1.38.</episode-num>
 </programme>
-<programme start="20251129103100 +0000" stop="20251129111800 +0000" channel="33.es">
-<title>Globus sonda: Xantal Llavina - Vall dÀneu</title>
+<programme start="20251129102600 +0000" stop="20251129111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
 <sub-title></sub-title>
-<desc>En el setè capítol, les valls dÀneu son el paisatge escollit per aquest Globus sonda. I la periodista Xantal Llavina, la passatgera que les sobrevolarà. Una revolucionària del periodisme, que va un pas endavant en temes relacionats amb la innovacio i la tecnologia.</desc>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129111800 +0000" stop="20251129120700 +0000" channel="33.es">
-<title>Bogeria a la pastisseria: Episodi 12</title>
-<sub-title></sub-title>
-<desc>El Bogeria davui anirà sobre rodes. Primer, per celebrar ni mes ni menys que els 375 anys de lempresa dautobusos Sagales, i despres per fabricar un cotxe de Formula 1 a escala real. Això sí, a canvi de passar un dia al parc datraccions de Ferrari Land.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251129120700 +0000" stop="20251129131700 +0000" channel="33.es">
+<programme start="20251129111200 +0000" stop="20251129122200 +0000" channel="33.es">
 <title>Soc i Sere</title>
 <sub-title></sub-title>
 <desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129131700 +0000" stop="20251129143600 +0000" channel="33.es">
-<title>Molta merda</title>
+<programme start="20251129122200 +0000" stop="20251129122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
 <sub-title></sub-title>
-<desc>Quim Masferrer sencarrega dexplicar la realitat del reciclatge a la comarca del Maresme i, per extensio, darreu de Catalunya, duna forma molt amena i pedagògica però al mateix temps rigorosa. El documental està dividit en quatre capítols.</desc>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129143600 +0000" stop="20251129152300 +0000" channel="33.es">
-<title>La Renaixença: La pua de guitarra</title>
+<programme start="20251129122900 +0000" stop="20251129141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129141200 +0000" stop="20251129155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129155600 +0000" stop="20251129165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251129165200 +0000" stop="20251129173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129152300 +0000" stop="20251129161000 +0000" channel="33.es">
-<title>Pueblos bajo tierra: Episodi 3</title>
+<programme start="20251129173900 +0000" stop="20251129180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>En Jean-Simon sen va a viure uns quants dies a les famoses coves del Sacromonte. Actualment, aquests habitatges on havien viscut tradicionalment els gitanos son un reclam per als turistes que busquen imatges castisses de Granada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251129161000 +0000" stop="20251129164500 +0000" channel="33.es">
-<title>El gran dictat: Episodi 788</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.787.</episode-num>
-</programme>
-<programme start="20251129164500 +0000" stop="20251129172100 +0000" channel="33.es">
-<title>El gran dictat: Episodi 789</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.788.</episode-num>
-</programme>
-<programme start="20251129172100 +0000" stop="20251129172900 +0000" channel="33.es">
-<title>Gran!: Mar i cel</title>
-<sub-title></sub-title>
-<desc>Mar i cel es el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història damor entre Saïd i Blanca, les cançons i lespectacular escenografia ha captivat a diverses generacions despectadors.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251129172900 +0000" stop="20251129175900 +0000" channel="33.es">
-<title>Afers exteriors: Anglaterra moderna</title>
-<sub-title></sub-title>
-<desc>Miquel Calçada sendinsa en la modernitat de Londres per anar de compres amb una dissenyadora de moda i per enregistrar un disc. La capital dAnglaterra es una ciutat de 10 milions dhabitants, alguns dels quals mostraran al programa la seva faceta mes creativa.</desc>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
-<programme start="20251129175900 +0000" stop="20251129183100 +0000" channel="33.es">
-<title>Afers exteriors: Corea del Nord</title>
+<programme start="20251129180100 +0000" stop="20251129183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada es desplaça fins a Pyongyang per aprendre a cantar en coreà en companyia dAlejandro Cao de Benos de Les i Perez. El programa demostrarà què es possible entrar a Corea del Nord i parlar català amb una certa normalitat.</desc>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
 <programme start="20251129183100 +0000" stop="20251129191500 +0000" channel="33.es">
-<title>Los habitantes del fin del mundo: Zambia</title>
+<title>Los habitantes del fin del mundo: Les Açores</title>
 <sub-title></sub-title>
-<desc>El Ben Fogle viatja a Zàmbia, on passarà uns dies amb els seus amfitrions, la Ruth i el Lyndon Pinches, una parella britànica que ha muntat un allotjament a les ribes del riu Kafue.</desc>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129191500 +0000" stop="20251129200200 +0000" channel="33.es">
-<title>Tesoros perdidos de Egipto: Los misterios de la Esfinge</title>
+<programme start="20251129191500 +0000" stop="20251129200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
 <sub-title></sub-title>
-<desc>A lantic Egipte molts deus tenien cos de persona i cap danimal, però els egipcis tambe havien imaginat essers amb poders sobrenaturals que tenien cos danimal i cap de persona, com ara les esfinxs, que tenien cos de lleo.</desc>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129200200 +0000" stop="20251129205900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 207</title>
+<programme start="20251129200300 +0000" stop="20251129210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
 <episode-num system="xmltv_ns">6..</episode-num>
 </programme>
-<programme start="20251129205900 +0000" stop="20251129214600 +0000" channel="33.es">
-<title>La Renaixença: El pintallavis</title>
+<programme start="20251129210200 +0000" stop="20251129214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251129214600 +0000" stop="20251129234500 +0000" channel="33.es">
-<title>Festival Zoom Igualada</title>
+<programme start="20251129214900 +0000" stop="20251129232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
 <sub-title></sub-title>
-<desc>Des del Teatre Ateneu dIgualada, emissio de la cerimònia de lliurament dels Premis Zoom 2025, en un acte presentat per la periodista Danae Boronat.</desc>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251129234500 +0000" stop="20251130005900 +0000" channel="33.es">
-<title>15 hores</title>
+<programme start="20251129232800 +0000" stop="20251130000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
 <sub-title></sub-title>
-<desc>LAura i el Manuel, el matrimoni aparentment perfecte, amaguen un terrible secret: ell la maltracta durant anys, fins que un dia lAura reuneix la valentia necessària per a demanar ajuda.</desc>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130005900 +0000" stop="20251130021400 +0000" channel="33.es">
-<title>El Cerro de los Dioses</title>
+<programme start="20251130000100 +0000" stop="20251130005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
 <sub-title></sub-title>
-<desc>Paula i Pedro, directors de documentals, van darrere dels passos de Marcos, Itziar i Will. Tots tres reben una misteriosa invitacio a una celebracio en un poble de Castella-la Manxa. La sobtada desaparicio de Pedro obre una trama en què sinvolucra la filla de lalcalde.Despres de mes de 20 anys dedicats a la direccio de curtmetratges, Daniel M. Caneiro es posa per primera vegada al capdavant dun llargmetratge amb un fals documental que, al mes estil de “[REC]”, esdeve una barreja de suspens i terror. El director i tambe guionista daquest film compta amb un repartiment format per noms com Paula Muñoz (El club de los incomprendidos), Jaume Ulled (Indetectables), Itziar Castro (Matar a Dios), Carmen Muga ( Weekender) i Will Shepard (Miamor perdido), entre molts altres.La cinta compta amb les col·laboracions especials dIsabel Coixet, Jose Corbacho o Raúl Arevalo, entre daltres cares conegudes del cinema espanyol.</desc>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251130005900 +0000" stop="20251130015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130021400 +0000" stop="20251130024100 +0000" channel="33.es">
-<title>Les Feres: Veus Flamenques</title>
+<programme start="20251130015000 +0000" stop="20251130024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
 <sub-title></sub-title>
-<desc>Programa especial de Les Feres en què es presenten cinc veus emergents del flamenc que es fa ara mateix a Catalunya: Lidia Mora, Irene Ribas, Paula Domínguez, Ana Brenes i Cristina Lopez ens mostren diferents maneres dacostar-se a una música.</desc>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130024000 +0000" stop="20251130032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130032900 +0000" stop="20251130034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
 <episode-num system="xmltv_ns">1..</episode-num>
 </programme>
-<programme start="20251130024100 +0000" stop="20251130033100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Norte de Brasil 1</title>
+<programme start="20251130034900 +0000" stop="20251130043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>En Philippe visita el Brasil per presentar-nos uns trens peculiars. Nhi ha que travessen la selva amazònica i daltres que llisquen sobre el mar, i allà on no hi ha trens hi ha altres mitjans de transport ben peculiars.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251130033100 +0000" stop="20251130042100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Africa del Sur 1</title>
-<sub-title></sub-title>
-<desc>En aquest episodi, Philippe Gougler viatja a Sud-àfrica, un país de contrastos, de desigualtats i dextrems. Fa poc mes de 20 anys que va desaparèixer lapartheid, però les injustícies que provocava aquell sistema encara es perceben en la distribucio de la riquesa.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251130042100 +0000" stop="20251130043400 +0000" channel="33.es">
-<title>Thalassa: Un mar sense arrossegadors</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251130043400 +0000" stop="20251130043900 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251130043900 +0000" stop="20251130044500 +0000" channel="33.es">
@@ -10966,202 +11278,190 @@
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130044500 +0000" stop="20251130045000 +0000" channel="33.es">
+<programme start="20251130044500 +0000" stop="20251130045100 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130045000 +0000" stop="20251130050000 +0000" channel="33.es">
+<programme start="20251130045100 +0000" stop="20251130050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130050000 +0000" stop="20251130050600 +0000" channel="33.es">
+<programme start="20251130050000 +0000" stop="20251130050900 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130050600 +0000" stop="20251130052600 +0000" channel="33.es">
-<title>Marcians: Entre 1300</title>
+<programme start="20251130050900 +0000" stop="20251130053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
 <sub-title></sub-title>
-<desc>On son les dones en el mon les arts plàstiques? Amb motiu del Dia Internacional de la Dona, el programa fa visible lobra de tres artistes catalanes: lescultora i ceramista Madola, la pintora tèxtil Kima Guitart i lartista visual Marga Ximenez.</desc>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251130052600 +0000" stop="20251130055200 +0000" channel="33.es">
-<title>Marcians: Realitat diversa, relats diversos</title>
+<programme start="20251130053500 +0000" stop="20251130055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
 <sub-title></sub-title>
-<desc>La realitat dels nostres carrers es molt diversa, però no ho son pas las seves representacions en tot tipus dobres de ficcio, ja siguin literàries, cinematogràfiques, teatrals o artístiques en general.</desc>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251130055200 +0000" stop="20251130063300 +0000" channel="33.es">
-<title>Tot el temps del mon: Miquel Cabal</title>
+<programme start="20251130055300 +0000" stop="20251130063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
 <sub-title></sub-title>
-<desc>Aquesta setmana entrevistem el traductor Miquel Cabal Guarro, que, en el bicentenari de Dostoievski, acaba de traduir Crim i càstig (Ed. La Casa dels Clàssics). Cabal es un referent de la traduccio del rus a casa nostra.</desc>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130063300 +0000" stop="20251130071200 +0000" channel="33.es">
-<title>Tot el temps del mon: Víctor García Tur</title>
+<programme start="20251130063300 +0000" stop="20251130071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
 <sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130071200 +0000" stop="20251130084100 +0000" channel="33.es">
-<title>La travessa: La resistència</title>
+<programme start="20251130071300 +0000" stop="20251130083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
 <sub-title></sub-title>
-<desc>Nomes han passat 24 hores i ja comencen a sorgir les primeres tensions. Tots son molt amics fins que comença el joc. Nhi ha que confonen la competitivitat amb les males arts. I, en una etapa tan dura, quedar-se enrere els pot posar en perill.</desc>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130084100 +0000" stop="20251130093600 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 34</title>
+<programme start="20251130083700 +0000" stop="20251130093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.33.</episode-num>
+<episode-num system="xmltv_ns">1.37.</episode-num>
 </programme>
-<programme start="20251130093600 +0000" stop="20251130103100 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 35</title>
+<programme start="20251130093100 +0000" stop="20251130102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.34.</episode-num>
+<episode-num system="xmltv_ns">1.38.</episode-num>
 </programme>
-<programme start="20251130103100 +0000" stop="20251130111800 +0000" channel="33.es">
-<title>Globus sonda: Xantal Llavina - Vall dÀneu</title>
+<programme start="20251130102600 +0000" stop="20251130111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
 <sub-title></sub-title>
-<desc>En el setè capítol, les valls dÀneu son el paisatge escollit per aquest Globus sonda. I la periodista Xantal Llavina, la passatgera que les sobrevolarà. Una revolucionària del periodisme, que va un pas endavant en temes relacionats amb la innovacio i la tecnologia.</desc>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130111800 +0000" stop="20251130120700 +0000" channel="33.es">
-<title>Bogeria a la pastisseria: Episodi 12</title>
-<sub-title></sub-title>
-<desc>El Bogeria davui anirà sobre rodes. Primer, per celebrar ni mes ni menys que els 375 anys de lempresa dautobusos Sagales, i despres per fabricar un cotxe de Formula 1 a escala real. Això sí, a canvi de passar un dia al parc datraccions de Ferrari Land.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251130120700 +0000" stop="20251130131700 +0000" channel="33.es">
+<programme start="20251130111200 +0000" stop="20251130122200 +0000" channel="33.es">
 <title>Soc i Sere</title>
 <sub-title></sub-title>
 <desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130131700 +0000" stop="20251130143600 +0000" channel="33.es">
-<title>Molta merda</title>
+<programme start="20251130122200 +0000" stop="20251130122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
 <sub-title></sub-title>
-<desc>Quim Masferrer sencarrega dexplicar la realitat del reciclatge a la comarca del Maresme i, per extensio, darreu de Catalunya, duna forma molt amena i pedagògica però al mateix temps rigorosa. El documental està dividit en quatre capítols.</desc>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130143600 +0000" stop="20251130152300 +0000" channel="33.es">
-<title>La Renaixença: La pua de guitarra</title>
+<programme start="20251130122900 +0000" stop="20251130141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130141200 +0000" stop="20251130155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130155600 +0000" stop="20251130165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251130165200 +0000" stop="20251130173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130152300 +0000" stop="20251130161000 +0000" channel="33.es">
-<title>Pueblos bajo tierra: Episodi 3</title>
+<programme start="20251130173900 +0000" stop="20251130180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>En Jean-Simon sen va a viure uns quants dies a les famoses coves del Sacromonte. Actualment, aquests habitatges on havien viscut tradicionalment els gitanos son un reclam per als turistes que busquen imatges castisses de Granada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251130161000 +0000" stop="20251130164500 +0000" channel="33.es">
-<title>El gran dictat: Episodi 788</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.787.</episode-num>
-</programme>
-<programme start="20251130164500 +0000" stop="20251130172100 +0000" channel="33.es">
-<title>El gran dictat: Episodi 789</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.788.</episode-num>
-</programme>
-<programme start="20251130172100 +0000" stop="20251130172900 +0000" channel="33.es">
-<title>Gran!: Mar i cel</title>
-<sub-title></sub-title>
-<desc>Mar i cel es el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història damor entre Saïd i Blanca, les cançons i lespectacular escenografia ha captivat a diverses generacions despectadors.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251130172900 +0000" stop="20251130175900 +0000" channel="33.es">
-<title>Afers exteriors: Anglaterra moderna</title>
-<sub-title></sub-title>
-<desc>Miquel Calçada sendinsa en la modernitat de Londres per anar de compres amb una dissenyadora de moda i per enregistrar un disc. La capital dAnglaterra es una ciutat de 10 milions dhabitants, alguns dels quals mostraran al programa la seva faceta mes creativa.</desc>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
-<programme start="20251130175900 +0000" stop="20251130183100 +0000" channel="33.es">
-<title>Afers exteriors: Corea del Nord</title>
+<programme start="20251130180100 +0000" stop="20251130183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada es desplaça fins a Pyongyang per aprendre a cantar en coreà en companyia dAlejandro Cao de Benos de Les i Perez. El programa demostrarà què es possible entrar a Corea del Nord i parlar català amb una certa normalitat.</desc>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
 <programme start="20251130183100 +0000" stop="20251130191500 +0000" channel="33.es">
-<title>Los habitantes del fin del mundo: Zambia</title>
+<title>Los habitantes del fin del mundo: Les Açores</title>
 <sub-title></sub-title>
-<desc>El Ben Fogle viatja a Zàmbia, on passarà uns dies amb els seus amfitrions, la Ruth i el Lyndon Pinches, una parella britànica que ha muntat un allotjament a les ribes del riu Kafue.</desc>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130191500 +0000" stop="20251130200200 +0000" channel="33.es">
-<title>Tesoros perdidos de Egipto: Los misterios de la Esfinge</title>
+<programme start="20251130191500 +0000" stop="20251130200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
 <sub-title></sub-title>
-<desc>A lantic Egipte molts deus tenien cos de persona i cap danimal, però els egipcis tambe havien imaginat essers amb poders sobrenaturals que tenien cos danimal i cap de persona, com ara les esfinxs, que tenien cos de lleo.</desc>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130200200 +0000" stop="20251130205900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 207</title>
+<programme start="20251130200300 +0000" stop="20251130210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
 <episode-num system="xmltv_ns">6..</episode-num>
 </programme>
-<programme start="20251130205900 +0000" stop="20251130214600 +0000" channel="33.es">
-<title>La Renaixença: El pintallavis</title>
+<programme start="20251130210200 +0000" stop="20251130214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251130214600 +0000" stop="20251130234500 +0000" channel="33.es">
-<title>Festival Zoom Igualada</title>
+<programme start="20251130214900 +0000" stop="20251130232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
 <sub-title></sub-title>
-<desc>Des del Teatre Ateneu dIgualada, emissio de la cerimònia de lliurament dels Premis Zoom 2025, en un acte presentat per la periodista Danae Boronat.</desc>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251130234500 +0000" stop="20251201005900 +0000" channel="33.es">
-<title>15 hores</title>
+<programme start="20251130232800 +0000" stop="20251201000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
 <sub-title></sub-title>
-<desc>LAura i el Manuel, el matrimoni aparentment perfecte, amaguen un terrible secret: ell la maltracta durant anys, fins que un dia lAura reuneix la valentia necessària per a demanar ajuda.</desc>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201005900 +0000" stop="20251201021400 +0000" channel="33.es">
-<title>El Cerro de los Dioses</title>
+<programme start="20251201000100 +0000" stop="20251201005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
 <sub-title></sub-title>
-<desc>Paula i Pedro, directors de documentals, van darrere dels passos de Marcos, Itziar i Will. Tots tres reben una misteriosa invitacio a una celebracio en un poble de Castella-la Manxa. La sobtada desaparicio de Pedro obre una trama en què sinvolucra la filla de lalcalde.Despres de mes de 20 anys dedicats a la direccio de curtmetratges, Daniel M. Caneiro es posa per primera vegada al capdavant dun llargmetratge amb un fals documental que, al mes estil de “[REC]”, esdeve una barreja de suspens i terror. El director i tambe guionista daquest film compta amb un repartiment format per noms com Paula Muñoz (El club de los incomprendidos), Jaume Ulled (Indetectables), Itziar Castro (Matar a Dios), Carmen Muga ( Weekender) i Will Shepard (Miamor perdido), entre molts altres.La cinta compta amb les col·laboracions especials dIsabel Coixet, Jose Corbacho o Raúl Arevalo, entre daltres cares conegudes del cinema espanyol.</desc>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251201005900 +0000" stop="20251201015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201021400 +0000" stop="20251201024100 +0000" channel="33.es">
-<title>Les Feres: Veus Flamenques</title>
+<programme start="20251201015000 +0000" stop="20251201024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
 <sub-title></sub-title>
-<desc>Programa especial de Les Feres en què es presenten cinc veus emergents del flamenc que es fa ara mateix a Catalunya: Lidia Mora, Irene Ribas, Paula Domínguez, Ana Brenes i Cristina Lopez ens mostren diferents maneres dacostar-se a una música.</desc>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251201024000 +0000" stop="20251201032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251201032900 +0000" stop="20251201034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
 <episode-num system="xmltv_ns">1..</episode-num>
 </programme>
-<programme start="20251201024100 +0000" stop="20251201033100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Norte de Brasil 1</title>
+<programme start="20251201034900 +0000" stop="20251201043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>En Philippe visita el Brasil per presentar-nos uns trens peculiars. Nhi ha que travessen la selva amazònica i daltres que llisquen sobre el mar, i allà on no hi ha trens hi ha altres mitjans de transport ben peculiars.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251201033100 +0000" stop="20251201042100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Africa del Sur 1</title>
-<sub-title></sub-title>
-<desc>En aquest episodi, Philippe Gougler viatja a Sud-àfrica, un país de contrastos, de desigualtats i dextrems. Fa poc mes de 20 anys que va desaparèixer lapartheid, però les injustícies que provocava aquell sistema encara es perceben en la distribucio de la riquesa.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251201042100 +0000" stop="20251201043400 +0000" channel="33.es">
-<title>Thalassa: Un mar sense arrossegadors</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251201043400 +0000" stop="20251201043900 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251201043900 +0000" stop="20251201044500 +0000" channel="33.es">
@@ -11170,202 +11470,190 @@
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201044500 +0000" stop="20251201045000 +0000" channel="33.es">
+<programme start="20251201044500 +0000" stop="20251201045100 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201045000 +0000" stop="20251201050000 +0000" channel="33.es">
+<programme start="20251201045100 +0000" stop="20251201050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201050000 +0000" stop="20251201050600 +0000" channel="33.es">
+<programme start="20251201050000 +0000" stop="20251201050900 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201050600 +0000" stop="20251201052600 +0000" channel="33.es">
-<title>Marcians: Entre 1300</title>
+<programme start="20251201050900 +0000" stop="20251201053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
 <sub-title></sub-title>
-<desc>On son les dones en el mon les arts plàstiques? Amb motiu del Dia Internacional de la Dona, el programa fa visible lobra de tres artistes catalanes: lescultora i ceramista Madola, la pintora tèxtil Kima Guitart i lartista visual Marga Ximenez.</desc>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251201052600 +0000" stop="20251201055200 +0000" channel="33.es">
-<title>Marcians: Realitat diversa, relats diversos</title>
+<programme start="20251201053500 +0000" stop="20251201055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
 <sub-title></sub-title>
-<desc>La realitat dels nostres carrers es molt diversa, però no ho son pas las seves representacions en tot tipus dobres de ficcio, ja siguin literàries, cinematogràfiques, teatrals o artístiques en general.</desc>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251201055200 +0000" stop="20251201063300 +0000" channel="33.es">
-<title>Tot el temps del mon: Miquel Cabal</title>
+<programme start="20251201055300 +0000" stop="20251201063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
 <sub-title></sub-title>
-<desc>Aquesta setmana entrevistem el traductor Miquel Cabal Guarro, que, en el bicentenari de Dostoievski, acaba de traduir Crim i càstig (Ed. La Casa dels Clàssics). Cabal es un referent de la traduccio del rus a casa nostra.</desc>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201063300 +0000" stop="20251201071200 +0000" channel="33.es">
-<title>Tot el temps del mon: Víctor García Tur</title>
+<programme start="20251201063300 +0000" stop="20251201071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
 <sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201071200 +0000" stop="20251201084100 +0000" channel="33.es">
-<title>La travessa: La resistència</title>
+<programme start="20251201071300 +0000" stop="20251201083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
 <sub-title></sub-title>
-<desc>Nomes han passat 24 hores i ja comencen a sorgir les primeres tensions. Tots son molt amics fins que comença el joc. Nhi ha que confonen la competitivitat amb les males arts. I, en una etapa tan dura, quedar-se enrere els pot posar en perill.</desc>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201084100 +0000" stop="20251201093600 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 34</title>
+<programme start="20251201083700 +0000" stop="20251201093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.33.</episode-num>
+<episode-num system="xmltv_ns">1.37.</episode-num>
 </programme>
-<programme start="20251201093600 +0000" stop="20251201103100 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 35</title>
+<programme start="20251201093100 +0000" stop="20251201102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.34.</episode-num>
+<episode-num system="xmltv_ns">1.38.</episode-num>
 </programme>
-<programme start="20251201103100 +0000" stop="20251201111800 +0000" channel="33.es">
-<title>Globus sonda: Xantal Llavina - Vall dÀneu</title>
+<programme start="20251201102600 +0000" stop="20251201111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
 <sub-title></sub-title>
-<desc>En el setè capítol, les valls dÀneu son el paisatge escollit per aquest Globus sonda. I la periodista Xantal Llavina, la passatgera que les sobrevolarà. Una revolucionària del periodisme, que va un pas endavant en temes relacionats amb la innovacio i la tecnologia.</desc>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201111800 +0000" stop="20251201120700 +0000" channel="33.es">
-<title>Bogeria a la pastisseria: Episodi 12</title>
-<sub-title></sub-title>
-<desc>El Bogeria davui anirà sobre rodes. Primer, per celebrar ni mes ni menys que els 375 anys de lempresa dautobusos Sagales, i despres per fabricar un cotxe de Formula 1 a escala real. Això sí, a canvi de passar un dia al parc datraccions de Ferrari Land.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251201120700 +0000" stop="20251201131700 +0000" channel="33.es">
+<programme start="20251201111200 +0000" stop="20251201122200 +0000" channel="33.es">
 <title>Soc i Sere</title>
 <sub-title></sub-title>
 <desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201131700 +0000" stop="20251201143600 +0000" channel="33.es">
-<title>Molta merda</title>
+<programme start="20251201122200 +0000" stop="20251201122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
 <sub-title></sub-title>
-<desc>Quim Masferrer sencarrega dexplicar la realitat del reciclatge a la comarca del Maresme i, per extensio, darreu de Catalunya, duna forma molt amena i pedagògica però al mateix temps rigorosa. El documental està dividit en quatre capítols.</desc>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201143600 +0000" stop="20251201152300 +0000" channel="33.es">
-<title>La Renaixença: La pua de guitarra</title>
+<programme start="20251201122900 +0000" stop="20251201141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251201141200 +0000" stop="20251201155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251201155600 +0000" stop="20251201165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251201165200 +0000" stop="20251201173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201152300 +0000" stop="20251201161000 +0000" channel="33.es">
-<title>Pueblos bajo tierra: Episodi 3</title>
+<programme start="20251201173900 +0000" stop="20251201180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>En Jean-Simon sen va a viure uns quants dies a les famoses coves del Sacromonte. Actualment, aquests habitatges on havien viscut tradicionalment els gitanos son un reclam per als turistes que busquen imatges castisses de Granada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251201161000 +0000" stop="20251201164500 +0000" channel="33.es">
-<title>El gran dictat: Episodi 788</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.787.</episode-num>
-</programme>
-<programme start="20251201164500 +0000" stop="20251201172100 +0000" channel="33.es">
-<title>El gran dictat: Episodi 789</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.788.</episode-num>
-</programme>
-<programme start="20251201172100 +0000" stop="20251201172900 +0000" channel="33.es">
-<title>Gran!: Mar i cel</title>
-<sub-title></sub-title>
-<desc>Mar i cel es el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història damor entre Saïd i Blanca, les cançons i lespectacular escenografia ha captivat a diverses generacions despectadors.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251201172900 +0000" stop="20251201175900 +0000" channel="33.es">
-<title>Afers exteriors: Anglaterra moderna</title>
-<sub-title></sub-title>
-<desc>Miquel Calçada sendinsa en la modernitat de Londres per anar de compres amb una dissenyadora de moda i per enregistrar un disc. La capital dAnglaterra es una ciutat de 10 milions dhabitants, alguns dels quals mostraran al programa la seva faceta mes creativa.</desc>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
-<programme start="20251201175900 +0000" stop="20251201183100 +0000" channel="33.es">
-<title>Afers exteriors: Corea del Nord</title>
+<programme start="20251201180100 +0000" stop="20251201183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada es desplaça fins a Pyongyang per aprendre a cantar en coreà en companyia dAlejandro Cao de Benos de Les i Perez. El programa demostrarà què es possible entrar a Corea del Nord i parlar català amb una certa normalitat.</desc>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
 <programme start="20251201183100 +0000" stop="20251201191500 +0000" channel="33.es">
-<title>Los habitantes del fin del mundo: Zambia</title>
+<title>Los habitantes del fin del mundo: Les Açores</title>
 <sub-title></sub-title>
-<desc>El Ben Fogle viatja a Zàmbia, on passarà uns dies amb els seus amfitrions, la Ruth i el Lyndon Pinches, una parella britànica que ha muntat un allotjament a les ribes del riu Kafue.</desc>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201191500 +0000" stop="20251201200200 +0000" channel="33.es">
-<title>Tesoros perdidos de Egipto: Los misterios de la Esfinge</title>
+<programme start="20251201191500 +0000" stop="20251201200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
 <sub-title></sub-title>
-<desc>A lantic Egipte molts deus tenien cos de persona i cap danimal, però els egipcis tambe havien imaginat essers amb poders sobrenaturals que tenien cos danimal i cap de persona, com ara les esfinxs, que tenien cos de lleo.</desc>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201200200 +0000" stop="20251201205900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 207</title>
+<programme start="20251201200300 +0000" stop="20251201210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
 <episode-num system="xmltv_ns">6..</episode-num>
 </programme>
-<programme start="20251201205900 +0000" stop="20251201214600 +0000" channel="33.es">
-<title>La Renaixença: El pintallavis</title>
+<programme start="20251201210200 +0000" stop="20251201214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251201214600 +0000" stop="20251201234500 +0000" channel="33.es">
-<title>Festival Zoom Igualada</title>
+<programme start="20251201214900 +0000" stop="20251201232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
 <sub-title></sub-title>
-<desc>Des del Teatre Ateneu dIgualada, emissio de la cerimònia de lliurament dels Premis Zoom 2025, en un acte presentat per la periodista Danae Boronat.</desc>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251201234500 +0000" stop="20251202005900 +0000" channel="33.es">
-<title>15 hores</title>
+<programme start="20251201232800 +0000" stop="20251202000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
 <sub-title></sub-title>
-<desc>LAura i el Manuel, el matrimoni aparentment perfecte, amaguen un terrible secret: ell la maltracta durant anys, fins que un dia lAura reuneix la valentia necessària per a demanar ajuda.</desc>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202005900 +0000" stop="20251202021400 +0000" channel="33.es">
-<title>El Cerro de los Dioses</title>
+<programme start="20251202000100 +0000" stop="20251202005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
 <sub-title></sub-title>
-<desc>Paula i Pedro, directors de documentals, van darrere dels passos de Marcos, Itziar i Will. Tots tres reben una misteriosa invitacio a una celebracio en un poble de Castella-la Manxa. La sobtada desaparicio de Pedro obre una trama en què sinvolucra la filla de lalcalde.Despres de mes de 20 anys dedicats a la direccio de curtmetratges, Daniel M. Caneiro es posa per primera vegada al capdavant dun llargmetratge amb un fals documental que, al mes estil de “[REC]”, esdeve una barreja de suspens i terror. El director i tambe guionista daquest film compta amb un repartiment format per noms com Paula Muñoz (El club de los incomprendidos), Jaume Ulled (Indetectables), Itziar Castro (Matar a Dios), Carmen Muga ( Weekender) i Will Shepard (Miamor perdido), entre molts altres.La cinta compta amb les col·laboracions especials dIsabel Coixet, Jose Corbacho o Raúl Arevalo, entre daltres cares conegudes del cinema espanyol.</desc>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251202005900 +0000" stop="20251202015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202021400 +0000" stop="20251202024100 +0000" channel="33.es">
-<title>Les Feres: Veus Flamenques</title>
+<programme start="20251202015000 +0000" stop="20251202024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
 <sub-title></sub-title>
-<desc>Programa especial de Les Feres en què es presenten cinc veus emergents del flamenc que es fa ara mateix a Catalunya: Lidia Mora, Irene Ribas, Paula Domínguez, Ana Brenes i Cristina Lopez ens mostren diferents maneres dacostar-se a una música.</desc>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251202024000 +0000" stop="20251202032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251202032900 +0000" stop="20251202034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
 <episode-num system="xmltv_ns">1..</episode-num>
 </programme>
-<programme start="20251202024100 +0000" stop="20251202033100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Norte de Brasil 1</title>
+<programme start="20251202034900 +0000" stop="20251202043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
 <sub-title></sub-title>
-<desc>En Philippe visita el Brasil per presentar-nos uns trens peculiars. Nhi ha que travessen la selva amazònica i daltres que llisquen sobre el mar, i allà on no hi ha trens hi ha altres mitjans de transport ben peculiars.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251202033100 +0000" stop="20251202042100 +0000" channel="33.es">
-<title>Grandes viajes en tren: Africa del Sur 1</title>
-<sub-title></sub-title>
-<desc>En aquest episodi, Philippe Gougler viatja a Sud-àfrica, un país de contrastos, de desigualtats i dextrems. Fa poc mes de 20 anys que va desaparèixer lapartheid, però les injustícies que provocava aquell sistema encara es perceben en la distribucio de la riquesa.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251202042100 +0000" stop="20251202043400 +0000" channel="33.es">
-<title>Thalassa: Un mar sense arrossegadors</title>
-<sub-title></sub-title>
-<desc>El mar, les persones que viuen en contacte amb ell i els animals i les plantes que hi habiten son els protagonistes de Thalassa, un espai documental de periodicitat setmanal que el canal 33 emet des del seu naixement, el 1989.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251202043400 +0000" stop="20251202043900 +0000" channel="33.es">
-<title>Xarxa Natura</title>
-<sub-title></sub-title>
-<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251202043900 +0000" stop="20251202044500 +0000" channel="33.es">
@@ -11374,172 +11662,556 @@
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202044500 +0000" stop="20251202045000 +0000" channel="33.es">
+<programme start="20251202044500 +0000" stop="20251202045100 +0000" channel="33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202045000 +0000" stop="20251202050000 +0000" channel="33.es">
+<programme start="20251202045100 +0000" stop="20251202050000 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202050000 +0000" stop="20251202050600 +0000" channel="33.es">
+<programme start="20251202050000 +0000" stop="20251202050900 +0000" channel="33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202050600 +0000" stop="20251202052600 +0000" channel="33.es">
-<title>Marcians: Entre 1300</title>
+<programme start="20251202050900 +0000" stop="20251202053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
 <sub-title></sub-title>
-<desc>On son les dones en el mon les arts plàstiques? Amb motiu del Dia Internacional de la Dona, el programa fa visible lobra de tres artistes catalanes: lescultora i ceramista Madola, la pintora tèxtil Kima Guitart i lartista visual Marga Ximenez.</desc>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251202052600 +0000" stop="20251202055200 +0000" channel="33.es">
-<title>Marcians: Realitat diversa, relats diversos</title>
+<programme start="20251202053500 +0000" stop="20251202055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
 <sub-title></sub-title>
-<desc>La realitat dels nostres carrers es molt diversa, però no ho son pas las seves representacions en tot tipus dobres de ficcio, ja siguin literàries, cinematogràfiques, teatrals o artístiques en general.</desc>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
 <episode-num system="xmltv_ns">8..</episode-num>
 </programme>
-<programme start="20251202055200 +0000" stop="20251202063300 +0000" channel="33.es">
-<title>Tot el temps del mon: Miquel Cabal</title>
+<programme start="20251202055300 +0000" stop="20251202063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
 <sub-title></sub-title>
-<desc>Aquesta setmana entrevistem el traductor Miquel Cabal Guarro, que, en el bicentenari de Dostoievski, acaba de traduir Crim i càstig (Ed. La Casa dels Clàssics). Cabal es un referent de la traduccio del rus a casa nostra.</desc>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202063300 +0000" stop="20251202071200 +0000" channel="33.es">
-<title>Tot el temps del mon: Víctor García Tur</title>
+<programme start="20251202063300 +0000" stop="20251202071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
 <sub-title></sub-title>
-<desc>Cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexio, a la conversa pausada i, sobretot, al valor de la literatura.</desc>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202071200 +0000" stop="20251202084100 +0000" channel="33.es">
-<title>La travessa: La resistència</title>
+<programme start="20251202071300 +0000" stop="20251202083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
 <sub-title></sub-title>
-<desc>Nomes han passat 24 hores i ja comencen a sorgir les primeres tensions. Tots son molt amics fins que comença el joc. Nhi ha que confonen la competitivitat amb les males arts. I, en una etapa tan dura, quedar-se enrere els pot posar en perill.</desc>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202084100 +0000" stop="20251202093600 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 34</title>
+<programme start="20251202083700 +0000" stop="20251202093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.33.</episode-num>
+<episode-num system="xmltv_ns">1.37.</episode-num>
 </programme>
-<programme start="20251202093600 +0000" stop="20251202103100 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 35</title>
+<programme start="20251202093100 +0000" stop="20251202102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
-<episode-num system="xmltv_ns">1.34.</episode-num>
+<episode-num system="xmltv_ns">1.38.</episode-num>
 </programme>
-<programme start="20251202103100 +0000" stop="20251202111800 +0000" channel="33.es">
-<title>Globus sonda: Xantal Llavina - Vall dÀneu</title>
+<programme start="20251202102600 +0000" stop="20251202111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
 <sub-title></sub-title>
-<desc>En el setè capítol, les valls dÀneu son el paisatge escollit per aquest Globus sonda. I la periodista Xantal Llavina, la passatgera que les sobrevolarà. Una revolucionària del periodisme, que va un pas endavant en temes relacionats amb la innovacio i la tecnologia.</desc>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202111800 +0000" stop="20251202120700 +0000" channel="33.es">
-<title>Bogeria a la pastisseria: Episodi 12</title>
-<sub-title></sub-title>
-<desc>El Bogeria davui anirà sobre rodes. Primer, per celebrar ni mes ni menys que els 375 anys de lempresa dautobusos Sagales, i despres per fabricar un cotxe de Formula 1 a escala real. Això sí, a canvi de passar un dia al parc datraccions de Ferrari Land.</desc>
-<episode-num system="xmltv_ns">0..</episode-num>
-</programme>
-<programme start="20251202120700 +0000" stop="20251202131700 +0000" channel="33.es">
+<programme start="20251202111200 +0000" stop="20251202122200 +0000" channel="33.es">
 <title>Soc i Sere</title>
 <sub-title></sub-title>
 <desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202131700 +0000" stop="20251202143600 +0000" channel="33.es">
-<title>Molta merda</title>
+<programme start="20251202122200 +0000" stop="20251202122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
 <sub-title></sub-title>
-<desc>Quim Masferrer sencarrega dexplicar la realitat del reciclatge a la comarca del Maresme i, per extensio, darreu de Catalunya, duna forma molt amena i pedagògica però al mateix temps rigorosa. El documental està dividit en quatre capítols.</desc>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202143600 +0000" stop="20251202152300 +0000" channel="33.es">
-<title>La Renaixença: La pua de guitarra</title>
+<programme start="20251202122900 +0000" stop="20251202141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251202141200 +0000" stop="20251202155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251202155600 +0000" stop="20251202165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251202165200 +0000" stop="20251202173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202152300 +0000" stop="20251202161000 +0000" channel="33.es">
-<title>Pueblos bajo tierra: Episodi 3</title>
+<programme start="20251202173900 +0000" stop="20251202180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>En Jean-Simon sen va a viure uns quants dies a les famoses coves del Sacromonte. Actualment, aquests habitatges on havien viscut tradicionalment els gitanos son un reclam per als turistes que busquen imatges castisses de Granada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251202161000 +0000" stop="20251202164500 +0000" channel="33.es">
-<title>El gran dictat: Episodi 788</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.787.</episode-num>
-</programme>
-<programme start="20251202164500 +0000" stop="20251202172100 +0000" channel="33.es">
-<title>El gran dictat: Episodi 789</title>
-<sub-title></sub-title>
-<desc>Òscar Dalmau es el mestre de cerimònies daquest programa que combina els coneixements del català col·loquial amb lentreteniment. Els concursants poden guanyar cada dia fins a 1.500 euros, el pot acumulat i el passi a l’edicio de l’endemà.</desc>
-<episode-num system="xmltv_ns">2008.788.</episode-num>
-</programme>
-<programme start="20251202172100 +0000" stop="20251202172900 +0000" channel="33.es">
-<title>Gran!: Mar i cel</title>
-<sub-title></sub-title>
-<desc>Mar i cel es el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història damor entre Saïd i Blanca, les cançons i lespectacular escenografia ha captivat a diverses generacions despectadors.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251202172900 +0000" stop="20251202175900 +0000" channel="33.es">
-<title>Afers exteriors: Anglaterra moderna</title>
-<sub-title></sub-title>
-<desc>Miquel Calçada sendinsa en la modernitat de Londres per anar de compres amb una dissenyadora de moda i per enregistrar un disc. La capital dAnglaterra es una ciutat de 10 milions dhabitants, alguns dels quals mostraran al programa la seva faceta mes creativa.</desc>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
-<programme start="20251202175900 +0000" stop="20251202183100 +0000" channel="33.es">
-<title>Afers exteriors: Corea del Nord</title>
+<programme start="20251202180100 +0000" stop="20251202183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada es desplaça fins a Pyongyang per aprendre a cantar en coreà en companyia dAlejandro Cao de Benos de Les i Perez. El programa demostrarà què es possible entrar a Corea del Nord i parlar català amb una certa normalitat.</desc>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
 <episode-num system="xmltv_ns">4..</episode-num>
 </programme>
 <programme start="20251202183100 +0000" stop="20251202191500 +0000" channel="33.es">
-<title>Los habitantes del fin del mundo: Zambia</title>
+<title>Los habitantes del fin del mundo: Les Açores</title>
 <sub-title></sub-title>
-<desc>El Ben Fogle viatja a Zàmbia, on passarà uns dies amb els seus amfitrions, la Ruth i el Lyndon Pinches, una parella britànica que ha muntat un allotjament a les ribes del riu Kafue.</desc>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202191500 +0000" stop="20251202200200 +0000" channel="33.es">
-<title>Tesoros perdidos de Egipto: Los misterios de la Esfinge</title>
+<programme start="20251202191500 +0000" stop="20251202200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
 <sub-title></sub-title>
-<desc>A lantic Egipte molts deus tenien cos de persona i cap danimal, però els egipcis tambe havien imaginat essers amb poders sobrenaturals que tenien cos danimal i cap de persona, com ara les esfinxs, que tenien cos de lleo.</desc>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202200200 +0000" stop="20251202205900 +0000" channel="33.es">
-<title>Atrapam si pots: Episodi 207</title>
+<programme start="20251202200300 +0000" stop="20251202210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
 <sub-title></sub-title>
 <desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
 <episode-num system="xmltv_ns">6..</episode-num>
 </programme>
-<programme start="20251202205900 +0000" stop="20251202214600 +0000" channel="33.es">
-<title>La Renaixença: El pintallavis</title>
+<programme start="20251202210200 +0000" stop="20251202214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
 <sub-title></sub-title>
 <desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
 <episode-num system="xmltv_ns">0..</episode-num>
 </programme>
-<programme start="20251202214600 +0000" stop="20251202234500 +0000" channel="33.es">
-<title>Festival Zoom Igualada</title>
+<programme start="20251202214900 +0000" stop="20251202232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
 <sub-title></sub-title>
-<desc>Des del Teatre Ateneu dIgualada, emissio de la cerimònia de lliurament dels Premis Zoom 2025, en un acte presentat per la periodista Danae Boronat.</desc>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251202234500 +0000" stop="20251203005900 +0000" channel="33.es">
-<title>15 hores</title>
+<programme start="20251202232800 +0000" stop="20251203000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
 <sub-title></sub-title>
-<desc>LAura i el Manuel, el matrimoni aparentment perfecte, amaguen un terrible secret: ell la maltracta durant anys, fins que un dia lAura reuneix la valentia necessària per a demanar ajuda.</desc>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251203005900 +0000" stop="20251203021400 +0000" channel="33.es">
-<title>El Cerro de los Dioses</title>
+<programme start="20251203000100 +0000" stop="20251203005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
 <sub-title></sub-title>
-<desc>Paula i Pedro, directors de documentals, van darrere dels passos de Marcos, Itziar i Will. Tots tres reben una misteriosa invitacio a una celebracio en un poble de Castella-la Manxa. La sobtada desaparicio de Pedro obre una trama en què sinvolucra la filla de lalcalde.Despres de mes de 20 anys dedicats a la direccio de curtmetratges, Daniel M. Caneiro es posa per primera vegada al capdavant dun llargmetratge amb un fals documental que, al mes estil de “[REC]”, esdeve una barreja de suspens i terror. El director i tambe guionista daquest film compta amb un repartiment format per noms com Paula Muñoz (El club de los incomprendidos), Jaume Ulled (Indetectables), Itziar Castro (Matar a Dios), Carmen Muga ( Weekender) i Will Shepard (Miamor perdido), entre molts altres.La cinta compta amb les col·laboracions especials dIsabel Coixet, Jose Corbacho o Raúl Arevalo, entre daltres cares conegudes del cinema espanyol.</desc>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251203005900 +0000" stop="20251203015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203015000 +0000" stop="20251203024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
+<sub-title></sub-title>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203024000 +0000" stop="20251203032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203032900 +0000" stop="20251203034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
+<episode-num system="xmltv_ns">1..</episode-num>
+</programme>
+<programme start="20251203034900 +0000" stop="20251203043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203043900 +0000" stop="20251203044500 +0000" channel="33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203044500 +0000" stop="20251203045100 +0000" channel="33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203045100 +0000" stop="20251203050000 +0000" channel="33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203050000 +0000" stop="20251203050900 +0000" channel="33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203050900 +0000" stop="20251203053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
+<sub-title></sub-title>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
+<episode-num system="xmltv_ns">8..</episode-num>
+</programme>
+<programme start="20251203053500 +0000" stop="20251203055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
+<sub-title></sub-title>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
+<episode-num system="xmltv_ns">8..</episode-num>
+</programme>
+<programme start="20251203055300 +0000" stop="20251203063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
+<sub-title></sub-title>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203063300 +0000" stop="20251203071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
+<sub-title></sub-title>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203071300 +0000" stop="20251203083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
+<sub-title></sub-title>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203083700 +0000" stop="20251203093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">1.37.</episode-num>
+</programme>
+<programme start="20251203093100 +0000" stop="20251203102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">1.38.</episode-num>
+</programme>
+<programme start="20251203102600 +0000" stop="20251203111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
+<sub-title></sub-title>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203111200 +0000" stop="20251203122200 +0000" channel="33.es">
+<title>Soc i Sere</title>
+<sub-title></sub-title>
+<desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203122200 +0000" stop="20251203122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
+<sub-title></sub-title>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203122900 +0000" stop="20251203141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203141200 +0000" stop="20251203155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203155600 +0000" stop="20251203165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203165200 +0000" stop="20251203173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203173900 +0000" stop="20251203180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
+<sub-title></sub-title>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
+<episode-num system="xmltv_ns">4..</episode-num>
+</programme>
+<programme start="20251203180100 +0000" stop="20251203183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
+<sub-title></sub-title>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
+<episode-num system="xmltv_ns">4..</episode-num>
+</programme>
+<programme start="20251203183100 +0000" stop="20251203191500 +0000" channel="33.es">
+<title>Los habitantes del fin del mundo: Les Açores</title>
+<sub-title></sub-title>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203191500 +0000" stop="20251203200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
+<sub-title></sub-title>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203200300 +0000" stop="20251203210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">6..</episode-num>
+</programme>
+<programme start="20251203210200 +0000" stop="20251203214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251203214900 +0000" stop="20251203232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
+<sub-title></sub-title>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251203232800 +0000" stop="20251204000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
+<sub-title></sub-title>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204000100 +0000" stop="20251204005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
+<sub-title></sub-title>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251204005900 +0000" stop="20251204015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204015000 +0000" stop="20251204024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
+<sub-title></sub-title>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204024000 +0000" stop="20251204032900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Tanzania 1</title>
+<sub-title></sub-title>
+<desc>A Tanzània no hi ha gaires trens, però Philippe Gougler aprofita les tres línies del país per anar des de la gran ciutat de Dar es Salaam fins a la selva per veure ximpanzes, fins al llac Tanganyika per pescar de nit i fins a la sabana per veure diferents animals.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204032900 +0000" stop="20251204034900 +0000" channel="33.es">
+<title>Les Feres: Gossos</title>
+<sub-title></sub-title>
+<desc>Amb la gira A reviure, la formacio manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components.</desc>
+<episode-num system="xmltv_ns">1..</episode-num>
+</programme>
+<programme start="20251204034900 +0000" stop="20251204043900 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204043900 +0000" stop="20251204044500 +0000" channel="33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204044500 +0000" stop="20251204045100 +0000" channel="33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Xarxa Natura 2000 es una iniciativa política europea que acull molts espais naturals del continent. Mes de cent parcs protegits catalans com lestany de Banyoles o les Gavarres es troben a la llista. El programa dona a conèixer el valor que posseeixen els indrets.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204045100 +0000" stop="20251204050000 +0000" channel="33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204050000 +0000" stop="20251204050900 +0000" channel="33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>TVC dedica un espai diari de la seva programacio a lemissio de videoclips de solistes i grups musicals catalans. Sinclouen tota mena destils, sigui blues, rock o canço dautor, i en molts casos son produccions audiovisuals realitzades per la mateixa cadena.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204050900 +0000" stop="20251204053500 +0000" channel="33.es">
+<title>Marcians: Per vosaltres, mare i pare</title>
+<sub-title></sub-title>
+<desc>Tothom es fill dalgú. Mares i pares, tant si han estat presents com absents, son una influència que compartim tots. Per a moltes artistes, tambe, son una gran font dinspiracio.</desc>
+<episode-num system="xmltv_ns">8..</episode-num>
+</programme>
+<programme start="20251204053500 +0000" stop="20251204055300 +0000" channel="33.es">
+<title>Marcians: Un Decamero</title>
+<sub-title></sub-title>
+<desc>Fa 700 anys, al seu Decamero, Bocaccio va reunir una colla de joves en un casalot aïllat als afores de Florència perquè sexpliquessin contes edificants sobre les relacions humanes i altres peripècies.</desc>
+<episode-num system="xmltv_ns">8..</episode-num>
+</programme>
+<programme start="20251204055300 +0000" stop="20251204063300 +0000" channel="33.es">
+<title>Tot el temps del mon: Carlota Gurb</title>
+<sub-title></sub-title>
+<desc>Vam descobrir lescriptura de Carlota Gurt quan va guanyar el Premi Mercè Rodoreda amb Cavalcarem tota la nit, un recull de contes. Sola es la seva primera novel·la, on ens parla duna dona que marxa a viure a una casa aïllada, a la natura, per intentar escriure.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204063300 +0000" stop="20251204071300 +0000" channel="33.es">
+<title>Tot el temps del mon: Pilarín Bayes</title>
+<sub-title></sub-title>
+<desc>La Pilarín Bayes arriba als 80 anys amb un altre motiu de gran celebracio: el seu llibre número 1.000. La Galera, leditorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que es 1.000 motius per viure.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204071300 +0000" stop="20251204083700 +0000" channel="33.es">
+<title>La travessa: Els límits</title>
+<sub-title></sub-title>
+<desc>Hi ha decisions que ho poden fer saltar tot pels aires. Un petit gest dividirà el grup en dos bàndols enfrontats. Laventura els està posant al límit de les seves forces.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204083700 +0000" stop="20251204093100 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 38</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">1.37.</episode-num>
+</programme>
+<programme start="20251204093100 +0000" stop="20251204102600 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 39</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">1.38.</episode-num>
+</programme>
+<programme start="20251204102600 +0000" stop="20251204111200 +0000" channel="33.es">
+<title>Globus sonda: Miguel Torres - Vilafranca del Penedès</title>
+<sub-title></sub-title>
+<desc>Un cognom il·lustre en la història del vi, Torres, es el passatger daquest Globus sonda. Miguel Torres es una de les persones que mes hi enten de vins i, amb ell, emprendrem el viatge just des del seu celler, a Vilafranca.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204111200 +0000" stop="20251204122200 +0000" channel="33.es">
+<title>Soc i Sere</title>
+<sub-title></sub-title>
+<desc>Programa presentat per Àngel Llàcer i Júlia Bonjoch on cent persones senfronten a proves i exàmens de coneixements sobre Catalunya, les tradicions o la gastronomia, entre daltres.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204122200 +0000" stop="20251204122900 +0000" channel="33.es">
+<title>Gran!: Pau Riba: "Dioptria"</title>
+<sub-title></sub-title>
+<desc>Un repàs a la història del disc doble amb què Pau Riba debutava en solitari despres del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204122900 +0000" stop="20251204141200 +0000" channel="33.es">
+<title>Petra</title>
+<sub-title></sub-title>
+<desc>La Petra es una jove artista rebel que, malgrat els advertiments de la seva mare, busca la trobada amb el seu pare, la identitat del qual li ha estat sempre amagada.Aquest film, presentat al Festival de Cannes, parla de les passions extremes. Els encarregats de crear els personatges son els guionistes Clara Roquet (10.000 kms) i Michel Gaztambide (No habrá paz para los malvados). Dirigit per Jaime Rosales, un cineasta espanyol que ja havia trepitjat altres vegades el festival francès amb pel·lícules de gènere dramàtic. Entre elles, Las horas del día, amb la qual va obtenir el Premi de la Crítica Internacional a la Quinzena de Realitzadors. Daltra banda, cal destacar el visionat de La solitud i el seu triomf en la XXII edicio dels Premis Goya on va guanyar dues estatuetes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204141200 +0000" stop="20251204155600 +0000" channel="33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Tomás viaja desde Canadá para visitar a Julián, quien vive en España junto a su perro Truman. Los dos amigos compartirán cuatro intensas y emotivas jornadas provocadas por el delicado estado de salud de Julián."Truman" fue la gran triunfadora en los premios Goya de 2016. Prueba de ello son los cinco galardones obtenidos en las principales categorías cinematográficas a las que optaba: mejor película, director (Cesc Gay), actor principal (Ricardo Darín), actor de reparto (Javier Cámara) y guion original. De hecho, la crítica coincidio en que el exito de la cinta radica, en mayor parte, en la gran complicidad y las excelentes interpretaciones de los dos protagonistas -Darín y Cámara- por las que compartieron la Concha de Plata al mejor actor en el Festival de San Sebastián de 2015.Tras el estreno de esta comedia de trasfondo trágico, Cesc Gay revelo que el perro protagonista -un bullmastiff llamado Troilo- murio poco despues de acabar el rodaje debido a causas naturales. Cabe...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204155600 +0000" stop="20251204165200 +0000" channel="33.es">
+<title>300: La violència</title>
+<sub-title></sub-title>
+<desc>Avui els catalans tenen una imatge pacífica i entenimentada. Però, durant els últims tres segles, Catalunya ha viscut la majoria danys sota la violència, de vegades amb episodis brutals. Fins al punt que la fama de violents dels catalans va traspassar fronteres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204165200 +0000" stop="20251204173900 +0000" channel="33.es">
+<title>La Renaixença: El xiulet</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204173900 +0000" stop="20251204180100 +0000" channel="33.es">
+<title>Afers exteriors: El somni americà (II)</title>
+<sub-title></sub-title>
+<desc>Per primer cop, el programa tornarà a visitar un personatge que ja ha conegut prèviament, Ambro Martin, per descobrir si es el responsable de la crisi financera global. A mes, Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
+<episode-num system="xmltv_ns">4..</episode-num>
+</programme>
+<programme start="20251204180100 +0000" stop="20251204183100 +0000" channel="33.es">
+<title>Afers exteriors: Dubai</title>
+<sub-title></sub-title>
+<desc>El Miquel Calçada es planta a Dubai, un dels Emirats Àrabs mes rics, per comprovar si es possible esquiar sobre neu amb una temperatura ambient de 35 graus. Amb un expert en piscines de luxe, lespai descobreix que la font de riquesa de Dubai no es el petroli.</desc>
+<episode-num system="xmltv_ns">4..</episode-num>
+</programme>
+<programme start="20251204183100 +0000" stop="20251204191500 +0000" channel="33.es">
+<title>Los habitantes del fin del mundo: Les Açores</title>
+<sub-title></sub-title>
+<desc>El Ben Fogle viatja a Flores, una illa de les Açores, larxipèlag situat al mig de loceà Atlàntic. Allà passarà uns dies amb el Magnus i la Lucy, que pugen una família al lloc habitat mes apartat dEuropa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204191500 +0000" stop="20251204200300 +0000" channel="33.es">
+<title>Ben Fogle: Return to the Wild: Marruecos</title>
+<sub-title></sub-title>
+<desc>Al cor del Sàhara, al regne del Marroc, el Ben Fogle torna a visitar la Karen Hadfield, una anglesa que fa dotze anys va girar lesquena a la vida de ciutat per viure en ple desert. Comprovarà com la comunitat local li ha donat tot el seu suport.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204200300 +0000" stop="20251204210200 +0000" channel="33.es">
+<title>Atrapam si pots: Episodi 209</title>
+<sub-title></sub-title>
+<desc>Llucià Ferrer presenta aquest concurs de preguntes i respostes en què sis concursants competeixen per guanyar el pot. Les preguntes abasten tot el camp del coneixement, se centren en curiositats i fan ús de jocs de paraules i endevinalles.</desc>
+<episode-num system="xmltv_ns">6..</episode-num>
+</programme>
+<programme start="20251204210200 +0000" stop="20251204214900 +0000" channel="33.es">
+<title>La Renaixença: La caravana</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ficcio.</desc>
+<episode-num system="xmltv_ns">0..</episode-num>
+</programme>
+<programme start="20251204214900 +0000" stop="20251204232800 +0000" channel="33.es">
+<title>Girasols silvestres</title>
+<sub-title></sub-title>
+<desc>Julia, una jove de 22 anys i mare de dos nens, senamora dÓscar, un noi conflictiu amb el qual comença una relacio. A mesura que passen temps junts, Julia començarà a plantejar-se la relacio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251204232800 +0000" stop="20251205000100 +0000" channel="33.es">
+<title>The Scene Sessions: Barcelona</title>
+<sub-title></sub-title>
+<desc>El brasiler Giuliano Eriston i el barceloní Lucas Delgado lideren una banda formada especialment per a aquesta sessio. Amb lletres emotives i harmonies riques, ofereixen interpretacions íntimes de temes com Vem me relembrar i Amor fugaz.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251205000100 +0000" stop="20251205005900 +0000" channel="33.es">
+<title>Nervi: Paula Jornet, Stephen King, Les Kunst, Wicked 2, Roger Mas i la Cobla San...</title>
+<sub-title></sub-title>
+<desc>Andrea Gumes conversa amb lactriu i cantant Paula Jornet, que reactiva la seva carrera musical despres dun llarg silenci mentre continua al teatre, ara amb lobra Little Women. Jacint Casademont repassa les obres de Stephen King.</desc>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20251205005900 +0000" stop="20251205015000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Grecia 1</title>
+<sub-title></sub-title>
+<desc>Els trens grecs no son gaire diferents dels de la resta dEuropa, però durant el seu viatge per aquest país, Philippe Gougler hi descobreix un poble especial: una gent orgullosa del seu passat, supersticiosa, respectuosa amb les tradicions, que estima el seu país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251205015000 +0000" stop="20251205024000 +0000" channel="33.es">
+<title>Grandes viajes en tren: Marruecos 1</title>
+<sub-title></sub-title>
+<desc>Philippe Gougler visita el Marroc amb tren i va de sorpresa en sorpresa: els adobers de Fes, les collidores de safrà de Taliouine o els camellers que pasturen els seus ramats pràcticament enmig del no-res li fan descobrir uns mons que no simaginava.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251127230000 +0000" stop="20251128003000 +0000" channel="Levante TV.es">
