@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
-<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
-<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
-<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
-<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
-<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
 <channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
@@ -52,6 +44,14 @@
 <channel id="CDM - Cadena de Milagros.hn"><display-name>CDM - Cadena de Milagros.hn</display-name><icon src="https://images.open-epg.com/18126.png"/></channel>
 <channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
 <channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
+<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="Libertad Digital TV.es"><display-name>Libertad Digital TV.es</display-name><icon src="https://images.open-epg.com/17577.png"/></channel>
+<channel id="MTV 90s.es"><display-name>MTV 90s.es</display-name><icon src="https://images.open-epg.com/17599.png"/></channel>
+<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
+<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
+<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
 <programme start="20251206000000 +0000" stop="20251206010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -6370,6 +6370,48 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251211020000 +0000" stop="20251212020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212020000 +0000" stop="20251212060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212060000 +0000" stop="20251212100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212100000 +0000" stop="20251212140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212140000 +0000" stop="20251212180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212180000 +0000" stop="20251212220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212220000 +0000" stop="20251213020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251206010000 +0000" stop="20251206030000 +0000" channel="Bethel.hn">
 <title>Campañas y convenciones</title>
 <sub-title></sub-title>
@@ -12136,6 +12178,18 @@
 <desc>En aquest episodi el Ben Fogle viatja a Austràlia per tornar a veure el Jim Alston i la Kim Ngoyen, que viuen a la seva pròpia illa deserta. Descobrirà com sho fan per resistir les condicions meteorològiques tan extremes pròpies daquesta regio dAustràlia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251205230000 +0000" stop="20251205233000 +0000" channel="Levante TV.es">
+<title>Tot Pilota</title>
+<sub-title></sub-title>
+<desc>30 minutos de pilota valenciana en un espacio, conducido por el periodista Cesar Molins.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251205233000 +0000" stop="20251206003000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251206003000 +0000" stop="20251206010000 +0000" channel="Levante TV.es">
 <title>Levante en directe</title>
 <sub-title></sub-title>
@@ -12430,6 +12484,330 @@
 <desc>Justo antes de empezar una vida juntos el novio de Stephanie rompe con ella. En medio de la desolacion, Stephanie decide pasar unas navidades en casa de su familia. En el aeropuerto conoce a Michael.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251208000000 +0000" stop="20251208013000 +0000" channel="Levante TV.es">
+<title>George B.</title>
+<sub-title></sub-title>
+<desc>George B. es un conserje cuya única ambicion es encontrar el amor. Sus sueños parecen convertirse en realidad cuando conoce a Angela y entre ellos surge un gran cariño. Solo existe un problema: la madre de ella es una mujer dominante y muy poco partidaria de su relacion.Un filme independiente que no consiguio encontrar distribuidor en los Estados Unidos, quedando su exhibicion relegada a diversos festivales y a la television. Pese a ello, se trata de una tierna comedia, muy bien interpretada por David Morse (Hospital) y Nina Siemaszko (Ilusiones de un mentiroso).</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208013000 +0000" stop="20251208070000 +0000" channel="Levante TV.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Vuelve a ver las mejores entrevistas y reportajes de Levante TV.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="Levante TV.es">
+<title>Super Running</title>
+<sub-title></sub-title>
+<desc>Programa de running amb tota la informacio de les curses populars del voltant de València presentat per Juanma Romera i Cesar Molins.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208083000 +0000" stop="20251208093000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208093000 +0000" stop="20251208101500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208101500 +0000" stop="20251208104500 +0000" channel="Levante TV.es">
+<title>Levante taconsella</title>
+<sub-title></sub-title>
+<desc>Cada día dedicaremos un ratito de nuestro tiempo para darte los mejores consejos y recibir todas vuestras dudas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208104500 +0000" stop="20251208110000 +0000" channel="Levante TV.es">
+<title>Julie and Takumisan</title>
+<sub-title></sub-title>
+<desc>Píldoras de aprendizaje en las que por un lado se aprende ingles con Julie... y por el otro, se aprende mecánica de camiones en el taller Takumisan.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="Levante TV.es">
+<title>Revista de Sociedad</title>
+<sub-title></sub-title>
+<desc>La sociedad, la cultura, la moda y el ocio de la Comunidad Valenciana se juntan en este programa semanal, donde se compaginan reportajes a pie de calle con entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208120000 +0000" stop="20251208123000 +0000" channel="Levante TV.es">
+<title>Espai de consum</title>
+<sub-title></sub-title>
+<desc>Espai de consum</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208123000 +0000" stop="20251208130000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208130000 +0000" stop="20251208143000 +0000" channel="Levante TV.es">
+<title>Cine</title>
+<sub-title></sub-title>
+<desc>Emision de una película.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208143000 +0000" stop="20251208151500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208151500 +0000" stop="20251208160000 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="Levante TV.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Laia cuenta los mejores cuentos para grandes y pequeños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208163000 +0000" stop="20251208170000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208170000 +0000" stop="20251208173000 +0000" channel="Levante TV.es">
+<title>Mundo Natural</title>
+<sub-title></sub-title>
+<desc>Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208173000 +0000" stop="20251208183000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208190000 +0000" stop="20251208193000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208193000 +0000" stop="20251208203000 +0000" channel="Levante TV.es">
+<title>Estrellas del Túria</title>
+<sub-title></sub-title>
+<desc>Concurso musical de Levante TV que busca descubrir y dar voz al talento de la tierra. Un espacio donde cantantes de diferentes estilos se enfrentan gala a gala, mostrando su arte, pasion y personalidad sobre el escenario.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208203000 +0000" stop="20251208220000 +0000" channel="Levante TV.es">
+<title>George B.</title>
+<sub-title></sub-title>
+<desc>George B. es un conserje cuya única ambicion es encontrar el amor. Sus sueños parecen convertirse en realidad cuando conoce a Angela y entre ellos surge un gran cariño. Solo existe un problema: la madre de ella es una mujer dominante y muy poco partidaria de su relacion.Un filme independiente que no consiguio encontrar distribuidor en los Estados Unidos, quedando su exhibicion relegada a diversos festivales y a la television. Pese a ello, se trata de una tierna comedia, muy bien interpretada por David Morse (Hospital) y Nina Siemaszko (Ilusiones de un mentiroso).</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208220000 +0000" stop="20251208223000 +0000" channel="Levante TV.es">
+<title>Fábrica de hielo</title>
+<sub-title></sub-title>
+<desc>Fábrica de hielo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208223000 +0000" stop="20251208230000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208230000 +0000" stop="20251209003000 +0000" channel="Levante TV.es">
+<title>Unidos por el destino</title>
+<sub-title></sub-title>
+<desc>Justo antes de empezar una vida juntos el novio de Stephanie rompe con ella. En medio de la desolacion, Stephanie decide pasar unas navidades en casa de su familia. En el aeropuerto conoce a Michael.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209003000 +0000" stop="20251209010000 +0000" channel="Levante TV.es">
+<title>Fábrica de hielo</title>
+<sub-title></sub-title>
+<desc>Fábrica de hielo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209010000 +0000" stop="20251209013000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209013000 +0000" stop="20251209070000 +0000" channel="Levante TV.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Vuelve a ver las mejores entrevistas y reportajes de Levante TV.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209070000 +0000" stop="20251209083000 +0000" channel="Levante TV.es">
+<title>Cine</title>
+<sub-title></sub-title>
+<desc>Emision de una película.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209083000 +0000" stop="20251209093000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209093000 +0000" stop="20251209101500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209101500 +0000" stop="20251209104500 +0000" channel="Levante TV.es">
+<title>Levante taconsella</title>
+<sub-title></sub-title>
+<desc>Cada día dedicaremos un ratito de nuestro tiempo para darte los mejores consejos y recibir todas vuestras dudas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209104500 +0000" stop="20251209110000 +0000" channel="Levante TV.es">
+<title>Julie and Takumisan</title>
+<sub-title></sub-title>
+<desc>Píldoras de aprendizaje en las que por un lado se aprende ingles con Julie... y por el otro, se aprende mecánica de camiones en el taller Takumisan.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209120000 +0000" stop="20251209123000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209123000 +0000" stop="20251209130000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209130000 +0000" stop="20251209133000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209133000 +0000" stop="20251209140000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209140000 +0000" stop="20251209143000 +0000" channel="Levante TV.es">
+<title>Espai de consum</title>
+<sub-title></sub-title>
+<desc>Espai de consum</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209143000 +0000" stop="20251209151500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209151500 +0000" stop="20251209160000 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="Levante TV.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Laia cuenta los mejores cuentos para grandes y pequeños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209163000 +0000" stop="20251209170000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209170000 +0000" stop="20251209173000 +0000" channel="Levante TV.es">
+<title>Mundo Natural</title>
+<sub-title></sub-title>
+<desc>Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209173000 +0000" stop="20251209183000 +0000" channel="Levante TV.es">
+<title>Revista de Sociedad</title>
+<sub-title></sub-title>
+<desc>La sociedad, la cultura, la moda y el ocio de la Comunidad Valenciana se juntan en este programa semanal, donde se compaginan reportajes a pie de calle con entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209183000 +0000" stop="20251209190000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209190000 +0000" stop="20251209193000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209193000 +0000" stop="20251209200000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="Levante TV.es">
+<title>Tot Pilota</title>
+<sub-title></sub-title>
+<desc>30 minutos de pilota valenciana en un espacio, conducido por el periodista Cesar Molins.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209210000 +0000" stop="20251209220000 +0000" channel="Levante TV.es">
+<title>Tot es festa</title>
+<sub-title></sub-title>
+<desc>Programa faller.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209220000 +0000" stop="20251209223000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251209223000 +0000" stop="20251209233000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251205230000 +0000" stop="20251206030000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251206030000 +0000" stop="20251206080000 +0000" channel="Canal Parlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -12460,53 +12838,221 @@
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251207080000 +0000" stop="20251207110000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207110000 +0000" stop="20251207150000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207150000 +0000" stop="20251207190000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207190000 +0000" stop="20251207230000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207230000 +0000" stop="20251208030000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208030000 +0000" stop="20251208080000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208080000 +0000" stop="20251208110000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208110000 +0000" stop="20251208150000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208150000 +0000" stop="20251208190000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251208190000 +0000" stop="20251208230000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251206000000 +0000" stop="20251206030000 +0000" channel="MTV 90s.es">
 <title>90s Mixtape!</title>
 <sub-title></sub-title>
 <desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206030000 +0000" stop="20251206060000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
 <sub-title></sub-title>
 <desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206060000 +0000" stop="20251206070000 +0000" channel="MTV 90s.es">
 <title>Girl Power Hour!</title>
 <sub-title></sub-title>
 <desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206070000 +0000" stop="20251206100000 +0000" channel="MTV 90s.es">
 <title>Smells like the 90s</title>
 <sub-title></sub-title>
 <desc>Tune in as we rewind back to the 90s, the decade that brought us grunge and girl power, not to mention some epic videos!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206100000 +0000" stop="20251206133000 +0000" channel="MTV 90s.es">
-<title>The 50 Greatest Groups Of The 90s!</title>
-<sub-title></sub-title>
+<title>Top 50 (90s)</title>
+<sub-title>The 50 Greatest Groups Of The 90s!</sub-title>
 <desc>Here come the biggest hits from 50 of the worlds greatest 90s groups!</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<episode-num system="xmltv_ns">0.13.</episode-num>
 </programme>
 <programme start="20251206133000 +0000" stop="20251206170000 +0000" channel="MTV 90s.es">
 <title>90s Mixtape!</title>
 <sub-title></sub-title>
 <desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206170000 +0000" stop="20251206210000 +0000" channel="MTV 90s.es">
 <title>Dance Megamix!</title>
 <sub-title></sub-title>
 <desc>No hay mejor forma de celebrar los 90 que bailando, bailando, bailando a traves de los años. Del house al techno, pasando por la música disco intergaláctica, ¡nos aseguraremos de que no... dejes... de moverte!</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<episode-num system="xmltv_ns">1990.31.</episode-num>
 </programme>
 <programme start="20251206210000 +0000" stop="20251207000000 +0000" channel="MTV 90s.es">
 <title>Ultimate 90s Playlist!</title>
 <sub-title></sub-title>
 <desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251207000000 +0000" stop="20251207030000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251207030000 +0000" stop="20251207060000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251207060000 +0000" stop="20251207064500 +0000" channel="MTV 90s.es">
+<title>MTV Unplugged</title>
+<sub-title></sub-title>
+<desc>YO! MTV Raps Unplugged Special - 1991 featuring classic performances from Hip-Hop Legends LL Cool J, De La Soul, MC Lyte, A Tribe Called Quest.</desc>
+<episode-num system="xmltv_ns">1990.31.</episode-num>
+</programme>
+<programme start="20251207064500 +0000" stop="20251207100000 +0000" channel="MTV 90s.es">
+<title>Smells like the 90s</title>
+<sub-title></sub-title>
+<desc>Tune in as we rewind back to the 90s, the decade that brought us grunge and girl power, not to mention some epic videos!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251207100000 +0000" stop="20251207140000 +0000" channel="MTV 90s.es">
+<title>The power of 90s!</title>
+<sub-title>The power of 90s love!</sub-title>
+<desc>El poder del amor es fuerte en MTV, por eso hemos reunido las mejores canciones de amor y baladas de los 90 en una lista de reproduccion llena de sentimiento.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20251207140000 +0000" stop="20251207170000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251207170000 +0000" stop="20251207203500 +0000" channel="MTV 90s.es">
+<title>Top Hits - 90s</title>
+<sub-title>Top hits of 1992!</sub-title>
+<desc>Un repaso a los mayores exitos musicales de los años 90.</desc>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+</programme>
+<programme start="20251207203500 +0000" stop="20251208000000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208000000 +0000" stop="20251208030000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208030000 +0000" stop="20251208060000 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="MTV 90s.es">
+<title>Girl Power Hour!</title>
+<sub-title></sub-title>
+<desc>¡Ha llegado el momento de las chicas! Sintoniza con nosotros para disfrutar de los mayores exitos femeninos de los 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208070000 +0000" stop="20251208100000 +0000" channel="MTV 90s.es">
+<title>Smells like the 90s</title>
+<sub-title></sub-title>
+<desc>Tune in as we rewind back to the 90s, the decade that brought us grunge and girl power, not to mention some epic videos!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208100000 +0000" stop="20251208130000 +0000" channel="MTV 90s.es">
+<title>USA Hitlist!</title>
+<sub-title></sub-title>
+<desc>Un repaso a los mayores exitos musicales de las listas estadounidenses. ¡No te lo pierdas!</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20251208130000 +0000" stop="20251208140000 +0000" channel="MTV 90s.es">
+<title>Alternative Nation!</title>
+<sub-title></sub-title>
+<desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208140000 +0000" stop="20251208170000 +0000" channel="MTV 90s.es">
+<title>90s Mixtape!</title>
+<sub-title></sub-title>
+<desc>Get your walkman ready, weve hand-picked a mega selection of 90s pop, RandB and dance videos from the MTV archive. Mix it up, on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208170000 +0000" stop="20251208200000 +0000" channel="MTV 90s.es">
+<title>Boys vs Girls</title>
+<sub-title>90s Hits!</sub-title>
+<desc>Los chicos se enfrentan a las chicas en nuestra lista de reproduccion de exitos clásicos de los 90. ¿El resultado? Todo el mundo gana.</desc>
+<episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="MTV 90s.es">
+<title>Alternative Nation!</title>
+<sub-title></sub-title>
+<desc>Become part of the 90s Alternative Nation right now on MTV 90s!</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+</programme>
+<programme start="20251208210000 +0000" stop="20251208235500 +0000" channel="MTV 90s.es">
+<title>Ultimate 90s Playlist!</title>
+<sub-title></sub-title>
+<desc>Los mejores temas y los himnos definitivos de los años 90.</desc>
+<episode-num system="xmltv_ns">0.12.</episode-num>
 </programme>
 <programme start="20251206030421 +0000" stop="20251207030421 +0000" channel="7TV Andalucía.es">
 <title>7TV Andalucía</title>
