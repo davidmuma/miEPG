@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
-<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
 <channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
 <channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
@@ -52,6 +50,8 @@
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
 <channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
+<channel id="levante tv.es"><display-name>levante tv.es</display-name><icon src="https://images.open-epg.com/956370.png"/></channel>
+<channel id="tv rioja.es"><display-name>tv rioja.es</display-name><icon src="https://images.open-epg.com/956385.png"/></channel>
 <programme start="20251206000000 +0000" stop="20251206010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -36838,40 +36838,52 @@
 <desc>Reviva la música de ayer con Throwback</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206003000 +0000" stop="20251206023000 +0000" channel="levante tv.es">
+<programme start="20251206003000 +0000" stop="20251206013000 +0000" channel="levante tv.es">
 <title>Navidad de corazon</title>
 <sub-title></sub-title>
 <desc>Presentacion: Emilie Ullerup, Kristoffer Polaha, Sharon Lawrence, Yan-Kay Crystal Lowe, Nicholas Carella, Rachel Hayward, Bruce Dawson, Kimberley Sustad, Jay Hindle, Ruby Gillett, Brendon Zub, Omari Newton: Cuando Jenny, una enfermera de un hospital de neonatos, decide organizar una fiesta para su veterana compañera, descubre que a su amiga la van a echar del trabajo. Todo se lía cada vez más cuando el nuevo director de personal se enamora perdidamente de Jenny. Entonces esta emplea a fondo sus armas de mujer para conseguir que su querida amiga permanezca en su puesto de trabajo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206023000 +0000" stop="20251206080000 +0000" channel="levante tv.es">
-<title>En archivo</title>
-<sub-title></sub-title>
-<desc>Presentacion: Sin descripcion</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206080000 +0000" stop="20251206090000 +0000" channel="levante tv.es">
-<title>Laia</title>
-<sub-title></sub-title>
-<desc>Presentacion: Sin descripcion</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206090000 +0000" stop="20251206093000 +0000" channel="levante tv.es">
-<title>Aprende ingles con Julie</title>
-<sub-title></sub-title>
-<desc>Presentacion: Sin descripcion</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206093000 +0000" stop="20251206120000 +0000" channel="levante tv.es">
+<programme start="20251206013000 +0000" stop="20251206020000 +0000" channel="levante tv.es">
 <title>Levante en directe</title>
 <sub-title></sub-title>
 <desc>Presentacion: Magacín que muestra la actualidad de Levante a los espectadores.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206120000 +0000" stop="20251206130000 +0000" channel="levante tv.es">
-<title>Mundo natural</title>
+<programme start="20251206020000 +0000" stop="20251206053000 +0000" channel="levante tv.es">
+<title>Aventurístico</title>
 <sub-title></sub-title>
-<desc>Presentacion: Adrián González: Sin descripcion</desc>
+<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206053000 +0000" stop="20251206090000 +0000" channel="levante tv.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206090000 +0000" stop="20251206090000 +0000" channel="levante tv.es">
+<title>Aprende ingles con Julie</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206090000 +0000" stop="20251206120000 +0000" channel="levante tv.es">
+<title>Super Running</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206120000 +0000" stop="20251206130000 +0000" channel="levante tv.es">
+<title>Revista de sociedad</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206130000 +0000" stop="20251206130000 +0000" channel="levante tv.es">
+<title>Consum</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251206130000 +0000" stop="20251206143000 +0000" channel="levante tv.es">
@@ -36880,28 +36892,28 @@
 <desc>Presentacion: Concurso musical que tiene como objetivo reivindicar el talento local de la tierra.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206143000 +0000" stop="20251206163000 +0000" channel="levante tv.es">
+<programme start="20251206143000 +0000" stop="20251206170000 +0000" channel="levante tv.es">
 <title>La vida secreta de la señora Claus</title>
 <sub-title></sub-title>
 <desc>Presentacion: Julie Benz, David Sutcliffe, Bruce Gray, Catherine McNally, Vanessa Matsui, Ashley Leggat, Paul Hopkins, Jake Epstein, Daniel DeSanto, Aidan Wojtak-Hissong, Bill Lake, Amanda Brugel, Katie Bergin, Nora Sheehan: Meredith y sus padres son los propietarios de los almacenes Rossmans. Como todas las Navidades, los pequeños hacen cola para hablar con Papá Noel. Para ello, este año han contratado a Nick, un joven que tiene un imán con los niños pero que tambien conecta especialmente con Meredith, a pesar de que ella se resista a admitirlo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206163000 +0000" stop="20251206170000 +0000" channel="levante tv.es">
-<title>Aventurístico</title>
+<programme start="20251206170000 +0000" stop="20251206170000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
 <sub-title></sub-title>
-<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<desc>Presentacion: Incluye Takumisan.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206170000 +0000" stop="20251206173000 +0000" channel="levante tv.es">
+<programme start="20251206170000 +0000" stop="20251206180000 +0000" channel="levante tv.es">
 <title>Álex Gimenez</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206173000 +0000" stop="20251206181500 +0000" channel="levante tv.es">
-<title>Super Deportes</title>
+<programme start="20251206180000 +0000" stop="20251206181500 +0000" channel="levante tv.es">
+<title>Mundo natural</title>
 <sub-title></sub-title>
-<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<desc>Presentacion: Adrián González: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251206181500 +0000" stop="20251206183000 +0000" channel="levante tv.es">
@@ -36910,34 +36922,22 @@
 <desc>Presentacion: Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="levante tv.es">
+<programme start="20251206183000 +0000" stop="20251206183000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206183000 +0000" stop="20251206200000 +0000" channel="levante tv.es">
 <title>EcomAcademy</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206190000 +0000" stop="20251206193000 +0000" channel="levante tv.es">
-<title>Consum</title>
-<sub-title></sub-title>
-<desc>Presentacion: Sin descripcion</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206193000 +0000" stop="20251206200000 +0000" channel="levante tv.es">
-<title>Revista de sociedad</title>
-<sub-title></sub-title>
-<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206200000 +0000" stop="20251206203000 +0000" channel="levante tv.es">
+<programme start="20251206200000 +0000" stop="20251206210000 +0000" channel="levante tv.es">
 <title>Las dos vidas de Hannah</title>
 <sub-title></sub-title>
 <desc>Presentacion: Lacey Chabert, Tyron Leitso, Milli Wilkinson, Audrey Smallman, Brittney Wilson, Keith MacKechnie, Jill Morrison, Matthew Kevin Anderson, James Kirk, Sean Tyson, Michael St. John Smith, Michael Meneer, Danny Mac, Laura Adkin, Lee Tichon: Ocho años despues de abandonar a su novio, Hannah Dunbar se ha convertido en una famosa reportera de tv. Una mañana se despierta en una casa desconocida y descubre que está casada con su antiguo novio y tiene dos hijas. Superado el desconcierto de los primeros días, Hannah descubre que ha encontrado en el seno de su familia la felicidad que no tenía.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206203000 +0000" stop="20251206210000 +0000" channel="levante tv.es">
-<title>Super Running</title>
-<sub-title></sub-title>
-<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251206210000 +0000" stop="20251206223000 +0000" channel="levante tv.es">
@@ -36952,28 +36952,130 @@
 <desc>Presentacion: Programa fallero con aire desenvuelto, fresco y divertido. Un espacio que informa, entretiene y propone debates a los espectadores sobre el mundo de las fallas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206223000 +0000" stop="20251206235900 +0000" channel="levante tv.es">
+<programme start="20251206223000 +0000" stop="20251207000000 +0000" channel="levante tv.es">
 <title>Ya estás en casa</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206023500 +0000" stop="20251206100000 +0000" channel="tv rioja.es">
+<programme start="20251207000000 +0000" stop="20251207020000 +0000" channel="levante tv.es">
+<title>Unidos por el destino</title>
+<sub-title></sub-title>
+<desc>Presentacion: Brendan Fraser, Joanna Going, Celeste Holm, Lou Rawls, Steven Lambert: Fletcher es un excentrico artista, y Roz una ejecutiva con una agenda muy apretada. No tienen nada en común pero, sin saberlo, se necesitan desesperadamente. Los protagonistas tienen una mágica oportunidad para demostrar que el amor está más cerca de lo que creemos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207020000 +0000" stop="20251207053000 +0000" channel="levante tv.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa especializado en deportes de aventura y actividades al aire libre. A traves de diferentes reportajes, se acerca al espectador actividades que se pueden realizar en muchos rincones de España como: senderismo, rutas en bicicleta, alpinismo, escalada y barranquismo, entre otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207053000 +0000" stop="20251207090000 +0000" channel="levante tv.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece una seleccion de los mejores momentos, entrevistas y reportajes a lo largo del año.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207090000 +0000" stop="20251207090000 +0000" channel="levante tv.es">
+<title>Aprende ingles con Julie</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207090000 +0000" stop="20251207120000 +0000" channel="levante tv.es">
+<title>Super Running</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa que acerca la actualidad del mundo runner de Valencia y provincia. Carreras populares, trails, pruebas solidarias o los circuitos tienen cabida en este espacio en el que además los atletas, entrenadores, clubes y directores de carreras son los protagonistas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207120000 +0000" stop="20251207130000 +0000" channel="levante tv.es">
+<title>Revista de sociedad</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que trata temas de sociedad, cultura, moda y ocio de la Comunidad Valenciana, en el que se compaginan reportajes a pie de calle y entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207130000 +0000" stop="20251207130000 +0000" channel="levante tv.es">
+<title>Consum</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207130000 +0000" stop="20251207150000 +0000" channel="levante tv.es">
+<title>Estrellas del Túria</title>
+<sub-title></sub-title>
+<desc>Presentacion: Concurso musical que tiene como objetivo reivindicar el talento local de la tierra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207150000 +0000" stop="20251207170000 +0000" channel="levante tv.es">
+<title>El tesoro del capitán Kidd</title>
+<sub-title></sub-title>
+<desc>Presentacion: Jim Chiros, Shauna-Beth Mandelburg, Mark Samburg: El joven Jonas Johnson se muda con su familia a la pequeña localidad de Mystic. Junto a Schoner, hijo de un pescador de la zona, encuentra un mapa de 300 años de antiguedad. Su rastro les puede conducir hasta el tesoro del capitán Kidd que se perdio hace tres siglos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207170000 +0000" stop="20251207180000 +0000" channel="levante tv.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Incluye Takumisan.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207180000 +0000" stop="20251207183000 +0000" channel="levante tv.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207183000 +0000" stop="20251207183000 +0000" channel="levante tv.es">
+<title>Super Deportes</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado. El programa se ocupa de disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo y la halterofilia, entre otros, sin olvidar deportes como el beisbol, los dardos, la petanca o la pilota valenciana, que tiene una seccion semanal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207183000 +0000" stop="20251207210000 +0000" channel="levante tv.es">
+<title>EcomAcademy</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207210000 +0000" stop="20251207213000 +0000" channel="levante tv.es">
+<title>Receta a voces</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que ofrece historias de vida, humanas, de corazon ligadas al mundo del deporte.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207213000 +0000" stop="20251207213000 +0000" channel="levante tv.es">
+<title>Cocina familiar con Javier Romero</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de cocina con recetas sorprendentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207213000 +0000" stop="20251207223000 +0000" channel="levante tv.es">
+<title>George B.</title>
+<sub-title></sub-title>
+<desc>Presentacion: David Morse, Nina Siemaszko, Bradley Gregg, John Franklin, Grace Zabriskie: George B. es un conserje cuya única ambicion es encontrar el amor. Un día su sueño se hace realidad y George conoce a una mujer fantástica de la que se enamora rápidamente. El problema reside en la madre de la joven, una mujer muy dominante y posesiva.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207223000 +0000" stop="20251207235900 +0000" channel="levante tv.es">
+<title>Tot es festa</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa fallero con aire desenvuelto, fresco y divertido. Un espacio que informa, entretiene y propone debates a los espectadores sobre el mundo de las fallas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206013500 +0000" stop="20251206090000 +0000" channel="tv rioja.es">
 <title>Redifusiones</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206100000 +0000" stop="20251206120000 +0000" channel="tv rioja.es">
+<programme start="20251206090000 +0000" stop="20251206100000 +0000" channel="tv rioja.es">
+<title>La cocina de Ventura y Gabi</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio gastronomico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206100000 +0000" stop="20251206140000 +0000" channel="tv rioja.es">
 <title>Dibujos animados</title>
 <sub-title></sub-title>
 <desc>Presentacion: Incluye Puppy in my pocket, Miguel Strogoff. Programa dirigido al público infantil que incluye diversas series de animacion.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206120000 +0000" stop="20251206140000 +0000" channel="tv rioja.es">
-<title>Mundo natural</title>
-<sub-title></sub-title>
-<desc>Presentacion: Adrián González: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251206140000 +0000" stop="20251206143000 +0000" channel="tv rioja.es">
@@ -36988,40 +37090,40 @@
 <desc>Presentacion: Programa que realiza un resumen informativo de lo que ha ocurrido durante la semana.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206150000 +0000" stop="20251206150000 +0000" channel="tv rioja.es">
-<title>La cocina de Ventura y Gabi</title>
-<sub-title></sub-title>
-<desc>Presentacion: Espacio gastronomico.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20251206150000 +0000" stop="20251206163000 +0000" channel="tv rioja.es">
 <title>Surferas</title>
 <sub-title></sub-title>
 <desc>Presentacion: Espacio que muestra la destacada presencia de la mujer en el mundo del surf.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206163000 +0000" stop="20251206183000 +0000" channel="tv rioja.es">
+<programme start="20251206163000 +0000" stop="20251206180000 +0000" channel="tv rioja.es">
 <title>Vaughan</title>
 <sub-title></sub-title>
 <desc>Presentacion: Cursos de ingles a medida.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206183000 +0000" stop="20251206193000 +0000" channel="tv rioja.es">
+<programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="tv rioja.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206183000 +0000" stop="20251206200000 +0000" channel="tv rioja.es">
 <title>Futuro en español</title>
 <sub-title></sub-title>
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206193000 +0000" stop="20251206200000 +0000" channel="tv rioja.es">
-<title>Cocina familiar</title>
-<sub-title></sub-title>
-<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20251206200000 +0000" stop="20251206213000 +0000" channel="tv rioja.es">
+<programme start="20251206200000 +0000" stop="20251206200000 +0000" channel="tv rioja.es">
 <title>Aquí La Rioja</title>
 <sub-title></sub-title>
 <desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251206200000 +0000" stop="20251206213000 +0000" channel="tv rioja.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="tv rioja.es">
@@ -37036,7 +37138,97 @@
 <desc>Presentacion: Sin descripcion</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20251206233000 +0000" stop="20251206235900 +0000" channel="tv rioja.es">
+<programme start="20251206233000 +0000" stop="20251207013500 +0000" channel="tv rioja.es">
+<title>Toni Rovira y tú</title>
+<sub-title></sub-title>
+<desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207013500 +0000" stop="20251207100000 +0000" channel="tv rioja.es">
+<title>Redifusiones</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207100000 +0000" stop="20251207110000 +0000" channel="tv rioja.es">
+<title>Dibujos animados</title>
+<sub-title></sub-title>
+<desc>Presentacion: Incluye Puppy in my pocket, Miguel Strogoff. Programa dirigido al público infantil que incluye diversas series de animacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207110000 +0000" stop="20251207140000 +0000" channel="tv rioja.es">
+<title>Más que palabras</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio de tertulia de actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207140000 +0000" stop="20251207143000 +0000" channel="tv rioja.es">
+<title>En su punto con Baro</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que muestra lo mejor de la gastronomía con atractivas recetas fáciles de preparar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207143000 +0000" stop="20251207150000 +0000" channel="tv rioja.es">
+<title>La semana</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa que realiza un resumen informativo de lo que ha ocurrido durante la semana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207150000 +0000" stop="20251207163000 +0000" channel="tv rioja.es">
+<title>Surferas</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que muestra la destacada presencia de la mujer en el mundo del surf.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207163000 +0000" stop="20251207180000 +0000" channel="tv rioja.es">
+<title>Vaughan</title>
+<sub-title></sub-title>
+<desc>Presentacion: Cursos de ingles a medida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207180000 +0000" stop="20251207183000 +0000" channel="tv rioja.es">
+<title>Mundo natural</title>
+<sub-title></sub-title>
+<desc>Presentacion: Adrián González: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207183000 +0000" stop="20251207200000 +0000" channel="tv rioja.es">
+<title>Futuro en español</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207200000 +0000" stop="20251207200000 +0000" channel="tv rioja.es">
+<title>Cocina familiar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronomicas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207200000 +0000" stop="20251207213000 +0000" channel="tv rioja.es">
+<title>Aquí La Rioja</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207213000 +0000" stop="20251207220000 +0000" channel="tv rioja.es">
+<title>Saber y catar</title>
+<sub-title></sub-title>
+<desc>Presentacion: Manu Bennett, Larenz Tate, Linden Ashby: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207220000 +0000" stop="20251207230000 +0000" channel="tv rioja.es">
+<title>Riojanitos</title>
+<sub-title></sub-title>
+<desc>Presentacion: Sin descripcion</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207230000 +0000" stop="20251207233000 +0000" channel="tv rioja.es">
+<title>Rodaje</title>
+<sub-title></sub-title>
+<desc>Presentacion: Programa dedicado al mundo del motor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251207233000 +0000" stop="20251207235900 +0000" channel="tv rioja.es">
 <title>Toni Rovira y tú</title>
 <sub-title></sub-title>
 <desc>Presentacion: Magacín de entrevistas y espectáculos.</desc>
