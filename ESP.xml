@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
-<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
 <channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
@@ -52,6 +50,8 @@
 <channel id="MTV 80s.ar"><display-name>MTV 80s.ar</display-name><icon src="https://images.open-epg.com/35637.png"/></channel>
 <channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name><icon src="https://images.open-epg.com/35852.png"/></channel>
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
+<channel id="8Madrid TV.es"><display-name>8Madrid TV.es</display-name><icon src="https://images.open-epg.com/6464355.png"/></channel>
+<channel id="Levante TV.es"><display-name>Levante TV.es</display-name><icon src="https://images.open-epg.com/6464445.png"/></channel>
 <programme start="20251213000000 +0000" stop="20251213010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -12442,6 +12442,18 @@
 <desc>Despres dhaver deixat tothom astorat amb les seves victòries ràpides i contundents a lEuropa occidental, Hitler dirigeix el seu exèrcit cap a lest. Saltant-se tots els compromisos adquirits amb Stalin, envaeix Rússia en un únic front de 3.000 quilòmetres de llargada.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="Levante TV.es">
+<title>Tot Pilota</title>
+<sub-title></sub-title>
+<desc>30 minutos de pilota valenciana en un espacio, conducido por el periodista Cesar Molins.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251212233000 +0000" stop="20251213003000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20251213003000 +0000" stop="20251213010000 +0000" channel="Levante TV.es">
 <title>Levante en directe</title>
 <sub-title></sub-title>
@@ -12893,6 +12905,198 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20251215223000 +0000" stop="20251215230000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251215230000 +0000" stop="20251216003000 +0000" channel="Levante TV.es">
+<title>La vida secreta de la señora Claus</title>
+<sub-title></sub-title>
+<desc>Meredith y sus padres son los propietarios de los almacenes Rossmans y, como todas las Navidades, los pequeños hacen cola para hablar con Papá Noel. Para ello, este año han contratado al joven Nick.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216003000 +0000" stop="20251216010000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216010000 +0000" stop="20251216013000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216013000 +0000" stop="20251216070000 +0000" channel="Levante TV.es">
+<title>En archivo</title>
+<sub-title></sub-title>
+<desc>Vuelve a ver las mejores entrevistas y reportajes de Levante TV.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216070000 +0000" stop="20251216073000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216073000 +0000" stop="20251216080000 +0000" channel="Levante TV.es">
+<title>Super basket</title>
+<sub-title></sub-title>
+<desc>Espai dedicat a cobrir lactualitat del mon del bàsquet i, en especial, del València Basket.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216080000 +0000" stop="20251216083000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216083000 +0000" stop="20251216090000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216090000 +0000" stop="20251216093000 +0000" channel="Levante TV.es">
+<title>Super basket</title>
+<sub-title></sub-title>
+<desc>Espai dedicat a cobrir lactualitat del mon del bàsquet i, en especial, del València Basket.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216093000 +0000" stop="20251216101500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216101500 +0000" stop="20251216104500 +0000" channel="Levante TV.es">
+<title>Levante taconsella</title>
+<sub-title></sub-title>
+<desc>Cada día dedicaremos un ratito de nuestro tiempo para darte los mejores consejos y recibir todas vuestras dudas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216104500 +0000" stop="20251216110000 +0000" channel="Levante TV.es">
+<title>Julie and Takumisan</title>
+<sub-title></sub-title>
+<desc>Píldoras de aprendizaje en las que por un lado se aprende ingles con Julie... y por el otro, se aprende mecánica de camiones en el taller Takumisan.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216110000 +0000" stop="20251216120000 +0000" channel="Levante TV.es">
+<title>Superdeportes</title>
+<sub-title></sub-title>
+<desc>Programa que apuesta por el deporte amateur, el deporte base, el deporte femenino y el deporte adaptado, abarcando disciplinas como el balonmano, el rugby, el waterpolo, el ciclismo, el frontenis, la esgrima, la halterofilia, el karate o las carreras populares.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="Levante TV.es">
+<title>Super basket</title>
+<sub-title></sub-title>
+<desc>Espai dedicat a cobrir lactualitat del mon del bàsquet i, en especial, del València Basket.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216133000 +0000" stop="20251216140000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216140000 +0000" stop="20251216143000 +0000" channel="Levante TV.es">
+<title>Espai de consum</title>
+<sub-title></sub-title>
+<desc>Espai de consum</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216143000 +0000" stop="20251216151500 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216151500 +0000" stop="20251216160000 +0000" channel="Levante TV.es">
+<title>Amor secreto</title>
+<sub-title></sub-title>
+<desc>Irene es la secretaria perfecta, pero a pesar de sus impresionantes habilidades, su carácter introvertido y su baja autoestima le hacen pensar que no es una mujer atractiva para los hombres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="Levante TV.es">
+<title>Laia cuentacuentos</title>
+<sub-title></sub-title>
+<desc>Laia cuenta los mejores cuentos para grandes y pequeños.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Levante TV.es">
+<title>Mundo Natural</title>
+<sub-title></sub-title>
+<desc>Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentacion, la suplementacion y la actividad física conforman para la consecucion de una vida saludable.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216173000 +0000" stop="20251216183000 +0000" channel="Levante TV.es">
+<title>Revista de Sociedad</title>
+<sub-title></sub-title>
+<desc>La sociedad, la cultura, la moda y el ocio de la Comunidad Valenciana se juntan en este programa semanal, donde se compaginan reportajes a pie de calle con entrevistas en plato a protagonistas destacados de la actualidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216183000 +0000" stop="20251216190000 +0000" channel="Levante TV.es">
+<title>Aventurístico</title>
+<sub-title></sub-title>
+<desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216190000 +0000" stop="20251216193000 +0000" channel="Levante TV.es">
+<title>Cocina Familiar</title>
+<sub-title></sub-title>
+<desc>Espacio de cocina presentado por el chef Javier Romero.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216193000 +0000" stop="20251216200000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216200000 +0000" stop="20251216203000 +0000" channel="Levante TV.es">
+<title>Tot Pilota</title>
+<sub-title></sub-title>
+<desc>30 minutos de pilota valenciana en un espacio, conducido por el periodista Cesar Molins.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216203000 +0000" stop="20251216210000 +0000" channel="Levante TV.es">
+<title>Super basket</title>
+<sub-title></sub-title>
+<desc>Espai dedicat a cobrir lactualitat del mon del bàsquet i, en especial, del València Basket.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216210000 +0000" stop="20251216220000 +0000" channel="Levante TV.es">
+<title>Tot es festa</title>
+<sub-title></sub-title>
+<desc>Programa faller.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216220000 +0000" stop="20251216223000 +0000" channel="Levante TV.es">
+<title>Levante en directe</title>
+<sub-title></sub-title>
+<desc>Una finestra per vore què està passant a Levante i els nostres pobles, cada migdia. La taula dactualitat ens aporta les opinions mes diverses i les entrevistes ens apropen els protagonistes mes interessants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20251216223000 +0000" stop="20251216233000 +0000" channel="Levante TV.es">
 <title>Aventurístico</title>
 <sub-title></sub-title>
 <desc>Programa semanal de reportajes sobre actividades en la naturaleza. Una manera de comenzar a disfrutar de la espectacularidad de la escalada, el senderismo, kayak, rafting, vías ferratas, alpinismo, btt, espeleología, submarinismo, hípica, vuelo en parapente y más.</desc>
