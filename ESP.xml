@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
-<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Bon Dia TV.es"><display-name>Bon Dia TV.es</display-name><icon src="https://images.open-epg.com/4950.png"/></channel>
@@ -44,6 +42,8 @@
 <channel id="Canal FlixOle 1.es"><display-name>Canal FlixOle 1.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Canal FlixOle 2.es"><display-name>Canal FlixOle 2.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
+<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
+<channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -6104,127 +6104,163 @@
 <desc>Espacio de humor y entretenimiento que te hace reflexionar en torno al estilo de vida que llevamos diariamente, usando situaciones típicas que se desarrollan en el Cafe de Jose Luis.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260101020000 +0000" stop="20260102020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101020000 +0000" stop="20260101060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102020000 +0000" stop="20260102060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101060000 +0000" stop="20260101100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102060000 +0000" stop="20260102100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101100000 +0000" stop="20260101140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102100000 +0000" stop="20260102140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101140000 +0000" stop="20260101180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102140000 +0000" stop="20260102180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101180000 +0000" stop="20260101220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102180000 +0000" stop="20260102220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260101220000 +0000" stop="20260102020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260102220000 +0000" stop="20260103020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260102020000 +0000" stop="20260103020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260103020000 +0000" stop="20260104020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103020000 +0000" stop="20260103060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104020000 +0000" stop="20260104060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103060000 +0000" stop="20260103100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104060000 +0000" stop="20260104100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103100000 +0000" stop="20260103140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104100000 +0000" stop="20260104140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103140000 +0000" stop="20260103180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104140000 +0000" stop="20260104180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103180000 +0000" stop="20260103220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104180000 +0000" stop="20260104220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260103220000 +0000" stop="20260104020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260104220000 +0000" stop="20260105020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260104020000 +0000" stop="20260105020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260105020000 +0000" stop="20260106020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105020000 +0000" stop="20260105060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106020000 +0000" stop="20260106060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105060000 +0000" stop="20260105100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106060000 +0000" stop="20260106100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105100000 +0000" stop="20260105140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106100000 +0000" stop="20260106140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105140000 +0000" stop="20260105180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106140000 +0000" stop="20260106180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105180000 +0000" stop="20260105220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106180000 +0000" stop="20260106220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260105220000 +0000" stop="20260106020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260106220000 +0000" stop="20260107020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<programme start="20260106020000 +0000" stop="20260107020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107020000 +0000" stop="20260107060000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107060000 +0000" stop="20260107100000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107100000 +0000" stop="20260107140000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107140000 +0000" stop="20260107180000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107180000 +0000" stop="20260107220000 +0000" channel="Tabernaculo Biblico Bautista.sv">
+<title>TBB</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260107220000 +0000" stop="20260108020000 +0000" channel="Tabernaculo Biblico Bautista.sv">
 <title>TBB</title>
 <sub-title></sub-title>
 <desc></desc>
@@ -13905,6 +13941,630 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260101044300 +0000" stop="20260101044800 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101143600 +0000" stop="20260101161200 +0000" channel="Canal 33.es">
+<title>Un nen gran</title>
+<sub-title></sub-title>
+<desc>Un xiquet de 12 anys amb problemes creu que la solucio a les seues preocupacions es troba en un home de 38 anys ric i superficial que nomes pensa en si mateix.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101161200 +0000" stop="20260101175700 +0000" channel="Canal 33.es">
+<title>Truman</title>
+<sub-title></sub-title>
+<desc>Un actor enfermo terminal espera resolver viejos conflictos con su amigo de la infancia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101175700 +0000" stop="20260101190200 +0000" channel="Canal 33.es">
+<title>Viatjar a Mart. Salvar la Terra</title>
+<sub-title></sub-title>
+<desc>Científics darreu del mon treballen per fer realitat el somni darribar a Mart.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101190200 +0000" stop="20260101200000 +0000" channel="Canal 33.es">
+<title>Un planeta perfecto: El Sol</title>
+<sub-title></sub-title>
+<desc>Lenergia que la Terra rep del Sol es imprescindible per a la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="Canal 33.es">
+<title>El monòleg de lany</title>
+<sub-title></sub-title>
+<desc>Andreu Buenafuente repassa els fets i moments mes emblemàtics de cada any. Lhumorista i presentador recorda els esdeveniments mes significatius a traves de diferents monòlegs que porten el seu segell de diversio assegurada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101210000 +0000" stop="20260101214700 +0000" channel="Canal 33.es">
+<title>La Renaixença: La paella</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101214700 +0000" stop="20260101232600 +0000" channel="Canal 33.es">
+<title>Diumenge Concert: Concert inaugural Temporada OBC 2025-26 / La novena de Beethoven</title>
+<sub-title></sub-title>
+<desc>LOrquestra Simfònica de Barcelona i Nacional de Catalunya (OBC) inaugura la temporada 2025-26 amb la Novena simfonia de Beethoven. LOBC compta amb la participacio de lOrfeo Català en el moviment final, basat ...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260101232600 +0000" stop="20260102003800 +0000" channel="Canal 33.es">
+<title>Còmics: Capri</title>
+<sub-title></sub-title>
+<desc>Sens dubte, el primer gran monologuista de Catalunya, a partir del seva encarnacio del prototip de català emprenyat. Una personalitat complexa, turmentada i amb un humor àcid, lúcid, irresistiblement divertit i dactualit...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102003800 +0000" stop="20260102012100 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.1 El gran calamar</title>
+<sub-title></sub-title>
+<desc>En Joel Joan mira de fer-se amb el paper protagonista de Moragues, el gran general.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102012100 +0000" stop="20260102020400 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.2 El gran combat</title>
+<sub-title></sub-title>
+<desc>En Joel intenta per tots els mitjans que el Roger Coma, a qui han donat el paper de Moragues, es dediqui a escriure i abandoni la pel·lícula.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102020400 +0000" stop="20260102024700 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.3 La gran fantasia</title>
+<sub-title></sub-title>
+<desc>Despres de trencar amb la Sandra, el Joel busca viure una aventura nocturna.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102024700 +0000" stop="20260102032500 +0000" channel="Canal 33.es">
+<title>Il·luminats: Viatge a la utopia amb David Fernández</title>
+<sub-title></sub-title>
+<desc>Lactivista social David Fernández i Jordi Lara fan un viatge a la recerca duna societat utòpica. Recorren illots deserts, carreteres solitàries, senfronten a molins de vent i al capdavall acaben al Parlament de Catalunya.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102032500 +0000" stop="20260102040400 +0000" channel="Canal 33.es">
+<title>Il·luminats: Ens guarim la infoxicacio digital en un sanatori amb Íngrid Guardiola</title>
+<sub-title></sub-title>
+<desc>Jordi Lara ha ingressat en un sanatori per guarir-se dinfoxicacio digital. La investigadora Íngrid Guardiola lacompanya en el proces i reflexiona sobre la societat digital, les imatges i la possibilitat de loblit.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102040400 +0000" stop="20260102041300 +0000" channel="Canal 33.es">
+<title>Gran!: Irene Solà: "Canto jo i la muntanya balla"</title>
+<sub-title></sub-title>
+<desc>Laparicio de la segona novel·la dIrene Solà el 2019 va revolucionar les lletres catalanes. Un llibre poètic, màgic i narrativament molt ambicios que barreja la història, la llegenda, la realitat i la literatura.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102041300 +0000" stop="20260102042400 +0000" channel="Canal 33.es">
+<title>Gran!: Sau: "Quina nit"</title>
+<sub-title></sub-title>
+<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102042400 +0000" stop="20260102042900 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102042900 +0000" stop="20260102043400 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102043400 +0000" stop="20260102044000 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102044000 +0000" stop="20260102044500 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102044500 +0000" stop="20260102045200 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102045200 +0000" stop="20260102050000 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102050000 +0000" stop="20260102050600 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102050600 +0000" stop="20260102055800 +0000" channel="Canal 33.es">
+<title>Gent de mon: Venècia i mar Adriàtic</title>
+<sub-title></sub-title>
+<desc>Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro. Una ruta pel Mediterrani oriental on trobarem el rastre dantigues civilitzacions desaparegudes i dimperis caiguts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102055800 +0000" stop="20260102062700 +0000" channel="Canal 33.es">
+<title>GR Pirineus: Finisterre a la catalana</title>
+<sub-title></sub-title>
+<desc>En el tercer programa encetem la primera de les quatre rutes per lAlt Empordà, i anem des dEmpúries fins al cap de Creus, uns 55 quilòmetres fets a peu, en cotxe i en paracaigudes. De les ruïnes anirem a Viladamat i a lArmentera.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102062700 +0000" stop="20260102065800 +0000" channel="Canal 33.es">
+<title>GR Pirineus: Terra, mar i presons medievals</title>
+<sub-title></sub-title>
+<desc>El recorregut comença a lextrem mes oriental de lEmpordà, a Portbou.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102065800 +0000" stop="20260102074800 +0000" channel="Canal 33.es">
+<title>Els meus pares: Resum</title>
+<sub-title></sub-title>
+<desc>Episodi especial amb els moments mes emotius de tota la temporada, en què lespectador es podrà tornar a emocionar amb les converses i confessions entre la periodista Gemma Nierga i els pares de diversos personatges coneguts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102074800 +0000" stop="20260102082800 +0000" channel="Canal 33.es">
+<title>Això no es una canço: Respect</title>
+<sub-title></sub-title>
+<desc>Respect, dAretha Frankli, s’ha convertit en un himne d’empoderament femení.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102082800 +0000" stop="20260102092200 +0000" channel="Canal 33.es">
+<title>Katalonski: Tòquio</title>
+<sub-title></sub-title>
+<desc>Anirem fins a Tòquio buscant el mític professor Ko Tazawa, que al final ens presenta els seus dos fills, totalment diferents entre sí; cantem Doraemon al karaoke amb en Sho Kasahara; i la Yu Masuda ens convida a conèixer la penya del Barça.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102092200 +0000" stop="20260102100000 +0000" channel="Canal 33.es">
+<title>La mar de be: Mèdan</title>
+<sub-title></sub-title>
+<desc>Reportatge de Quim Casellas a Roses, viu una jornada de pesca darrossegament amb Francesc Sastre "Cisco</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102100000 +0000" stop="20260102102500 +0000" channel="Canal 33.es">
+<title>Riu avall: Tordera</title>
+<sub-title></sub-title>
+<desc>La Tordera neix al cor del Montseny, sota el Coll de Sant Marçal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102102500 +0000" stop="20260102105200 +0000" channel="Canal 33.es">
+<title>Riu avall: Cardener</title>
+<sub-title></sub-title>
+<desc>Les terres altes del Solsonès acullen la capçalera del Cardener.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102105200 +0000" stop="20260102111000 +0000" channel="Canal 33.es">
+<title>Marcians: La Llama, búnquer de lhumor</title>
+<sub-title></sub-title>
+<desc>Al barri de Sant Antoni, hi ha la primera botiga del mon dedicada a la comèdia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102111000 +0000" stop="20260102113000 +0000" channel="Canal 33.es">
+<title>Marcians: Fantàstics Ramons</title>
+<sub-title></sub-title>
+<desc>Quan anem al teatre, acostumem a veure sempre els mateixos cossos i les mateixes veus.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102113000 +0000" stop="20260102121800 +0000" channel="Canal 33.es">
+<title>Terreny personal: Plana del Penedès</title>
+<sub-title></sub-title>
+<desc>El programa arriba a la plana del Penedès, un terreny on la vinya domina el paisatge.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102121800 +0000" stop="20260102124800 +0000" channel="Canal 33.es">
+<title>Amb filosofia: La vida en comú</title>
+<sub-title></sub-title>
+<desc>La filosofia sha ocupat, tradicionalment, dels problemes del jo, del subjecte.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102124800 +0000" stop="20260102133400 +0000" channel="Canal 33.es">
+<title>GR Terres del Sud: Lo riu es vida</title>
+<sub-title></sub-title>
+<desc>Avui la ruta recorrerà lúltim tram del riu Ebre abans darribar al Mediterrani.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102133400 +0000" stop="20260102142400 +0000" channel="Canal 33.es">
+<title>This is Art: Miedo</title>
+<sub-title></sub-title>
+<desc>La por es un sentiment paralitzant que pot arrossegar-nos a labisme. Ens tancarem a lhabitacio de la por i intentarem tirar a baix les seves parets, amb lajuda dels artistes que van saber lluitar contra els seus temors a traves de l...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102142400 +0000" stop="20260102151100 +0000" channel="Canal 33.es">
+<title>La Renaixença: La torradora de pa</title>
+<sub-title></sub-title>
+<desc>Dediquem aquest capítol a la torradora de pa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102151100 +0000" stop="20260102160000 +0000" channel="Canal 33.es">
+<title>De bon humor: Lhumor a la televisio</title>
+<sub-title></sub-title>
+<desc>Una de les finestres per on lhumor i els riures entren a casa nostra es a traves de la televisio. Fer humor a la televisio no es fàcil, però Catalunya ha estat un planter constant dhumoristes que han omplert les pantalles de mig país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102160000 +0000" stop="20260102164200 +0000" channel="Canal 33.es">
+<title>El llenguado: Els insults i viatge al Solsonès</title>
+<sub-title></sub-title>
+<desc>Ajudat pel linguista Pau Vidal, però tambe de la Natza Farre o lAdrià Pujol, en Guillem Albà es pregunta si hi ha insults veritablement ofensius en català. Parlem dinsults sexistes, de correccio política i de com insultaven grecs i romans...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102164200 +0000" stop="20260102173000 +0000" channel="Canal 33.es">
+<title>Trinxeres: De Faio a Flix: la batalla de lEbre 1</title>
+<sub-title></sub-title>
+<desc>Primer dels dos capítols dedicats a la Batalla de lEbre, la mes mortífera de la Guerra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102173000 +0000" stop="20260102182500 +0000" channel="Canal 33.es">
+<title>Sota terra: La Boella: esbudellar un mamut</title>
+<sub-title></sub-title>
+<desc>Trobarem evidències que a la Boella, a terres tarragonines, hi havia presència homínida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102182500 +0000" stop="20260102191800 +0000" channel="Canal 33.es">
+<title>Els plans de Cerdà</title>
+<sub-title></sub-title>
+<desc>lldefons Cerda, un revolucionari que va canviar Barcelona per sempre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102191800 +0000" stop="20260102200000 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Japo - part 3</title>
+<sub-title></sub-title>
+<desc>Lactor i presentador belga Tom Waes viatja a diferents països darreu del mon que acostumen a esser ignorats per la massa turista. Guerres civils, desastres naturals i altres perills son els motius pels quals son poc visitats.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102200000 +0000" stop="20260102200800 +0000" channel="Canal 33.es">
+<title>Gran!: Marjane Satrapi: "Persèpolis"</title>
+<sub-title></sub-title>
+<desc>Aquesta novel·la gràfica publicada lany 2000 es considerada una de les obres cabdals del còmic recent, i una de les millors mostres del gènere autobiogràfic. Sartrapi explica la seva infantesa durant la revolucio iraniana, als anys 80.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102200800 +0000" stop="20260102203200 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 11</title>
+<sub-title></sub-title>
+<desc>Un dia dEducacio per a Adults fa tornar Mr. Bean a la seva escola local, on te diverses lliçons per aprendre. El caos es gairebe equivalent a la confusio que es forma per entrar, per casualitat, a una classe dart.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102203200 +0000" stop="20260102210000 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 12</title>
+<sub-title></sub-title>
+<desc>Daparença extravagant, maldestre, tossut, de poques paraules, sorprenent i amb la curiosa habilitat de posar-se sempre en problemes, els gags de Mr. Bean shan convertit en un dels productes mes exportables de lhumor britànic.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102210000 +0000" stop="20260102214600 +0000" channel="Canal 33.es">
+<title>La Renaixença: Millors moments - setmana 18</title>
+<sub-title></sub-title>
+<desc>El programa parteix de lhumor per oferir una mirada desacomplexada sobre la llengua, el patrimoni i la creativitat de Catalunya. A partir dun objecte quotidià, shi despleguen monòlegs, entrevistes, seccions temàtiques i càpsules de ...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102214600 +0000" stop="20260102225300 +0000" channel="Canal 33.es">
+<title>Sona9: Sona9, 25 anys</title>
+<sub-title></sub-title>
+<desc>LAntiga Fàbrica Damm de Barcelona es lescenari de celebracio dels 25 anys del Sona9.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260102225300 +0000" stop="20260103000000 +0000" channel="Canal 33.es">
+<title>Sona9: Concert Sona9, 25 anys</title>
+<sub-title></sub-title>
+<desc>El Sona9 es el retrat del darrer quart de segle de lescena musical catalana, amb els seus protagonistes i les seves cançons. LAntiga Fàbrica Damm de Barcelona es lescenari de celebracio dels 25 anys del Sona9.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103000000 +0000" stop="20260103010800 +0000" channel="Canal 33.es">
+<title>Sona9: Sona9 2025</title>
+<sub-title></sub-title>
+<desc>Tres músics emergents sencaminen cap a la final del 25è concurs Sona9, que tindrà lloc a la plaça de Catalunya de Barcelona. Son: Bru (Lleida), Cloe Riembau (la Bisbal dEmpordà) i Sodi (Tarragona).</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103010800 +0000" stop="20260103015100 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.4 El gran cabronàs</title>
+<sub-title></sub-title>
+<desc>En Nico assegura que en Joel es lideal per encarnar en Berwick: es odios i fastigos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103015100 +0000" stop="20260103023500 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.5 La gran colla pessigolla</title>
+<sub-title></sub-title>
+<desc>En Joel Joan espera que lequip del film li faci una festa per celebrar el seu aniversari.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103023500 +0000" stop="20260103031900 +0000" channel="Canal 33.es">
+<title>El Crac (T1): Ep.6 El gran sacrifici</title>
+<sub-title></sub-title>
+<desc>En Joel intenta impressionar a la Carla fardant de la seva suposada amistat amb un cantant famos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103031900 +0000" stop="20260103035800 +0000" channel="Canal 33.es">
+<title>Il·luminats: Okupem el MNAC amb la pintora Paula Bonet</title>
+<sub-title></sub-title>
+<desc>La pintora i il·lustradora Paula Bonet entra de nit al Museu Nacional dArt de Catalunya per pintar una obra i reflexionar sobre el fet creatiu femení. Lendemà, exposarà lobra als visitants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103035800 +0000" stop="20260103041200 +0000" channel="Canal 33.es">
+<title>Les Feres: Triquell</title>
+<sub-title></sub-title>
+<desc>Concert del cantant, compositor i productor Triquell a Caldes de Montbui. Lartista es va donar a conèixer a la primera edicio del concurs musical de 3cat Eufòria, en què va quedar segon. La seva proposta rau en una perso...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103041200 +0000" stop="20260103042000 +0000" channel="Canal 33.es">
+<title>Gran!: Plats Bruts: la sitcom immortal</title>
+<sub-title></sub-title>
+<desc>Parlem de Plats bruts, un referent de lhumor català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103042000 +0000" stop="20260103042800 +0000" channel="Canal 33.es">
+<title>Gran!: Manel: "Els millors professors europeus"</title>
+<sub-title></sub-title>
+<desc>El 2008 el grup Manel va publicar el seu primer àlbum, Els millors professors europeus.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103042800 +0000" stop="20260103043600 +0000" channel="Canal 33.es">
+<title>Gran!: Mad Max</title>
+<sub-title></sub-title>
+<desc>Quan no hi ha futur ni lloc per lesperança, lúnic que queda es la carretera sense fi.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103043600 +0000" stop="20260103044100 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103044100 +0000" stop="20260103044600 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103044600 +0000" stop="20260103045200 +0000" channel="Canal 33.es">
+<title>Xarxa Natura</title>
+<sub-title></sub-title>
+<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103045200 +0000" stop="20260103050000 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103050000 +0000" stop="20260103050600 +0000" channel="Canal 33.es">
+<title>Videoclips catalans</title>
+<sub-title></sub-title>
+<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103050600 +0000" stop="20260103053000 +0000" channel="Canal 33.es">
+<title>Quèquicom: La vacuna del virus del papiloma</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103053000 +0000" stop="20260103055600 +0000" channel="Canal 33.es">
+<title>Quèquicom: Correbous, toros i toreros</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103055600 +0000" stop="20260103063500 +0000" channel="Canal 33.es">
+<title>Afers exteriors: Israel</title>
+<sub-title></sub-title>
+<desc>Miquel Calçada visita Israel, un país que sap que el secret es als pergamins i al futbol.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103063500 +0000" stop="20260103071600 +0000" channel="Canal 33.es">
+<title>Afers exteriors: Bolívia I</title>
+<sub-title></sub-title>
+<desc>El programa viatja a Bolívia, país conegut per organitzar lipdubs espectaculars.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103071600 +0000" stop="20260103082900 +0000" channel="Canal 33.es">
+<title>Còmics: Eugenio</title>
+<sub-title></sub-title>
+<desc>Els seus acudits continuen dactualitat gràcies, sobretot, a internet i les xarxes socials, molts anys despres de triomfar amb les actuacions en locals i teatres, amb els cassettes i en aparicions televisives.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103082900 +0000" stop="20260103085600 +0000" channel="Canal 33.es">
+<title>Lokus Day: Episodi 1</title>
+<sub-title></sub-title>
+<desc>Lespai descobreix un cantant dels anys 70 que persegueix un home a traves del temps.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103085600 +0000" stop="20260103094000 +0000" channel="Canal 33.es">
+<title>Trènquin tòpics: Símbols</title>
+<sub-title></sub-title>
+<desc>En Queco farà un viatge iniciàtic amb lobjectiu de cercar el gran símbol de Catalunya.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103094000 +0000" stop="20260103094800 +0000" channel="Canal 33.es">
+<title>Gran!: Mar i cel</title>
+<sub-title></sub-title>
+<desc>Mar i cel es el musical de Dagoll Dagom que va revolucionar el teatre català.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103094800 +0000" stop="20260103095600 +0000" channel="Canal 33.es">
+<title>Gran!: Antoni Tàpies</title>
+<sub-title></sub-title>
+<desc>Antoni Tàpies va ser un dels artistes catalans mes rellevants del segle XX.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103095600 +0000" stop="20260103100500 +0000" channel="Canal 33.es">
+<title>Gran!: "Umpah-pah"</title>
+<sub-title></sub-title>
+<desc>Els Umpah-pah van assumir amb carisma propi influències musicals clàssiques.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103100500 +0000" stop="20260103105600 +0000" channel="Canal 33.es">
+<title>Gent de mon: Jamaica i Mèxic</title>
+<sub-title></sub-title>
+<desc>Viatge pel mar del Carib que ens portarà a conèixer Jamaica, terra de dones guapes i homes veloços i la costa de Yucatán, a Mèxic, el país dels maies.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103105600 +0000" stop="20260103114800 +0000" channel="Canal 33.es">
+<title>Gent de mon: Venècia i mar Adriàtic</title>
+<sub-title></sub-title>
+<desc>Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro. Una ruta pel Mediterrani oriental on trobarem el rastre dantigues civilitzacions desaparegudes i dimperis caiguts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103114800 +0000" stop="20260103123800 +0000" channel="Canal 33.es">
+<title>Matriculats: Episodi 10</title>
+<sub-title></sub-title>
+<desc>En aquest capítol veurem un examen de tractor, el vehicle preferit del Lluc, un matriculat amb vocacio de pagès. Per altra banda, lactriu Candela Anton canvia el volant del cotxe pels comandaments dun simulador de vol davioneta.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103123800 +0000" stop="20260103132600 +0000" channel="Canal 33.es">
+<title>Aeroport: Moviment</title>
+<sub-title></sub-title>
+<desc>Laeroport es moviment, es un espai dinàmic que funciona com una mena dengranatge.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103132600 +0000" stop="20260103135600 +0000" channel="Canal 33.es">
+<title>Quèquicom: Insectes que ens donen ales</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103135600 +0000" stop="20260103142600 +0000" channel="Canal 33.es">
+<title>Quèquicom: Connectats als cavalls</title>
+<sub-title></sub-title>
+<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103142600 +0000" stop="20260103151200 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Japo - part 1</title>
+<sub-title></sub-title>
+<desc>Lactor i presentador belga Tom Waes viatja a diferents països darreu del mon que acostumen a esser ignorats per la massa turista. Guerres civils, desastres naturals i altres perills son els motius pels quals son poc visitats.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103151200 +0000" stop="20260103160200 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Japo - part 2</title>
+<sub-title></sub-title>
+<desc>Lactor i presentador belga Tom Waes viatja a diferents països darreu del mon que acostumen a esser ignorats per la massa turista. Guerres civils, desastres naturals i altres perills son els motius pels quals son poc visitats.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103160200 +0000" stop="20260103164400 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Japo - part 3</title>
+<sub-title></sub-title>
+<desc>Lactor i presentador belga Tom Waes viatja a diferents països darreu del mon que acostumen a esser ignorats per la massa turista. Guerres civils, desastres naturals i altres perills son els motius pels quals son poc visitats.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103164400 +0000" stop="20260103172800 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Ruta 65</title>
+<sub-title></sub-title>
+<desc>Si hi ha una ruta famosa als Estats Units es la ruta 66. I es per això que en Tom decideix recorrer.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103172800 +0000" stop="20260103173200 +0000" channel="Canal 33.es">
+<title>Gran!: Jane Austen, " Orgull i prejudici"</title>
+<sub-title></sub-title>
+<desc>Una manera diferent i irònica de conèixer les grans fites de la cultura pop.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103173200 +0000" stop="20260103175500 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 6</title>
+<sub-title></sub-title>
+<desc>Mr. Bean demostra que es un tipus molt llest quan ressucita una víctima dun atac de cor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103175500 +0000" stop="20260103182000 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 9</title>
+<sub-title></sub-title>
+<desc>Tota la diversio del parc datraccions espera a Mr. Bean fins que, inesperadament, es troba amb la feina de cuidar un nen petit. Ell, però, no sacovarda i es disposa a passar un dia divertit.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103182000 +0000" stop="20260103184400 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 11</title>
+<sub-title></sub-title>
+<desc>Un dia dEducacio per a Adults fa tornar Mr. Bean a la seva escola local, on te diverses lliçons per aprendre. El caos es gairebe equivalent a la confusio que es forma per entrar, per casualitat, a una classe dart.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103184400 +0000" stop="20260103191000 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 12</title>
+<sub-title></sub-title>
+<desc>Daparença extravagant, maldestre, tossut, de poques paraules, sorprenent i amb la curiosa habilitat de posar-se sempre en problemes, els gags de Mr. Bean shan convertit en un dels productes mes exportables de lhumor britànic.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103191000 +0000" stop="20260103193400 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 8</title>
+<sub-title></sub-title>
+<desc>Mr. Bean passa un cap de setmana en un hotel i intentarà que lhabitacio que li han donat sembli casa seva amb lajuda duna màquina de fer forats i un quadre de Shirley Bassey.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103193400 +0000" stop="20260103200000 +0000" channel="Canal 33.es">
+<title>Mr. Bean (T1): Episodio 10</title>
+<sub-title></sub-title>
+<desc>La festa de cap dany de Mr. Bean no te gens dèxit. Però el primer dia de lany te les seves consolacions quan utilitza una enginyosa tàctica per assegurar a la baca del cotxe un saldo que ha comprat, encara que sexcedirà una mi...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="Canal 33.es">
+<title>Un planeta perfecto: Los volcanes</title>
+<sub-title></sub-title>
+<desc>Sense volcans no hi hauria vida: no hi hauria una atmosfera, ni oceans ni terra.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103210000 +0000" stop="20260103214500 +0000" channel="Canal 33.es">
+<title>Montserrat Mil·lenari: In communitate. La Montserrat de tots</title>
+<sub-title></sub-title>
+<desc>Un recorregut emocionant per mes de deu segles d’història, espiritualitat i cultura a la muntanya sagrada de Catalunya.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103214500 +0000" stop="20260103222800 +0000" channel="Canal 33.es">
+<title>Viajes insolitos: Nairobi</title>
+<sub-title></sub-title>
+<desc>Lactor i presentador belga Tom Waes viatja a diferents països darreu del mon que acostumen a esser ignorats per la massa turista. Guerres civils, desastres naturals i altres perills son els motius pels quals son poc visitats.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103222800 +0000" stop="20260103231300 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Dakota del Norte</title>
+<sub-title></sub-title>
+<desc>Els estats del nord dels Estats Units son els menys visitats del país. Rao suficient perquè en Tom Waes vulgui anar-hi! Dakota del Nord, Montana i Idaho seran lescenari on es desenvoluparan històries damericans extravagants.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103231300 +0000" stop="20260103235800 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Corea del Norte</title>
+<sub-title></sub-title>
+<desc>Despres de tres anys, en Tom Waes ho ha aconseguit: anirà a Corea del Nord.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260103235800 +0000" stop="20260104004200 +0000" channel="Canal 33.es">
+<title>Reizen Waes: Corea del Sur</title>
+<sub-title></sub-title>
+<desc>Despres de visitar Corea del Nord, en Tom es pregunta com deu ser laltra meitat del país. Despres de la Segona Guerra Mundial, els russos es van quedar el nord i els americans, el sud.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104004200 +0000" stop="20260104013400 +0000" channel="Canal 33.es">
+<title>Nits sense ficcio: Llenceria fina al Kurdistan</title>
+<sub-title></sub-title>
+<desc>Jacqueline van Vugt retrata històries íntimes i confessions que tenen lloc a la primera botiga de roba interior del Kurdistan. Una mostra dautodeterminacio, sensibilitat, sensualitat i sexualitat.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104013400 +0000" stop="20260104022400 +0000" channel="Canal 33.es">
+<title>Terreny personal: El Montseny</title>
+<sub-title></sub-title>
+<desc>El programa descobreix una de les muntanyes mes emblemàtiques del país.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104022400 +0000" stop="20260104031400 +0000" channel="Canal 33.es">
+<title>Terreny personal: La Barceloneta</title>
+<sub-title></sub-title>
+<desc>El programa viatja al passat i al present de la Barceloneta, un terreny en forma de triangle que se situa entre lhotel Arts, lhotel Vela i el Palau de Mar. Un barri amb poc mes de 250 anys, però que destil·la una gran personalitat.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104031400 +0000" stop="20260104040600 +0000" channel="Canal 33.es">
+<title>Terreny personal: Massís del Garraf</title>
+<sub-title></sub-title>
+<desc>El programa arriba a una muntanya aspra just arran de mar: el massís del Garraf.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104040600 +0000" stop="20260104042600 +0000" channel="Canal 33.es">
+<title>Les Feres: Mar Pujol</title>
+<sub-title></sub-title>
+<desc>Mar Pujol interpreta en directe cançons del seu repertori a Santa Llúcia de Sobremunt. La cantautora de Lluçanès construeix els seus temes a partir del binomi essencial format per una guitarra i una veu.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104042600 +0000" stop="20260104045000 +0000" channel="Canal 33.es">
+<title>Les Feres: Els surfing Sirles</title>
+<sub-title></sub-title>
+<desc>La mort del guitarrista Uri Caballero va interrompre lactivitat dEls Surfing Sirles.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260104045000 +0000" stop="20260104045500 +0000" channel="Canal 33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
 <desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
