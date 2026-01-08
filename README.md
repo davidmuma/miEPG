@@ -15,7 +15,6 @@ Los nombres de los canales tienen que ir separados por comas (sin espacios), el 
 
 · Ejemplo: NombreEPG,NombreLISTA,hffp://raw.githubusercontent.com/Images/logo_dobleM.png,+2
 
-***
 - Modifica el fichero variables.txt
 
 display-name: añade sufijos al nombre de cada canal
