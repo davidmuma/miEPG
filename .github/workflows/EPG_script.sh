@@ -234,7 +234,7 @@ perl -i -ne '
     }
     print if $imprimir;
     if (/<\/programme>/) { $imprimir = 0; }
-    END { print STDERR "  → Programas (pasados, futuros y duplicados) eliminados: $borrados\n"; }
+    END { print STDERR " ─► Programas (pasados, futuros y duplicados) eliminados: $borrados\n"; }
 ' EPG_temp2.xml
 
 date_stamp=$(date +"%d/%m/%Y %R")
@@ -262,7 +262,7 @@ if [ $? -eq 0 ]; then
     
     num_canales=$(grep -c "<channel " miEPG.xml)
     num_programas=$(grep -c "<programme " miEPG.xml)
-    echo "   → Canales: $num_canales | Programas: $num_programas"
+    echo " ─► Canales: $num_canales | Programas: $num_programas"
 
     cp miEPG.xml epg_acumulado.xml
 else
