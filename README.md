@@ -18,7 +18,9 @@ Los nombres de los canales tienen que ir separados por comas (sin espacios), el 
 - Modifica el fichero variables.txt
 
 · display-name: añade sufijos al nombre de cada canal
+
 · dias-pasados: para tener información de días pasados (Catch-Up)
+
 · dias-futuros: límita los días de la epg
 
 ***
