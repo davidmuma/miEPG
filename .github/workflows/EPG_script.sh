@@ -12,34 +12,34 @@ rm -f EPG_temp* canales_epg*.txt
 
 epg_count=0
 
-echo "--- DESCARGANDO EPGS ---"
+echo "─── DESCARGANDO EPGS ───"
 
 while IFS=, read -r epg; do
 	((epg_count++))
     extension="${epg##*.}"
     if [ "$extension" = "gz" ]; then
-        echo "Descargando y descomprimiendo: $epg"
+        echo " │ Descargando y descomprimiendo: $epg"
         wget -O EPG_temp00.xml.gz -q "$epg"
         if [ ! -s EPG_temp00.xml.gz ]; then
-            echo "  Error: El archivo descargado está vacío o no se descargó correctamente: $epg"
+            echo " └─► ❌ ERROR: El archivo descargado está vacío o no se descargó correctamente"
             continue
         fi
         if ! gzip -t EPG_temp00.xml.gz 2>/dev/null; then
-            echo "  Error: El archivo no es un gzip válido: $epg"
+            echo " └─► ❌ ERROR: El archivo no es un gzip válido"
             continue
         fi
         gzip -d -f EPG_temp00.xml.gz
     else
-        echo "Descargando: $epg"
+        echo " │ Descargando: $epg"
         wget -O EPG_temp00.xml -q "$epg"
         if [ ! -s EPG_temp00.xml ]; then
-            echo "  Error: El archivo descargado está vacío o no se descargó correctamente: $epg"
+            echo " └─► ❌ ERROR: El archivo descargado está vacío o no se descargó correctamente"
             continue
         fi
     fi
 	if [ -f EPG_temp00.xml ]; then
         listado="canales_epg${epg_count}.txt"
-        echo "Generando listado de canales: $listado"
+        echo " └─► Generando listado de canales: $listado"
         echo "# Fuente: $epg" > "$listado"
 		awk '
 		/<channel / {
@@ -61,7 +61,7 @@ while IFS=, read -r epg; do
     fi	
 done < epgs.txt
 
-echo "--- PROCESANDO CANALES ---"
+echo "─── PROCESANDO CANALES ───"
 
 mapfile -t canales < canales.txt
 for i in "${!canales[@]}"; do
@@ -135,9 +135,9 @@ for linea in "${canales[@]}"; do
 
         # Logs informativos
         if [ -n "$logo" ]; then
-            echo "Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias"
+            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias"
         else
-            echo "Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias"
+            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias"
         fi
 
         cat EPG_temp01.xml >> EPG_temp1.xml
@@ -150,7 +150,7 @@ for linea in "${canales[@]}"; do
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
   
 		if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
-			echo "  Ajustando hora en el canal $new ($offset horas)"
+			echo " └─► Ajustando hora en el canal $new ($offset horas)"
 			export OFFSET="$offset"
 			export NEW_CHANNEL="$new"
             
@@ -190,33 +190,42 @@ for linea in "${canales[@]}"; do
         cat EPG_temp02.xml >> EPG_temp2.xml
   
     else
-        echo "Saltando canal: $old ··· $contar_channel coincidencias"
+        echo "        Saltando canal: $old ··· $contar_channel coincidencias"
     fi
 done
 
-# 1. Recuperar programas guardados anteriormente (Base de datos acumulada)
-if [ -f "epg_acumulado.xml" ]; then
-    echo "Fusing: Mezclando con programas de días anteriores..."
-    # Extraemos solo los bloques <programme> del historial para no romper el XML
-    sed -n '/<programme/,/<\/programme>/p' "epg_acumulado.xml" >> EPG_temp2.xml
-fi
+echo "─── PROCESANDO LIMITES TEMPORALES ───"
 
-# 2. Calcular fecha de corte según variables.txt
-dias_limite=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs)
-dias_limite=${dias_limite:-0}
-# Obtenemos la fecha de hace N días en formato XMLTV (YYYYMMDD000000)
-fecha_corte=$(date -d "$dias_limite days ago" +"%Y%m%d000000")
+# 1. Leer variables de días desde variables.txt
+dias_pasados=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs)
+dias_pasados=${dias_pasados:-0} # Por defecto 0 (solo hoy si no se especifica)
 
-echo "Limpieza: Manteniendo programas desde $fecha_corte (Límite: $dias_limite días)"
+dias_futuros=$(grep "dias-futuros=" variables.txt | cut -d'=' -f2 | xargs)
+dias_futuros=${dias_futuros:-99} # Por defecto 99 (no limitar futuro si no se especifica)
 
-# 3. Filtrar programas viejos y eliminar duplicados exactos
-# Usamos Perl para procesar el archivo EPG_temp2.xml de forma eficiente
+# 2. Calcular fechas de corte (Formato XMLTV: YYYYMMDDHHMMSS)
+# Corte pasado: Hoy menos N días a las 00:00:00
+fecha_corte_pasado=$(date -d "$dias_pasados days ago" +"%Y%m%d000000")
+
+# Corte futuro: Hoy más N días a las 23:59:59
+fecha_corte_futuro=$(date -d "$dias_futuros days" +"%Y%m%d235959")
+
+echo "Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
+echo "Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
+
+# 3. Filtrar programas (Pasado, Futuro y Duplicados)
 perl -i -ne '
-    BEGIN { $corte = "'$fecha_corte'"; %visto=(); $borrados=0; }
+    BEGIN { 
+        $corte_old = "'$fecha_corte_pasado'"; 
+        $corte_new = "'$fecha_corte_futuro'"; 
+        %visto=(); $borrados=0; 
+    }
     if (/<programme start="(\d{14})[^"]+" stop="[^"]+" channel="([^"]+)">/) {
         $inicio = $1; $canal = $2;
-        $llave = "$inicio-$canal"; # Identificador único para evitar duplicados
-        if ($inicio >= $corte && !$visto{$llave}++) {
+        $llave = "$inicio-$canal"; 
+        
+        # CONDICIÓN: Debe ser mayor al pasado Y menor al futuro Y no estar repetido
+        if ($inicio >= $corte_old && $inicio <= $corte_new && !$visto{$llave}++) {
             $imprimir = 1;
         } else {
             $imprimir = 0;
@@ -225,10 +234,8 @@ perl -i -ne '
     }
     print if $imprimir;
     if (/<\/programme>/) { $imprimir = 0; }
-    END { print STDERR "  -> Programas antiguos o duplicados eliminados: $borrados\n"; }
+    END { print STDERR "  → Programas (pasados, futuros y duplicados) eliminados: $borrados\n"; }
 ' EPG_temp2.xml
-
-# --- ENSAMBLADO FINAL DEL ARCHIVO miEPG.xml ---
 
 date_stamp=$(date +"%d/%m/%Y %R")
 {
@@ -244,8 +251,44 @@ date_stamp=$(date +"%d/%m/%Y %R")
     echo '</tv>'
 } > miEPG.xml
 
-# Actualizar la base de datos acumulada para la ejecución de mañana
-cp miEPG.xml epg_acumulado.xml
+echo "─── VALIDACION FINAL DEL XML ───"
 
-# Limpieza de archivos temporales de esta sesión
-rm -f EPG_temp* echo "Finalizado: miEPG.xml generado correctamente."
+# Ejecutamos xmllint capturando todos los errores
+# 2>&1 redirige los errores al flujo estándar para poder guardarlos en la variable
+error_log=$(xmllint --noout miEPG.xml 2>&1)
+
+if [ $? -eq 0 ]; then
+    echo "✅ ÉXITO: El archivo XML está perfectamente formado."
+    
+    num_canales=$(grep -c "<channel " miEPG.xml)
+    num_programas=$(grep -c "<programme " miEPG.xml)
+    echo "   → Canales: $num_canales | Programas: $num_programas"
+
+    cp miEPG.xml epg_acumulado.xml
+else
+    echo "❌ ERROR: Se han detectado fallos en la estructura del XML."
+    echo "──────────────────────────────────────────────────────────────────"
+    
+    # Extraemos todos los números de línea únicos que reporta xmllint
+    lineas_con_error=$(echo "$error_log" | grep -oP '(?<=miEPG.xml:)\d+' | sort -nu)
+
+    echo "Resumen de líneas con errores:"
+    for linea in $lineas_con_error; do
+        # Buscamos el mensaje específico de xmllint para esa línea
+        detalle=$(echo "$error_log" | grep "miEPG.xml:$linea:" | head -1 | cut -d':' -f3-)
+        
+        echo "📍 Línea $linea:"
+        echo "   Error: $detalle"
+        # Mostramos el contenido real de esa línea en el archivo
+        contenido_linea=$(sed -n "${linea}p" miEPG.xml | xargs)
+        echo "   Texto: \"$contenido_linea\""
+        echo "───"
+    done
+    
+    echo "──────────────────────────────────────────────────────────────────"
+    echo "⚠️  ADVERTENCIA: epg_acumulado.xml NO se ha actualizado."
+fi
+
+# Limpieza de archivos temporales de la sesión
+rm -f EPG_temp* 2>/dev/null
+echo "─── PROCESO FINALIZADO ───"
