@@ -210,8 +210,8 @@ fecha_corte_pasado=$(date -d "$dias_pasados days ago" +"%Y%m%d000000")
 # Corte futuro: Hoy más N días a las 23:59:59
 fecha_corte_futuro=$(date -d "$dias_futuros days" +"%Y%m%d235959")
 
-echo "Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
-echo "Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
+echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
+echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
 
 # 3. Filtrar programas (Pasado, Futuro y Duplicados)
 perl -i -ne '
@@ -258,7 +258,7 @@ echo "─── VALIDACION FINAL DEL XML ───"
 error_log=$(xmllint --noout miEPG.xml 2>&1)
 
 if [ $? -eq 0 ]; then
-    echo "✅ ÉXITO: El archivo XML está perfectamente formado."
+    echo " ✅ ÉXITO: El archivo XML está perfectamente formado."
     
     num_canales=$(grep -c "<channel " miEPG.xml)
     num_programas=$(grep -c "<programme " miEPG.xml)
@@ -266,7 +266,7 @@ if [ $? -eq 0 ]; then
 
     cp miEPG.xml epg_acumulado.xml
 else
-    echo "❌ ERROR: Se han detectado fallos en la estructura del XML."
+    echo " ❌ ERROR: Se han detectado fallos en la estructura del XML."
     echo "──────────────────────────────────────────────────────────────────"
     
     # Extraemos todos los números de línea únicos que reporta xmllint
@@ -286,7 +286,7 @@ else
     done
     
     echo "──────────────────────────────────────────────────────────────────"
-    echo "⚠️  ADVERTENCIA: epg_acumulado.xml NO se ha actualizado."
+    echo " ⚠️ ADVERTENCIA: epg_acumulado.xml NO se ha actualizado."
 fi
 
 # Limpieza de archivos temporales de la sesión
