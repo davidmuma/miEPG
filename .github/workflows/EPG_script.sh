@@ -256,7 +256,6 @@ echo "─── VALIDACION FINAL DEL XML ───"
 # Ejecutamos xmllint capturando todos los errores
 # 2>&1 redirige los errores al flujo estándar para poder guardarlos en la variable
 error_log=$(xmllint --noout miEPG.xml 2>&1)
-echo "Error Log Capturado: $error_log"
 
 if [ $? -eq 0 ]; then
     echo " ✅ ÉXITO: El archivo XML está perfectamente formado."
