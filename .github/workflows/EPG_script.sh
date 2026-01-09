@@ -216,36 +216,39 @@ echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días
 # 3. Filtrar programas (Pasado, Futuro y Duplicados)
 perl -MDate::Parse -i -ne '
 BEGIN {
-    use Time::Local;
-
-    $corte_old = str2time("'$fecha_corte_pasado' 00:00:00 UTC");
+    # Fechas de corte correctas en UTC
+    $corte_old = str2time("'$fecha_corte_pasado' UTC");
     $corte_new = str2time("'$fecha_corte_futuro' UTC");
 
     %visto = ();
-
-    $total_pasado = 0;
-    $total_futuro = 0;
+    $total_pasado    = 0;
+    $total_futuro    = 0;
     $total_duplicado = 0;
 }
 
-if (/<programme start="(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-]\d{4})?"[^>]*channel="([^"]+)">/) {
+if (/<programme start="([^"]+)" stop="[^"]+" channel="([^"]+)">/) {
+    my ($start_raw, $canal) = ($1, $2);
 
-    my ($Y,$m,$d,$H,$M,$S,$tz,$canal) = ($1,$2,$3,$4,$5,$6,$7,$8);
-
-    $tz //= "+0000";
-
-    my $inicio = timegm($S,$M,$H,$d,$m-1,$Y);
-
-    # Ajuste manual de timezone
-    if ($tz =~ /([+-])(\d{2})(\d{2})/) {
-        my $sign = $1 eq "+" ? -1 : 1;
-        my $offset = ($2 * 3600) + ($3 * 60);
-        $inicio += $sign * $offset;
+    # Normalizar fecha XMLTV
+    if ($start_raw =~ /^(\d{14})\s*([+-]\d{4})$/) {
+        my ($dt, $tz) = ($1, $2);
+        $inicio = str2time(
+            substr($dt,0,4) . "-" . substr($dt,4,2) . "-" . substr($dt,6,2) . " " .
+            substr($dt,8,2) . ":" . substr($dt,10,2) . ":" . substr($dt,12,2) . " " .
+            $tz
+        );
+    } else {
+        $inicio = str2time($start_raw);
     }
 
     my $llave = "$inicio-$canal";
 
-    if ($inicio < $corte_old) {
+    if (!defined $inicio) {
+        # Fecha no parseada → tratar como futuro (seguro)
+        $total_futuro++;
+        $imprimir = 0;
+    }
+    elsif ($inicio < $corte_old) {
         $total_pasado++;
         $imprimir = 0;
     }
