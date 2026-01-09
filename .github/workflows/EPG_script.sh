@@ -207,71 +207,34 @@ dias_futuros=${dias_futuros:-99} # Por defecto 99 (no limitar futuro si no se es
 # Corte pasado: Hoy menos N días a las 00:00:00
 fecha_corte_pasado=$(date -d "$dias_pasados days ago" +"%Y%m%d000000")
 
-# Corte futuro: Hoy más N días a las 23:59:59
+# Corte futuro: Hoy más N días a las 23:59:59 + 3 horas
 fecha_corte_futuro=$(date -d "$dias_futuros days 03:00" +"%Y%m%d%H%M%S")
 
 echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
 echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
 
 # 3. Filtrar programas (Pasado, Futuro y Duplicados)
-perl -MDate::Parse -i -ne '
-BEGIN {
-    # Fechas de corte correctas en UTC
-    $corte_old = str2time("'$fecha_corte_pasado' UTC");
-    $corte_new = str2time("'$fecha_corte_futuro' UTC");
-
-    %visto = ();
-    $total_pasado    = 0;
-    $total_futuro    = 0;
-    $total_duplicado = 0;
-}
-
-if (/<programme start="([^"]+)" stop="[^"]+" channel="([^"]+)">/) {
-    my ($start_raw, $canal) = ($1, $2);
-
-    # Normalizar fecha XMLTV
-    if ($start_raw =~ /^(\d{14})\s*([+-]\d{4})$/) {
-        my ($dt, $tz) = ($1, $2);
-        $inicio = str2time(
-            substr($dt,0,4) . "-" . substr($dt,4,2) . "-" . substr($dt,6,2) . " " .
-            substr($dt,8,2) . ":" . substr($dt,10,2) . ":" . substr($dt,12,2) . " " .
-            $tz
-        );
-    } else {
-        $inicio = str2time($start_raw);
+perl -i -ne '
+    BEGIN { 
+        $corte_old = "'$fecha_corte_pasado'"; 
+        $corte_new = "'$fecha_corte_futuro'"; 
+        %visto=(); $borrados=0; 
     }
-
-    my $llave = "$inicio-$canal";
-
-    if (!defined $inicio) {
-        # Fecha no parseada → tratar como futuro (seguro)
-        $total_futuro++;
-        $imprimir = 0;
+    if (/<programme start="(\d{14})[^"]+" stop="[^"]+" channel="([^"]+)">/) {
+        $inicio = $1; $canal = $2;
+        $llave = "$inicio-$canal"; 
+        
+        # CONDICIÓN: Debe ser mayor al pasado Y menor al futuro Y no estar repetido
+        if ($inicio >= $corte_old && $inicio <= $corte_new && !$visto{$llave}++) {
+            $imprimir = 1;
+        } else {
+            $imprimir = 0;
+            $borrados++;
+        }
     }
-    elsif ($inicio < $corte_old) {
-        $total_pasado++;
-        $imprimir = 0;
-    }
-    elsif ($inicio > $corte_new) {
-        $total_futuro++;
-        $imprimir = 0;
-    }
-    elsif ($visto{$llave}++) {
-        $total_duplicado++;
-        $imprimir = 0;
-    }
-    else {
-        $imprimir = 1;
-    }
-}
-
-print if $imprimir;
-$imprimir = 0 if /<\/programme>/;
-
-END {
-    my $global = $total_pasado + $total_futuro + $total_duplicado;
-    print STDERR " ─► TOTALES → Pasado: $total_pasado | Futuro: $total_futuro | Duplicados: $total_duplicado | GLOBAL: $global\n";
-}
+    print if $imprimir;
+    if (/<\/programme>/) { $imprimir = 0; }
+    END { print STDERR " ─► Programas (pasados, futuros y duplicados) eliminados: $borrados\n"; }
 ' EPG_temp2.xml
 
 date_stamp=$(date +"%d/%m/%Y %R")
