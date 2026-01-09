@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.5
+# Versión: 3.6
 # Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
 # ============================================================================== 
 
@@ -12,7 +12,7 @@ rm -f EPG_temp* canales_epg*.txt
 
 epg_count=0
 
-echo "─── DESCARGANDO EPGS ───"
+echo "─── DESCARGANDO EPGs ───"
 
 while IFS=, read -r epg; do
 	((epg_count++))
@@ -194,53 +194,58 @@ for linea in "${canales[@]}"; do
     fi
 done
 
-echo "─── PROCESANDO LIMITES TEMPORALES ───"
+echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN ───"
 
-# 1. Leer variables de días desde variables.txt
+# 1. Asegurarnos de que EPG_temp2.xml existe (donde se han ido metiendo los programas nuevos) y añadir el histórico de epg_acumulado.xml a ese mismo archivo.
+if [ -f epg_acumulado.xml ]; then
+    echo " Rescatando programas de epg_acumulado.xml..."
+    sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
+fi
+
+# 2. Leer variables de días desde variables.txt
 dias_pasados=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs)
-dias_pasados=${dias_pasados:-0} # Por defecto 0 (solo hoy si no se especifica)
+dias_pasados=${dias_pasados:-0}
 
 dias_futuros=$(grep "dias-futuros=" variables.txt | cut -d'=' -f2 | xargs)
-dias_futuros=${dias_futuros:-99} # Por defecto 99 (no limitar futuro si no se especifica)
+dias_futuros=${dias_futuros:-99}
 
-# 2. Calcular fechas de corte (Formato XMLTV: YYYYMMDDHHMMSS)
-# Corte pasado: Hoy menos N días a las 00:00:00
-fecha_corte_pasado=$(date -d "$dias_pasados days ago" +"%Y%m%d000000")
-
-# Corte futuro: Hoy más N días a las 23:59:59 + 3 horas
-fecha_corte_futuro=$(date -d "$dias_futuros days 03:00" +"%Y%m%d%H%M%S")
+# 3. Calcular fechas de corte (Formato XMLTV)
+fecha_corte_pasado=$(date -d "$dias_pasados days ago 00:00" +"%Y%m%d%H%M%S")
+fecha_corte_futuro=$(date -d "$dias_futuros days 02:00" +"%Y%m%d%H%M%S")
 
 echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
 echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
 
-# 3. Filtrar programas (Pasado, Futuro y Duplicados)
+# 4. Filtro Perl Avanzado: Deduplicación + Reporte Desglosado
 perl -i -ne '
     BEGIN { 
-        $corte_old = "'$fecha_corte_pasado'"; 
-        $corte_new = "'$fecha_corte_futuro'"; 
-        %visto=(); $borrados=0; 
+        $c_old = "'$fecha_corte_pasado'"; 
+        $c_new = "'$fecha_corte_futuro'"; 
+        %visto=(); 
+        $pasados=0; $futuros=0; $duplicados=0; $aceptados=0;
     }
     if (/<programme start="(\d{14})[^"]+" stop="[^"]+" channel="([^"]+)">/) {
         $inicio = $1; $canal = $2;
         $llave = "$inicio-$canal"; 
-        
-        # CONDICIÓN: Debe ser mayor al pasado Y menor al futuro Y no estar repetido
-        if ($inicio >= $corte_old && $inicio <= $corte_new && !$visto{$llave}++) {
-            $imprimir = 1;
-        } else {
-            $imprimir = 0;
-            $borrados++;
-        }
+        if ($inicio < $c_old) { $pasados++; $imprimir = 0; }
+        elsif ($inicio > $c_new) { $futuros++; $imprimir = 0; }
+        elsif ($visto{$llave}++) { $duplicados++; $imprimir = 0; }
+        else { $aceptados++; $imprimir = 1; }
     }
     print if $imprimir;
     if (/<\/programme>/) { $imprimir = 0; }
-    END { print STDERR " ─► Programas (pasados, futuros y duplicados) eliminados: $borrados\n"; }
+    END { 
+        print STDERR " ─► Añadidos/Mantenidos: $aceptados\n";
+        print STDERR " ─►️ Pasados eliminados: $pasados\n";
+        print STDERR " ─►️ Futuros eliminados: $futuros\n";
+        print STDERR " ─►️ Duplicados eliminados: $duplicados\n";
+    }
 ' EPG_temp2.xml
 
 date_stamp=$(date +"%d/%m/%Y %R")
 {
     echo '<?xml version="1.0" encoding="UTF-8"?>'
-    echo "<tv generator-info-name=\"miEPG v3.5\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
+    echo "<tv generator-info-name=\"miEPG v3.6\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
     
     # Insertar los canales (con sus variantes y logos que procesamos antes)
     [ -f EPG_temp1.xml ] && cat EPG_temp1.xml
@@ -258,13 +263,14 @@ echo "─── VALIDACION FINAL DEL XML ───"
 error_log=$(xmllint --noout miEPG.xml 2>&1)
 
 if [ $? -eq 0 ]; then
-    echo " ✅ ÉXITO: El archivo XML está perfectamente formado."
+    echo " │ El archivo XML está perfectamente formado."
     
     num_canales=$(grep -c "<channel " miEPG.xml)
     num_programas=$(grep -c "<programme " miEPG.xml)
-    echo " ─► Canales: $num_canales | Programas: $num_programas"
+    echo " └─► Canales: $num_canales | Programas: $num_programas"
 
     cp miEPG.xml epg_acumulado.xml
+    echo " epg_acumulado.xml actualizado para la próxima sesión."
 else
     echo " ❌ ERROR: Se han detectado fallos en la estructura del XML."
     echo "──────────────────────────────────────────────────────────────────"
