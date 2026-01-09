@@ -216,7 +216,9 @@ echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días
 # 3. Filtrar programas (Pasado, Futuro y Duplicados)
 perl -MDate::Parse -i -ne '
 BEGIN {
-    $corte_old = str2time("'$fecha_corte_pasado' UTC");
+    use Time::Local;
+
+    $corte_old = str2time("'$fecha_corte_pasado' 00:00:00 UTC");
     $corte_new = str2time("'$fecha_corte_futuro' UTC");
 
     %visto = ();
@@ -226,11 +228,22 @@ BEGIN {
     $total_duplicado = 0;
 }
 
-if (/<programme start="([^"]+)" stop="([^"]+)" channel="([^"]+)">/) {
-    my ($start_raw, $stop_raw, $canal) = ($1, $2, $3);
+if (/<programme start="(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-]\d{4})?"[^>]*channel="([^"]+)">/) {
 
-    my $inicio = str2time($start_raw);
-    my $llave  = "$inicio-$canal";
+    my ($Y,$m,$d,$H,$M,$S,$tz,$canal) = ($1,$2,$3,$4,$5,$6,$7,$8);
+
+    $tz //= "+0000";
+
+    my $inicio = timegm($S,$M,$H,$d,$m-1,$Y);
+
+    # Ajuste manual de timezone
+    if ($tz =~ /([+-])(\d{2})(\d{2})/) {
+        my $sign = $1 eq "+" ? -1 : 1;
+        my $offset = ($2 * 3600) + ($3 * 60);
+        $inicio += $sign * $offset;
+    }
+
+    my $llave = "$inicio-$canal";
 
     if ($inicio < $corte_old) {
         $total_pasado++;
