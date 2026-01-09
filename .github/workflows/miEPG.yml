@@ -14,14 +14,16 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v2
 
-    - name: Instalar xmllint
+    - name: Comprobar si xmllint está instalado
       run: |
-        sudo apt-get update
-        sudo apt-get install -y libxml2-utils  # Instalamos xmllint
-
-    - name: Verificar instalación de xmllint
-      run: |
-        xmllint --version  # Verifica que xmllint esté instalado correctamente
+        if ! command -v xmllint &> /dev/null
+        then
+          echo "xmllint no está instalado. Instalando..."
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
+        else
+          echo "xmllint ya está instalado"
+        fi
 
     - name: Dar permisos de ejecución al script
       run: |
