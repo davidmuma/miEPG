@@ -1,4 +1,4 @@
-miEPG   v3.6
+# miEPG   v3.6
 
 El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre, el logo y el horario de cada canal
 
