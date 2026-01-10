@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
-  <channel id="ESPN Argentina">
-    <display-name>ESPN Argentina SD</display-name>
-    <display-name>ESPN Argentina HD</display-name>
-    <display-name>ESPN Argentina 4K</display-name>
-    <display-name>ESPN Argentina Full HD</display-name>
-    <display-name>ESPN Argentina UHD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+  <channel id="Pluto TV Cine Acción">
+    <display-name>Pluto TV Cine Acción SD</display-name>
+    <display-name>Pluto TV Cine Acción HD</display-name>
+    <display-name>Pluto TV Cine Acción 4K</display-name>
+    <display-name>Pluto TV Cine Acción Full HD</display-name>
+    <display-name>Pluto TV Cine Acción UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png"/>
   </channel>
+	<programme start="20260110070700 +0000" stop="20260110091300 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">Rush • S01E01 • Rush</title>
+		<desc lang="es">Serie • Acción y Aventura • ⑫
+
+• Reparto: Daniel Brühl, Chris Hemsworth, Olivia Wilde
+• Dirección: Ron Howard
+
+• James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
+	<programme start="20260110091300 +0000" stop="20260110113000 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">Railroad Tigers • S01E01 • Railroad Tigers</title>
+		<desc lang="es">Serie • Acción y Aventura • ⑫
+
+• Reparto: Jackie Chan, Edison Huang, Xu Fan
+• Dirección: Sheng Ding
+
+• Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/5fe9b75e4aa70a001a4fd2c7/poster.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
+	<programme start="20260110113000 +0000" stop="20260110125800 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">Traición • S01E01 • Traición</title>
+		<desc lang="es">Serie • Thriller • ⑦
+
+• Reparto: Ana Belén, Pedro Alonso, Nathalie Poza
+• Dirección: Daniel Martín Serrano, Fran Navarro
+
+• Julio reúne a todos los miembros de su familia y les anuncia que padece una enfermedad mortal y que planea hacer algunos cambios en su empresa.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/68ff943d71d0752d874680ff/poster_1761586762326.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
+	<programme start="20260110125800 +0000" stop="20260110144100 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">Doble identidad • S01E01 • Doble identidad</title>
+		<desc lang="es">Serie • Thriller • ⑫
+
+• Reparto: Dana Flynn, Izabella Miko, Val Kilmer
+• Dirección: Dennis Dimster
+
+• Un médico estadounidense es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá ingeniárselas para sobrevivir en un país en el que no puede acudir a nadie en busca de ayuda.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/5f4e183cfa72a5001a5fa6dd/poster.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
+	<programme start="20260110144100 +0000" stop="20260110164400 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">Junglee: Alma Salvaje • S01E01 • Junglee: Alma Salvaje</title>
+		<desc lang="es">Serie • Acción y Aventura • ⑫
+
+• Reparto: Vidyut Jammwal, Asha Bhat, Vishwanath Chatterjee
+• Dirección: Chuck Russell
+
+• Un veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, donde tendrá que luchar contra unos cazadores furtivos.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/5fe9b7754aa70a001a4fd434/poster.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
+	<programme start="20260110164400 +0000" stop="20260110185900 +0000" channel="Pluto TV Cine Acción">
+		<title lang="es">The Grandmaster • S01E01 • The Grandmaster</title>
+		<desc lang="es">Serie • Acción y Aventura • ⑫
+
+• Reparto: Tony Leung Chiu-Wai, Zhang Ziyi
+• Dirección: Wong Kar-Wai
+
+• La película es el retrato de una época desaparecida y relata la historia de Ip Man (Tony LEUNG), gran maestro de Kung Fu y legendario profesor de Bruce Lee.
+
+• pyplutotv_epg_hl</desc>
+		<icon src="https://images.pluto.tv/episodes/60d0438528f1d30013ed3f64/poster.jpg?fill=blur%26fit=fill%26fm=jpg%26h=1000%26q=75%26w=694"/>
+	</programme>
   <programme start="20260109010000 -0600" stop="20260109020000 -0600" channel="ESPN Argentina">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
