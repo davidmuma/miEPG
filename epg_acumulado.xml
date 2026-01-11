@@ -1,45 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
-  <channel id="La 1">
-    <display-name>La 1 SD</display-name>
-    <display-name>La 1 HD</display-name>
-    <display-name>La 1 4K</display-name>
-    <display-name>La 1 Full HD</display-name>
-    <display-name>La 1 UHD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
+  <channel id=" scifirakuten">
+    <display-name> scifirakuten SD</display-name>
+    <display-name> scifirakuten HD</display-name>
+    <display-name> scifirakuten 4K</display-name>
+    <display-name> scifirakuten FHD</display-name>
+    <display-name> scifirakuten UHD</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg"/>
   </channel>
-  <channel id="La 2 Super Full HD 8k">
-    <display-name>La 2 Super Full HD 8k SD</display-name>
-    <display-name>La 2 Super Full HD 8k HD</display-name>
-    <display-name>La 2 Super Full HD 8k 4K</display-name>
-    <display-name>La 2 Super Full HD 8k Full HD</display-name>
-    <display-name>La 2 Super Full HD 8k UHD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
-  </channel>
-  <channel id="Eleven Sports 1 Polonia">
-    <display-name>Eleven Sports 1 Polonia SD</display-name>
-    <display-name>Eleven Sports 1 Polonia HD</display-name>
-    <display-name>Eleven Sports 1 Polonia 4K</display-name>
-    <display-name>Eleven Sports 1 Polonia Full HD</display-name>
-    <display-name>Eleven Sports 1 Polonia UHD</display-name>
-    <icon src="http://epg.ovh/logo/Eleven+Sports+1.png" />
-  </channel>
-  <channel id="Eleven Sports 2 Polonia">
-    <display-name>Eleven Sports 2 Polonia SD</display-name>
-    <display-name>Eleven Sports 2 Polonia HD</display-name>
-    <display-name>Eleven Sports 2 Polonia 4K</display-name>
-    <display-name>Eleven Sports 2 Polonia Full HD</display-name>
-    <display-name>Eleven Sports 2 Polonia UHD</display-name>
-    <icon src="http://epg.ovh/logo/Eleven+Sports+2.png" />
-  </channel>
-  <channel id="MX | Canal TV Azteca">
-    <display-name>MX | Canal TV Azteca SD</display-name>
-    <display-name>MX | Canal TV Azteca HD</display-name>
-    <display-name>MX | Canal TV Azteca 4K</display-name>
-    <display-name>MX | Canal TV Azteca Full HD</display-name>
-    <display-name>MX | Canal TV Azteca UHD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
-  </channel>
+	<programme start="20260110233623 +0100" stop="20260111011238 +0100" channel=" scifirakuten">
+		<title lang="es">Jurassic Games</title>
+		<desc lang="es">| +16 | Películas |
+
+Cada año, diez de los criminales del mundo condenados a muerte compiten por su libertad en Jurassic Games, un programa de televisión donde los concursantes deben sobrevivir a los ataques de los dinosaurios así como a las trampas de sus propios compañeros.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/be0f57e3-bf0b-4616-bdde-0d8a92979c5f.jpeg"/>
+	</programme>
+	<programme start="20260111011239 +0100" stop="20260111022938 +0100" channel=" scifirakuten">
+		<title lang="es">Monster Island</title>
+		<desc lang="es">| +16 | Películas |
+
+Una graduada en biología descubre aterradores secretos sobre criaturas gigantes y mortales en la naturaleza salvaje de una isla remota durante un viaje de investigación sobre insectos.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/6307ab7f-5484-4ae9-af01-712c4e5f6a0a.jpeg"/>
+	</programme>
+	<programme start="20260111022939 +0100" stop="20260111050813 +0100" channel=" scifirakuten">
+		<title lang="es">20th Century Boys. Cap.2: La última esperanza</title>
+		<desc lang="es">| +16 | Películas |
+
+En el año 2015, Amigo es el líder absoluto y Kenji el terrorista más buscado. Los planes de Amigo no se detienen, ya que ha aparecido el Nuevo Libro de las Profecías, un texto que predice nuevos peligros, el asesinato del "Salvador" y su propia transformación en una deidad.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/306e25de-da8a-4941-80bb-bfa456885b42.jpeg"/>
+	</programme>
+	<programme start="20260111050814 +0100" stop="20260111064358 +0100" channel=" scifirakuten">
+		<title lang="es">La hora más oscura</title>
+		<desc lang="es">| +16 | Películas |
+
+Un grupo de turistas estadounidenses que se encuentran en Moscú justo cuando unos extraterrestres llegan a la Tierra con intenciones hostiles. Todos ellos intentarán sobrevivir a la invasión alienígena.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/dcd7d883-0d10-49cb-8abd-358095723965-snapshot-1590663130.jpeg"/>
+	</programme>
+	<programme start="20260111064359 +0100" stop="20260111082629 +0100" channel=" scifirakuten">
+		<title lang="es">El agente</title>
+		<desc lang="es">| +16 | Películas |
+
+En el año 2030, el mundo se encuentra en perenne estado de recesión económica y se enfrenta a problemas medioambientales. Todos los ciudadanos improductivos son exiliados a una colonia.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/f627bc90-3cbc-4df4-9630-83cd2dbd2459-snapshot-1590659873.jpeg"/>
+	</programme>
+	<programme start="20260111082630 +0100" stop="20260111103428 +0100" channel=" scifirakuten">
+		<title lang="es">El juego de Ender</title>
+		<desc lang="es">| +16 | Películas |
+
+70 años después de una guerra entre seres humanos y extraterrestres que casi acaba con la raza humana, un niño prodigio es enviado a una escuela militar espacial con el fin de prepararlo para una futura invasión. Ese niño se llama Ender y él no lo sabe, pero es el único que puede evitar la invasión.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/a73be772-afa4-43ab-82e8-14d465fdb2a2-snapshot-1590663465.jpeg"/>
+	</programme>
+	<programme start="20260111103429 +0100" stop="20260111130042 +0100" channel=" scifirakuten">
+		<title lang="es">Cazadores de sombras: Ciudad de hueso</title>
+		<desc lang="es">| +16 | Películas |
+
+Clary Fray es una adolescente neoyorkina aparentemente normal. Pesencia cómo un extraño joven llamado Jace parece asesinar a alguien, pero el cuerpo de la víctima desaparece y nadie más parece haberlo visto. Jace es un Cazador de Sombras, un grupo de poderosos guerreros, mitad ángeles-mitad humanos.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/0de06f74-9ab3-4522-8e4f-1fc083e7d30e.png"/>
+	</programme>
+	<programme start="20260111130043 +0100" stop="20260111144636 +0100" channel=" scifirakuten">
+		<title lang="es">Encuentros en la oscuridad</title>
+		<desc lang="es">| +16 | Películas |
+
+Una familia celebra el memorial de la desaparición de su hija, cuando luces extrañas aparecen en un bosque cercano. La familia sufre un incidente siniestro que cambia para siempre sus vidas y les guiará hacia la verdad tras la desaparición de la pequeña.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/3f782500-b168-4580-ae08-e5e40a93aaea-dark-encounter-1621952565.jpeg"/>
+	</programme>
+	<programme start="20260111144637 +0100" stop="20260111161952 +0100" channel=" scifirakuten">
+		<title lang="es">El último día en la Tierra</title>
+		<desc lang="es">| +16 | Películas |
+
+La luna roja amenaza la existencia de la humanidad por un cambio de rumbo repentino: ahora se dirige directamente hacia la Tierra.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/14cee6ec-cb5b-4d4d-9ab0-e0499b6b30c1-le-dernier-voyage-1629365541.jpeg"/>
+	</programme>
+	<programme start="20260111161953 +0100" stop="20260111180845 +0100" channel=" scifirakuten">
+		<title lang="es">Max Reload y los Desintegradores Abisales</title>
+		<desc lang="es">| +16 | Películas |
+
+El empleado de una tienda de videojuegos de un pequeño pueblo debe pasar de cero a héroe después de desatar accidentalmente las fuerzas del mal de un cartucho de videojuego maldito.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/a240eb9e-d0f8-4c1c-ab36-4efd44837960.jpeg"/>
+	</programme>
+	<programme start="20260111180846 +0100" stop="20260111194038 +0100" channel=" scifirakuten">
+		<title lang="es">Alerta global</title>
+		<desc lang="es">| +16 | Películas |
+
+La humanidad se enfrenta a las repercusiones de utilizar una tecnología omnisciente como sustituto del contacto humano que tendrá consecuencias mortales para toda la sociedad.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/58c5eefc-7ce1-4e8d-a9a7-91a30ba189b3-warning-1638541988.jpeg"/>
+	</programme>
+	<programme start="20260111194039 +0100" stop="20260111212523 +0100" channel=" scifirakuten">
+		<title lang="es">Johnny Mnemonic</title>
+		<desc lang="es">| +16 | Películas |
+
+Corre el año 2021 y la mitad de la población sufre de una enfermedad llamada "síndrome de atenuación de los nervios". Johnny (Keanu Reeves) es un mensajero de información, una persona que lleva los datos más importantes del siglo XXI, directamente implantados en su cerebro.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/591ba101-bca3-4cad-a8ad-c45506337b6d-johnny-mnemonic-1653033200.jpeg"/>
+	</programme>
+	<programme start="20260111212524 +0100" stop="20260111230108 +0100" channel=" scifirakuten">
+		<title lang="es">La hora más oscura</title>
+		<desc lang="es">| +16 | Películas |
+
+Un grupo de turistas estadounidenses que se encuentran en Moscú justo cuando unos extraterrestres llegan a la Tierra con intenciones hostiles. Todos ellos intentarán sobrevivir a la invasión alienígena.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/dcd7d883-0d10-49cb-8abd-358095723965-snapshot-1590663130.jpeg"/>
+	</programme>
+	<programme start="20260111230109 +0100" stop="20260112003732 +0100" channel=" scifirakuten">
+		<title lang="es">El experimento del sueño</title>
+		<desc lang="es">| +16 | Películas |
+
+Si te duermes, mueres. Este es el letal efecto secundario al que los pacientes de un ensayo clínico de un fármaco experimental deben hacer frente en una lucha a contrarreloj para sobrevivir.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/0a757b8e-d8f3-4116-9d74-4ff962cb8366.jpeg"/>
+	</programme>
+	<programme start="20260112003733 +0100" stop="20260112023008 +0100" channel=" scifirakuten">
+		<title lang="es">Ladrones del futuro</title>
+		<desc lang="es">| +16 | Películas |
+
+Lee y su equipo de ladrones usan una sustancia que les permite viajar al futuro para llevar a cabo robos con éxito.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/9d734db0-1451-4661-a6bb-2f930090e675.jpeg"/>
+	</programme>
+	<programme start="20260112023009 +0100" stop="20260112044406 +0100" channel=" scifirakuten">
+		<title lang="es">Gundala</title>
+		<desc lang="es">| +16 | Películas |
+
+Gundala, el notable superhéroe de cómic de Indonesia y su alter ego Sancaka ingresan al universo cinematográfico para luchar contra el malvado Pengkor y su escuadrón.</desc>
+		<icon src="https://images-0.rakuten.tv/storage/snapshot/shot/f15a1084-f7b1-479e-a9fa-4c97bf4db791-snapshot-1590669126.jpeg"/>
+	</programme>
+	<programme start="20260112044407 +0100" stop="20260112062536 +0100" channel=" scifirakuten">
+		<title lang="es">Anti-Life: La brecha</title>
+		<desc lang="es">| +16 | Películas |
+
+Un rudo mecánico es elegido para estar despierto y dar mantenimiento al arca interestelar de una nave espacial que mantiene con vida a unos pocos miles de supervivientes de una Tierra moribunda.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/8b464413-4a49-4b96-be78-66893697a641-breach-1611748478.jpeg"/>
+	</programme>
+	<programme start="20260112062537 +0100" stop="20260112081559 +0100" channel=" scifirakuten">
+		<title lang="es">Los últimos días en Marte</title>
+		<desc lang="es">| +16 | Películas |
+
+Un grupo de astronautas en misión descubre muestras rocosas que revelan evidencias de vida. Dos de los astronautas regresan a donde hallaron las muestras para reunir más hallazgos. Pero uno de ellos sufre un accidente y su cuerpo es infectado por la misteriosa forma de vida que acaban de descubrir.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/e56f44ec-8295-411e-80c3-db28a2014a9b.jpeg"/>
+	</programme>
+	<programme start="20260112081600 +0100" stop="20260112095140 +0100" channel=" scifirakuten">
+		<title lang="es">La bruma</title>
+		<desc lang="es">| +16 | Películas |
+
+París se sumerge en una extraña niebla mortal, y los supervivientes se refugian en los pisos y tejados de la ciudad. A medida que pasan las horas una pequeña familia se ve obligada a enfrentarse a la realidad: si esperan salir vivos, tendrán que correr el riesgo de salir a la niebla.</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/b5f3bd76-7575-486a-8290-a38f22cf29be-dans-la-brume-1629200116.jpeg"/>
+	</programme>
+	<programme start="20260112095141 +0100" stop="20260112113229 +0100" channel=" scifirakuten">
+		<title lang="es">Zona mortal</title>
+		<desc lang="es">| +16 | Películas |
+
+Tras un accidente de coche, Liam se despierta sin recordar quién es. De regreso a la ciudad, solo encuentra cadáveres a su paso y cualquiera que se le acerca a menos de 15 metros muere.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/25719409-3678-4a03-bd5b-fdd6b52d9441.jpeg"/>
+	</programme>
+	<programme start="20260112113230 +0100" stop="20260112134310 +0100" channel=" scifirakuten">
+		<title lang="es">ISRA-88</title>
+		<desc lang="es">| +16 | Películas |
+
+Un científico y un piloto se ofrecen voluntarios para una misión de alto nivel destinada a llegar al fin del universo. Después de 13 años, la nave se estrella en el fin del universo y se adentra en lo desconocido.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/0f825f31-cf3f-4d39-8f61-8818dd4cf903-snapshot-1590665556.jpeg"/>
+	</programme>
+	<programme start="20260112134311 +0100" stop="20260112160323 +0100" channel=" scifirakuten">
+		<title lang="es">Power Rangers</title>
+		<desc lang="es">| +16 | Películas |
+
+Musculoso y espectacular reboot de la mítica serie de los 90' a medio camino entre 'Transformers' y el cine de superhéroes. 5 jóvenes estudiantes van a descubrir que La Tierra está al borde de la extinción por una amenaza alienígena. Pronto descubrirán que son los únicos que pueden salvar el planeta</desc>
+		<icon src="https://images-3.rakuten.tv/storage/snapshot/shot/8419cdfc-3afb-4e72-8033-4e77dd2936c8-snapshot-1590665584.jpeg"/>
+	</programme>
+	<programme start="20260112160324 +0100" stop="20260112175428 +0100" channel=" scifirakuten">
+		<title lang="es">Sobreviviendo en Marte</title>
+		<desc lang="es">| +16 | Películas |
+
+Tras un desastre ecológico, una familia intenta subsistir en Marte. Después de atacarles, un bandido exige quedarse en la casa. ¿Podrán madre e hija sobrevivir con el violento extraño?</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/780b30ce-2769-43c9-a7e5-b0b152940381-settlers-1626944187.jpeg"/>
+	</programme>
+	<programme start="20260112175429 +0100" stop="20260112201615 +0100" channel=" scifirakuten">
+		<title lang="es">Gintama</title>
+		<desc lang="es">| +16 | Películas |
+
+En un periodo Edo alternativo en el que Japón ha sido invadido por alienígenas y el Shogun ha prohibido a todos los samuráis el uso de espadas, Gintoki es un soldado de fortuna que busca sobrevivir haciendo cualquier chapuza que se le pida junto con sus dos inseparables amigos Shinpachi y Kagura.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/b949c0bb-a646-4ec6-9e57-846a501980e3-snapshot-1590668730.jpeg"/>
+	</programme>
+	<programme start="20260112201616 +0100" stop="20260112221456 +0100" channel=" scifirakuten">
+		<title lang="es">El Caballero de las Sombras</title>
+		<desc lang="es">| +16 | Películas |
+
+Cuenta la historia de un legendario cazador de demonios (Jackie Chan) que persigue a los monstruos que se adentran en la dimensión de los seres humanos y que cuenta con la ayuda de un abogado y de un grupo de bestias dispuestas a luchar contra el Mal.</desc>
+		<icon src="https://images-2.rakuten.tv/storage/snapshot/shot/cd53fe2a-fda4-41eb-912a-d9b9237f12bc.jpeg"/>
+	</programme>
+	<programme start="20260112221457 +0100" stop="20260112235112 +0100" channel=" scifirakuten">
+		<title lang="es">Jurassic Games</title>
+		<desc lang="es">| +16 | Películas |
+
+Cada año, diez de los criminales del mundo condenados a muerte compiten por su libertad en Jurassic Games, un programa de televisión donde los concursantes deben sobrevivir a los ataques de los dinosaurios así como a las trampas de sus propios compañeros.</desc>
+		<icon src="https://images-1.rakuten.tv/storage/snapshot/shot/be0f57e3-bf0b-4616-bdde-0d8a92979c5f.jpeg"/>
+	</programme>
+	<programme start="20260112235113 +0100" stop="20260113024721 +0100" channel=" scifirakuten">
+		<title lang="es">20th Century Boys. Cap.3: Redención</title>
+		<desc lang="es">| +16 | Películas |
+
+Con Amigo como líder mundial, las fuerzas de la resistencia, lideradas por Yoshitsune, Yukiji y Otcho, luchan contra el inminente Día del Juicio Final de 2017. Solo un milagro y la respuesta a la pregunta que los ha atormentado por 20 años —¿quién es Amigo?— podrán salvar a la humanidad.</desc>
+		<icon src="https://images-0.rakuten.tv/storage/snapshot/shot/fee0cf27-4bb8-4a80-95b7-2d4333461ef1.jpeg"/>
+	</programme>
 	<programme start="20260110070000 +0100" stop="20260110100000 +0100" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | *6.2/10
