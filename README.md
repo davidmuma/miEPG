@@ -15,7 +15,7 @@ El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas
    - Nota: Si se encuentran canales con el mismo nombre en diferentes EPGs, solo se añadirá la primera coincidencia (la primera EPG tiene prioridad).
 
 2. **Modificar el archivo `canales.txt`**:
-   - Especifica los canales que desees y sus nombres. (al ejecutar el script se generan listados de canales en .txt de las distintas egps)
+   - Especifica los canales que desees y sus nombres. (al ejecutar el script se generan listados de canales en .txt de las distintas egps para facilitar el copia/pega)
    - Los nombres de los canales deben ir separados por comas (sin espacios). 
    - **Formato**:
      ```
