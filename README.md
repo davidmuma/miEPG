@@ -4,7 +4,7 @@
 
 Este repositorio utiliza **GitHub Actions** para generar un archivo XML a partir de múltiples EPGs. Puedes personalizar el **nombre**, el **logo** y el **horario** de cada canal.
 
-El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas, puedes modificar este horario en el archivo de cron.
+El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas, puedes modificar este horario en el archivo de .github/workflows/miEPG.yml
 
 ---
 
