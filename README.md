@@ -15,15 +15,15 @@ El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas
    - Nota: Si se encuentran canales con el mismo nombre en diferentes EPGs, solo se añadirá la primera coincidencia (la primera EPG tiene prioridad).
 
 2. **Modificar el archivo `canales.txt`**:
-   - Especifica los canales que desees y sus nombres.
+   - Especifica los canales que desees y sus nombres. (al ejecutar el script se generan listados de canales en .txt de las distintas egps)
    - Los nombres de los canales deben ir separados por comas (sin espacios). 
    - **Formato**:
      ```
-     NombreEPG,NombreLISTA,url\_logo,valor\_hora
+     NombreEPG,NombreLISTA,url_logo,valor_hora
      ```
    - **Ejemplo**:
      ```
-     NombreEPG,NombreLista,hffp://raw.githubusercontent.com/Images/logo\_dobleM.png,+2
+     NombreEPG,NombreLista,hffp://raw.githubusercontent.com/Images/logo.png,+2
      ```
    - **Campos**:
      - `NombreEPG`: Nombre del canal de la EPG de origen.
