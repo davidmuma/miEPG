@@ -2,7 +2,7 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '30 11 * * * ' # Ejecutar a las 13:30 AM
+    - cron: '30 12 * * * ' # Ejecutar a las 13:30 AM (ten en cuenta el horario verano/invierno)
   workflow_dispatch:
 permissions:
    contents: write
@@ -14,16 +14,9 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v2
 
-    - name: Comprobar si xmllint está instalado
+    - name: Comprobar e Instalar xmllint
       run: |
-        if ! command -v xmllint &> /dev/null
-        then
-          echo "xmllint no está instalado. Instalando..."
-          sudo apt-get update
-          sudo apt-get install -y libxml2-utils
-        else
-          echo "xmllint ya está instalado"
-        fi
+        sudo apt-get update && sudo apt-get install -y libxml2-utils
 
     - name: Dar permisos de ejecución al script
       run: |
