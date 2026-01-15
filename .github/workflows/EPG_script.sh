@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6
+# Versión: 3.7
 # Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
 # ============================================================================== 
 
@@ -66,13 +66,14 @@ echo "─── PROCESANDO CANALES ───"
 mapfile -t canales < canales.txt
 for i in "${!canales[@]}"; do
     IFS=',' read -r old new logo offset <<< "${canales[$i]}"
+    old="$(echo "$old" | xargs)"
+    new="$(echo "$new" | xargs)"
+    logo="$(echo "$logo" | xargs)"
+    offset="$(echo "$offset" | xargs)"
     if [[ "$logo" =~ ^[+-]?[0-9]+$ ]] && [[ -z "$offset" ]]; then
         offset="$logo"
         logo=""
     fi
-    new="${new:-}"
-    logo="${logo:-}"
-    offset="${offset:-}"
     canales[$i]="$old,$new,$logo,$offset"
 done
 
