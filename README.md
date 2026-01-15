@@ -38,12 +38,12 @@ El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas
 
 ---
 
-Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres
+**Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres**
 
    ```
    https://raw.githubusercontent.com/[Username]/miEPG/master/miEPG.xml
    ```
-Recuerda reemplazar `[Username]` por tu nombre de usuario en GitHub.
+**Recuerda reemplazar `[Username]` por tu nombre de usuario en GitHub.**
 
 ---
 
