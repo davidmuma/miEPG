@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
-<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
-<channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
-<channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
-<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
-<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name><icon src="https://images.open-epg.com/35852.png"/></channel>
-<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
-<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <channel id="Tabernaculo Biblico Bautista.sv"><display-name>Tabernaculo Biblico Bautista.sv</display-name><icon src="https://images.open-epg.com/37512.png"/></channel>
 <channel id="33.es"><display-name>33.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Canal FlixOle 1.es"><display-name>Canal FlixOle 1.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
@@ -46,6 +38,14 @@
 <channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
 <channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
 <channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
+<channel id="Canal 33.es"><display-name>Canal 33.es</display-name><icon src="https://images.open-epg.com/1403059.png"/></channel>
+<channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
+<channel id="ALIENTOVISION.ar"><display-name>ALIENTOVISION.ar</display-name><icon src="https://images.open-epg.com/25731.png"/></channel>
+<channel id="CANAL LUZ.ar"><display-name>CANAL LUZ.ar</display-name><icon src="https://images.open-epg.com/25749.png"/></channel>
+<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Aliento Vision.co"><display-name>Aliento Vision.co</display-name><icon src="https://images.open-epg.com/35852.png"/></channel>
+<channel id="Atrescine.ar"><display-name>Atrescine.ar</display-name><icon src="https://images.open-epg.com/32602.png"/></channel>
+<channel id="Canal Luz.ar"><display-name>Canal Luz.ar</display-name><icon src="https://images.open-epg.com/32618.png"/></channel>
 <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="Daystar.ar">
 <title>Voz News</title>
 <sub-title></sub-title>
@@ -215,10 +215,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="Daystar.ar">
-<title>Marcus Lamb</title>
-<sub-title></sub-title>
-<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Marcus Lamb : Él es capaz</title>
+<sub-title>Él es capaz</sub-title>
+<desc>Marcus Lamb enseña y comparte como poner tu confianza en las promesas de Dios y vivir sin límites.</desc>
+<episode-num system="xmltv_ns">0.7.</episode-num>
 </programme>
 <programme start="20260123180000 +0000" stop="20260123183000 +0000" channel="Daystar.ar">
 <title>Samuel Rodriguez</title>
@@ -305,10 +305,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124020000 +0000" stop="20260124030000 +0000" channel="Daystar.ar">
-<title>Marcus Lamb</title>
-<sub-title></sub-title>
-<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Marcus Lamb : Él es capaz</title>
+<sub-title>Él es capaz</sub-title>
+<desc>Marcus Lamb enseña y comparte como poner tu confianza en las promesas de Dios y vivir sin límites.</desc>
+<episode-num system="xmltv_ns">0.7.</episode-num>
 </programme>
 <programme start="20260124030000 +0000" stop="20260124033000 +0000" channel="Daystar.ar">
 <title>Aqua viva</title>
@@ -341,10 +341,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124060000 +0000" stop="20260124070000 +0000" channel="Daystar.ar">
-<title>Marcus Lamb</title>
-<sub-title></sub-title>
-<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta coleccion de servicios.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Marcus Lamb : Él es capaz</title>
+<sub-title>Él es capaz</sub-title>
+<desc>Marcus Lamb enseña y comparte como poner tu confianza en las promesas de Dios y vivir sin límites.</desc>
+<episode-num system="xmltv_ns">0.7.</episode-num>
 </programme>
 <programme start="20260124070000 +0000" stop="20260124073000 +0000" channel="Daystar.ar">
 <title>Joni Table Talk</title>
@@ -461,10 +461,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124173000 +0000" stop="20260124180000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Poca o mucha fe</title>
+<sub-title>Poca o mucha fe</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124180000 +0000" stop="20260124183000 +0000" channel="Daystar.ar">
 <title>Sid Roth: ¡Es sobrenatural!</title>
@@ -521,10 +521,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124223000 +0000" stop="20260124230000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Poca o mucha fe</title>
+<sub-title>Poca o mucha fe</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124230000 +0000" stop="20260124233000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
@@ -641,10 +641,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125083000 +0000" stop="20260125090000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Poca o mucha fe</title>
+<sub-title>Poca o mucha fe</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125090000 +0000" stop="20260125100000 +0000" channel="Daystar.ar">
 <title>Reflections</title>
@@ -737,10 +737,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125173000 +0000" stop="20260125180000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Manten la calma</title>
+<sub-title>Manten la calma</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125180000 +0000" stop="20260125183000 +0000" channel="Daystar.ar">
 <title>Escrito está</title>
@@ -779,10 +779,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125210000 +0000" stop="20260125213000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Vive de adentro hacia afuera</title>
+<sub-title>Vive de adentro hacia afuera</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125213000 +0000" stop="20260125220000 +0000" channel="Daystar.ar">
 <title>Reflections</title>
@@ -941,10 +941,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="Daystar.ar">
-<title>Joni Table Talk</title>
-<sub-title></sub-title>
-<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Joni Table Talk : Stories From the Table: April Simons</title>
+<sub-title>Stories From the Table: April Simons</sub-title>
+<desc>April Simons comparte su poderosa herencia de fe al crecer en la familia Osteen y revela como su hermana y su madre fueron sanadas milagrosamente.</desc>
+<episode-num system="xmltv_ns">.22.</episode-num>
 </programme>
 <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="Daystar.ar">
 <title>Descubriendo al Jesús judío</title>
@@ -1061,10 +1061,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260126223000 +0000" stop="20260126230000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Vive de adentro hacia afuera</title>
+<sub-title>Vive de adentro hacia afuera</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260126230000 +0000" stop="20260126233000 +0000" channel="Daystar.ar">
 <title>Andres Spyker de "Más vida"</title>
@@ -1091,10 +1091,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260127013000 +0000" stop="20260127020000 +0000" channel="Daystar.ar">
-<title>Joni Table Talk</title>
-<sub-title></sub-title>
-<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Joni Table Talk : Stories From the Table: April Simons</title>
+<sub-title>Stories From the Table: April Simons</sub-title>
+<desc>April Simons comparte su poderosa herencia de fe al crecer en la familia Osteen y revela como su hermana y su madre fueron sanadas milagrosamente.</desc>
+<episode-num system="xmltv_ns">.22.</episode-num>
 </programme>
 <programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="Daystar.ar">
 <title>Ministry Now</title>
@@ -1127,10 +1127,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260127053000 +0000" stop="20260127060000 +0000" channel="Daystar.ar">
-<title>Fe y fuego : Vuelve a evangelizar como antes</title>
-<sub-title>Vuelve a evangelizar como antes</sub-title>
-<desc>No se debe poner a Dios en una caja, hay mucho más de su gloria y poder que el quiere revelar. Se debe predicar el evangelio a toda criatura comenzando con los más cercanos.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
+<title>Fe y fuego : Vive de adentro hacia afuera</title>
+<sub-title>Vive de adentro hacia afuera</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260127060000 +0000" stop="20260127070000 +0000" channel="Daystar.ar">
 <title>Ministry Now</title>
@@ -1139,10 +1139,10 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260127070000 +0000" stop="20260127073000 +0000" channel="Daystar.ar">
-<title>Joni Table Talk</title>
-<sub-title></sub-title>
-<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
-<episode-num system="xmltv_ns"></episode-num>
+<title>Joni Table Talk : Stories From the Table: April Simons</title>
+<sub-title>Stories From the Table: April Simons</sub-title>
+<desc>April Simons comparte su poderosa herencia de fe al crecer en la familia Osteen y revela como su hermana y su madre fueron sanadas milagrosamente.</desc>
+<episode-num system="xmltv_ns">.22.</episode-num>
 </programme>
 <programme start="20260127073000 +0000" stop="20260127080000 +0000" channel="Daystar.ar">
 <title>A toda luz</title>
@@ -1564,6 +1564,246 @@
 <desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20260129010000 +0000" stop="20260129013000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129013000 +0000" stop="20260129020000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk</title>
+<sub-title></sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="Daystar.ar">
+<title>Ministry Now</title>
+<sub-title></sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129033000 +0000" channel="Daystar.ar">
+<title>Aqua viva</title>
+<sub-title></sub-title>
+<desc>Se comparte un mensaje cargado de fe, vision y herramientas prácticas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="Daystar.ar">
+<title>Jason Lozano</title>
+<sub-title></sub-title>
+<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="Daystar.ar">
+<title>Voz News</title>
+<sub-title></sub-title>
+<desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="Daystar.ar">
+<title>Dios de milagros</title>
+<sub-title></sub-title>
+<desc>Experimenta el poder sanador de Dios, con las palabras ungidas del pastor Hernán Castaño en Dios de Milagros. ¡Desata el mover de Dios en tu familia!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="Daystar.ar">
+<title>Ministry Now</title>
+<sub-title></sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129070000 +0000" stop="20260129073000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk</title>
+<sub-title></sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129080000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen</title>
+<sub-title></sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129083000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129083000 +0000" stop="20260129093000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129093000 +0000" stop="20260129103000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef, un respetado líder religioso, ofrece un discurso sobre la verdad y las enseñanzas del Todopoderoso.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129123000 +0000" channel="Daystar.ar">
+<title>Joni Table Talk : The Great Family Awakening</title>
+<sub-title>The Great Family Awakening</sub-title>
+<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusion.</desc>
+<episode-num system="xmltv_ns">.49.</episode-num>
+</programme>
+<programme start="20260129123000 +0000" stop="20260129130000 +0000" channel="Daystar.ar">
+<title>Michael A. Youssef</title>
+<sub-title></sub-title>
+<desc>Michael Youssef, un respetado líder religioso, ofrece un discurso sobre la verdad y las enseñanzas del Todopoderoso.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129133000 +0000" channel="Daystar.ar">
+<title>Robert Jeffress: Courageous</title>
+<sub-title></sub-title>
+<desc>El pastor y autor Robert Jeffress ofrece poderosas estrategias bíblicas que ayudarán a otros a prosperar en un mundo antagonico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129133000 +0000" stop="20260129140000 +0000" channel="Daystar.ar">
+<title>Andrew Wommack: La verdad del evangelio</title>
+<sub-title></sub-title>
+<desc>Andrew Wommack afirma que la vida eterna tiene que ver con tener una relacion íntima con Dios mientras uno todavía está en este mundo.</desc>
+<episode-num system="xmltv_ns">.258.</episode-num>
+</programme>
+<programme start="20260129140000 +0000" stop="20260129143000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero de investigacion Sid Roth pregunta a Jonathan Cahn sobre los proximos acontecimientos del calendario profetico de Dios para el mundo.</desc>
+<episode-num system="xmltv_ns">.13.</episode-num>
+</programme>
+<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen</title>
+<sub-title></sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129163000 +0000" stop="20260129170000 +0000" channel="Daystar.ar">
+<title>The Supernatural Now</title>
+<sub-title></sub-title>
+<desc>Con Guillermo Maldonado, líder apostolico del Ministerio del Rey Jesús en Miami, parte de una red de iglesias en los EE.UU. y America Latina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="Daystar.ar">
+<title>Ministry Now</title>
+<sub-title></sub-title>
+<desc>Testimonios poderosos y conmovedores, autores nuevos y los libros más vendidos de la actualidad, líderes en la fe y los negocios, invitados musicales especiales y atletas profesionales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129180000 +0000" stop="20260129183000 +0000" channel="Daystar.ar">
+<title>Sid Roth: ¡Es sobrenatural!</title>
+<sub-title></sub-title>
+<desc>El reportero judío ha pasado más de 35 años investigando la cualidad sobrenatural de Dios y ahora busca guiar al pueblo hacia una relacion íntima con Dios y el camino de los milagros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129183000 +0000" stop="20260129190000 +0000" channel="Daystar.ar">
+<title>Adoracion en casa</title>
+<sub-title></sub-title>
+<desc>Videos de alabanza y adoracion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129190000 +0000" stop="20260129193000 +0000" channel="Daystar.ar">
+<title>Fe y fuego : Poca o mucha fe</title>
+<sub-title>Poca o mucha fe</sub-title>
+<desc>Samuel Rodríguez presenta las mejores conferencias de Latinoamerica. Los predicadores que están cambiando el mundo para Cristo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129193000 +0000" stop="20260129200000 +0000" channel="Daystar.ar">
+<title>Descubriendo al Jesús judío</title>
+<sub-title></sub-title>
+<desc>El rabino mesiánico K.A. Schneider, un judío que cree en Jesús y en los mensajeros apocalípticos del Señor, comparte la palabra de Dios con claridad y la verdadera pasion del Espíritu Santo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129200000 +0000" stop="20260129203000 +0000" channel="Daystar.ar">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Himnos familiares y música original acompañan las Escrituras en un tiempo diario de oracion y meditacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="Daystar.ar">
+<title>The Potters Touch with T.D. Jakes</title>
+<sub-title></sub-title>
+<desc>El ministerio del obispo T.D. Jakes aborda los temas y problemas de hoy ofreciendo soluciones prácticas y espirituales a las preguntas más difíciles de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129210000 +0000" stop="20260129213000 +0000" channel="Daystar.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc>El pastor Jentezen Franklin comparte el mensaje de Jesucristo a traves de su particular estilo de predicar, basado en la utilizacion de metáforas poderosas para abordar los asuntos más complejos de la difusion del mensaje.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129213000 +0000" stop="20260129220000 +0000" channel="Daystar.ar">
+<title>Andrew Wommack: La verdad del evangelio</title>
+<sub-title></sub-title>
+<desc>Andrew Wommack afirma que la vida eterna tiene que ver con tener una relacion íntima con Dios mientras uno todavía está en este mundo.</desc>
+<episode-num system="xmltv_ns">.258.</episode-num>
+</programme>
+<programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="Daystar.ar">
+<title>El cielo en la Tierra</title>
+<sub-title></sub-title>
+<desc>Predicacion de la Iglesia Cristiana "El lugar de su presencia" en Bogotá, Colombia. Con temas relevantes y prácticos, aplicables a la vida diaria y consejos bíblicos para alentar, animar y reflexionar en toda situacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129230000 +0000" stop="20260129233000 +0000" channel="Daystar.ar">
+<title>Samuel Rodriguez</title>
+<sub-title></sub-title>
+<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="Daystar.ar">
+<title>En familia con Luis y Kristen</title>
+<sub-title></sub-title>
+<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="Daystar.ar">
+<title>Voz News</title>
+<sub-title></sub-title>
+<desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20260123000000 +0000" stop="20260123003000 +0000" channel="ALIENTOVISION.ar">
 <title>Cafe libre</title>
 <sub-title></sub-title>
@@ -1882,6 +2122,294 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="ALIENTOVISION.ar">
+<title>Grace Houston Español</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030000 +0000" stop="20260124033000 +0000" channel="ALIENTOVISION.ar">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124033000 +0000" stop="20260124040000 +0000" channel="ALIENTOVISION.ar">
+<title>Journal Noticias</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124040000 +0000" stop="20260124043000 +0000" channel="ALIENTOVISION.ar">
+<title>Santidad a Jehová</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124043000 +0000" stop="20260124050000 +0000" channel="ALIENTOVISION.ar">
+<title>Lectura pública de la Biblia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124050000 +0000" stop="20260124053000 +0000" channel="ALIENTOVISION.ar">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124053000 +0000" stop="20260124060000 +0000" channel="ALIENTOVISION.ar">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124060000 +0000" stop="20260124063000 +0000" channel="ALIENTOVISION.ar">
+<title>Noches de adoracion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124063000 +0000" stop="20260124070000 +0000" channel="ALIENTOVISION.ar">
+<title>Viviendo con sentido común</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124070000 +0000" stop="20260124073000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124073000 +0000" stop="20260124080000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="ALIENTOVISION.ar">
+<title>Vida dura</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124083000 +0000" stop="20260124090000 +0000" channel="ALIENTOVISION.ar">
+<title>Reflexion espiritual</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124090000 +0000" stop="20260124093000 +0000" channel="ALIENTOVISION.ar">
+<title>Transformando familias</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124093000 +0000" stop="20260124100000 +0000" channel="ALIENTOVISION.ar">
+<title>Respuestas con Bayless Conley</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124100000 +0000" stop="20260124103000 +0000" channel="ALIENTOVISION.ar">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124103000 +0000" stop="20260124110000 +0000" channel="ALIENTOVISION.ar">
+<title>Osvaldo Carnival Online</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124110000 +0000" stop="20260124113000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124113000 +0000" stop="20260124120000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124120000 +0000" stop="20260124123000 +0000" channel="ALIENTOVISION.ar">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124123000 +0000" stop="20260124130000 +0000" channel="ALIENTOVISION.ar">
+<title>Respuestas con Bayless Conley</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124130000 +0000" stop="20260124133000 +0000" channel="ALIENTOVISION.ar">
+<title>Journal Noticias</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124133000 +0000" stop="20260124140000 +0000" channel="ALIENTOVISION.ar">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124140000 +0000" stop="20260124143000 +0000" channel="ALIENTOVISION.ar">
+<title>Deditos</title>
+<sub-title>Episodio: Emision del día miercoles</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124143000 +0000" stop="20260124150000 +0000" channel="ALIENTOVISION.ar">
+<title>La casa voladora</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124150000 +0000" stop="20260124153000 +0000" channel="ALIENTOVISION.ar">
+<title>Aventuras en Odisea</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124153000 +0000" stop="20260124160000 +0000" channel="ALIENTOVISION.ar">
+<title>Torchlighters</title>
+<sub-title>Episodio: Emision del día lunes</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124160000 +0000" stop="20260124163000 +0000" channel="ALIENTOVISION.ar">
+<title>En defensa de la Fe</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124163000 +0000" stop="20260124170000 +0000" channel="ALIENTOVISION.ar">
+<title>En defensa de la Fe</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124173000 +0000" stop="20260124180000 +0000" channel="ALIENTOVISION.ar">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124180000 +0000" stop="20260124183000 +0000" channel="ALIENTOVISION.ar">
+<title>Global 3000</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124183000 +0000" stop="20260124190000 +0000" channel="ALIENTOVISION.ar">
+<title>Grace Houston Español</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124193000 +0000" channel="ALIENTOVISION.ar">
+<title>Reflexion espiritual</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124193000 +0000" stop="20260124200000 +0000" channel="ALIENTOVISION.ar">
+<title>Vive más</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124200000 +0000" stop="20260124203000 +0000" channel="ALIENTOVISION.ar">
+<title>Razon de vivir</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124203000 +0000" stop="20260124210000 +0000" channel="ALIENTOVISION.ar">
+<title>Razon de vivir</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124213000 +0000" channel="ALIENTOVISION.ar">
+<title>Beats</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124213000 +0000" stop="20260124220000 +0000" channel="ALIENTOVISION.ar">
+<title>Lo que usted debe saber</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124220000 +0000" stop="20260124223000 +0000" channel="ALIENTOVISION.ar">
+<title>Retorno</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124223000 +0000" stop="20260124230000 +0000" channel="ALIENTOVISION.ar">
+<title>En forma</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124230000 +0000" stop="20260124233000 +0000" channel="ALIENTOVISION.ar">
+<title>Journal noticias - Resumen semanal</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124233000 +0000" stop="20260125000000 +0000" channel="ALIENTOVISION.ar">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125000000 +0000" stop="20260125003000 +0000" channel="ALIENTOVISION.ar">
+<title>Apologetica: En defensa de la Fe</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125003000 +0000" stop="20260125010000 +0000" channel="ALIENTOVISION.ar">
+<title>Música</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="ALIENTOVISION.ar">
+<title>Cine de Aliento Vision</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125013000 +0000" stop="20260125020000 +0000" channel="ALIENTOVISION.ar">
+<title>Cine de Aliento Vision</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125020000 +0000" stop="20260125023000 +0000" channel="ALIENTOVISION.ar">
+<title>Cine de Aliento Vision</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="CANAL LUZ.ar">
 <title>Cielos abiertos</title>
 <sub-title></sub-title>
@@ -2143,6 +2671,264 @@
 <programme start="20260124013000 +0000" stop="20260124023000 +0000" channel="CANAL LUZ.ar">
 <title>La posta</title>
 <sub-title>Episodio: Lo mejor del 2025</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="CANAL LUZ.ar">
+<title>Cielos abiertos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030000 +0000" stop="20260124030500 +0000" channel="CANAL LUZ.ar">
+<title>Nueva vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030500 +0000" stop="20260124031000 +0000" channel="CANAL LUZ.ar">
+<title>El tiempo es ahora</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124031000 +0000" stop="20260124031500 +0000" channel="CANAL LUZ.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124031500 +0000" stop="20260124034500 +0000" channel="CANAL LUZ.ar">
+<title>Cristo, la solucion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124034500 +0000" stop="20260124040000 +0000" channel="CANAL LUZ.ar">
+<title>Un amor eterno</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124040000 +0000" stop="20260124043000 +0000" channel="CANAL LUZ.ar">
+<title>Hillsong Latam TV</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124043000 +0000" stop="20260124050000 +0000" channel="CANAL LUZ.ar">
+<title>Backstage</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124050000 +0000" stop="20260124053000 +0000" channel="CANAL LUZ.ar">
+<title>Enciende una luz</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124053000 +0000" stop="20260124060000 +0000" channel="CANAL LUZ.ar">
+<title>Avivamiento</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124060000 +0000" stop="20260124063000 +0000" channel="CANAL LUZ.ar">
+<title>Somos la voz</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124063000 +0000" stop="20260124070000 +0000" channel="CANAL LUZ.ar">
+<title>Edificados por la palabra</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124070000 +0000" stop="20260124080000 +0000" channel="CANAL LUZ.ar">
+<title>Cantare al señor</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="CANAL LUZ.ar">
+<title>Yo lo viví</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124083000 +0000" stop="20260124093000 +0000" channel="CANAL LUZ.ar">
+<title>Noche de oracion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124093000 +0000" stop="20260124103000 +0000" channel="CANAL LUZ.ar">
+<title>La puerta abierta</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124103000 +0000" stop="20260124110000 +0000" channel="CANAL LUZ.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124110000 +0000" stop="20260124111500 +0000" channel="CANAL LUZ.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124111500 +0000" stop="20260124113000 +0000" channel="CANAL LUZ.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124113000 +0000" stop="20260124123000 +0000" channel="CANAL LUZ.ar">
+<title>Un tiempo con Jesús</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124123000 +0000" stop="20260124130000 +0000" channel="CANAL LUZ.ar">
+<title>Una paloma sobre el mundo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124130000 +0000" stop="20260124140000 +0000" channel="CANAL LUZ.ar">
+<title>Iglesia Redentor</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124140000 +0000" stop="20260124143000 +0000" channel="CANAL LUZ.ar">
+<title>La palabra de Dios</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124143000 +0000" stop="20260124144500 +0000" channel="CANAL LUZ.ar">
+<title>Micros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124144500 +0000" stop="20260124150000 +0000" channel="CANAL LUZ.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124150000 +0000" stop="20260124153000 +0000" channel="CANAL LUZ.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124153000 +0000" stop="20260124160000 +0000" channel="CANAL LUZ.ar">
+<title>Tutti y los frutis</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124160000 +0000" stop="20260124170000 +0000" channel="CANAL LUZ.ar">
+<title>Scroll</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="CANAL LUZ.ar">
+<title>Cosas que pasan</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124173000 +0000" stop="20260124174500 +0000" channel="CANAL LUZ.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124174500 +0000" stop="20260124180000 +0000" channel="CANAL LUZ.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124180000 +0000" stop="20260124183000 +0000" channel="CANAL LUZ.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124183000 +0000" stop="20260124190000 +0000" channel="CANAL LUZ.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124193000 +0000" channel="CANAL LUZ.ar">
+<title>Bendita luz</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124193000 +0000" stop="20260124200000 +0000" channel="CANAL LUZ.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124200000 +0000" stop="20260124203000 +0000" channel="CANAL LUZ.ar">
+<title>Lo hablamos en familia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124203000 +0000" stop="20260124210000 +0000" channel="CANAL LUZ.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124213000 +0000" channel="CANAL LUZ.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124213000 +0000" stop="20260124220000 +0000" channel="CANAL LUZ.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124220000 +0000" stop="20260125000000 +0000" channel="CANAL LUZ.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="CANAL LUZ.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125010000 +0000" stop="20260125020000 +0000" channel="CANAL LUZ.ar">
+<title>Catedral de la Fe</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125020000 +0000" stop="20260125023000 +0000" channel="CANAL LUZ.ar">
+<title>Momento decisivo</title>
+<sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
@@ -2422,16 +3208,334 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="ENLACE TBN.ar">
+<title>Casa de Dios</title>
+<sub-title>Episodio: Regalos invaluables</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030000 +0000" stop="20260124033000 +0000" channel="ENLACE TBN.ar">
+<title>Todo es posible - Episodio: La fe no se ...</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124033000 +0000" stop="20260124040000 +0000" channel="ENLACE TBN.ar">
+<title>Jesus Worship Center - Episodio: Podcast...</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124040000 +0000" stop="20260124043000 +0000" channel="ENLACE TBN.ar">
+<title>Camino de fe del creyente</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124043000 +0000" stop="20260124050000 +0000" channel="ENLACE TBN.ar">
+<title>Maná</title>
+<sub-title>Episodio: Creer sin límites - Parte 2 - Invitado: Henry Zuñiga</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124050000 +0000" stop="20260124053000 +0000" channel="ENLACE TBN.ar">
+<title>Dios de Milagros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124053000 +0000" stop="20260124060000 +0000" channel="ENLACE TBN.ar">
+<title>Guardianes del muro</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124060000 +0000" stop="20260124063000 +0000" channel="ENLACE TBN.ar">
+<title>Tetelestai</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124063000 +0000" stop="20260124073000 +0000" channel="ENLACE TBN.ar">
+<title>Vida nueva para el mundo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124073000 +0000" stop="20260124080000 +0000" channel="ENLACE TBN.ar">
+<title>El centro en casa</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="ENLACE TBN.ar">
+<title>Ministracion del Espíritu Santo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124083000 +0000" stop="20260124090000 +0000" channel="ENLACE TBN.ar">
+<title>Palabras de vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124090000 +0000" stop="20260124093000 +0000" channel="ENLACE TBN.ar">
+<title>Vida de fe</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124093000 +0000" stop="20260124100000 +0000" channel="ENLACE TBN.ar">
+<title>Oasis</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124100000 +0000" stop="20260124103000 +0000" channel="ENLACE TBN.ar">
+<title>Vida real</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124103000 +0000" stop="20260124110000 +0000" channel="ENLACE TBN.ar">
+<title>Mensajes de vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124110000 +0000" stop="20260124113000 +0000" channel="ENLACE TBN.ar">
+<title>Toda la Biblia juntos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124113000 +0000" stop="20260124120000 +0000" channel="ENLACE TBN.ar">
+<title>En Dios confiamos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124120000 +0000" stop="20260124123000 +0000" channel="ENLACE TBN.ar">
+<title>Para ti, mujer</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124123000 +0000" stop="20260124130000 +0000" channel="ENLACE TBN.ar">
+<title>La voz de victoria del creyente</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124130000 +0000" stop="20260124170000 +0000" channel="ENLACE TBN.ar">
+<title>Espacio Kids</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="ENLACE TBN.ar">
+<title>Vive +</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124173000 +0000" stop="20260124180000 +0000" channel="ENLACE TBN.ar">
+<title>El estudio de San Mateo</title>
+<sub-title>Episodio: La cizaña en el corazon</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124180000 +0000" stop="20260124183000 +0000" channel="ENLACE TBN.ar">
+<title>Pasos del maestro</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124183000 +0000" stop="20260124190000 +0000" channel="ENLACE TBN.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124193000 +0000" channel="ENLACE TBN.ar">
+<title>Las raíces hebreas de nuestra fe cristiana</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124193000 +0000" stop="20260124200000 +0000" channel="ENLACE TBN.ar">
+<title>Impacto mundial</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124200000 +0000" stop="20260124203000 +0000" channel="ENLACE TBN.ar">
+<title>Amarás a Israel</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124203000 +0000" stop="20260124210000 +0000" channel="ENLACE TBN.ar">
+<title>Viviendo sin límites</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124213000 +0000" channel="ENLACE TBN.ar">
+<title>Equilibradamente sanos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124213000 +0000" stop="20260124220000 +0000" channel="ENLACE TBN.ar">
+<title>Más que vencedores</title>
+<sub-title>Episodio: El todo de Dios</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124220000 +0000" stop="20260124223000 +0000" channel="ENLACE TBN.ar">
+<title>Somos hijos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124223000 +0000" stop="20260124230000 +0000" channel="ENLACE TBN.ar">
+<title>Vida real</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124230000 +0000" stop="20260124233000 +0000" channel="ENLACE TBN.ar">
+<title>Para que el mundo sepa</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124233000 +0000" stop="20260125000000 +0000" channel="ENLACE TBN.ar">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="ENLACE TBN.ar">
+<title>Especial</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="ENLACE TBN.ar">
+<title>Cánticos de amor</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125013000 +0000" stop="20260125020000 +0000" channel="ENLACE TBN.ar">
+<title>Guardianes del muro</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125020000 +0000" stop="20260125023000 +0000" channel="ENLACE TBN.ar">
+<title>Vida real</title>
+<sub-title>Episodio: Más allá</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20260123000500 +0000" stop="20260123014000 +0000" channel="Atrescine.ar">
 <title>El baile de las ánimas</title>
 <sub-title></sub-title>
 <desc>Monica se ha escapado del colegio y acude al encuentro de su madre que vive sola en el campo. Sorprendida por su pasado, descubrirá un mundo mágico en una Galicia rural, donde los muertos aparecen dispuestos a vengarse.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260123014000 +0000" stop="20260124014000 +0000" channel="Atrescine.ar">
+<programme start="20260123014000 +0000" stop="20260123031500 +0000" channel="Atrescine.ar">
 <title>Young Sánchez</title>
 <sub-title></sub-title>
 <desc>Paco Sánchez trabaja como mecánico en una fábrica. En sus ratos libres, el boxeador Paulino y su amigo Conca lo entrenan como boxeador, pero su situacion se complica cuando llega el momento de dar el salto de amateur a profesional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123031500 +0000" stop="20260123045000 +0000" channel="Atrescine.ar">
+<title>La graduada</title>
+<sub-title></sub-title>
+<desc>Benita, despues de la muerte de su tía a la que ha heredado, decide recuperar los años que ha pasado en una pequeña y puritana provincia. Llega a Madrid dispuesta a divertirse y a conocer el amor.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123045000 +0000" stop="20260123062500 +0000" channel="Atrescine.ar">
+<title>A solas contigo</title>
+<sub-title></sub-title>
+<desc>Glora, una locutora de radio es testigo de un crimen. Javier, oficial del Servicio de Inteligencia de la Marina, tiene la mision de resolver el caso y pretende usarla como carnada sin enterar al asesino que es ciega.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123062500 +0000" stop="20260123080000 +0000" channel="Atrescine.ar">
+<title>Lázaro de Tormes</title>
+<sub-title></sub-title>
+<desc>Despues de treinta y tantos años de vicisitudes, Lázaro se ve en la obligacion de demostrar ante la justicia que su forma de vida responde a la necesidad de escapar del hambre, y no al deseo de cometer delitos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123080000 +0000" stop="20260123101000 +0000" channel="Atrescine.ar">
+<title>El genero femenino</title>
+<sub-title></sub-title>
+<desc>Un director de teatro acepta el encargo de dirigir una película que extrañamente enlazará con su propia realidad y sus deseos. Sufrirá una crisis de identidad que intentará catalizar a traves de la creacion fílmica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123101000 +0000" stop="20260123115500 +0000" channel="Atrescine.ar">
+<title>Manolo, la nuit</title>
+<sub-title></sub-title>
+<desc>Manolo trabaja en la Costa del Sol, divirtiendose y ligando con las extranjeras que veranean allí. Su mujer se encuentra en Madrid presa del aburrimiento y los celos. Influenciada por su hermana, simula un embarazo con otro hombre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123115500 +0000" stop="20260123133500 +0000" channel="Atrescine.ar">
+<title>Los girasoles ciegos</title>
+<sub-title></sub-title>
+<desc>Elena y su hijo Lorenzo mantienen las apariencias para ocultar los secretos de la familia: Elenita, la hija, se ha fugado embarazada con su novio y y su marido vive oculto en un hueco practicado en el dormitorio matrimonial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123133500 +0000" stop="20260123154500 +0000" channel="Atrescine.ar">
+<title>La mitad del cielo</title>
+<sub-title></sub-title>
+<desc>Rosa es una mujer cántabra que viaja a Madrid tras la Guerra Civil. Con la ayuda de Don Pedro, un jefe de suministros, abre un restaurante que se transforma en un centro político e intelectual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123154500 +0000" stop="20260123173000 +0000" channel="Atrescine.ar">
+<title>Mambrú se fue a la guerra</title>
+<sub-title></sub-title>
+<desc>Tras la muerte de Franco, Florentina, la madre de una pequeña familia de pueblo, comunica que su marido, al que habían dado por muerto en la guerra civil, está vivo. Durante el franquismo ha permanecido oculto en esa misma vivienda.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123173000 +0000" stop="20260123190500 +0000" channel="Atrescine.ar">
+<title>Sin un adios</title>
+<sub-title></sub-title>
+<desc>Un cantante de gran exito se convierte en anunciante de los cigarrillos Delfín. En uno de los paquetes hay un premio que dará tres días en Mallorca en compañía del famoso cantante. Una muchacha inglesa, Marta, se alza con el premio.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123190500 +0000" stop="20260123203500 +0000" channel="Atrescine.ar">
+<title>Intruso</title>
+<sub-title></sub-title>
+<desc>Santander, años noventa. La amistad infantil de dos niños y una niña se trueca en un morboso triángulo al reencontrarse ya adultos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123203500 +0000" stop="20260123221000 +0000" channel="Atrescine.ar">
+<title>El juego de Luna</title>
+<sub-title></sub-title>
+<desc>Luna se gana la vida de la única manera que sabe: jugando al poker. Su talento natural la guía hasta lo más alto de una profesion dominada por los hombres en la que se siente, sin embargo, elegida por las cartas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260123221000 +0000" stop="20260124000000 +0000" channel="Atrescine.ar">
+<title>Como un relámpago</title>
+<sub-title></sub-title>
+<desc>Pablo es un chico de diecisiete años que vive con su madre, quien, en su epoca de universitaria, decidio tener sola a ese hijo al que adora. Conocer quien es su padre, se ha convertido para Pablo en una verdadera obsesion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124000000 +0000" stop="20260124014000 +0000" channel="Atrescine.ar">
+<title>La dama boba</title>
+<sub-title></sub-title>
+<desc>Dos hermanas de buena familia evaden de distintas formas la sociedad machista del siglo XVII. Una, a traves de los libros, y la otra, haciendose la tonta. Con la llegada de dos pretendientes surgirán en ellas la rivalidad y los celos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124014000 +0000" stop="20260125014000 +0000" channel="Atrescine.ar">
+<title>Los años desnudos</title>
+<sub-title></sub-title>
+<desc>Tras haber dado sus primeros pasos en el cabaret o la publicidad, tres atractivas treintañeras empiezan a hacer cine S, genero que domino en la epoca de la Transicion.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="Canal Luz.ar">
@@ -2629,7 +3733,7 @@
 <programme start="20260123183000 +0000" stop="20260123190000 +0000" channel="Canal Luz.ar">
 <title>Backstage</title>
 <sub-title></sub-title>
-<desc></desc>
+<desc>Programa que propone un viaje a traves de diferentes estilos musicales, donde conocerás los autores y las historias que inspiraron algunas de las canciones más conocidas e influyentes de la música cristiana en Uruguay y en America Latina.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260123190000 +0000" stop="20260123193000 +0000" channel="Canal Luz.ar">
@@ -2684,6 +3788,264 @@
 <title>Yo lo viví</title>
 <sub-title></sub-title>
 <desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124003000 +0000" stop="20260124013000 +0000" channel="Canal Luz.ar">
+<title>Noche de oracion</title>
+<sub-title></sub-title>
+<desc>Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124013000 +0000" stop="20260124023000 +0000" channel="Canal Luz.ar">
+<title>La posta</title>
+<sub-title></sub-title>
+<desc>Espacio de contenido religioso.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="Canal Luz.ar">
+<title>Cielos abiertos</title>
+<sub-title></sub-title>
+<desc>Inspiracion y motivacion son las marcas características. La direccion para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conduccion de Jorge Ledesma.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030000 +0000" stop="20260124030500 +0000" channel="Canal Luz.ar">
+<title>Nueva vida</title>
+<sub-title></sub-title>
+<desc>Breves reflexiones para alimentar el alma. Conducen Erich y Marcos Wurfel desde Concordia, Entre Ríos. Obra Misionera Nueva Vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124030500 +0000" stop="20260124031000 +0000" channel="Canal Luz.ar">
+<title>El tiempo es ahora</title>
+<sub-title></sub-title>
+<desc>Las decisiones importantes no se deben postergar. Así nos recomienda Carlos Schultz, desde Paraná, Entre Ríos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124031000 +0000" stop="20260124031500 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124031500 +0000" stop="20260124034500 +0000" channel="Canal Luz.ar">
+<title>Cristo, la solucion</title>
+<sub-title></sub-title>
+<desc>Emision en la que se abordan algunos pasajes bíblicos, reflexiones y mensajes sobre la obra de Cristo en la vida del ser humano, así como tambien se ofrecen algunos consejos útiles para discernir en la búsqueda espiritual personal.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124034500 +0000" stop="20260124040000 +0000" channel="Canal Luz.ar">
+<title>Un amor eterno</title>
+<sub-title></sub-title>
+<desc>Desde Arequito, Elsio Romero, director del diario digital "Arequito Hoy", nos invita a conocer un amor incondicional.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124040000 +0000" stop="20260124043000 +0000" channel="Canal Luz.ar">
+<title>Hillsong Latam TV</title>
+<sub-title></sub-title>
+<desc>El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazon de Dios hacia las personas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124043000 +0000" stop="20260124050000 +0000" channel="Canal Luz.ar">
+<title>Backstage</title>
+<sub-title></sub-title>
+<desc>Programa que propone un viaje a traves de diferentes estilos musicales, donde conocerás los autores y las historias que inspiraron algunas de las canciones más conocidas e influyentes de la música cristiana en Uruguay y en America Latina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124050000 +0000" stop="20260124053000 +0000" channel="Canal Luz.ar">
+<title>Enciende una luz</title>
+<sub-title></sub-title>
+<desc>Difundimos el mensaje de Dios, escrito en los textos sagrados de la Biblia. Te invitamos a que goces de su divinidad, te acerques mediante la oracion y agradezcas sus bendiciones. Tu vida puede ser un reflejo de Dios para bien de otros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124053000 +0000" stop="20260124060000 +0000" channel="Canal Luz.ar">
+<title>Avivamiento</title>
+<sub-title></sub-title>
+<desc>Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y predicas del evangelio, la renovacion de la vida a traves de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124060000 +0000" stop="20260124063000 +0000" channel="Canal Luz.ar">
+<title>Somos la voz</title>
+<sub-title></sub-title>
+<desc>Una vision joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124063000 +0000" stop="20260124070000 +0000" channel="Canal Luz.ar">
+<title>Edificados por la palabra</title>
+<sub-title></sub-title>
+<desc>Desde Ushuaia, Tierra del Fuego del Espíritu Santo, Fabián Rotemberg funda los cimientos de una solida vida cristiana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124070000 +0000" stop="20260124080000 +0000" channel="Canal Luz.ar">
+<title>Cantare al señor</title>
+<sub-title></sub-title>
+<desc>Canciones e himnos de ayer, de hoy y de siempre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="Canal Luz.ar">
+<title>Yo lo viví</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124083000 +0000" stop="20260124093000 +0000" channel="Canal Luz.ar">
+<title>Noche de oracion</title>
+<sub-title></sub-title>
+<desc>Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124093000 +0000" stop="20260124103000 +0000" channel="Canal Luz.ar">
+<title>La puerta abierta</title>
+<sub-title></sub-title>
+<desc>Un segmento de atractivo general, conducido por Juan Pablo Bongarrá, en el que se abordan temas de la vida diaria y sobre todo espiritual, así como entrevistas a destacadas personalidades. En vivo desde Buenos Aires.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124103000 +0000" stop="20260124110000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124110000 +0000" stop="20260124111500 +0000" channel="Canal Luz.ar">
+<title>Big Day</title>
+<sub-title></sub-title>
+<desc>Acercamos palabras y mensajes imperdibles para comenzar el día de la mejor manera, junto a Jesús.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124111500 +0000" stop="20260124113000 +0000" channel="Canal Luz.ar">
+<title>Un mensaje a la conciencia</title>
+<sub-title></sub-title>
+<desc>Breves anecdotas para despertar la conciencia del pueblo hispano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124113000 +0000" stop="20260124123000 +0000" channel="Canal Luz.ar">
+<title>Un tiempo con Jesús</title>
+<sub-title></sub-title>
+<desc>Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124123000 +0000" stop="20260124130000 +0000" channel="Canal Luz.ar">
+<title>Una paloma sobre el mundo</title>
+<sub-title></sub-title>
+<desc>Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124130000 +0000" stop="20260124140000 +0000" channel="Canal Luz.ar">
+<title>Iglesia Redentor</title>
+<sub-title></sub-title>
+<desc>Se partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a traves de la oracion y experimentar su gracia en tu vida. Con la conduccion de Daniel Cattaneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124140000 +0000" stop="20260124143000 +0000" channel="Canal Luz.ar">
+<title>La palabra de Dios</title>
+<sub-title></sub-title>
+<desc>Los Pastores rosarinos Jose María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124143000 +0000" stop="20260124144500 +0000" channel="Canal Luz.ar">
+<title>Micros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124144500 +0000" stop="20260124150000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124150000 +0000" stop="20260124153000 +0000" channel="Canal Luz.ar">
+<title>Viviendo en el plan de Dios</title>
+<sub-title></sub-title>
+<desc>Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124153000 +0000" stop="20260124160000 +0000" channel="Canal Luz.ar">
+<title>Tutti y los frutis</title>
+<sub-title></sub-title>
+<desc>Tutti, los frutis y mango te esperan para vivir increíbles aventuras!</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124160000 +0000" stop="20260124170000 +0000" channel="Canal Luz.ar">
+<title>Scroll</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="Canal Luz.ar">
+<title>Cosas que pasan</title>
+<sub-title></sub-title>
+<desc>Un espacio que aborda la realidad desde diferentes perspectivas y una entrevista central nos invita a reflexionar sobre temas de actualidad, cultura, sociedad y más, a traves de anecdotas, historias y experiencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124173000 +0000" stop="20260124174500 +0000" channel="Canal Luz.ar">
+<title>Sembrar valores</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124174500 +0000" stop="20260124180000 +0000" channel="Canal Luz.ar">
+<title>Musicales</title>
+<sub-title></sub-title>
+<desc>Los mejores musicales.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124180000 +0000" stop="20260124183000 +0000" channel="Canal Luz.ar">
+<title>Gente nueva</title>
+<sub-title></sub-title>
+<desc>Edicion en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124183000 +0000" stop="20260124190000 +0000" channel="Canal Luz.ar">
+<title>Haciendo Iglesia</title>
+<sub-title></sub-title>
+<desc>Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversacion donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124193000 +0000" channel="Canal Luz.ar">
+<title>Bendita luz</title>
+<sub-title></sub-title>
+<desc>En compañía de la apostol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124193000 +0000" stop="20260124200000 +0000" channel="Canal Luz.ar">
+<title>Tiempo de bendicion</title>
+<sub-title></sub-title>
+<desc>El Apostol Oscar Aguero comparte un mensaje de fe, ánimo e inspiracion con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124200000 +0000" stop="20260124203000 +0000" channel="Canal Luz.ar">
+<title>Lo hablamos en familia</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124203000 +0000" stop="20260124210000 +0000" channel="Canal Luz.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc>Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124213000 +0000" channel="Canal Luz.ar">
+<title>Iglesia de la ciudad</title>
+<sub-title></sub-title>
+<desc>Desde Resistencia, Jose Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124213000 +0000" stop="20260124220000 +0000" channel="Canal Luz.ar">
+<title>Justo a tiempo</title>
+<sub-title></sub-title>
+<desc>Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260124220000 +0000" stop="20260125000000 +0000" channel="Canal Luz.ar">
+<title>I.E.M.A.</title>
+<sub-title></sub-title>
+<desc>Conferencias desde el auditorio de la Iglesia Evangelica Misionera Argentina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="Canal Luz.ar">
+<title>Un día a la vez</title>
+<sub-title></sub-title>
+<desc>Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260123000000 +0000" stop="20260123003000 +0000" channel="Aliento Vision.co">
@@ -4415,6 +5777,294 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260129000000 +0000" stop="20260129003000 +0000" channel="Aliento Vision.co">
+<title>Cafe libre</title>
+<sub-title></sub-title>
+<desc>Espacio de humor y entretenimiento que te hace reflexionar en torno al estilo de vida que llevamos diariamente, usando situaciones típicas que se desarrollan en el Cafe de Jose Luis.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129003000 +0000" stop="20260129010000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title>
+<sub-title></sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129013000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129013000 +0000" stop="20260129020000 +0000" channel="Aliento Vision.co">
+<title>Apologetica: En defensa de la Fe</title>
+<sub-title></sub-title>
+<desc>Joe Owen te da las herramientas para defender tu fe contra los ataques seculares de este siglo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129023000 +0000" channel="Aliento Vision.co">
+<title>Bendiciendo la familia</title>
+<sub-title></sub-title>
+<desc>Los doctores Víctor y Hattie Tiburcio, consejeros familiares, tratan problemas reales que se presentan en la vida matrimonial y familiar.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129030000 +0000" channel="Aliento Vision.co">
+<title>Grace Houston Español</title>
+<sub-title></sub-title>
+<desc>El Pastor David Scarpeta trae una palabra de Dios que cambiara tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129033000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title>
+<sub-title></sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129040000 +0000" stop="20260129043000 +0000" channel="Aliento Vision.co">
+<title>Santidad a Jehová</title>
+<sub-title></sub-title>
+<desc>Jobino Guzmán predica la palabra de Dios, una palabra que cambiará tu vida desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129043000 +0000" stop="20260129050000 +0000" channel="Aliento Vision.co">
+<title>Lectura pública de la Biblia</title>
+<sub-title></sub-title>
+<desc>La mejor manera de estudiar cada capítulo de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129063000 +0000" channel="Aliento Vision.co">
+<title>Billy Graham Classics</title>
+<sub-title></sub-title>
+<desc>Disfrute las clásicas reuniones de avivamiento de Billy Graham, que ahora se transmiten a una nueva generacion de espectadores en todo el mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129063000 +0000" stop="20260129070000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title>
+<sub-title></sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129070000 +0000" stop="20260129073000 +0000" channel="Aliento Vision.co">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc>Espacio informativo semanal desde San Jose de Costa Rica, con el que te mantendrás al tanto del acontecer mundial.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129080000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title>
+<sub-title></sub-title>
+<desc>Un espacio protagonizado por científicos y expositores de las diferentes ramas del saber, demostrando que la ciencia confirma lo que dice la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129083000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title>
+<sub-title></sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129083000 +0000" stop="20260129090000 +0000" channel="Aliento Vision.co">
+<title>Beats</title>
+<sub-title></sub-title>
+<desc>Espacio musical donde conocerás a tus cantantes favoritos de cerca, a traves de una amena conversacion donde expondrán sus secretos mejor guardados.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129090000 +0000" stop="20260129093000 +0000" channel="Aliento Vision.co">
+<title>Transformando familias</title>
+<sub-title></sub-title>
+<desc>Un espacio cristiano en el que abordamos las verdades bíblicas y transmitimos el mensaje de Cristo con el fin de enfrentar las vicisitudes del mundo contemporáneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129093000 +0000" stop="20260129100000 +0000" channel="Aliento Vision.co">
+<title>Respuestas con Bayless Conley</title>
+<sub-title></sub-title>
+<desc>Este segmento de respuestas es fundado por el porque sabe que Jesús y la Palabra de Dios tienen las respuestas a las preguntas más profundas de la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129103000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Aliento Vision.co">
+<title>Club 700 hoy</title>
+<sub-title></sub-title>
+<desc>Un espacio que impacta directamente en el corazon de la gran audiencia iberoamericana, mediante historias que reflejan el valor y la fortaleza de hombres y mujeres que superaron las situaciones más difíciles de sus vidas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="Aliento Vision.co">
+<title>Restauracion espiritual</title>
+<sub-title></sub-title>
+<desc>Desde Cali, Colombia, el Pastor Rosenberg trae una palabra que confronta tu vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="Aliento Vision.co">
+<title>Lectura pública de la Biblia</title>
+<sub-title></sub-title>
+<desc>La mejor manera de estudiar cada capítulo de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129123000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129123000 +0000" stop="20260129130000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title>
+<sub-title></sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129133000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129133000 +0000" stop="20260129140000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de oracion</title>
+<sub-title></sub-title>
+<desc>Oramos por tus peticiones, creemos en un Dios vivo y poderoso para hacer más de lo que pides.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129140000 +0000" stop="20260129143000 +0000" channel="Aliento Vision.co">
+<title>Transformando familias</title>
+<sub-title></sub-title>
+<desc>Un espacio cristiano en el que abordamos las verdades bíblicas y transmitimos el mensaje de Cristo con el fin de enfrentar las vicisitudes del mundo contemporáneo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="Aliento Vision.co">
+<title>The Torchlighters</title>
+<sub-title></sub-title>
+<desc>Sigue las aventuras de los Antorchas Heroes de la Fe y observa como Dios obra a traves de aquellos que dedican su vida a servirlo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Aliento Vision.co">
+<title>Ciencia, diseño y creacion</title>
+<sub-title></sub-title>
+<desc>Un espacio protagonizado por científicos y expositores de las diferentes ramas del saber, demostrando que la ciencia confirma lo que dice la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="Aliento Vision.co">
+<title>Solo para mujeres</title>
+<sub-title></sub-title>
+<desc>Un espacio diseñado para la mujer actual y los desafíos que tiene en su cotidianidad. El proposito del programa es hablar de los temas que ocupan a la mujer de una manera sencilla, ilustrativa y espiritual.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129163000 +0000" stop="20260129170000 +0000" channel="Aliento Vision.co">
+<title>Global 3000</title>
+<sub-title></sub-title>
+<desc>El magacín de DW sobre la globalizacion trata temas de interes para todos los habitantes del planeta, en especial como la gente afronta las oportunidades y los riesgos que conlleva la globalizacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129170000 +0000" stop="20260129173000 +0000" channel="Aliento Vision.co">
+<title>Vida dura</title>
+<sub-title></sub-title>
+<desc>Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129173000 +0000" stop="20260129180000 +0000" channel="Aliento Vision.co">
+<title>Lectura pública de la Biblia</title>
+<sub-title></sub-title>
+<desc>La mejor manera de estudiar cada capítulo de la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129180000 +0000" stop="20260129183000 +0000" channel="Aliento Vision.co">
+<title>Viviendo con sentido común</title>
+<sub-title></sub-title>
+<desc>Randy Morrison combina el sentido común, el humor, la pasion sin restricciones y, por último, las experiencias de la vida real con las enseñanzas basadas en la Biblia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129183000 +0000" stop="20260129190000 +0000" channel="Aliento Vision.co">
+<title>Tiempo de Dios</title>
+<sub-title></sub-title>
+<desc>El Pastor Ezequiel Molina trae un tremendo mensaje desde la República Dominicana.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129190000 +0000" stop="20260129193000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129193000 +0000" stop="20260129200000 +0000" channel="Aliento Vision.co">
+<title>Aliento de vida</title>
+<sub-title></sub-title>
+<desc>El Pastor Víctor Tiburcio te comparte la palabra de Dios desde la Iglesia Aliento de Vida, que te acercará mucho más al Creador e incrementará tu fe en el.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129200000 +0000" stop="20260129203000 +0000" channel="Aliento Vision.co">
+<title>Aliento Kids</title>
+<sub-title></sub-title>
+<desc>Segmento dedicado a los pequeños de la casa en el cual podrán aprender y conocer sobre el señor Jesucristo mediante películas, cuentos, relatos del evangelio, canciones y juegos que afianzarán su fe.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="Aliento Vision.co">
+<title>El club del Arca</title>
+<sub-title></sub-title>
+<desc>Una serie muy divertida, con personajes y aventuras que vas a adorar porque refuerzan los valores de la amistad, el compañerismo, la importancia de la familia, la escuela y el cuidado de la naturaleza.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129210000 +0000" stop="20260129213000 +0000" channel="Aliento Vision.co">
+<title>Beats</title>
+<sub-title></sub-title>
+<desc>Espacio musical donde conocerás a tus cantantes favoritos de cerca, a traves de una amena conversacion donde expondrán sus secretos mejor guardados.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129213000 +0000" stop="20260129220000 +0000" channel="Aliento Vision.co">
+<title>Billy Graham Classics</title>
+<sub-title></sub-title>
+<desc>Disfrute las clásicas reuniones de avivamiento de Billy Graham, que ahora se transmiten a una nueva generacion de espectadores en todo el mundo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129220000 +0000" stop="20260129223000 +0000" channel="Aliento Vision.co">
+<title>En los pasos del maestro</title>
+<sub-title></sub-title>
+<desc>Kirk and Ray te hablan y te enseñan diversos consejos de evangelizacion, mostrándote su verdadera aplicacion y ayudándote a mejorar tu relacion con Dios.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129223000 +0000" stop="20260129230000 +0000" channel="Aliento Vision.co">
+<title>Reflexion espiritual</title>
+<sub-title></sub-title>
+<desc>Desde la Iglesia Fraternidad Cristiana en Guatemala, aprenda con el doctor Jorge H. Lopez principios para tener vidas saludables y familias prosperas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129230000 +0000" stop="20260129233000 +0000" channel="Aliento Vision.co">
+<title>Journal Noticias</title>
+<sub-title></sub-title>
+<desc>El noticiero de la DW sobre los temas más importantes del día.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="Aliento Vision.co">
+<title>Global 3000</title>
+<sub-title></sub-title>
+<desc>El magacín de DW sobre la globalizacion trata temas de interes para todos los habitantes del planeta, en especial como la gente afronta las oportunidades y los riesgos que conlleva la globalizacion.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260130000000 +0000" stop="20260130003000 +0000" channel="Aliento Vision.co">
 <title>Cafe libre</title>
 <sub-title></sub-title>
 <desc>Espacio de humor y entretenimiento que te hace reflexionar en torno al estilo de vida que llevamos diariamente, usando situaciones típicas que se desarrollan en el Cafe de Jose Luis.</desc>
@@ -12424,52 +14074,10 @@
 <desc>El dibuixant i guionista Akira Toriyama va concebre lany 1984 Bola de drac.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260123045200 +0000" stop="20260123050000 +0000" channel="Canal 33.es">
+<programme start="20260123045200 +0000" stop="20260123080700 +0000" channel="Canal 33.es">
 <title>Videoclips catalans</title>
 <sub-title></sub-title>
 <desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123050000 +0000" stop="20260123050400 +0000" channel="Canal 33.es">
-<title>Videoclips catalans</title>
-<sub-title></sub-title>
-<desc>Programa diari en el que semet un videoclip musical dun artista català.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123050400 +0000" stop="20260123051600 +0000" channel="Canal 33.es">
-<title>Gran!: Sau: "Quina nit"</title>
-<sub-title></sub-title>
-<desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123051600 +0000" stop="20260123054300 +0000" channel="Canal 33.es">
-<title>Quèquicom: Cervesa: aliment líquid</title>
-<sub-title></sub-title>
-<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123054300 +0000" stop="20260123061100 +0000" channel="Canal 33.es">
-<title>Quèquicom: Bacteris: de lintestí a Mart</title>
-<sub-title></sub-title>
-<desc>Espai divulgatiu en què diferents reporters mostren de forma amena, clara i entenedora la relacio entre la ciència i diferents aspectes de la salut, la natura i la vida quotidiana. Un programa per compartir coneixements amb científics i experts.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123061100 +0000" stop="20260123065500 +0000" channel="Canal 33.es">
-<title>El convidat: Montserrat Carulla</title>
-<sub-title></sub-title>
-<desc>Monserrat Carulla convida lAlbert a la seva casa de lEmpordà.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123065500 +0000" stop="20260123074100 +0000" channel="Canal 33.es">
-<title>El convidat: Carme Ruscalleda</title>
-<sub-title></sub-title>
-<desc>La cuinera amb mes estrelles Michelin del mon rep lAlbert Om a casa seva, que està en obres. El periodista descobrirà com es la Carme Ruscalleda quan treballa i quan es treu el davantal, ja que celebrarà el Carnestoltes amb la seva família.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260123074100 +0000" stop="20260123080700 +0000" channel="Canal 33.es">
-<title>Catalunya salvatge: La muntanya sagrada</title>
-<sub-title></sub-title>
-<desc>Sèrie que dona a conèixer els ecosistemes mes representatius del territori català.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260123080700 +0000" stop="20260123084900 +0000" channel="Canal 33.es">
@@ -12829,73 +14437,73 @@
 <programme start="20260124231600 +0000" stop="20260124235900 +0000" channel="Canal 33.es">
 <title>Reizen Waes: Venezuela</title>
 <sub-title></sub-title>
-<desc>Temps enrere, Veneçuela era un dels principals destins turístics de lAmèrica del Sud. Però des de la mort de Chávez, el 2013, ha esdevingut un dels països mes perillosos del mon.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260124235900 +0000" stop="20260125002400 +0000" channel="Canal 33.es">
 <title>Afers exteriors: Grècia</title>
 <sub-title></sub-title>
-<desc>En aquesta edicio, el Miquel Calçada sen va a Grècia.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125002400 +0000" stop="20260125004900 +0000" channel="Canal 33.es">
 <title>Afers exteriors: El somni americà (I)</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125004900 +0000" stop="20260125011400 +0000" channel="Canal 33.es">
 <title>Afers exteriors: El somni americà (II)</title>
 <sub-title></sub-title>
-<desc>Miquel Calçada compartirà amb Pau Gasol un entrenament dels Lakers a Los Angeles.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125011400 +0000" stop="20260125014000 +0000" channel="Canal 33.es">
 <title>Afers exteriors: Dubai</title>
 <sub-title></sub-title>
-<desc>Lespai es planta a Dubai per comprovar si es possible esquiar sobre neu a 35 graus.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125014000 +0000" stop="20260125023600 +0000" channel="Canal 33.es">
 <title>(S)avis: Lluís Duch</title>
 <sub-title></sub-title>
-<desc>Programa dentrevistes als personatges catalans mes transcendents de lúltim segle.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125023600 +0000" stop="20260125033200 +0000" channel="Canal 33.es">
 <title>(S)avis: Valentí Fuster</title>
 <sub-title></sub-title>
-<desc>Programa dentrevistes als personatges catalans mes transcendents de lúltim segle.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125033200 +0000" stop="20260125035900 +0000" channel="Canal 33.es">
 <title>GR Barcelona: Retrats dun article</title>
 <sub-title></sub-title>
-<desc>Barcelona es una de les ciutats que ofereix mes propostes i millors.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125035900 +0000" stop="20260125042600 +0000" channel="Canal 33.es">
 <title>GR Barcelona: El viatge de la carxofa</title>
 <sub-title></sub-title>
-<desc>Poca gent relacionaria un terreny de conreu amb la ciutat, o un hort o un parc agrícola.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125042600 +0000" stop="20260125044200 +0000" channel="Canal 33.es">
 <title>Les Feres: Transistor</title>
 <sub-title></sub-title>
-<desc>Actuacions musicals de petit format amb el millor de lescena musical catalana en indrets insòlits.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125044200 +0000" stop="20260125045000 +0000" channel="Canal 33.es">
 <title>Gran!: Mar i cel</title>
 <sub-title></sub-title>
-<desc>Mar i cel es el musical de Dagoll Dagom que va revolucionar el teatre català.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260125045000 +0000" stop="20260125045500 +0000" channel="Canal 33.es">
 <title>Xarxa Natura</title>
 <sub-title></sub-title>
-<desc>Repàs als parcs naturals protegits de Catalunya inclosos a Xarxa Natura 2000.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260122233000 +0000" stop="20260123000000 +0000" channel="7TV Andalucía.es">
