@@ -73,6 +73,6 @@ Una vez completado el fork, nos aparecerá en nuestra cuenta el repositorio "for
   - Abre una pull request desde nueva rama hacia master en tu fork.
 
   - Ve a la pestaña "Actions" y verifica que los tests se están ejecutando correctamente en base a los workflows definidos en la carpeta .github/workflows/ del proyecto.
-  - Prueba de edicion
+  - Prueba de edicion github
 
 
