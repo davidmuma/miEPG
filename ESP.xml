@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
-<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
-<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Bon Dia TV.es"><display-name>Bon Dia TV.es</display-name><icon src="https://images.open-epg.com/4950.png"/></channel>
@@ -32,6 +29,9 @@
 <channel id="Canal FlixOle 2.es"><display-name>Canal FlixOle 2.es</display-name><icon src="https://images.open-epg.com/12901022.png"/></channel>
 <channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/12901041.png"/></channel>
 <channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
+<channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
 <programme start="20260226000000 +0000" stop="20260226010000 +0000" channel="ENLACE TBN.ar">
 <title>Aquí entre nos</title>
 <sub-title></sub-title>
@@ -1952,6 +1952,12 @@
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
+<programme start="20260225230000 +0000" stop="20260226030000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
 <programme start="20260226030000 +0000" stop="20260226080000 +0000" channel="Canal Parlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -2013,6 +2019,42 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260227190000 +0000" stop="20260227230000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228030000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228080000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228110000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260228110000 +0000" stop="20260228150000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260228150000 +0000" stop="20260228190000 +0000" channel="Canal Parlamento.es">
+<title>Canal Parlamentario</title>
+<sub-title></sub-title>
+<desc>Según el orden del día, emision de las comparecencias programadas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260228190000 +0000" stop="20260301080000 +0000" channel="Canal Parlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
 <desc>Según el orden del día, emision de las comparecencias programadas.</desc>
