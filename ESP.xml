@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Canal FlixOle 1.es"><display-name>Canal FlixOle 1.es</display-name><icon src="https://images.open-epg.com/12901021.png"/></channel>
-<channel id="Canal FlixOle 2.es"><display-name>Canal FlixOle 2.es</display-name><icon src="https://images.open-epg.com/12901022.png"/></channel>
-<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/12901041.png"/></channel>
-<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Bon Dia TV.es"><display-name>Bon Dia TV.es</display-name><icon src="https://images.open-epg.com/4950.png"/></channel>
@@ -33,6 +29,10 @@
 <channel id="Canal 7 Televalencia.es"><display-name>Canal 7 Televalencia.es</display-name><icon src="https://images.open-epg.com/17500.png"/></channel>
 <channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
 <channel id="Onda Algeciras TV.es"><display-name>Onda Algeciras TV.es</display-name><icon src="https://images.open-epg.com/17617.png"/></channel>
+<channel id="ENLACE TBN.ar"><display-name>ENLACE TBN.ar</display-name><icon src="https://images.open-epg.com/25782.png"/></channel>
+<channel id="Canal FlixOle 1.es"><display-name>Canal FlixOle 1.es</display-name><icon src="https://images.open-epg.com/12901021.png"/></channel>
+<channel id="Canal FlixOle 2.es"><display-name>Canal FlixOle 2.es</display-name><icon src="https://images.open-epg.com/12901022.png"/></channel>
+<channel id="Daystar Español HD.es"><display-name>Daystar Español HD.es</display-name><icon src="https://images.open-epg.com/12901041.png"/></channel>
 <programme start="20260314000000 +0000" stop="20260314020000 +0000" channel="ENLACE TBN.ar">
 <title>Viernes de Avivamiento</title>
 <sub-title></sub-title>
@@ -52,13 +52,13 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260314030000 +0000" stop="20260314033000 +0000" channel="ENLACE TBN.ar">
-<title>Todo es posible - Episodio: Transformada...</title>
+<title>Todo es posible</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260314033000 +0000" stop="20260314040000 +0000" channel="ENLACE TBN.ar">
-<title>Jesus Worship Center - Episodio: No más...</title>
+<title>Jesus Worship Center</title>
 <sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -71,7 +71,7 @@
 </programme>
 <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="ENLACE TBN.ar">
 <title>Maná</title>
-<sub-title>Episodio: Lo que Dios quiere para tu día a día - Parte 3 - Invitado: Henry Zuñiga</sub-title>
+<sub-title></sub-title>
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
@@ -279,596 +279,1634 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314002800 +0000" stop="20260314015700 +0000" channel="Canal FlixOle 1.es">
-<title>El grano de mostaza</title>
+<programme start="20260315023000 +0000" stop="20260315030000 +0000" channel="ENLACE TBN.ar">
+<title>Especial</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315030000 +0000" stop="20260315040000 +0000" channel="ENLACE TBN.ar">
+<title>Aquí entre nos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315040000 +0000" stop="20260315053000 +0000" channel="ENLACE TBN.ar">
+<title>Especial Conciertos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315053000 +0000" stop="20260315060000 +0000" channel="ENLACE TBN.ar">
+<title>Compañía de mujeres</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315060000 +0000" stop="20260315063000 +0000" channel="ENLACE TBN.ar">
+<title>Las raíces hebreas de nuestra fe cristiana</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315063000 +0000" stop="20260315070000 +0000" channel="ENLACE TBN.ar">
+<title>Mundo cristiano</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315070000 +0000" stop="20260315073000 +0000" channel="ENLACE TBN.ar">
+<title>Superlibro</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315073000 +0000" stop="20260315080000 +0000" channel="ENLACE TBN.ar">
+<title>Cánticos de amor</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315080000 +0000" stop="20260315083000 +0000" channel="ENLACE TBN.ar">
+<title>Sueños sin límites</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315083000 +0000" stop="20260315100000 +0000" channel="ENLACE TBN.ar">
+<title>Especial Conciertos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="ENLACE TBN.ar">
+<title>Cartas abiertas</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315103000 +0000" stop="20260315110000 +0000" channel="ENLACE TBN.ar">
+<title>El estudio de San Mateo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315110000 +0000" stop="20260315113000 +0000" channel="ENLACE TBN.ar">
+<title>Toda la Biblia juntos</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315113000 +0000" stop="20260315120000 +0000" channel="ENLACE TBN.ar">
+<title>Vida real</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315120000 +0000" stop="20260315123000 +0000" channel="ENLACE TBN.ar">
+<title>Escrito está</title>
+<sub-title>Episodio: Ángeles al rescate</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315123000 +0000" stop="20260315130000 +0000" channel="ENLACE TBN.ar">
+<title>Mensajes de vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315130000 +0000" stop="20260315133000 +0000" channel="ENLACE TBN.ar">
+<title>Sueños sin límites</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315133000 +0000" stop="20260315140000 +0000" channel="ENLACE TBN.ar">
+<title>Camino de fe del creyente</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315140000 +0000" stop="20260315143000 +0000" channel="ENLACE TBN.ar">
+<title>Es sobrenatural</title>
+<sub-title>Episodio: Scott Mcnamara</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315143000 +0000" stop="20260315150000 +0000" channel="ENLACE TBN.ar">
+<title>Joel</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315150000 +0000" stop="20260315153000 +0000" channel="ENLACE TBN.ar">
+<title>Camino a la victoria</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="ENLACE TBN.ar">
+<title>Arraigadas en Jesús</title>
+<sub-title>Episodio: Ãxito y realizacion personal</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315160000 +0000" stop="20260315163000 +0000" channel="ENLACE TBN.ar">
+<title>Más vida</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315163000 +0000" stop="20260315170000 +0000" channel="ENLACE TBN.ar">
+<title>En contacto</title>
+<sub-title>Episodio: La gracia transformadora de Dios</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315170000 +0000" stop="20260315173000 +0000" channel="ENLACE TBN.ar">
+<title>Guía para padres</title>
+<sub-title>Episodio: La segunda oportunidad de Mulligan</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315173000 +0000" stop="20260315180000 +0000" channel="ENLACE TBN.ar">
+<title>Tesoros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="ENLACE TBN.ar">
+<title>Disruptivas</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="ENLACE TBN.ar">
+<title>Dios de Milagros</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="ENLACE TBN.ar">
+<title>Reflexion espiritual</title>
+<sub-title>Episodio: Â¿Por que tienen tanto miedo?</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315193000 +0000" stop="20260315200000 +0000" channel="ENLACE TBN.ar">
+<title>Disfrutando la vida diaria</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315200000 +0000" stop="20260315203000 +0000" channel="ENLACE TBN.ar">
+<title>Jentezen Franklin</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="ENLACE TBN.ar">
+<title>Tiempo de reflexionar</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="ENLACE TBN.ar">
+<title>Una palabra del corazon de Dios</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315213000 +0000" stop="20260315220000 +0000" channel="ENLACE TBN.ar">
+<title>El centro en casa</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315220000 +0000" stop="20260315223000 +0000" channel="ENLACE TBN.ar">
+<title>Iglesia Lakewood</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315223000 +0000" stop="20260315230000 +0000" channel="ENLACE TBN.ar">
+<title>En casa con...</title>
+<sub-title>Episodio: No solo de pan</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315230000 +0000" stop="20260316000000 +0000" channel="ENLACE TBN.ar">
+<title>Vida nueva para el mundo</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316000000 +0000" stop="20260316003000 +0000" channel="ENLACE TBN.ar">
+<title>Camino a la victoria</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316003000 +0000" stop="20260316010000 +0000" channel="ENLACE TBN.ar">
+<title>El lugar de su presencia</title>
+<sub-title>Episodio: Atando al hombre fuerte</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316010000 +0000" stop="20260316013000 +0000" channel="ENLACE TBN.ar">
+<title>Respuestas con Bayless Conley</title>
+<sub-title>Episodio: Amar como Dios ama</sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316013000 +0000" stop="20260316020000 +0000" channel="ENLACE TBN.ar">
+<title>Prestonwood con Gilberto Corredera</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260313234400 +0000" stop="20260314004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314015700 +0000" stop="20260314033300 +0000" channel="Canal FlixOle 1.es">
-<title>Kasbah</title>
+<programme start="20260314004900 +0000" stop="20260314022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314033300 +0000" stop="20260314035100 +0000" channel="Canal FlixOle 1.es">
-<title>La chica del gato</title>
+<programme start="20260314022200 +0000" stop="20260314035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314035100 +0000" stop="20260314044400 +0000" channel="Canal FlixOle 1.es">
-<title>El tesoro</title>
+<programme start="20260314035400 +0000" stop="20260314043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314043900 +0000" stop="20260314062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314044400 +0000" stop="20260314052700 +0000" channel="Canal FlixOle 1.es">
-<title>La tirana</title>
-<sub-title></sub-title>
-<desc>La tirana</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314052700 +0000" stop="20260314065800 +0000" channel="Canal FlixOle 1.es">
-<title>El empleo</title>
+<programme start="20260314062500 +0000" stop="20260314080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314065800 +0000" stop="20260314085100 +0000" channel="Canal FlixOle 1.es">
-<title>Accattone</title>
+<programme start="20260314080300 +0000" stop="20260314093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314085100 +0000" stop="20260314102200 +0000" channel="Canal FlixOle 1.es">
-<title>Balarrasa</title>
+<programme start="20260314093400 +0000" stop="20260314111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314102200 +0000" stop="20260314114200 +0000" channel="Canal FlixOle 1.es">
-<title>Doña Francisquita</title>
+<programme start="20260314111600 +0000" stop="20260314125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314114200 +0000" stop="20260314131600 +0000" channel="Canal FlixOle 1.es">
-<title>Nunca pasa nada</title>
+<programme start="20260314125700 +0000" stop="20260314142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314131600 +0000" stop="20260314143500 +0000" channel="Canal FlixOle 1.es">
-<title>Último encuentro</title>
+<programme start="20260314142800 +0000" stop="20260314155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314143500 +0000" stop="20260314161600 +0000" channel="Canal FlixOle 1.es">
-<title>Mariquilla Terremoto</title>
+<programme start="20260314155700 +0000" stop="20260314172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314161600 +0000" stop="20260314174100 +0000" channel="Canal FlixOle 1.es">
-<title>Viva Carrancho</title>
+<programme start="20260314172100 +0000" stop="20260314184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314174100 +0000" stop="20260314192100 +0000" channel="Canal FlixOle 1.es">
-<title>El batallon de las sombras</title>
+<programme start="20260314184900 +0000" stop="20260314202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314192100 +0000" stop="20260314202500 +0000" channel="Canal FlixOle 1.es">
-<title>Viaje sin destino</title>
+<programme start="20260314202700 +0000" stop="20260314221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314202500 +0000" stop="20260314223600 +0000" channel="Canal FlixOle 1.es">
-<title>Piedras</title>
+<programme start="20260314221800 +0000" stop="20260314234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314223600 +0000" stop="20260315002800 +0000" channel="Canal FlixOle 1.es">
-<title>Tango</title>
+<programme start="20260314234400 +0000" stop="20260315004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315002800 +0000" stop="20260315015700 +0000" channel="Canal FlixOle 1.es">
-<title>El grano de mostaza</title>
+<programme start="20260315004900 +0000" stop="20260315022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315015700 +0000" stop="20260315033300 +0000" channel="Canal FlixOle 1.es">
-<title>Kasbah</title>
+<programme start="20260315022200 +0000" stop="20260315035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315033300 +0000" stop="20260315035100 +0000" channel="Canal FlixOle 1.es">
-<title>La chica del gato</title>
+<programme start="20260315035400 +0000" stop="20260315043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315043900 +0000" stop="20260315062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315035100 +0000" stop="20260315044400 +0000" channel="Canal FlixOle 1.es">
-<title>El tesoro</title>
+<programme start="20260315062500 +0000" stop="20260315080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315044400 +0000" stop="20260315052700 +0000" channel="Canal FlixOle 1.es">
-<title>La tirana</title>
-<sub-title></sub-title>
-<desc>La tirana</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315052700 +0000" stop="20260315065800 +0000" channel="Canal FlixOle 1.es">
-<title>El empleo</title>
+<programme start="20260315080300 +0000" stop="20260315093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315065800 +0000" stop="20260315085100 +0000" channel="Canal FlixOle 1.es">
-<title>Accattone</title>
+<programme start="20260315093400 +0000" stop="20260315111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315085100 +0000" stop="20260315102200 +0000" channel="Canal FlixOle 1.es">
-<title>Balarrasa</title>
+<programme start="20260315111600 +0000" stop="20260315125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315102200 +0000" stop="20260315114200 +0000" channel="Canal FlixOle 1.es">
-<title>Doña Francisquita</title>
+<programme start="20260315125700 +0000" stop="20260315142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315114200 +0000" stop="20260315131600 +0000" channel="Canal FlixOle 1.es">
-<title>Nunca pasa nada</title>
+<programme start="20260315142800 +0000" stop="20260315155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315131600 +0000" stop="20260315143500 +0000" channel="Canal FlixOle 1.es">
-<title>Último encuentro</title>
+<programme start="20260315155700 +0000" stop="20260315172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315143500 +0000" stop="20260315161600 +0000" channel="Canal FlixOle 1.es">
-<title>Mariquilla Terremoto</title>
+<programme start="20260315172100 +0000" stop="20260315184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315161600 +0000" stop="20260315174100 +0000" channel="Canal FlixOle 1.es">
-<title>Viva Carrancho</title>
+<programme start="20260315184900 +0000" stop="20260315202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315174100 +0000" stop="20260315192100 +0000" channel="Canal FlixOle 1.es">
-<title>El batallon de las sombras</title>
+<programme start="20260315202700 +0000" stop="20260315221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315192100 +0000" stop="20260315202500 +0000" channel="Canal FlixOle 1.es">
-<title>Viaje sin destino</title>
+<programme start="20260315221800 +0000" stop="20260315234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315202500 +0000" stop="20260315223600 +0000" channel="Canal FlixOle 1.es">
-<title>Piedras</title>
+<programme start="20260315234400 +0000" stop="20260316004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315223600 +0000" stop="20260316002800 +0000" channel="Canal FlixOle 1.es">
-<title>Tango</title>
+<programme start="20260316004900 +0000" stop="20260316022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316002800 +0000" stop="20260316015700 +0000" channel="Canal FlixOle 1.es">
-<title>El grano de mostaza</title>
+<programme start="20260316022200 +0000" stop="20260316035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316015700 +0000" stop="20260316033300 +0000" channel="Canal FlixOle 1.es">
-<title>Kasbah</title>
+<programme start="20260316035400 +0000" stop="20260316043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316043900 +0000" stop="20260316062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316033300 +0000" stop="20260316035100 +0000" channel="Canal FlixOle 1.es">
-<title>La chica del gato</title>
+<programme start="20260316062500 +0000" stop="20260316080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316035100 +0000" stop="20260316044400 +0000" channel="Canal FlixOle 1.es">
-<title>El tesoro</title>
+<programme start="20260316080300 +0000" stop="20260316093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316044400 +0000" stop="20260316052700 +0000" channel="Canal FlixOle 1.es">
-<title>La tirana</title>
-<sub-title></sub-title>
-<desc>La tirana</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316052700 +0000" stop="20260316065800 +0000" channel="Canal FlixOle 1.es">
-<title>El empleo</title>
+<programme start="20260316093400 +0000" stop="20260316111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316065800 +0000" stop="20260316085100 +0000" channel="Canal FlixOle 1.es">
-<title>Accattone</title>
+<programme start="20260316111600 +0000" stop="20260316125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316085100 +0000" stop="20260316102200 +0000" channel="Canal FlixOle 1.es">
-<title>Balarrasa</title>
+<programme start="20260316125700 +0000" stop="20260316142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316102200 +0000" stop="20260316114200 +0000" channel="Canal FlixOle 1.es">
-<title>Doña Francisquita</title>
+<programme start="20260316142800 +0000" stop="20260316155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316114200 +0000" stop="20260316131600 +0000" channel="Canal FlixOle 1.es">
-<title>Nunca pasa nada</title>
+<programme start="20260316155700 +0000" stop="20260316172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316131600 +0000" stop="20260316143500 +0000" channel="Canal FlixOle 1.es">
-<title>Último encuentro</title>
+<programme start="20260316172100 +0000" stop="20260316184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316143500 +0000" stop="20260316161600 +0000" channel="Canal FlixOle 1.es">
-<title>Mariquilla Terremoto</title>
+<programme start="20260316184900 +0000" stop="20260316202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316161600 +0000" stop="20260316174100 +0000" channel="Canal FlixOle 1.es">
-<title>Viva Carrancho</title>
+<programme start="20260316202700 +0000" stop="20260316221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316174100 +0000" stop="20260316192100 +0000" channel="Canal FlixOle 1.es">
-<title>El batallon de las sombras</title>
+<programme start="20260316221800 +0000" stop="20260316234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316192100 +0000" stop="20260316202500 +0000" channel="Canal FlixOle 1.es">
-<title>Viaje sin destino</title>
+<programme start="20260316234400 +0000" stop="20260317004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316202500 +0000" stop="20260316223600 +0000" channel="Canal FlixOle 1.es">
-<title>Piedras</title>
+<programme start="20260317004900 +0000" stop="20260317022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316223600 +0000" stop="20260316235900 +0000" channel="Canal FlixOle 1.es">
-<title>Tango</title>
+<programme start="20260317022200 +0000" stop="20260317035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314000900 +0000" stop="20260314014700 +0000" channel="Canal FlixOle 2.es">
-<title>El dinero tiene miedo</title>
+<programme start="20260317035400 +0000" stop="20260317043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317043900 +0000" stop="20260317062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314014700 +0000" stop="20260314031500 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260317062500 +0000" stop="20260317080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317080300 +0000" stop="20260317093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317093400 +0000" stop="20260317111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317111600 +0000" stop="20260317125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317125700 +0000" stop="20260317142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317142800 +0000" stop="20260317155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317155700 +0000" stop="20260317172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317172100 +0000" stop="20260317184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317184900 +0000" stop="20260317202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317202700 +0000" stop="20260317221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317221800 +0000" stop="20260317234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317234400 +0000" stop="20260318004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318004900 +0000" stop="20260318022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318022200 +0000" stop="20260318035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318035400 +0000" stop="20260318043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318043900 +0000" stop="20260318062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318062500 +0000" stop="20260318080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318080300 +0000" stop="20260318093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318093400 +0000" stop="20260318111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318111600 +0000" stop="20260318125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318125700 +0000" stop="20260318142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318142800 +0000" stop="20260318155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318155700 +0000" stop="20260318172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318172100 +0000" stop="20260318184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318184900 +0000" stop="20260318202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318202700 +0000" stop="20260318221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318221800 +0000" stop="20260318234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318234400 +0000" stop="20260319004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319004900 +0000" stop="20260319022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319022200 +0000" stop="20260319035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319035400 +0000" stop="20260319043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319043900 +0000" stop="20260319062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319062500 +0000" stop="20260319080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319080300 +0000" stop="20260319093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319093400 +0000" stop="20260319111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319111600 +0000" stop="20260319125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319125700 +0000" stop="20260319142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319142800 +0000" stop="20260319155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319155700 +0000" stop="20260319172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319172100 +0000" stop="20260319184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319184900 +0000" stop="20260319202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319202700 +0000" stop="20260319221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319221800 +0000" stop="20260319234400 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319234400 +0000" stop="20260320004900 +0000" channel="Canal FlixOle 1.es">
+<title>El fantasma y doña Juanita</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320004900 +0000" stop="20260320022200 +0000" channel="Canal FlixOle 1.es">
+<title>Historias del Kronen</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320022200 +0000" stop="20260320035400 +0000" channel="Canal FlixOle 1.es">
+<title>Mar abierto</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320035400 +0000" stop="20260320043900 +0000" channel="Canal FlixOle 1.es">
+<title>No es bueno que el hombre este solo</title>
+<sub-title></sub-title>
+<desc>No es bueno que el hombre este solo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320043900 +0000" stop="20260320062500 +0000" channel="Canal FlixOle 1.es">
+<title>España otra vez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320062500 +0000" stop="20260320080300 +0000" channel="Canal FlixOle 1.es">
+<title>El sueño de Iván</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320080300 +0000" stop="20260320093400 +0000" channel="Canal FlixOle 1.es">
+<title>El supersheriff</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320093400 +0000" stop="20260320111600 +0000" channel="Canal FlixOle 1.es">
+<title>La leona de Castilla</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320111600 +0000" stop="20260320125700 +0000" channel="Canal FlixOle 1.es">
+<title>Las amigas</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320125700 +0000" stop="20260320142800 +0000" channel="Canal FlixOle 1.es">
+<title>Pena, penita, pena</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320142800 +0000" stop="20260320155700 +0000" channel="Canal FlixOle 1.es">
+<title>Minnesota Clay</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320155700 +0000" stop="20260320172100 +0000" channel="Canal FlixOle 1.es">
+<title>Todo es posible en Granada</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320172100 +0000" stop="20260320184900 +0000" channel="Canal FlixOle 1.es">
+<title>Los lobos de Washington</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320184900 +0000" stop="20260320202700 +0000" channel="Canal FlixOle 1.es">
+<title>¿Por que se frotan las patitas?</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320202700 +0000" stop="20260320221800 +0000" channel="Canal FlixOle 1.es">
+<title>El corazon del guerrero</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320221800 +0000" stop="20260320235900 +0000" channel="Canal FlixOle 1.es">
+<title>El pobre García</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260313231600 +0000" stop="20260314004400 +0000" channel="Canal FlixOle 2.es">
 <title>La reina del mate</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314031500 +0000" stop="20260314051100 +0000" channel="Canal FlixOle 2.es">
-<title>De picos pardos a la ciudad</title>
-<sub-title></sub-title>
-<desc>De picos pardos a la ciudad</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314051100 +0000" stop="20260314063900 +0000" channel="Canal FlixOle 2.es">
-<title>Le llamaban JR.</title>
+<programme start="20260314004400 +0000" stop="20260314021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314063900 +0000" stop="20260314080800 +0000" channel="Canal FlixOle 2.es">
-<title>Dormir y ligar</title>
-<sub-title></sub-title>
-<desc>todo es empezar, Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314080800 +0000" stop="20260314093700 +0000" channel="Canal FlixOle 2.es">
-<title>El seductor</title>
+<programme start="20260314021100 +0000" stop="20260314034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314093700 +0000" stop="20260314110400 +0000" channel="Canal FlixOle 2.es">
-<title>A mí las mujeres, ni fu ni fa</title>
+<programme start="20260314034100 +0000" stop="20260314035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314035300 +0000" stop="20260314052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314110400 +0000" stop="20260314122700 +0000" channel="Canal FlixOle 2.es">
-<title>El alcalde y la política</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314122700 +0000" stop="20260314134700 +0000" channel="Canal FlixOle 2.es">
-<title>El insolito embarazo de los Martínez</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314134700 +0000" stop="20260314152000 +0000" channel="Canal FlixOle 2.es">
-<title>Alcalde por eleccion</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314152000 +0000" stop="20260314164000 +0000" channel="Canal FlixOle 2.es">
-<title>Cancion triste de...</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314164000 +0000" stop="20260314181200 +0000" channel="Canal FlixOle 2.es">
-<title>Eva, limpia como los chorros del oro</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314181200 +0000" stop="20260314193800 +0000" channel="Canal FlixOle 2.es">
-<title>Las Ibericas F.C.</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314193800 +0000" stop="20260314211800 +0000" channel="Canal FlixOle 2.es">
-<title>Insomnio</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260314211800 +0000" stop="20260314225400 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260314052000 +0000" stop="20260314065600 +0000" channel="Canal FlixOle 2.es">
 <title>Verano 70</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260314225400 +0000" stop="20260315000900 +0000" channel="Canal FlixOle 2.es">
-<title>Los extremeños se tocan</title>
+<programme start="20260314065600 +0000" stop="20260314082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315000900 +0000" stop="20260315014700 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260314082600 +0000" stop="20260314095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314095400 +0000" stop="20260314112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314112300 +0000" stop="20260314124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314124300 +0000" stop="20260314142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314142100 +0000" stop="20260314155800 +0000" channel="Canal FlixOle 2.es">
 <title>El dinero tiene miedo</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315014700 +0000" stop="20260315031500 +0000" channel="Canal FlixOle 2.es">
-<title>La reina del mate</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315031500 +0000" stop="20260315051100 +0000" channel="Canal FlixOle 2.es">
-<title>De picos pardos a la ciudad</title>
-<sub-title></sub-title>
-<desc>De picos pardos a la ciudad</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315051100 +0000" stop="20260315063900 +0000" channel="Canal FlixOle 2.es">
-<title>Le llamaban JR.</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315063900 +0000" stop="20260315080800 +0000" channel="Canal FlixOle 2.es">
-<title>Dormir y ligar</title>
-<sub-title></sub-title>
-<desc>todo es empezar, Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315080800 +0000" stop="20260315093700 +0000" channel="Canal FlixOle 2.es">
-<title>El seductor</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315093700 +0000" stop="20260315110400 +0000" channel="Canal FlixOle 2.es">
-<title>A mí las mujeres, ni fu ni fa</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315110400 +0000" stop="20260315122700 +0000" channel="Canal FlixOle 2.es">
-<title>El alcalde y la política</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315122700 +0000" stop="20260315134700 +0000" channel="Canal FlixOle 2.es">
-<title>El insolito embarazo de los Martínez</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315134700 +0000" stop="20260315152000 +0000" channel="Canal FlixOle 2.es">
-<title>Alcalde por eleccion</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260315152000 +0000" stop="20260315164000 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260314155800 +0000" stop="20260314171800 +0000" channel="Canal FlixOle 2.es">
 <title>Cancion triste de...</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315164000 +0000" stop="20260315181200 +0000" channel="Canal FlixOle 2.es">
-<title>Eva, limpia como los chorros del oro</title>
+<programme start="20260314171800 +0000" stop="20260314184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315181200 +0000" stop="20260315193800 +0000" channel="Canal FlixOle 2.es">
-<title>Las Ibericas F.C.</title>
+<programme start="20260314184600 +0000" stop="20260314200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315193800 +0000" stop="20260315211800 +0000" channel="Canal FlixOle 2.es">
-<title>Insomnio</title>
+<programme start="20260314200800 +0000" stop="20260314213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315211800 +0000" stop="20260315225400 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260314213900 +0000" stop="20260314231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260314231600 +0000" stop="20260315004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315004400 +0000" stop="20260315021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315021100 +0000" stop="20260315034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315034100 +0000" stop="20260315035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315035300 +0000" stop="20260315052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315052000 +0000" stop="20260315065600 +0000" channel="Canal FlixOle 2.es">
 <title>Verano 70</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260315225400 +0000" stop="20260316000900 +0000" channel="Canal FlixOle 2.es">
-<title>Los extremeños se tocan</title>
+<programme start="20260315065600 +0000" stop="20260315082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316000900 +0000" stop="20260316014700 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260315082600 +0000" stop="20260315095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315095400 +0000" stop="20260315112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315112300 +0000" stop="20260315124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315124300 +0000" stop="20260315142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315142100 +0000" stop="20260315155800 +0000" channel="Canal FlixOle 2.es">
 <title>El dinero tiene miedo</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316014700 +0000" stop="20260316031500 +0000" channel="Canal FlixOle 2.es">
-<title>La reina del mate</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316031500 +0000" stop="20260316051100 +0000" channel="Canal FlixOle 2.es">
-<title>De picos pardos a la ciudad</title>
-<sub-title></sub-title>
-<desc>De picos pardos a la ciudad</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316051100 +0000" stop="20260316063900 +0000" channel="Canal FlixOle 2.es">
-<title>Le llamaban JR.</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316063900 +0000" stop="20260316080800 +0000" channel="Canal FlixOle 2.es">
-<title>Dormir y ligar</title>
-<sub-title></sub-title>
-<desc>todo es empezar, Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316080800 +0000" stop="20260316093700 +0000" channel="Canal FlixOle 2.es">
-<title>El seductor</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316093700 +0000" stop="20260316110400 +0000" channel="Canal FlixOle 2.es">
-<title>A mí las mujeres, ni fu ni fa</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316110400 +0000" stop="20260316122700 +0000" channel="Canal FlixOle 2.es">
-<title>El alcalde y la política</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316122700 +0000" stop="20260316134700 +0000" channel="Canal FlixOle 2.es">
-<title>El insolito embarazo de los Martínez</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316134700 +0000" stop="20260316152000 +0000" channel="Canal FlixOle 2.es">
-<title>Alcalde por eleccion</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260316152000 +0000" stop="20260316164000 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260315155800 +0000" stop="20260315171800 +0000" channel="Canal FlixOle 2.es">
 <title>Cancion triste de...</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316164000 +0000" stop="20260316181200 +0000" channel="Canal FlixOle 2.es">
-<title>Eva, limpia como los chorros del oro</title>
+<programme start="20260315171800 +0000" stop="20260315184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316181200 +0000" stop="20260316193800 +0000" channel="Canal FlixOle 2.es">
-<title>Las Ibericas F.C.</title>
+<programme start="20260315184600 +0000" stop="20260315200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316193800 +0000" stop="20260316211800 +0000" channel="Canal FlixOle 2.es">
-<title>Insomnio</title>
+<programme start="20260315200800 +0000" stop="20260315213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316211800 +0000" stop="20260316225400 +0000" channel="Canal FlixOle 2.es">
+<programme start="20260315213900 +0000" stop="20260315231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260315231600 +0000" stop="20260316004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316004400 +0000" stop="20260316021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316021100 +0000" stop="20260316034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316034100 +0000" stop="20260316035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316035300 +0000" stop="20260316052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316052000 +0000" stop="20260316065600 +0000" channel="Canal FlixOle 2.es">
 <title>Verano 70</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260316225400 +0000" stop="20260316235900 +0000" channel="Canal FlixOle 2.es">
-<title>Los extremeños se tocan</title>
+<programme start="20260316065600 +0000" stop="20260316082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316082600 +0000" stop="20260316095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316095400 +0000" stop="20260316112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316112300 +0000" stop="20260316124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316124300 +0000" stop="20260316142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316142100 +0000" stop="20260316155800 +0000" channel="Canal FlixOle 2.es">
+<title>El dinero tiene miedo</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316155800 +0000" stop="20260316171800 +0000" channel="Canal FlixOle 2.es">
+<title>Cancion triste de...</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316171800 +0000" stop="20260316184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316184600 +0000" stop="20260316200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316200800 +0000" stop="20260316213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316213900 +0000" stop="20260316231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260316231600 +0000" stop="20260317004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317004400 +0000" stop="20260317021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317021100 +0000" stop="20260317034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317034100 +0000" stop="20260317035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317035300 +0000" stop="20260317052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317052000 +0000" stop="20260317065600 +0000" channel="Canal FlixOle 2.es">
+<title>Verano 70</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317065600 +0000" stop="20260317082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317082600 +0000" stop="20260317095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317095400 +0000" stop="20260317112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317112300 +0000" stop="20260317124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317124300 +0000" stop="20260317142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317142100 +0000" stop="20260317155800 +0000" channel="Canal FlixOle 2.es">
+<title>El dinero tiene miedo</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317155800 +0000" stop="20260317171800 +0000" channel="Canal FlixOle 2.es">
+<title>Cancion triste de...</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317171800 +0000" stop="20260317184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317184600 +0000" stop="20260317200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317200800 +0000" stop="20260317213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317213900 +0000" stop="20260317231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260317231600 +0000" stop="20260318004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318004400 +0000" stop="20260318021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318021100 +0000" stop="20260318034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318034100 +0000" stop="20260318035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318035300 +0000" stop="20260318052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318052000 +0000" stop="20260318065600 +0000" channel="Canal FlixOle 2.es">
+<title>Verano 70</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318065600 +0000" stop="20260318082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318082600 +0000" stop="20260318095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318095400 +0000" stop="20260318112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318112300 +0000" stop="20260318124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318124300 +0000" stop="20260318142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318142100 +0000" stop="20260318155800 +0000" channel="Canal FlixOle 2.es">
+<title>El dinero tiene miedo</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318155800 +0000" stop="20260318171800 +0000" channel="Canal FlixOle 2.es">
+<title>Cancion triste de...</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318171800 +0000" stop="20260318184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318184600 +0000" stop="20260318200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318200800 +0000" stop="20260318213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318213900 +0000" stop="20260318231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260318231600 +0000" stop="20260319004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319004400 +0000" stop="20260319021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319021100 +0000" stop="20260319034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319034100 +0000" stop="20260319035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319035300 +0000" stop="20260319052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319052000 +0000" stop="20260319065600 +0000" channel="Canal FlixOle 2.es">
+<title>Verano 70</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319065600 +0000" stop="20260319082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319082600 +0000" stop="20260319095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319095400 +0000" stop="20260319112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319112300 +0000" stop="20260319124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319124300 +0000" stop="20260319142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319142100 +0000" stop="20260319155800 +0000" channel="Canal FlixOle 2.es">
+<title>El dinero tiene miedo</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319155800 +0000" stop="20260319171800 +0000" channel="Canal FlixOle 2.es">
+<title>Cancion triste de...</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319171800 +0000" stop="20260319184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319184600 +0000" stop="20260319200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319200800 +0000" stop="20260319213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319213900 +0000" stop="20260319231600 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260319231600 +0000" stop="20260320004400 +0000" channel="Canal FlixOle 2.es">
+<title>La reina del mate</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320004400 +0000" stop="20260320021100 +0000" channel="Canal FlixOle 2.es">
+<title>Cuidado con las señoras</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320021100 +0000" stop="20260320034100 +0000" channel="Canal FlixOle 2.es">
+<title>Adios, Mimí Pompon</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320034100 +0000" stop="20260320035300 +0000" channel="Canal FlixOle 2.es">
+<title>Las juergas de El señorito</title>
+<sub-title></sub-title>
+<desc>Las juergas de El señorito</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320035300 +0000" stop="20260320052000 +0000" channel="Canal FlixOle 2.es">
+<title>Los nuevos españoles</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320052000 +0000" stop="20260320065600 +0000" channel="Canal FlixOle 2.es">
+<title>Verano 70</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320065600 +0000" stop="20260320082600 +0000" channel="Canal FlixOle 2.es">
+<title>La gran quiniela</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320082600 +0000" stop="20260320095400 +0000" channel="Canal FlixOle 2.es">
+<title>El triangulito</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320095400 +0000" stop="20260320112300 +0000" channel="Canal FlixOle 2.es">
+<title>Dormir y ligar</title>
+<sub-title></sub-title>
+<desc>todo es empezar, Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320112300 +0000" stop="20260320124300 +0000" channel="Canal FlixOle 2.es">
+<title>El insolito embarazo de los Martínez</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320124300 +0000" stop="20260320142100 +0000" channel="Canal FlixOle 2.es">
+<title>De picos pardos a la ciudad</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320142100 +0000" stop="20260320155800 +0000" channel="Canal FlixOle 2.es">
+<title>El dinero tiene miedo</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320155800 +0000" stop="20260320171800 +0000" channel="Canal FlixOle 2.es">
+<title>Cancion triste de...</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320171800 +0000" stop="20260320184600 +0000" channel="Canal FlixOle 2.es">
+<title>Le llamaban JR.</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320184600 +0000" stop="20260320200800 +0000" channel="Canal FlixOle 2.es">
+<title>Tu novia está loca</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320200800 +0000" stop="20260320213900 +0000" channel="Canal FlixOle 2.es">
+<title>Colorín, colorado</title>
+<sub-title></sub-title>
+<desc>Cine</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260320213900 +0000" stop="20260320235900 +0000" channel="Canal FlixOle 2.es">
+<title>Fin de semana</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
 <episode-num system="xmltv_ns"></episode-num>
