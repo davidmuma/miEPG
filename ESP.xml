@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="etb1.es"><display-name>etb1.es</display-name><icon src="https://images.open-epg.com/12901063.png"/></channel>
-<channel id="etb1ON.es"><display-name>etb1ON.es</display-name><icon src="https://images.open-epg.com/12901065.png"/></channel>
-<channel id="etb2.es"><display-name>etb2.es</display-name><icon src="https://images.open-epg.com/12901064.png"/></channel>
-<channel id="etb2ON.es"><display-name>etb2ON.es</display-name><icon src="https://images.open-epg.com/12901058.png"/></channel>
 <channel id="A3 Cine HD.uy"><display-name>A3 Cine HD.uy</display-name><icon src="https://images.open-epg.com/1700.png"/></channel>
 <channel id="Actualidad 360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="Cine Friki.es"><display-name>Cine Friki.es</display-name><icon src="https://images.open-epg.com/4967.png"/></channel>
@@ -20,6 +16,10 @@
 <channel id="Viajes y Sabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/nologo.png"/></channel>
 <channel id="ZUT TV.es"><display-name>ZUT TV.es</display-name><icon src="https://images.open-epg.com/5184.png"/></channel>
 <channel id="Canal Parlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
+<channel id="etb1.es"><display-name>etb1.es</display-name><icon src="https://images.open-epg.com/12901063.png"/></channel>
+<channel id="etb1ON.es"><display-name>etb1ON.es</display-name><icon src="https://images.open-epg.com/12901065.png"/></channel>
+<channel id="etb2.es"><display-name>etb2.es</display-name><icon src="https://images.open-epg.com/12901064.png"/></channel>
+<channel id="etb2ON.es"><display-name>etb2ON.es</display-name><icon src="https://images.open-epg.com/12901058.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
 <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="Enlace.ar">
 <title>El lugar de su presencia</title>
@@ -543,28 +543,28 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616012500 +0000" stop="20260616032500 +0000" channel="etb1.es">
+<programme start="20260616001500 +0000" stop="20260616021500 +0000" channel="etb1.es">
 <title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616032500 +0000" stop="20260616045500 +0000" channel="etb1.es">
+<programme start="20260616021500 +0000" stop="20260616035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616035800 +0000" stop="20260616041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616041500 +0000" stop="20260616060000 +0000" channel="etb1.es">
 <title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616045500 +0000" stop="20260616054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616054500 +0000" stop="20260616060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616060000 +0000" stop="20260616080000 +0000" channel="etb1.es">
@@ -618,19 +618,19 @@
 <programme start="20260616135500 +0000" stop="20260616142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616142000 +0000" stop="20260616145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260616142000 +0000" stop="20260616150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616145500 +0000" stop="20260616160000 +0000" channel="etb1.es">
+<programme start="20260616150000 +0000" stop="20260616160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616160000 +0000" stop="20260616164500 +0000" channel="etb1.es">
@@ -651,64 +651,64 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616190000 +0000" stop="20260616195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616195500 +0000" stop="20260616203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616203500 +0000" stop="20260616212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616212000 +0000" stop="20260616224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616224000 +0000" stop="20260616232500 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616232500 +0000" stop="20260617012500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617012500 +0000" stop="20260617032500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617032500 +0000" stop="20260617045500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617045500 +0000" stop="20260617054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
+<programme start="20260616190000 +0000" stop="20260616193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617054500 +0000" stop="20260617060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
+<programme start="20260616193000 +0000" stop="20260616200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616200500 +0000" stop="20260616205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616205000 +0000" stop="20260616213500 +0000" channel="etb1.es">
+<title>Mihiluze</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616213500 +0000" stop="20260616224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616224500 +0000" stop="20260617001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
+<sub-title></sub-title>
+<desc>Begoña Errazti, Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617001500 +0000" stop="20260617021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617021500 +0000" stop="20260617035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617035800 +0000" stop="20260617041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617041500 +0000" stop="20260617060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617060000 +0000" stop="20260617080000 +0000" channel="etb1.es">
@@ -762,19 +762,19 @@
 <programme start="20260617135500 +0000" stop="20260617142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617142000 +0000" stop="20260617145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260617142000 +0000" stop="20260617150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617145500 +0000" stop="20260617160000 +0000" channel="etb1.es">
+<programme start="20260617150000 +0000" stop="20260617160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617160000 +0000" stop="20260617164500 +0000" channel="etb1.es">
@@ -795,64 +795,64 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617190000 +0000" stop="20260617195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617195500 +0000" stop="20260617203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617203500 +0000" stop="20260617212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617212000 +0000" stop="20260617224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617224000 +0000" stop="20260617232500 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617232500 +0000" stop="20260618012500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618012500 +0000" stop="20260618032500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618032500 +0000" stop="20260618045500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618045500 +0000" stop="20260618054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
+<programme start="20260617190000 +0000" stop="20260617193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618054500 +0000" stop="20260618060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
+<programme start="20260617193000 +0000" stop="20260617200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617200500 +0000" stop="20260617205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617205000 +0000" stop="20260617213500 +0000" channel="etb1.es">
+<title>Mihiluze</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617213500 +0000" stop="20260617224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617224500 +0000" stop="20260618001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
+<sub-title></sub-title>
+<desc>Begoña Errazti, Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618001500 +0000" stop="20260618021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618021500 +0000" stop="20260618035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618035800 +0000" stop="20260618041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618041500 +0000" stop="20260618060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618060000 +0000" stop="20260618080000 +0000" channel="etb1.es">
@@ -906,19 +906,19 @@
 <programme start="20260618135500 +0000" stop="20260618142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618142000 +0000" stop="20260618145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260618142000 +0000" stop="20260618150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618145500 +0000" stop="20260618160000 +0000" channel="etb1.es">
+<programme start="20260618150000 +0000" stop="20260618160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618160000 +0000" stop="20260618164500 +0000" channel="etb1.es">
@@ -939,64 +939,64 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618190000 +0000" stop="20260618195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618195500 +0000" stop="20260618203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618203500 +0000" stop="20260618212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618212000 +0000" stop="20260618224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618224000 +0000" stop="20260618232500 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618232500 +0000" stop="20260619012500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619012500 +0000" stop="20260619032500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619032500 +0000" stop="20260619045500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619045500 +0000" stop="20260619054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
+<programme start="20260618190000 +0000" stop="20260618193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619054500 +0000" stop="20260619060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
+<programme start="20260618193000 +0000" stop="20260618200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618200500 +0000" stop="20260618205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618205000 +0000" stop="20260618213500 +0000" channel="etb1.es">
+<title>Mihiluze</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618213500 +0000" stop="20260618224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618224500 +0000" stop="20260619001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
+<sub-title></sub-title>
+<desc>Begoña Errazti, Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619001500 +0000" stop="20260619021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619021500 +0000" stop="20260619035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619035800 +0000" stop="20260619041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619041500 +0000" stop="20260619060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619060000 +0000" stop="20260619080000 +0000" channel="etb1.es">
@@ -1050,19 +1050,19 @@
 <programme start="20260619135500 +0000" stop="20260619142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619142000 +0000" stop="20260619145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260619142000 +0000" stop="20260619150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619145500 +0000" stop="20260619160000 +0000" channel="etb1.es">
+<programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619160000 +0000" stop="20260619164500 +0000" channel="etb1.es">
@@ -1083,64 +1083,64 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619190000 +0000" stop="20260619195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619195500 +0000" stop="20260619203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619203500 +0000" stop="20260619212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619212000 +0000" stop="20260619224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619224000 +0000" stop="20260619232500 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619232500 +0000" stop="20260620012500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620012500 +0000" stop="20260620032500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620032500 +0000" stop="20260620045500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620045500 +0000" stop="20260620054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
+<programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620054500 +0000" stop="20260620060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
+<programme start="20260619193000 +0000" stop="20260619200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619200500 +0000" stop="20260619205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619205000 +0000" stop="20260619213500 +0000" channel="etb1.es">
+<title>Mihiluze</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619213500 +0000" stop="20260619224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619224500 +0000" stop="20260620001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
+<sub-title></sub-title>
+<desc>Begoña Errazti, Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620001500 +0000" stop="20260620021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620021500 +0000" stop="20260620035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620035800 +0000" stop="20260620041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620041500 +0000" stop="20260620060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620060000 +0000" stop="20260620080000 +0000" channel="etb1.es">
@@ -1194,19 +1194,19 @@
 <programme start="20260620135500 +0000" stop="20260620142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620142000 +0000" stop="20260620145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260620142000 +0000" stop="20260620150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620145500 +0000" stop="20260620160000 +0000" channel="etb1.es">
+<programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620160000 +0000" stop="20260620164500 +0000" channel="etb1.es">
@@ -1227,64 +1227,64 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620190000 +0000" stop="20260620195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620195500 +0000" stop="20260620203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620203500 +0000" stop="20260620212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620212000 +0000" stop="20260620224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620224000 +0000" stop="20260620232500 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620232500 +0000" stop="20260621012500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621012500 +0000" stop="20260621032500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621032500 +0000" stop="20260621045500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Bizi natura</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621045500 +0000" stop="20260621054500 +0000" channel="etb1.es">
-<title>Mihiluze</title>
+<programme start="20260620190000 +0000" stop="20260620193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621054500 +0000" stop="20260621060000 +0000" channel="etb1.es">
-<title>Euskal Herritik</title>
+<programme start="20260620193000 +0000" stop="20260620200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620200500 +0000" stop="20260620205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620205000 +0000" stop="20260620213500 +0000" channel="etb1.es">
+<title>Mihiluze</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620213500 +0000" stop="20260620224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620224500 +0000" stop="20260621001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
+<sub-title></sub-title>
+<desc>Begoña Errazti, Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621001500 +0000" stop="20260621021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621021500 +0000" stop="20260621035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621035800 +0000" stop="20260621041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621041500 +0000" stop="20260621060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="etb1.es">
@@ -1338,19 +1338,19 @@
 <programme start="20260621135500 +0000" stop="20260621142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Cultural/Educativo</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621142000 +0000" stop="20260621145500 +0000" channel="etb1.es">
-<title>Sustraia</title>
+<programme start="20260621142000 +0000" stop="20260621150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621145500 +0000" stop="20260621160000 +0000" channel="etb1.es">
+<programme start="20260621150000 +0000" stop="20260621160000 +0000" channel="etb1.es">
 <title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Episodio 1, Entretenimiento</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260621160000 +0000" stop="20260621164500 +0000" channel="etb1.es">
@@ -1371,1016 +1371,494 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621190000 +0000" stop="20260621195500 +0000" channel="etb1.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621195500 +0000" stop="20260621203500 +0000" channel="etb1.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621203500 +0000" stop="20260621212000 +0000" channel="etb1.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621212000 +0000" stop="20260621224000 +0000" channel="etb1.es">
-<title>Segunda División de Pelota Vasca (T2026)</title>
-<sub-title></sub-title>
-<desc>GoikoetxeaV - Juanenea/AnsaII - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621224000 +0000" stop="20260621235900 +0000" channel="etb1.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616004000 +0000" stop="20260616012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616012500 +0000" stop="20260616021000 +0000" channel="etb1ON.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616021000 +0000" stop="20260616033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
-<sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616033000 +0000" stop="20260616041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616041500 +0000" stop="20260616044000 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616044000 +0000" stop="20260616051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616051500 +0000" stop="20260616055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616055500 +0000" stop="20260616065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616065000 +0000" stop="20260616072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616072000 +0000" stop="20260616080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616101000 +0000" stop="20260616120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616120500 +0000" stop="20260616130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616130000 +0000" stop="20260616135500 +0000" channel="etb1ON.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616135500 +0000" stop="20260616141000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616141000 +0000" stop="20260616144000 +0000" channel="etb1ON.es">
-<title>Bizi natura</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616144000 +0000" stop="20260616152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616152000 +0000" stop="20260616165500 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616165500 +0000" stop="20260616173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616181500 +0000" stop="20260616190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616190000 +0000" stop="20260616193500 +0000" channel="etb1ON.es">
+<programme start="20260621190000 +0000" stop="20260621193000 +0000" channel="etb1.es">
 <title>Gaur Egun 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616193500 +0000" stop="20260616195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616195000 +0000" stop="20260616201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260621193000 +0000" stop="20260621200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621200500 +0000" stop="20260621205000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616201000 +0000" stop="20260616220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616220500 +0000" stop="20260616232000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616232000 +0000" stop="20260617004000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617004000 +0000" stop="20260617012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617012500 +0000" stop="20260617021000 +0000" channel="etb1ON.es">
+<programme start="20260621205000 +0000" stop="20260621213500 +0000" channel="etb1.es">
 <title>Mihiluze</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617021000 +0000" stop="20260617033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
-<sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617033000 +0000" stop="20260617041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617041500 +0000" stop="20260617044000 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617044000 +0000" stop="20260617051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617051500 +0000" stop="20260617055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617055500 +0000" stop="20260617065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
+<programme start="20260621213500 +0000" stop="20260621224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617065000 +0000" stop="20260617072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
+<programme start="20260621224500 +0000" stop="20260622001500 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
 <sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
+<desc>Begoña Errazti, Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617072000 +0000" stop="20260617080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
+<programme start="20260622001500 +0000" stop="20260622021500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617080000 +0000" stop="20260617101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
+<programme start="20260622021500 +0000" stop="20260622035800 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622035800 +0000" stop="20260622041500 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617101000 +0000" stop="20260617120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260622041500 +0000" stop="20260622060000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
 <sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
+<desc>Bizi natura</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617120500 +0000" stop="20260617130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
+<programme start="20260622060000 +0000" stop="20260622080000 +0000" channel="etb1.es">
+<title>Biba Zuek, eguneroko laburpena</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617135500 +0000" channel="etb1ON.es">
+<programme start="20260622080000 +0000" stop="20260622100000 +0000" channel="etb1.es">
+<title>Egun on Euskadi</title>
+<sub-title></sub-title>
+<desc>Cultural/Educativo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622100000 +0000" stop="20260622104500 +0000" channel="etb1.es">
+<title>Adinberri</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622104500 +0000" stop="20260622110000 +0000" channel="etb1.es">
+<title>Ez da Posible!</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622110000 +0000" stop="20260622114500 +0000" channel="etb1.es">
+<title>Txoriene</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622114500 +0000" stop="20260622123000 +0000" channel="etb1.es">
+<title>Joseba Arguiñano Sukalerrian</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622123000 +0000" stop="20260622130000 +0000" channel="etb1.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622130000 +0000" stop="20260622135500 +0000" channel="etb1.es">
 <title>Gaur Egun</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617135500 +0000" stop="20260617141000 +0000" channel="etb1ON.es">
+<programme start="20260622135500 +0000" stop="20260622142000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
+<sub-title></sub-title>
+<desc>Cultural/Educativo</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622142000 +0000" stop="20260622150000 +0000" channel="etb1.es">
+<title>Artefaktua</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617141000 +0000" stop="20260617144000 +0000" channel="etb1ON.es">
-<title>Bizi natura</title>
+<programme start="20260622150000 +0000" stop="20260622160000 +0000" channel="etb1.es">
+<title>Natascha Kampusch, bizitza osoa gatibu</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Episodio 2, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617144000 +0000" stop="20260617152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617152000 +0000" stop="20260617165500 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617165500 +0000" stop="20260617173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617173000 +0000" stop="20260617181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617181500 +0000" stop="20260617190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617190000 +0000" stop="20260617193500 +0000" channel="etb1ON.es">
-<title>Gaur Egun 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617193500 +0000" stop="20260617195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617195000 +0000" stop="20260617201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617201000 +0000" stop="20260617220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617220500 +0000" stop="20260617232000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617232000 +0000" stop="20260618004000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618004000 +0000" stop="20260618012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618012500 +0000" stop="20260618021000 +0000" channel="etb1ON.es">
+<programme start="20260622160000 +0000" stop="20260622164500 +0000" channel="etb1.es">
 <title>Mihiluze</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618021000 +0000" stop="20260618033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
-<sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618033000 +0000" stop="20260618041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618041500 +0000" stop="20260618044000 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618044000 +0000" stop="20260618051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618051500 +0000" stop="20260618055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618055500 +0000" stop="20260618065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618065000 +0000" stop="20260618072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618072000 +0000" stop="20260618080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618080000 +0000" stop="20260618101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
-<sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618101000 +0000" stop="20260618120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618120500 +0000" stop="20260618130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
+<programme start="20260622164500 +0000" stop="20260622184500 +0000" channel="etb1.es">
+<title>Biba Zuek, eguneroko laburpena</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618130000 +0000" stop="20260618135500 +0000" channel="etb1ON.es">
-<title>Gaur Egun</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618135500 +0000" stop="20260618141000 +0000" channel="etb1ON.es">
+<programme start="20260622184500 +0000" stop="20260622190000 +0000" channel="etb1.es">
 <title>Eguraldia ETB1</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622190000 +0000" stop="20260622193000 +0000" channel="etb1.es">
+<title>Gaur Egun 2</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622193000 +0000" stop="20260622200500 +0000" channel="etb1.es">
+<title>Albistegi Berezia</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618141000 +0000" stop="20260618144000 +0000" channel="etb1ON.es">
+<programme start="20260622200500 +0000" stop="20260622205000 +0000" channel="etb1.es">
 <title>Bizi natura</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618144000 +0000" stop="20260618152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618152000 +0000" stop="20260618165500 +0000" channel="etb1ON.es">
-<title>Kilker Dema</title>
-<sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618165500 +0000" stop="20260618173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618173000 +0000" stop="20260618181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618181500 +0000" stop="20260618190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618190000 +0000" stop="20260618193500 +0000" channel="etb1ON.es">
-<title>Gaur Egun 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618193500 +0000" stop="20260618195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618195000 +0000" stop="20260618201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
-<sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618201000 +0000" stop="20260618220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618220500 +0000" stop="20260618232000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618232000 +0000" stop="20260619004000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619004000 +0000" stop="20260619012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619012500 +0000" stop="20260619021000 +0000" channel="etb1ON.es">
+<programme start="20260622205000 +0000" stop="20260622213500 +0000" channel="etb1.es">
 <title>Mihiluze</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619021000 +0000" stop="20260619033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
+<programme start="20260622213500 +0000" stop="20260622224500 +0000" channel="etb1.es">
+<title>Gaupasa</title>
 <sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619033000 +0000" stop="20260619041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
+<programme start="20260622224500 +0000" stop="20260622235900 +0000" channel="etb1.es">
+<title>Itxi liburuak: Ikastolen sorrera</title>
 <sub-title></sub-title>
-<desc>Series</desc>
+<desc>Begoña Errazti, Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619041500 +0000" stop="20260619044000 +0000" channel="etb1ON.es">
+<programme start="20260615230000 +0000" stop="20260616030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>ETB1ON</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616041500 +0000" stop="20260616070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619044000 +0000" stop="20260619051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619051500 +0000" stop="20260619055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619055500 +0000" stop="20260619065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619065000 +0000" stop="20260619072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619072000 +0000" stop="20260619080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619080000 +0000" stop="20260619101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
+<programme start="20260616070000 +0000" stop="20260616110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619101000 +0000" stop="20260619120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260616110000 +0000" stop="20260616150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619120500 +0000" stop="20260619130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
+<programme start="20260616150000 +0000" stop="20260616190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619130000 +0000" stop="20260619135500 +0000" channel="etb1ON.es">
-<title>Gaur Egun</title>
+<programme start="20260616190000 +0000" stop="20260616230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619135500 +0000" stop="20260619141000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260616230000 +0000" stop="20260617030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Documentales</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619141000 +0000" stop="20260619144000 +0000" channel="etb1ON.es">
-<title>Bizi natura</title>
+<programme start="20260617030000 +0000" stop="20260617041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>ETB1ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619144000 +0000" stop="20260619152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619152000 +0000" stop="20260619165500 +0000" channel="etb1ON.es">
+<programme start="20260617041500 +0000" stop="20260617070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619165500 +0000" stop="20260619173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619173000 +0000" stop="20260619181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619181500 +0000" stop="20260619190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619190000 +0000" stop="20260619193500 +0000" channel="etb1ON.es">
-<title>Gaur Egun 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619193500 +0000" stop="20260619195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619195000 +0000" stop="20260619201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260617070000 +0000" stop="20260617110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619201000 +0000" stop="20260619220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260617110000 +0000" stop="20260617150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619220500 +0000" stop="20260619232000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
+<programme start="20260617150000 +0000" stop="20260617190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619232000 +0000" stop="20260620004000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620004000 +0000" stop="20260620012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
+<programme start="20260617190000 +0000" stop="20260617230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620012500 +0000" stop="20260620021000 +0000" channel="etb1ON.es">
-<title>Mihiluze</title>
+<programme start="20260617230000 +0000" stop="20260618030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620021000 +0000" stop="20260620033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
+<programme start="20260618030000 +0000" stop="20260618041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
+<desc>ETB1ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620033000 +0000" stop="20260620041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620041500 +0000" stop="20260620044000 +0000" channel="etb1ON.es">
+<programme start="20260618041500 +0000" stop="20260618070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620044000 +0000" stop="20260620051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620051500 +0000" stop="20260620055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620055500 +0000" stop="20260620065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620065000 +0000" stop="20260620072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620072000 +0000" stop="20260620080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620080000 +0000" stop="20260620101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
+<programme start="20260618070000 +0000" stop="20260618110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620101000 +0000" stop="20260620120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260618110000 +0000" stop="20260618150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620120500 +0000" stop="20260620130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
+<programme start="20260618150000 +0000" stop="20260618190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620130000 +0000" stop="20260620135500 +0000" channel="etb1ON.es">
-<title>Gaur Egun</title>
+<programme start="20260618190000 +0000" stop="20260618230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620135500 +0000" stop="20260620141000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260618230000 +0000" stop="20260619030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Documentales</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620141000 +0000" stop="20260620144000 +0000" channel="etb1ON.es">
-<title>Bizi natura</title>
+<programme start="20260619030000 +0000" stop="20260619041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>ETB1ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620144000 +0000" stop="20260620152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620152000 +0000" stop="20260620165500 +0000" channel="etb1ON.es">
+<programme start="20260619041500 +0000" stop="20260619070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620165500 +0000" stop="20260620173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620173000 +0000" stop="20260620181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620181500 +0000" stop="20260620190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620190000 +0000" stop="20260620193500 +0000" channel="etb1ON.es">
-<title>Gaur Egun 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620193500 +0000" stop="20260620195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620195000 +0000" stop="20260620201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260619070000 +0000" stop="20260619110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620201000 +0000" stop="20260620220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260619110000 +0000" stop="20260619150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620220500 +0000" stop="20260620232000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
+<programme start="20260619150000 +0000" stop="20260619190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620232000 +0000" stop="20260621004000 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621004000 +0000" stop="20260621012500 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
+<programme start="20260619190000 +0000" stop="20260619230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621012500 +0000" stop="20260621021000 +0000" channel="etb1ON.es">
-<title>Mihiluze</title>
+<programme start="20260619230000 +0000" stop="20260620030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621021000 +0000" stop="20260621033000 +0000" channel="etb1ON.es">
-<title>Erremontari (T2026)</title>
+<programme start="20260620030000 +0000" stop="20260620041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Goikoetxea V - Juanenea/Ansa II - Zubiri, Deportes</desc>
+<desc>ETB1ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621033000 +0000" stop="20260621041500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621041500 +0000" stop="20260621044000 +0000" channel="etb1ON.es">
+<programme start="20260620041500 +0000" stop="20260620070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, </desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621044000 +0000" stop="20260621051500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621051500 +0000" stop="20260621055500 +0000" channel="etb1ON.es">
-<title>Euskotren Women Winter Series (T2026): 1.jardunaldia emakumeak</title>
-<sub-title></sub-title>
-<desc>Elaia - Eneritz vs Erika - Frida, Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621055500 +0000" stop="20260621065000 +0000" channel="etb1ON.es">
-<title>Ur Handitan</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621065000 +0000" stop="20260621072000 +0000" channel="etb1ON.es">
-<title>Sustraia</title>
-<sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621072000 +0000" stop="20260621080000 +0000" channel="etb1ON.es">
-<title>Adinberri</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621080000 +0000" stop="20260621101000 +0000" channel="etb1ON.es">
-<title>Egun on Euskadi</title>
+<programme start="20260620070000 +0000" stop="20260620110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621101000 +0000" stop="20260621120500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260620110000 +0000" stop="20260620150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Cultural/Educativo</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621120500 +0000" stop="20260621130000 +0000" channel="etb1ON.es">
-<title>Tribuaren Berbak</title>
+<programme start="20260620150000 +0000" stop="20260620190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621130000 +0000" stop="20260621135500 +0000" channel="etb1ON.es">
-<title>Gaur Egun</title>
+<programme start="20260620190000 +0000" stop="20260620230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621135500 +0000" stop="20260621141000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260620230000 +0000" stop="20260621030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Documentales</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621141000 +0000" stop="20260621144000 +0000" channel="etb1ON.es">
-<title>Bizi natura</title>
+<programme start="20260621030000 +0000" stop="20260621041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>ETB1ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621144000 +0000" stop="20260621152000 +0000" channel="etb1ON.es">
-<title>Txoriene</title>
-<sub-title></sub-title>
-<desc>Series</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621152000 +0000" stop="20260621165500 +0000" channel="etb1ON.es">
+<programme start="20260621041500 +0000" stop="20260621070000 +0000" channel="etb1ON.es">
 <title>Kilker Dema</title>
 <sub-title></sub-title>
-<desc>Ep.12 Pilota finala, Deportes</desc>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621165500 +0000" stop="20260621173000 +0000" channel="etb1ON.es">
-<title>EH Mendi Erronka</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621173000 +0000" stop="20260621181500 +0000" channel="etb1ON.es">
-<title>Helmuga</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621181500 +0000" stop="20260621190000 +0000" channel="etb1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621190000 +0000" stop="20260621193500 +0000" channel="etb1ON.es">
-<title>Gaur Egun 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621193500 +0000" stop="20260621195000 +0000" channel="etb1ON.es">
-<title>Kirolak ETB1</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621195000 +0000" stop="20260621201000 +0000" channel="etb1ON.es">
-<title>Eguraldia ETB1</title>
+<programme start="20260621070000 +0000" stop="20260621110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621201000 +0000" stop="20260621220500 +0000" channel="etb1ON.es">
-<title>Biba zuek!</title>
+<programme start="20260621110000 +0000" stop="20260621150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621220500 +0000" stop="20260621235900 +0000" channel="etb1ON.es">
-<title>Herri Txiki, Infernu Handi</title>
+<programme start="20260621150000 +0000" stop="20260621190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616030000 +0000" stop="20260616044000 +0000" channel="etb2.es">
+<programme start="20260621190000 +0000" stop="20260621230000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621230000 +0000" stop="20260622030000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622030000 +0000" stop="20260622041500 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>ETB1ON</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622041500 +0000" stop="20260622070000 +0000" channel="etb1ON.es">
+<title>Kilker Dema</title>
+<sub-title></sub-title>
+<desc>Ep.12 Pilota finala, Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622070000 +0000" stop="20260622110000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622110000 +0000" stop="20260622150000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622150000 +0000" stop="20260622190000 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622190000 +0000" stop="20260622235900 +0000" channel="etb1ON.es">
+<title>ETB1ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616030000 +0000" channel="etb2.es">
+<title>ETB2</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616044000 +0000" stop="20260616053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616053500 +0000" stop="20260616060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260616045200 +0000" stop="20260616060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -2388,19 +1866,19 @@
 <programme start="20260616060000 +0000" stop="20260616085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616085500 +0000" stop="20260616093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260616085500 +0000" stop="20260616094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616093500 +0000" stop="20260616102500 +0000" channel="etb2.es">
+<programme start="20260616094000 +0000" stop="20260616102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616102500 +0000" stop="20260616125500 +0000" channel="etb2.es">
@@ -2427,31 +1905,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616150000 +0000" stop="20260616151500 +0000" channel="etb2.es">
+<programme start="20260616150000 +0000" stop="20260616152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616151500 +0000" stop="20260616153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616153000 +0000" stop="20260616164000 +0000" channel="etb2.es">
+<programme start="20260616152500 +0000" stop="20260616163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616164000 +0000" stop="20260616174000 +0000" channel="etb2.es">
+<programme start="20260616163500 +0000" stop="20260616173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616174000 +0000" stop="20260616183000 +0000" channel="etb2.es">
+<programme start="20260616173500 +0000" stop="20260616183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -2469,16 +1941,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616200000 +0000" stop="20260616204000 +0000" channel="etb2.es">
+<programme start="20260616200000 +0000" stop="20260616203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616204000 +0000" stop="20260616210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260616203000 +0000" stop="20260616210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616210500 +0000" stop="20260616212500 +0000" channel="etb2.es">
@@ -2499,20 +1971,14 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617030000 +0000" stop="20260617044000 +0000" channel="etb2.es">
+<programme start="20260617030000 +0000" stop="20260617045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617044000 +0000" stop="20260617053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617053500 +0000" stop="20260617060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260617045200 +0000" stop="20260617060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -2520,19 +1986,19 @@
 <programme start="20260617060000 +0000" stop="20260617085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617085500 +0000" stop="20260617093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260617085500 +0000" stop="20260617094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617093500 +0000" stop="20260617102500 +0000" channel="etb2.es">
+<programme start="20260617094000 +0000" stop="20260617102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617102500 +0000" stop="20260617125500 +0000" channel="etb2.es">
@@ -2559,31 +2025,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617150000 +0000" stop="20260617151500 +0000" channel="etb2.es">
+<programme start="20260617150000 +0000" stop="20260617152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617151500 +0000" stop="20260617153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617153000 +0000" stop="20260617164000 +0000" channel="etb2.es">
+<programme start="20260617152500 +0000" stop="20260617163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617164000 +0000" stop="20260617174000 +0000" channel="etb2.es">
+<programme start="20260617163500 +0000" stop="20260617173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617174000 +0000" stop="20260617183000 +0000" channel="etb2.es">
+<programme start="20260617173500 +0000" stop="20260617183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -2601,16 +2061,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617200000 +0000" stop="20260617204000 +0000" channel="etb2.es">
+<programme start="20260617200000 +0000" stop="20260617203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617204000 +0000" stop="20260617210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260617203000 +0000" stop="20260617210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617210500 +0000" stop="20260617212500 +0000" channel="etb2.es">
@@ -2631,20 +2091,14 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618030000 +0000" stop="20260618044000 +0000" channel="etb2.es">
+<programme start="20260618030000 +0000" stop="20260618045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618044000 +0000" stop="20260618053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618053500 +0000" stop="20260618060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260618045200 +0000" stop="20260618060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -2652,19 +2106,19 @@
 <programme start="20260618060000 +0000" stop="20260618085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618085500 +0000" stop="20260618093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260618085500 +0000" stop="20260618094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618093500 +0000" stop="20260618102500 +0000" channel="etb2.es">
+<programme start="20260618094000 +0000" stop="20260618102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618102500 +0000" stop="20260618125500 +0000" channel="etb2.es">
@@ -2691,31 +2145,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618150000 +0000" stop="20260618151500 +0000" channel="etb2.es">
+<programme start="20260618150000 +0000" stop="20260618152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618151500 +0000" stop="20260618153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618153000 +0000" stop="20260618164000 +0000" channel="etb2.es">
+<programme start="20260618152500 +0000" stop="20260618163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618164000 +0000" stop="20260618174000 +0000" channel="etb2.es">
+<programme start="20260618163500 +0000" stop="20260618173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618174000 +0000" stop="20260618183000 +0000" channel="etb2.es">
+<programme start="20260618173500 +0000" stop="20260618183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -2733,16 +2181,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618200000 +0000" stop="20260618204000 +0000" channel="etb2.es">
+<programme start="20260618200000 +0000" stop="20260618203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618204000 +0000" stop="20260618210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260618203000 +0000" stop="20260618210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618210500 +0000" stop="20260618212500 +0000" channel="etb2.es">
@@ -2763,20 +2211,14 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619030000 +0000" stop="20260619044000 +0000" channel="etb2.es">
+<programme start="20260619030000 +0000" stop="20260619045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619044000 +0000" stop="20260619053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619053500 +0000" stop="20260619060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260619045200 +0000" stop="20260619060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -2784,19 +2226,19 @@
 <programme start="20260619060000 +0000" stop="20260619085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619085500 +0000" stop="20260619093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260619085500 +0000" stop="20260619094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619093500 +0000" stop="20260619102500 +0000" channel="etb2.es">
+<programme start="20260619094000 +0000" stop="20260619102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619102500 +0000" stop="20260619125500 +0000" channel="etb2.es">
@@ -2823,31 +2265,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619150000 +0000" stop="20260619151500 +0000" channel="etb2.es">
+<programme start="20260619150000 +0000" stop="20260619152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619151500 +0000" stop="20260619153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619153000 +0000" stop="20260619164000 +0000" channel="etb2.es">
+<programme start="20260619152500 +0000" stop="20260619163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619164000 +0000" stop="20260619174000 +0000" channel="etb2.es">
+<programme start="20260619163500 +0000" stop="20260619173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619174000 +0000" stop="20260619183000 +0000" channel="etb2.es">
+<programme start="20260619173500 +0000" stop="20260619183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -2865,16 +2301,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619200000 +0000" stop="20260619204000 +0000" channel="etb2.es">
+<programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619204000 +0000" stop="20260619210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260619203000 +0000" stop="20260619210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619210500 +0000" stop="20260619212500 +0000" channel="etb2.es">
@@ -2895,20 +2331,14 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620030000 +0000" stop="20260620044000 +0000" channel="etb2.es">
+<programme start="20260620030000 +0000" stop="20260620045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620044000 +0000" stop="20260620053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620053500 +0000" stop="20260620060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260620045200 +0000" stop="20260620060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -2916,19 +2346,19 @@
 <programme start="20260620060000 +0000" stop="20260620085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620085500 +0000" stop="20260620093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260620085500 +0000" stop="20260620094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620093500 +0000" stop="20260620102500 +0000" channel="etb2.es">
+<programme start="20260620094000 +0000" stop="20260620102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620102500 +0000" stop="20260620125500 +0000" channel="etb2.es">
@@ -2955,31 +2385,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620150000 +0000" stop="20260620151500 +0000" channel="etb2.es">
+<programme start="20260620150000 +0000" stop="20260620152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620151500 +0000" stop="20260620153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620153000 +0000" stop="20260620164000 +0000" channel="etb2.es">
+<programme start="20260620152500 +0000" stop="20260620163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620164000 +0000" stop="20260620174000 +0000" channel="etb2.es">
+<programme start="20260620163500 +0000" stop="20260620173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620174000 +0000" stop="20260620183000 +0000" channel="etb2.es">
+<programme start="20260620173500 +0000" stop="20260620183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -2997,16 +2421,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620200000 +0000" stop="20260620204000 +0000" channel="etb2.es">
+<programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620204000 +0000" stop="20260620210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260620203000 +0000" stop="20260620210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620210500 +0000" stop="20260620212500 +0000" channel="etb2.es">
@@ -3027,20 +2451,14 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621030000 +0000" stop="20260621044000 +0000" channel="etb2.es">
+<programme start="20260621030000 +0000" stop="20260621045200 +0000" channel="etb2.es">
 <title>ETB2</title>
 <sub-title></sub-title>
 <desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621044000 +0000" stop="20260621053500 +0000" channel="etb2.es">
-<title>Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621053500 +0000" stop="20260621060000 +0000" channel="etb2.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260621045200 +0000" stop="20260621060000 +0000" channel="etb2.es">
+<title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3048,19 +2466,19 @@
 <programme start="20260621060000 +0000" stop="20260621085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621085500 +0000" stop="20260621093500 +0000" channel="etb2.es">
-<title>Palabra de ley</title>
+<programme start="20260621085500 +0000" stop="20260621094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621093500 +0000" stop="20260621102500 +0000" channel="etb2.es">
+<programme start="20260621094000 +0000" stop="20260621102500 +0000" channel="etb2.es">
 <title>Historias a Bocados</title>
 <sub-title></sub-title>
-<desc>Entretenimiento</desc>
+<desc>Menagarai, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260621102500 +0000" stop="20260621125500 +0000" channel="etb2.es">
@@ -3087,31 +2505,25 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621150000 +0000" stop="20260621151500 +0000" channel="etb2.es">
+<programme start="20260621150000 +0000" stop="20260621152500 +0000" channel="etb2.es">
 <title>Eguraldia ETB2</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621151500 +0000" stop="20260621153000 +0000" channel="etb2.es">
-<title>KULT Agenda</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621153000 +0000" stop="20260621164000 +0000" channel="etb2.es">
+<programme start="20260621152500 +0000" stop="20260621163500 +0000" channel="etb2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621164000 +0000" stop="20260621174000 +0000" channel="etb2.es">
+<programme start="20260621163500 +0000" stop="20260621173500 +0000" channel="etb2.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621174000 +0000" stop="20260621183000 +0000" channel="etb2.es">
+<programme start="20260621173500 +0000" stop="20260621183000 +0000" channel="etb2.es">
 <title>Euskadi quédate</title>
 <sub-title></sub-title>
 <desc>Documentales</desc>
@@ -3129,16 +2541,16 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621200000 +0000" stop="20260621204000 +0000" channel="etb2.es">
+<programme start="20260621200000 +0000" stop="20260621203000 +0000" channel="etb2.es">
 <title>Teleberri 2</title>
 <sub-title></sub-title>
-<desc>Deportes</desc>
+<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621204000 +0000" stop="20260621210500 +0000" channel="etb2.es">
-<title>Kirolak ETB2</title>
+<programme start="20260621203000 +0000" stop="20260621210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260621210500 +0000" stop="20260621212500 +0000" channel="etb2.es">
@@ -3147,49 +2559,169 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621212500 +0000" stop="20260621235900 +0000" channel="etb2.es">
+<programme start="20260621212500 +0000" stop="20260621230000 +0000" channel="etb2.es">
 <title>El conquistador del fin del mundo</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616030000 +0000" stop="20260616044500 +0000" channel="etb2ON.es">
-<title>ETB2ON</title>
+<programme start="20260621230000 +0000" stop="20260622030000 +0000" channel="etb2.es">
+<title>ETB2</title>
 <sub-title></sub-title>
-<desc>ETB2ON</desc>
+<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616044500 +0000" stop="20260616054000 +0000" channel="etb2ON.es">
-<title>Atrápame si puedes</title>
+<programme start="20260622030000 +0000" stop="20260622045200 +0000" channel="etb2.es">
+<title>ETB2</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>ETB2</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616054000 +0000" stop="20260616060000 +0000" channel="etb2ON.es">
+<programme start="20260622045200 +0000" stop="20260622060000 +0000" channel="etb2.es">
 <title>A bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616060000 +0000" stop="20260616064500 +0000" channel="etb2ON.es">
+<programme start="20260622060000 +0000" stop="20260622085500 +0000" channel="etb2.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616064500 +0000" stop="20260616085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
+<programme start="20260622085500 +0000" stop="20260622094000 +0000" channel="etb2.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
-<desc>Información</desc>
+<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616085500 +0000" stop="20260616092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260622094000 +0000" stop="20260622102500 +0000" channel="etb2.es">
+<title>Historias a Bocados</title>
+<sub-title></sub-title>
+<desc>Menagarai, Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622102500 +0000" stop="20260622125500 +0000" channel="etb2.es">
+<title>En Jake</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616092500 +0000" stop="20260616102500 +0000" channel="etb2ON.es">
+<programme start="20260622125500 +0000" stop="20260622135800 +0000" channel="etb2.es">
+<title>Atrápame si puedes</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622135800 +0000" stop="20260622144000 +0000" channel="etb2.es">
+<title>Teleberri 1</title>
+<sub-title></sub-title>
+<desc>Deportes</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622144000 +0000" stop="20260622150000 +0000" channel="etb2.es">
+<title>Kirolak ETB2</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622150000 +0000" stop="20260622152500 +0000" channel="etb2.es">
+<title>Eguraldia ETB2</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622152500 +0000" stop="20260622163500 +0000" channel="etb2.es">
+<title>Esto no es normal</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622163500 +0000" stop="20260622173500 +0000" channel="etb2.es">
+<title>Vaya Par</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622173500 +0000" stop="20260622183000 +0000" channel="etb2.es">
+<title>Euskadi quédate</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622183000 +0000" stop="20260622190000 +0000" channel="etb2.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622190000 +0000" stop="20260622200000 +0000" channel="etb2.es">
+<title>A bocados</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622200000 +0000" stop="20260622203000 +0000" channel="etb2.es">
+<title>Teleberri 2</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622203000 +0000" stop="20260622210500 +0000" channel="etb2.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622210500 +0000" stop="20260622212500 +0000" channel="etb2.es">
+<title>Eguraldia ETB2</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622212500 +0000" stop="20260622235900 +0000" channel="etb2.es">
+<title>El conquistador del fin del mundo</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616030000 +0000" channel="etb2ON.es">
+<title>ETB2ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616045200 +0000" channel="etb2ON.es">
+<title>ETB2ON</title>
+<sub-title></sub-title>
+<desc>ETB2ON</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616045200 +0000" stop="20260616054400 +0000" channel="etb2ON.es">
+<title>Atrápame si puedes</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616054400 +0000" stop="20260616060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616060000 +0000" stop="20260616085500 +0000" channel="etb2ON.es">
+<title>Boulevard</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616085500 +0000" stop="20260616093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616093000 +0000" stop="20260616102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3238,18 +2770,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616154500 +0000" stop="20260616164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616164500 +0000" stop="20260616173000 +0000" channel="etb2ON.es">
+<programme start="20260616164500 +0000" stop="20260616173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616173000 +0000" stop="20260616183500 +0000" channel="etb2ON.es">
+<programme start="20260616173500 +0000" stop="20260616183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3273,32 +2805,32 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616200000 +0000" stop="20260616204000 +0000" channel="etb2ON.es">
+<programme start="20260616200000 +0000" stop="20260616203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260616204000 +0000" stop="20260616210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616210000 +0000" stop="20260616212000 +0000" channel="etb2ON.es">
+<programme start="20260616203000 +0000" stop="20260616210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260616210000 +0000" stop="20260616211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260616212000 +0000" stop="20260616221000 +0000" channel="etb2ON.es">
+<programme start="20260616211500 +0000" stop="20260616221000 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Series</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260616221000 +0000" stop="20260616230000 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3309,43 +2841,37 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617030000 +0000" stop="20260617044500 +0000" channel="etb2ON.es">
+<programme start="20260617030000 +0000" stop="20260617045200 +0000" channel="etb2ON.es">
 <title>ETB2ON</title>
 <sub-title></sub-title>
 <desc>ETB2ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617044500 +0000" stop="20260617054000 +0000" channel="etb2ON.es">
+<programme start="20260617045200 +0000" stop="20260617054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617054000 +0000" stop="20260617060000 +0000" channel="etb2ON.es">
-<title>A bocados</title>
+<programme start="20260617054400 +0000" stop="20260617060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617060000 +0000" stop="20260617064500 +0000" channel="etb2ON.es">
+<programme start="20260617060000 +0000" stop="20260617085500 +0000" channel="etb2ON.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617064500 +0000" stop="20260617085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617085500 +0000" stop="20260617092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260617085500 +0000" stop="20260617093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617092500 +0000" stop="20260617102500 +0000" channel="etb2ON.es">
+<programme start="20260617093000 +0000" stop="20260617102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3394,18 +2920,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617154500 +0000" stop="20260617164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617164500 +0000" stop="20260617173000 +0000" channel="etb2ON.es">
+<programme start="20260617164500 +0000" stop="20260617173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617173000 +0000" stop="20260617183500 +0000" channel="etb2ON.es">
+<programme start="20260617173500 +0000" stop="20260617183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3429,32 +2955,32 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617200000 +0000" stop="20260617204000 +0000" channel="etb2ON.es">
+<programme start="20260617200000 +0000" stop="20260617203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260617204000 +0000" stop="20260617210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617210000 +0000" stop="20260617212000 +0000" channel="etb2ON.es">
+<programme start="20260617203000 +0000" stop="20260617210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260617210000 +0000" stop="20260617211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260617212000 +0000" stop="20260617221000 +0000" channel="etb2ON.es">
+<programme start="20260617211500 +0000" stop="20260617221000 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Series</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260617221000 +0000" stop="20260617230000 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3465,43 +2991,37 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618030000 +0000" stop="20260618044500 +0000" channel="etb2ON.es">
+<programme start="20260618030000 +0000" stop="20260618045200 +0000" channel="etb2ON.es">
 <title>ETB2ON</title>
 <sub-title></sub-title>
 <desc>ETB2ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618044500 +0000" stop="20260618054000 +0000" channel="etb2ON.es">
+<programme start="20260618045200 +0000" stop="20260618054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618054000 +0000" stop="20260618060000 +0000" channel="etb2ON.es">
-<title>A bocados</title>
+<programme start="20260618054400 +0000" stop="20260618060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618060000 +0000" stop="20260618064500 +0000" channel="etb2ON.es">
+<programme start="20260618060000 +0000" stop="20260618085500 +0000" channel="etb2ON.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618064500 +0000" stop="20260618085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618085500 +0000" stop="20260618092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260618085500 +0000" stop="20260618093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618092500 +0000" stop="20260618102500 +0000" channel="etb2ON.es">
+<programme start="20260618093000 +0000" stop="20260618102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3550,18 +3070,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618154500 +0000" stop="20260618164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618164500 +0000" stop="20260618173000 +0000" channel="etb2ON.es">
+<programme start="20260618164500 +0000" stop="20260618173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618173000 +0000" stop="20260618183500 +0000" channel="etb2ON.es">
+<programme start="20260618173500 +0000" stop="20260618183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3585,32 +3105,32 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618200000 +0000" stop="20260618204000 +0000" channel="etb2ON.es">
+<programme start="20260618200000 +0000" stop="20260618203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260618204000 +0000" stop="20260618210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618210000 +0000" stop="20260618212000 +0000" channel="etb2ON.es">
+<programme start="20260618203000 +0000" stop="20260618210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260618210000 +0000" stop="20260618211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260618212000 +0000" stop="20260618221000 +0000" channel="etb2ON.es">
+<programme start="20260618211500 +0000" stop="20260618221000 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Series</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260618221000 +0000" stop="20260618230000 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3621,43 +3141,37 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619030000 +0000" stop="20260619044500 +0000" channel="etb2ON.es">
+<programme start="20260619030000 +0000" stop="20260619045200 +0000" channel="etb2ON.es">
 <title>ETB2ON</title>
 <sub-title></sub-title>
 <desc>ETB2ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619044500 +0000" stop="20260619054000 +0000" channel="etb2ON.es">
+<programme start="20260619045200 +0000" stop="20260619054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619054000 +0000" stop="20260619060000 +0000" channel="etb2ON.es">
-<title>A bocados</title>
+<programme start="20260619054400 +0000" stop="20260619060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619060000 +0000" stop="20260619064500 +0000" channel="etb2ON.es">
+<programme start="20260619060000 +0000" stop="20260619085500 +0000" channel="etb2ON.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619064500 +0000" stop="20260619085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619085500 +0000" stop="20260619092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260619085500 +0000" stop="20260619093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619092500 +0000" stop="20260619102500 +0000" channel="etb2ON.es">
+<programme start="20260619093000 +0000" stop="20260619102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3706,18 +3220,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619154500 +0000" stop="20260619164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619164500 +0000" stop="20260619173000 +0000" channel="etb2ON.es">
+<programme start="20260619164500 +0000" stop="20260619173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619173000 +0000" stop="20260619183500 +0000" channel="etb2ON.es">
+<programme start="20260619173500 +0000" stop="20260619183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3741,32 +3255,32 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619200000 +0000" stop="20260619204000 +0000" channel="etb2ON.es">
+<programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260619204000 +0000" stop="20260619210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619210000 +0000" stop="20260619212000 +0000" channel="etb2ON.es">
+<programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260619210000 +0000" stop="20260619211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260619212000 +0000" stop="20260619221000 +0000" channel="etb2ON.es">
+<programme start="20260619211500 +0000" stop="20260619221000 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Series</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260619221000 +0000" stop="20260619230000 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3777,43 +3291,37 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620030000 +0000" stop="20260620044500 +0000" channel="etb2ON.es">
+<programme start="20260620030000 +0000" stop="20260620045200 +0000" channel="etb2ON.es">
 <title>ETB2ON</title>
 <sub-title></sub-title>
 <desc>ETB2ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620044500 +0000" stop="20260620054000 +0000" channel="etb2ON.es">
+<programme start="20260620045200 +0000" stop="20260620054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620054000 +0000" stop="20260620060000 +0000" channel="etb2ON.es">
-<title>A bocados</title>
+<programme start="20260620054400 +0000" stop="20260620060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620060000 +0000" stop="20260620064500 +0000" channel="etb2ON.es">
+<programme start="20260620060000 +0000" stop="20260620085500 +0000" channel="etb2ON.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620064500 +0000" stop="20260620085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620085500 +0000" stop="20260620092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260620085500 +0000" stop="20260620093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620092500 +0000" stop="20260620102500 +0000" channel="etb2ON.es">
+<programme start="20260620093000 +0000" stop="20260620102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3862,18 +3370,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620154500 +0000" stop="20260620164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620164500 +0000" stop="20260620173000 +0000" channel="etb2ON.es">
+<programme start="20260620164500 +0000" stop="20260620173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620173000 +0000" stop="20260620183500 +0000" channel="etb2ON.es">
+<programme start="20260620173500 +0000" stop="20260620183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -3897,32 +3405,32 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620200000 +0000" stop="20260620204000 +0000" channel="etb2ON.es">
+<programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260620204000 +0000" stop="20260620210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620210000 +0000" stop="20260620212000 +0000" channel="etb2ON.es">
+<programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260620210000 +0000" stop="20260620211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260620212000 +0000" stop="20260620221000 +0000" channel="etb2ON.es">
+<programme start="20260620211500 +0000" stop="20260620221000 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
+<desc>Series</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260620221000 +0000" stop="20260620230000 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
@@ -3933,43 +3441,37 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621030000 +0000" stop="20260621044500 +0000" channel="etb2ON.es">
+<programme start="20260621030000 +0000" stop="20260621045200 +0000" channel="etb2ON.es">
 <title>ETB2ON</title>
 <sub-title></sub-title>
 <desc>ETB2ON</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621044500 +0000" stop="20260621054000 +0000" channel="etb2ON.es">
+<programme start="20260621045200 +0000" stop="20260621054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621054000 +0000" stop="20260621060000 +0000" channel="etb2ON.es">
-<title>A bocados</title>
+<programme start="20260621054400 +0000" stop="20260621060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621060000 +0000" stop="20260621064500 +0000" channel="etb2ON.es">
+<programme start="20260621060000 +0000" stop="20260621085500 +0000" channel="etb2ON.es">
 <title>Boulevard</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621064500 +0000" stop="20260621085500 +0000" channel="etb2ON.es">
-<title>Momentos de Historias a Bocados</title>
-<sub-title></sub-title>
-<desc>Información</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621085500 +0000" stop="20260621092500 +0000" channel="etb2ON.es">
-<title>Palabra de ley</title>
+<programme start="20260621085500 +0000" stop="20260621093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621092500 +0000" stop="20260621102500 +0000" channel="etb2ON.es">
+<programme start="20260621093000 +0000" stop="20260621102500 +0000" channel="etb2ON.es">
 <title>Vaya Par</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -4018,18 +3520,18 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260621154500 +0000" stop="20260621164500 +0000" channel="etb2ON.es">
-<title>Una historia de Vasconia</title>
+<title>Una Historia de Baskonia</title>
 <sub-title></sub-title>
-<desc>Morts pour la patrie, Ocio y Aficiones</desc>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621164500 +0000" stop="20260621173000 +0000" channel="etb2ON.es">
+<programme start="20260621164500 +0000" stop="20260621173500 +0000" channel="etb2ON.es">
 <title>Escapadas con Joseba Arguiñano</title>
 <sub-title></sub-title>
-<desc>Puerto Viejo de Algorta, Entretenimiento</desc>
+<desc>Santuario de Loyola, Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621173000 +0000" stop="20260621183500 +0000" channel="etb2ON.es">
+<programme start="20260621173500 +0000" stop="20260621183500 +0000" channel="etb2ON.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
@@ -4053,32 +3555,182 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621200000 +0000" stop="20260621204000 +0000" channel="etb2ON.es">
+<programme start="20260621200000 +0000" stop="20260621203000 +0000" channel="etb2ON.es">
 <title>Teleberri 2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260621204000 +0000" stop="20260621210000 +0000" channel="etb2ON.es">
-<title>Kirolak ETB2</title>
 <sub-title></sub-title>
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621210000 +0000" stop="20260621212000 +0000" channel="etb2ON.es">
+<programme start="20260621203000 +0000" stop="20260621210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621210000 +0000" stop="20260621211500 +0000" channel="etb2ON.es">
 <title>Eguraldia ETB2</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621212000 +0000" stop="20260621221000 +0000" channel="etb2ON.es">
+<programme start="20260621211500 +0000" stop="20260621221000 +0000" channel="etb2ON.es">
+<title>Atrápame si puedes</title>
+<sub-title></sub-title>
+<desc>Series</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621221000 +0000" stop="20260621230000 +0000" channel="etb2ON.es">
+<title>La Otra Cara</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260621230000 +0000" stop="20260622030000 +0000" channel="etb2ON.es">
+<title>ETB2ON</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622030000 +0000" stop="20260622045200 +0000" channel="etb2ON.es">
+<title>ETB2ON</title>
+<sub-title></sub-title>
+<desc>ETB2ON</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622045200 +0000" stop="20260622054400 +0000" channel="etb2ON.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260621221000 +0000" stop="20260621235900 +0000" channel="etb2ON.es">
-<title>Vascos por el mundo</title>
+<programme start="20260622054400 +0000" stop="20260622060000 +0000" channel="etb2ON.es">
+<title>Momentos de Historias a Bocados</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622060000 +0000" stop="20260622085500 +0000" channel="etb2ON.es">
+<title>Boulevard</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622085500 +0000" stop="20260622093000 +0000" channel="etb2ON.es">
+<title>Baserri Gourmet</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622093000 +0000" stop="20260622102500 +0000" channel="etb2ON.es">
+<title>Vaya Par</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622102500 +0000" stop="20260622125500 +0000" channel="etb2ON.es">
+<title>En Jake</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622125500 +0000" stop="20260622131000 +0000" channel="etb2ON.es">
+<title>Imprescindibles de la cocina vasca</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622131000 +0000" stop="20260622135800 +0000" channel="etb2ON.es">
+<title>A bocados</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622135800 +0000" stop="20260622143500 +0000" channel="etb2ON.es">
+<title>Teleberri 1</title>
+<sub-title></sub-title>
+<desc>Deportes</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622143500 +0000" stop="20260622145500 +0000" channel="etb2ON.es">
+<title>Kirolak ETB2</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622145500 +0000" stop="20260622151500 +0000" channel="etb2ON.es">
+<title>Eguraldia ETB2</title>
+<sub-title></sub-title>
+<desc>Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622151500 +0000" stop="20260622154500 +0000" channel="etb2ON.es">
+<title>Robin Food</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622154500 +0000" stop="20260622164500 +0000" channel="etb2ON.es">
+<title>Una Historia de Baskonia</title>
+<sub-title></sub-title>
+<desc>La voz de los monjes, Ocio y Aficiones</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622164500 +0000" stop="20260622173500 +0000" channel="etb2ON.es">
+<title>Escapadas con Joseba Arguiñano</title>
+<sub-title></sub-title>
+<desc>Santuario de Loyola, Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622173500 +0000" stop="20260622183500 +0000" channel="etb2ON.es">
+<title>Esto no es normal</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622183500 +0000" stop="20260622192500 +0000" channel="etb2ON.es">
+<title>Euskadi quédate</title>
+<sub-title></sub-title>
+<desc>Documentales</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622192500 +0000" stop="20260622194500 +0000" channel="etb2ON.es">
+<title>Bizi natura</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622194500 +0000" stop="20260622200000 +0000" channel="etb2ON.es">
+<title>Euskadi quédate</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622200000 +0000" stop="20260622203000 +0000" channel="etb2ON.es">
+<title>Teleberri 2</title>
+<sub-title></sub-title>
+<desc>Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622203000 +0000" stop="20260622210000 +0000" channel="etb2ON.es">
+<title>Informativo especial</title>
+<sub-title></sub-title>
+<desc>Entrevista al lehendakari Pradales, Información</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622210000 +0000" stop="20260622211500 +0000" channel="etb2ON.es">
+<title>Eguraldia ETB2</title>
+<sub-title></sub-title>
+<desc>Entretenimiento</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622211500 +0000" stop="20260622221000 +0000" channel="etb2ON.es">
+<title>Atrápame si puedes</title>
+<sub-title></sub-title>
+<desc>Series</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260622221000 +0000" stop="20260622235900 +0000" channel="etb2ON.es">
+<title>La Otra Cara</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
