@@ -21,7 +21,7 @@ El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas
      ```
      NombreEPG,NombreLISTA,url_logo,valor_hora
      ```
-   - **Ejemplo**:
+   - **Ejemploo**:
      ```
      NombreEPG,NombreLista,hffp://raw.githubusercontent.com/Images/logo.png,+2
      ```
