@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
-<channel id="DAYSTAR.tt"><display-name>DAYSTAR.tt</display-name><icon src="https://images.open-epg.com/x358.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
 <channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
@@ -25,6 +23,8 @@
 <channel id="Trailers.es"><display-name>Trailers.es</display-name><icon src="https://images.open-epg.com/5154.png"/></channel>
 <channel id="ViajesYSabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/x2059.png"/></channel>
 <channel id="ZUTTV.es"><display-name>ZUT TV.es</display-name><icon src="https://images.open-epg.com/5184.png"/></channel>
+<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
+<channel id="DAYSTAR.tt"><display-name>DAYSTAR.tt</display-name><icon src="https://images.open-epg.com/x358.png"/></channel>
 <programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="Daystar.ar">
 <title>Jentezen Franklin</title>
 <sub-title></sub-title>
@@ -3955,18 +3955,6 @@
 <desc>Ventana informativa en donde se podrán ver testimonios, avances y noticias sobre la cadena de televisión Enlace y la actualidad mundial, además de entrevistas con invitados especiales.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823234500 +0000" stop="20260824000000 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824001500 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824001500 +0000" stop="20260824003000 +0000" channel="Actualidad360.es">
 <title>Noticias en 30 minutos</title>
 <sub-title></sub-title>
@@ -6793,12 +6781,6 @@
 <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="CanalParlamento.es">
-<title>Canal Parlamentario</title>
-<sub-title></sub-title>
-<desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824010000 +0000" stop="20260824040000 +0000" channel="CanalParlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -6935,12 +6917,6 @@
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
 <desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823222817 +0000" stop="20260824010430 +0000" channel="CineFriki.es">
-<title>El joven detective Dee</title>
-<sub-title></sub-title>
-<desc>China, año 665 d.C. La dinastía Tang está siendo amenazada por el reino coreano de Buyeo. Por ello, se envían barcos de guerra como advertencia. Sin embargo, la flota queda reducida a cenizas antes de llegar a su destino, supuestamente por el ataque del Dragón del Mar. La emperatriz ordena resolver el misterio de la desaparición de la flota de forma inmediata. El joven Dee llega ese mismo día para ocupar un puesto en el Departamento de Justicia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824010430 +0000" stop="20260824030620 +0000" channel="CineFriki.es">
@@ -7481,12 +7457,6 @@
 <title>Blackjack</title>
 <sub-title></sub-title>
 <desc>Dolph Lundgren interpreta a Jack Devlin, un U.S Marshal que protege a clientes de alto perfil cuando se trata de una cuestión de seguridad.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823225955 +0000" stop="20260824004924 +0000" channel="Djazz.es">
-<title>OSLO_JAZZED_OUT_MIX_TV</title>
-<sub-title></sub-title>
-<desc>Jazzed Out muestra que una sesión de jazz puede ocurrir en cualquier lugar. En este episodio, Oslo sirve como telón de fondo para las actuaciones de los pianistas Tord Gustavsen y Bugge Wesseltoft.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824004924 +0000" stop="20260824010000 +0000" channel="Djazz.es">
@@ -10771,18 +10741,6 @@
 <desc>Así consiguieron el poder los talibanes en Afganistán tras las invasiones de EEUU y la URSS. - Tigray: la región de Etiopia que se rebela en contra de un Premio Nobel de la Paz. - La isla de los microchips: lo que pasa en Taiwan afecta a todo el mundo. - ¿Qué pasa exactamente en Bielorrusia? Tras el telón de la última dictadura de Europa.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823221500 +0000" stop="20260823232500 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823232500 +0000" stop="20260824004000 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824004000 +0000" stop="20260824015000 +0000" channel="ETB1.es">
 <title>Herri Txiki, Infernu Handi</title>
 <sub-title></sub-title>
@@ -11585,18 +11543,6 @@
 <title>Retransmisión deportiva</title>
 <sub-title></sub-title>
 <desc>Retransmisión deportiva.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823221000 +0000" stop="20260823232500 +0000" channel="ETB1ON.es">
-<title>Gaupasa</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823232500 +0000" stop="20260824001500 +0000" channel="ETB1ON.es">
-<title>Erromerian</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824001500 +0000" stop="20260824010000 +0000" channel="ETB1ON.es">
@@ -12805,18 +12751,6 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823222500 +0000" stop="20260824000000 +0000" channel="ETB2.es">
-<title>Basura o tesoro</title>
-<sub-title></sub-title>
-<desc>Iñaki Urrutia presenta este concurso en el que una pareja se enfrenta a un escaparate con doce objetos diferentes de los que, solo uno de ellos, es un auténtico tesoro valorado en 5.000 euros.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824012000 +0000" channel="ETB2.es">
-<title>Basura o tesoro</title>
-<sub-title></sub-title>
-<desc>Iñaki Urrutia presenta este concurso en el que una pareja se enfrenta a un escaparate con doce objetos diferentes de los que, solo uno de ellos, es un auténtico tesoro valorado en 5.000 euros.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824012000 +0000" stop="20260824023500 +0000" channel="ETB2.es">
 <title>Encierros de Falces</title>
 <sub-title></sub-title>
@@ -13505,24 +13439,6 @@
 <title>Vaya semanita</title>
 <sub-title></sub-title>
 <desc>Espacio de humor que parodiará la actualidad política y los temas cotidianos más presentes en la sociedad vasca.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823220500 +0000" stop="20260823230500 +0000" channel="ETB2ON.es">
-<title>Groningen</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823230500 +0000" stop="20260824000000 +0000" channel="ETB2ON.es">
-<title>Groningen</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="ETB2ON.es">
-<title>Esto no es normal</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824010000 +0000" stop="20260824015500 +0000" channel="ETB2ON.es">
@@ -14767,12 +14683,6 @@
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823231900 +0000" stop="20260824001200 +0000" channel="HistoriaYVida.es">
-<title>Humo y Acero: Secretos del Mundo Moderno</title>
-<sub-title>Humo y Acero: Secretos del Mundo Moderno Ep.2</sub-title>
-<desc>Hace 250 años, la Revolución Industrial cambió el mundo y dio paso a la producción en masa.</desc>
-<episode-num system="xmltv_ns">0.1.</episode-num>
-</programme>
 <programme start="20260824001200 +0000" stop="20260824010400 +0000" channel="HistoriaYVida.es">
 <title>Los Nazis más Buscados</title>
 <sub-title>Los Nazis más Buscados: Albert Speer</sub-title>
@@ -15648,18 +15558,6 @@
 <sub-title>Construcciones Extremas - El Metro de París</sub-title>
 <desc>Descubre la historia y la innovadora tecnología del metro de París: 100 años, 220 km de vías, 302 estaciones.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
-</programme>
-<programme start="20260823230000 +0000" stop="20260824000000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824010000 +0000" stop="20260824020000 +0000" channel="MovieMusic.es">
 <title>Música de películas</title>
@@ -16650,12 +16548,6 @@
 <sub-title></sub-title>
 <desc>Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823230000 +0000" stop="20260824010000 +0000" channel="NOWRock.es">
-<title>The Rock Hall Of Fame!</title>
-<sub-title></sub-title>
-<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20260824010000 +0000" stop="20260824030000 +0000" channel="NOWRock.es">
 <title>Big Fat Rock Hits!</title>
@@ -17683,12 +17575,6 @@
 <desc>Inclinados sobre un gran folio en blanco en algún lugar entre Montmartre y Saint-Germain-des-Prés, Jean-Jacques Sempé y René Goscinny dan vida a El pequeño Nicolás, un niño risueño y travieso. La suya es una infancia alegre, llena de juegos, diversión, bromas, aprendizaje, complicidad, peleas y castigos. Las aventuras de Nicolás le llevan al estudio de sus creadores, donde habla con ellos de forma distendida. Sempé y Goscinny le cuentan cómo se conocieron y se hicieron amigos, y también responden a preguntas sobre su carrera, su infancia y sus ambiciones.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823234229 +0000" stop="20260824023126 +0000" channel="QelloConcerts.es">
-<title>Yes - Songs From Tsongas 35th Anniversary</title>
-<sub-title></sub-title>
-<desc>&quot;Songs From Tsongas&quot; es una actuación en directo de la gira del 35.° aniversario de Yes en 2004, la última gira de la banda con la formación clásica de Jon Anderson, Steve Howe, Chris Squire, Rick Wakeman y Alan White.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824023126 +0000" stop="20260824035830 +0000" channel="QelloConcerts.es">
 <title>Rod Stewart - Live at Hyde Park</title>
 <sub-title></sub-title>
@@ -18336,18 +18222,6 @@
 <sub-title></sub-title>
 <desc>Vivere Live in Tuscany es un paquete de CD y DVD del cantante italiano de música clásica Andrea Bocelli.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260823221137 +0000" stop="20260824000000 +0000" channel="RuntimeFamilia.es">
-<title>Las aventuras de la Sirenita</title>
-<sub-title></sub-title>
-<desc>En esta aventura animada, una princesa sirena hace un trato con una bruja del mar para convertirse en humana. En tierra, la princesa descubre cuánto ama el mundo de la superficie y debe decidir cuánto está dispuesta a sacrificar para permanecer allí.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824002815 +0000" channel="RuntimeFamilia.es">
-<title>David El Gnomo</title>
-<sub-title>David El Gnomo - El Bebe Troll</sub-title>
-<desc>En el maravilloso mundo de los gnomos el trabajo de médico presenta con frecuencia complicaciones imprevistas. David tendrá que ayudar a dos ciervos en apuros y... a un pequeño troll abandonado en un islote en medio de un caudaloso río.</desc>
-<episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
 <programme start="20260824002815 +0000" stop="20260824005526 +0000" channel="RuntimeFamilia.es">
 <title>David El Gnomo</title>
@@ -22537,12 +22411,6 @@
 <desc>España dispone de unos mandos y una tropa de nivel, y he podido comprobarlo al pasar cuatro días de estas fiestas, Nochebuena incluida, junto a los 600 soldados españoles que forman parte del contingente de Naciones Unidas desplegado en Marjayoun, al sur de Líbano, entre Israel y Siria, una zona delicada, al mando del general Aroldo Lázaro, en la base Miguel de Cervantes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823230400 +0000" stop="20260824010100 +0000" channel="Trailers.es">
-<title>Lucky Luke</title>
-<sub-title></sub-title>
-<desc>El intrépido pistolero Lucky Luke recibe la orden del presidente de llevar la paz a Daisy Town.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20260824010100 +0000" stop="20260824024300 +0000" channel="Trailers.es">
 <title>Amo la Cocina</title>
 <sub-title></sub-title>
@@ -23400,12 +23268,6 @@
 <sub-title></sub-title>
 <desc>El intrépido pistolero Lucky Luke recibe la orden del presidente de llevar la paz a Daisy Town.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260823234500 +0000" stop="20260824003900 +0000" channel="ViajesYSabores.es">
-<title>Mi Familia y las Galápagos</title>
-<sub-title>Mi Familia y las Galápagos Ep.3</sub-title>
-<desc>El canal para los viajeros. Descubre, explora y saborea el mundo</desc>
-<episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
 <programme start="20260824003900 +0000" stop="20260824013400 +0000" channel="ViajesYSabores.es">
 <title>Mi Familia y las Galápagos</title>
@@ -24271,12 +24133,6 @@
 <desc>El canal para los viajeros. Descubre, explora y saborea el mundo</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20260823230630 +0000" stop="20260824001833 +0000" channel="ZUTTV.es">
-<title>Cover</title>
-<sub-title></sub-title>
-<desc>Programa centrado en las mejores versiones de éxitos musicales.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260824001833 +0000" stop="20260824013036 +0000" channel="ZUTTV.es">
 <title>La Calle</title>
 <sub-title></sub-title>
@@ -24413,276 +24269,6 @@
 <title>Zen</title>
 <sub-title></sub-title>
 <desc>Relaje sus sentidos y sintonice con su zona zen.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="DAYSTAR.tt">
-<title>Rejoice in the Lord</title>
-<sub-title></sub-title>
-<desc>Join the pastoral leaders and praise-and-worship team for the Word of God from the Campus Church of Pensacola Christian College.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824010000 +0000" stop="20260824013000 +0000" channel="DAYSTAR.tt">
-<title>John Ankerberg</title>
-<sub-title>Did Jesus Claim to be God?</sub-title>
-<desc>John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
-<episode-num system="xmltv_ns">.12.</episode-num>
-</programme>
-<programme start="20260824013000 +0000" stop="20260824020000 +0000" channel="DAYSTAR.tt">
-<title>Michael A. Youssef</title>
-<sub-title></sub-title>
-<desc>Pastor Michael Youssef proclaims God&apos;s word to all the people around the world through the ministries of Leading The Way.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="DAYSTAR.tt">
-<title>Discovering the Jewish Jesus</title>
-<sub-title>Mysteries in the Gospel of John Season 13: Is Being a Servant Really Admirable?</sub-title>
-<desc>Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
-<episode-num system="xmltv_ns">.39.</episode-num>
-</programme>
-<programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="DAYSTAR.tt">
-<title>Dr. David Jeremiah</title>
-<sub-title>God Hears Your Prayers</sub-title>
-<desc>Prayer is an essential part of the Christian life, yet it is easy for to neglect it.</desc>
-<episode-num system="xmltv_ns">.11.</episode-num>
-</programme>
-<programme start="20260824030000 +0000" stop="20260824033000 +0000" channel="DAYSTAR.tt">
-<title>Hal Lindsey</title>
-<sub-title></sub-title>
-<desc>Hal Lindsey shares his insights into the prophecies in the Book of John.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824033000 +0000" stop="20260824040000 +0000" channel="DAYSTAR.tt">
-<title>Prophecy Watchers</title>
-<sub-title></sub-title>
-<desc>Bible prophecy lives! Join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824040000 +0000" stop="20260824043000 +0000" channel="DAYSTAR.tt">
-<title>Prophecy Live</title>
-<sub-title></sub-title>
-<desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="DAYSTAR.tt">
-<title>Dr. Sam</title>
-<sub-title></sub-title>
-<desc>Cardiologist, evangelist, medical missionary and author Samuel Kojoglanian, MD, known as Dr. Sam, provides a Biblical study of the end times with geopolitical views and heartwarming medical analogies.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="DAYSTAR.tt">
-<title>Believer&apos;s Walk of Faith With Bill Winston</title>
-<sub-title></sub-title>
-<desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="DAYSTAR.tt">
-<title>Creflo Dollar</title>
-<sub-title></sub-title>
-<desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God&apos;s love and promises.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="DAYSTAR.tt">
-<title>Paula Today</title>
-<sub-title></sub-title>
-<desc>Paula White Cain and husband Jonathan discuss real-life situations and offer practical, biblical solutions. They give down-to-earth, refreshing, sometimes unfiltered words and aim to share the life-changing love of Jesus through lessons or music.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824070000 +0000" stop="20260824073000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824073000 +0000" stop="20260824080000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824080000 +0000" stop="20260824083000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824083000 +0000" stop="20260824093000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824093000 +0000" stop="20260824100000 +0000" channel="DAYSTAR.tt">
-<title>Reflections</title>
-<sub-title></sub-title>
-<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="DAYSTAR.tt">
-<title>Kingdom Connection With Jentezen Franklin</title>
-<sub-title>No Explanations, Just an Invitation (Part 1)</sub-title>
-<desc>A mission to share the profound truths of God&apos;s Word; viewers are inspired by Franklin Jentezen&apos;s words, which echo the timeless wisdom of the scriptures.</desc>
-<episode-num system="xmltv_ns">.7.</episode-num>
-</programme>
-<programme start="20260824103000 +0000" stop="20260824110000 +0000" channel="DAYSTAR.tt">
-<title>Prophecy Live</title>
-<sub-title></sub-title>
-<desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824110000 +0000" stop="20260824113000 +0000" channel="DAYSTAR.tt">
-<title>Joni Table Talk</title>
-<sub-title>Friends From the Table: Carrying the Legacy</sub-title>
-<desc>Kellie and Courtney Copeland join us to share how a legacy of faith becomes personal and why what we build today can influence generations to come.</desc>
-<episode-num system="xmltv_ns">.63.</episode-num>
-</programme>
-<programme start="20260824113000 +0000" stop="20260824120000 +0000" channel="DAYSTAR.tt">
-<title>Joel Osteen</title>
-<sub-title>Living In the Present</sub-title>
-<desc>Joel teaches that life is too short to hold on to hurts.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824120000 +0000" stop="20260824123000 +0000" channel="DAYSTAR.tt">
-<title>Life Today</title>
-<sub-title>Ed Newton: Stop Limiting Yourself</sub-title>
-<desc>The author of &quot;Why Not You?&quot; shows you how to embrace what God says about you and reject the lies that limit your impact for His kingdom.</desc>
-<episode-num system="xmltv_ns">.89.</episode-num>
-</programme>
-<programme start="20260824123000 +0000" stop="20260824130000 +0000" channel="DAYSTAR.tt">
-<title>Gospel Truth with Andrew Wommack</title>
-<sub-title></sub-title>
-<desc>For over four and a half decades, Andrew has taught God&apos;s Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824130000 +0000" stop="20260824133000 +0000" channel="DAYSTAR.tt">
-<title>Larry and Tiz Huch</title>
-<sub-title></sub-title>
-<desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824133000 +0000" stop="20260824140000 +0000" channel="DAYSTAR.tt">
-<title>Jesus the Healer With Nancy Dufresne</title>
-<sub-title></sub-title>
-<desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824140000 +0000" stop="20260824143000 +0000" channel="DAYSTAR.tt">
-<title>Kenneth Copeland</title>
-<sub-title>Biblical Prosperity Is Based on God&apos;s Covenant</sub-title>
-<desc>You&apos;ve got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ&apos;s loving sacrifice!</desc>
-<episode-num system="xmltv_ns">.187.</episode-num>
-</programme>
-<programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="DAYSTAR.tt">
-<title>Creflo Dollar</title>
-<sub-title></sub-title>
-<desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God&apos;s love and promises.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824150000 +0000" stop="20260824153000 +0000" channel="DAYSTAR.tt">
-<title>Sid Roth&apos;s It&apos;s Supernatural!</title>
-<sub-title></sub-title>
-<desc>Messianic investigator Sid Roth presents this show discussing and examining the supernatural reality and power of God.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824153000 +0000" stop="20260824160000 +0000" channel="DAYSTAR.tt">
-<title>Rick Renner</title>
-<sub-title>Does the Blood Keep the Enemy Out?</sub-title>
-<desc>The places you inhabit are your Garden of Eden. Satan wants in, so plead the blood of Jesus against him to keep him on the outside!</desc>
-<episode-num system="xmltv_ns">.160.</episode-num>
-</programme>
-<programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="DAYSTAR.tt">
-<title>Ministry Now</title>
-<sub-title></sub-title>
-<desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824170000 +0000" stop="20260824173000 +0000" channel="DAYSTAR.tt">
-<title>Drenda</title>
-<sub-title></sub-title>
-<desc>Drenda&apos;s deep desire is to see you experience more of what matters in your life.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824173000 +0000" stop="20260824180000 +0000" channel="DAYSTAR.tt">
-<title>Love a Child</title>
-<sub-title></sub-title>
-<desc>Missionaries work to share hope and spread the message of God&apos;s love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824180000 +0000" stop="20260824183000 +0000" channel="DAYSTAR.tt">
-<title>Discovering the Jewish Jesus</title>
-<sub-title>The Mystery of the Tabernacle: The Secret of the Brass Laver</sub-title>
-<desc>Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
-<episode-num system="xmltv_ns">.23.</episode-num>
-</programme>
-<programme start="20260824183000 +0000" stop="20260824190000 +0000" channel="DAYSTAR.tt">
-<title>Miracle Word Today With Marilyn Hickey</title>
-<sub-title></sub-title>
-<desc>Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824190000 +0000" stop="20260824193000 +0000" channel="DAYSTAR.tt">
-<title>Prophecy Live</title>
-<sub-title></sub-title>
-<desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824193000 +0000" stop="20260824200000 +0000" channel="DAYSTAR.tt">
-<title>Amazing Facts With Doug Batchelor</title>
-<sub-title>The Decalogue and God&apos;s Dilemma Pt. 2</sub-title>
-<desc>Many Christians say that the Ten Commandments were cancelled when Jesus died on the cross. Discover what really happened when Jesus sacrificed His life, why He had to die, and what law actually passed away when He was crucified for your sins.</desc>
-<episode-num system="xmltv_ns">.35.</episode-num>
-</programme>
-<programme start="20260824200000 +0000" stop="20260824203000 +0000" channel="DAYSTAR.tt">
-<title>Rick Renner</title>
-<sub-title>Does the Blood Keep the Enemy Out?</sub-title>
-<desc>The places you inhabit are your Garden of Eden. Satan wants in, so plead the blood of Jesus against him to keep him on the outside!</desc>
-<episode-num system="xmltv_ns">.160.</episode-num>
-</programme>
-<programme start="20260824203000 +0000" stop="20260824210000 +0000" channel="DAYSTAR.tt">
-<title>Believer&apos;s Walk of Faith With Bill Winston</title>
-<sub-title></sub-title>
-<desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824210000 +0000" stop="20260824213000 +0000" channel="DAYSTAR.tt">
-<title>PSB Prophetic Sound Broadcast With Shawn Baker</title>
-<sub-title></sub-title>
-<desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824213000 +0000" stop="20260824220000 +0000" channel="DAYSTAR.tt">
-<title>Dr. David Jeremiah</title>
-<sub-title>A Great Day</sub-title>
-<desc>When Christ returns, all of His followers, living or deceased, will be caught up from earth and taken to heaven.</desc>
-<episode-num system="xmltv_ns">.28.</episode-num>
-</programme>
-<programme start="20260824220000 +0000" stop="20260824223000 +0000" channel="DAYSTAR.tt">
-<title>Healing Time With Dr. Doug Weiss</title>
-<sub-title>Samuel Rodriguez</sub-title>
-<desc>Pastor Samuel Rodriguez shares how to reignite your passion for Jesus and live on fire with boldness, power, and purpose.</desc>
-<episode-num system="xmltv_ns">.9.</episode-num>
-</programme>
-<programme start="20260824223000 +0000" stop="20260824230000 +0000" channel="DAYSTAR.tt">
-<title>Jewish Voice with Jonathan Bernis</title>
-<sub-title>Lion of Judah</sub-title>
-<desc>Rabbi Jonathan Bernis of Jewish Voice Ministries provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East; what is the truth?</desc>
-<episode-num system="xmltv_ns">.22.</episode-num>
-</programme>
-<programme start="20260824230000 +0000" stop="20260824233000 +0000" channel="DAYSTAR.tt">
-<title>Manna Fest With Perry Stone</title>
-<sub-title></sub-title>
-<desc>Perry Stone hosts this exciting program that deals with in-depth prophetic and practical studies of the Word of God; Manna-fest is a resource to help you better understand where we are now in light of Bible prophecy.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260824233000 +0000" stop="20260825000000 +0000" channel="DAYSTAR.tt">
-<title>Breakthrough With Rod Parsley</title>
-<sub-title></sub-title>
-<desc>&quot;Breakthrough&quot; is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260825000000 +0000" stop="20260825003000 +0000" channel="DAYSTAR.tt">
@@ -24985,88 +24571,268 @@
 <desc>Joel and Victoria Osteen&apos;s message of unconditional love and unending hope reaches everyone across the world.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260823225000 +0000" stop="20260824004000 +0000" channel="A3Cine.uy">
-<title>El penalti más largo del mundo</title>
+<programme start="20260826033000 +0000" stop="20260826040000 +0000" channel="DAYSTAR.tt">
+<title>Kenneth Copeland</title>
+<sub-title>Biblical Prosperity Gives You More Than Enough to Bless Others</sub-title>
+<desc>You&apos;ve got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ&apos;s loving sacrifice!</desc>
+<episode-num system="xmltv_ns">.188.</episode-num>
+</programme>
+<programme start="20260826040000 +0000" stop="20260826043000 +0000" channel="DAYSTAR.tt">
+<title>Healing Time With Dr. Doug Weiss</title>
+<sub-title>Getting Clean</sub-title>
+<desc>Exploring the possible methods for overcoming any difficulties in life, even addictions, to live in the freedom the God wants for every believer.</desc>
+<episode-num system="xmltv_ns">.8.</episode-num>
+</programme>
+<programme start="20260826043000 +0000" stop="20260826050000 +0000" channel="DAYSTAR.tt">
+<title>Joni Table Talk</title>
+<sub-title>Friends From the Table Music: A Voice of Hope</sub-title>
+<desc>Janet Paschal joins us to share her extraordinary journey of faith, miraculous healing, and the powerful stories behind her new album, &quot;The Journey.&quot;</desc>
+<episode-num system="xmltv_ns">.46.</episode-num>
+</programme>
+<programme start="20260826050000 +0000" stop="20260826060000 +0000" channel="DAYSTAR.tt">
+<title>Ministry Now</title>
 <sub-title></sub-title>
-<desc>La vida de un joven mediocre se transforma durante una semana cuando debe sustituir al portero de su equipo y tratar de detener un tiro penal en un partido decisivo. De pronto se convierte en el centro de todas las atenciones, y hasta logra una cita con su amor imposible, pero la verdad lo estará esperando en la portería.</desc>
+<desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824004000 +0000" stop="20260824022000 +0000" channel="A3Cine.uy">
-<title>Una palabra tuya</title>
+<programme start="20260826060000 +0000" stop="20260826063000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Años de tropiezos y desilusiones han creado en Milagros y Rosario el temor de que no merecen ser felices. Ahora recorrerán dos trayectorias vitales. una hacia la nada más cruel, y la otra hacia un futuro expectante desde una vida redimida.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824022000 +0000" stop="20260824040500 +0000" channel="A3Cine.uy">
-<title>Segundo asalto</title>
+<programme start="20260826063000 +0000" stop="20260826070000 +0000" channel="DAYSTAR.tt">
+<title>Jesus the Healer With Nancy Dufresne</title>
 <sub-title></sub-title>
-<desc>Ángel, de veinte años, tiene un trabajo por horas, pocos amigos y una carrera como boxeador no muy prometedora. Vidal, argentino y atracador de bancos, irrumpe en su vida para ofrecerle un futuro lleno de dinero y reconocimientos.</desc>
+<desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824040500 +0000" stop="20260824054500 +0000" channel="A3Cine.uy">
-<title>Manolo guardia urbano</title>
+<programme start="20260826070000 +0000" stop="20260826073000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Presenta el nacimiento del primer hijo de un popularísimo guardia urbano de Madrid y las incidencias a que da lugar el cambio de bebés, producido durante el bautizo. Película de tonos amables y simpáticos, tierna y emotiva en muchos momentos, y alegre y divertida en otros. No hay nada que objetarle en su aspecto moral, resultando aleccionadora en muchos momentos.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824054500 +0000" stop="20260824072500 +0000" channel="A3Cine.uy">
-<title>Reckless</title>
+<programme start="20260826073000 +0000" stop="20260826080000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Alaska. Perdido en la inmensidad de la llanura helada, un misionero católico se siente morir. Es Javier Mendoza, el alegre y desenfadado &apos;&apos;Balarrasa&apos;&apos;, que recuerda emocionado su vida. Son tiempos de guerra. Para &apos;&apos;Balarrasa&apos;&apos; no hay freno divino ni humano. Y siempre que puede escapar a la retaguardia, sólo se preocupa en divertirse. Es, además, un hombre de suerte, suerte que siempre le acompaña y que le lleva a jugarse una guardia en una avanzadilla del frente. &apos;&apos;Balarrasa&apos;&apos; gana y el compañero que hace su guardia resulta muerto de un tiro. Aquel tiro estaba destinado a &apos;&apos;Balarrasa&apos;&apos;, que siente entonces la llamada del Señor.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824072500 +0000" stop="20260824090500 +0000" channel="A3Cine.uy">
-<title>Maravillas</title>
+<programme start="20260826080000 +0000" stop="20260826083000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Maravillas, una adolescente de quince años, vive con su padre, un viejo fotógrafo desempleado que le roba dinero a su hija para sus vicios. Pero Maravillas cuenta con la protección de sus padrinos. Un día, la joven ve cómo unos chicos atracan a un sacerdote y en la huida pierden una esmeralda.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824090500 +0000" stop="20260824114500 +0000" channel="A3Cine.uy">
-<title>Amanece, que no es poco</title>
+<programme start="20260826083000 +0000" stop="20260826093000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Un ingeniero regresa a España para disfrutar de un año sabático y descubre que su padre mató a su madre. Juntos viajan en moto a un pueblo donde se encuentran con extrañas personas.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824114500 +0000" stop="20260824132000 +0000" channel="A3Cine.uy">
-<title>El Abominable hombre de la Costa del Sol</title>
+<programme start="20260826093000 +0000" stop="20260826100000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
 <sub-title></sub-title>
-<desc>Federico es un aristócrata aburrido al que su novia Cecilia considera un héroe romántico. Un día, de repente, se encuentra convertido en relaciones públicas de un importante hotel de la Costa del Sol.</desc>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824132000 +0000" stop="20260824143500 +0000" channel="A3Cine.uy">
-<title>Una bala para el Rey. Parte 1</title>
+<programme start="20260826100000 +0000" stop="20260826103000 +0000" channel="DAYSTAR.tt">
+<title>Kingdom Connection With Jentezen Franklin</title>
 <sub-title></sub-title>
-<desc>En el verano de 1995, ETA tiene todo dispuesto para que un francotirador dispare contra el Rey Juan Carlos I en Palma de Mallorca. Los preparativos comienzan un año y medio antes, en Francia. Un veterano integrante de ETA, acude a sucesivas reuniones con la cúpula de la organización terrorista para preparar el atentado.</desc>
+<desc>A mission to share the profound truths of God&apos;s Word; viewers are inspired by Franklin Jentezen&apos;s words, which echo the timeless wisdom of the scriptures.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824143500 +0000" stop="20260824162500 +0000" channel="A3Cine.uy">
-<title>El robo más grande jamás contado</title>
+<programme start="20260826103000 +0000" stop="20260826110000 +0000" channel="DAYSTAR.tt">
+<title>Prophecy Live</title>
 <sub-title></sub-title>
-<desc>Después de vulnerar su libertad condicional, El Santo coincide en el furgón de la penitenciaría con tres delincuentes muy poco comunes: Zorba, un loco inofensivo cuyas obsesiones son la pintura y la religión, Pinito un ex-desvalijador de maletas, y Windows, un hacker adolescente capaz de provocar apagones generales con un solo click. Todos se unen para preparar el robo del Guernica de Picasso, uno de los cuadros más representativos de la historia del arte moderno.</desc>
+<desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824162500 +0000" stop="20260824180000 +0000" channel="A3Cine.uy">
-<title>La lengua de las mariposas</title>
-<sub-title></sub-title>
-<desc>Los valores y principios que Don Gregorio, un maestro de pensamiento liberal y antifascista le ha inculcado a Moncho, su pequeño alumno, se verán truncados con el inicio de la Guerra Civil española.</desc>
+<programme start="20260826110000 +0000" stop="20260826113000 +0000" channel="DAYSTAR.tt">
+<title>Joni Table Talk</title>
+<sub-title>Friends From the Table Music: Baptized By Fire</sub-title>
+<desc>Country superstar Whey Jennings reveals how God set him free from the bondage of addiction and led him into a life of true freedom and transformation.</desc>
+<episode-num system="xmltv_ns">.45.</episode-num>
+</programme>
+<programme start="20260826113000 +0000" stop="20260826120000 +0000" channel="DAYSTAR.tt">
+<title>Joel Osteen</title>
+<sub-title>Recognize God&apos;s Goodness</sub-title>
+<desc>Joel explains how God gives people the power to live a victorious and abundant life.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824180000 +0000" stop="20260824194500 +0000" channel="A3Cine.uy">
-<title>¡Por fin solos!</title>
+<programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="DAYSTAR.tt">
+<title>Life Today</title>
+<sub-title>Ashley and Dave Willis: Better Relationships</sub-title>
+<desc>Biblical counselors and authors of &quot;Do Marriage Better&quot; offer simple changes to improve all of your relationships.</desc>
+<episode-num system="xmltv_ns">.91.</episode-num>
+</programme>
+<programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="DAYSTAR.tt">
+<title>Gospel Truth with Andrew Wommack</title>
 <sub-title></sub-title>
-<desc>Arturo es un padre de familia agobiado por una situación que afecta a millones de hogares: los hijos mayores se acomodan y no se van nunca de casa.</desc>
+<desc>For over four and a half decades, Andrew has taught God&apos;s Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824194500 +0000" stop="20260824212500 +0000" channel="A3Cine.uy">
-<title>I Love Miami</title>
-<sub-title></sub-title>
-<desc>Víctima de un atentado interno, Fidel Castro sobrevive a un naufragio llegando irónicamente a las costas de Miami como un balsero cubano más. Mientras planea su regreso para retomar el gobierno y vengarse de los traidores, conocerá la otra Cuba.</desc>
+<programme start="20260826130000 +0000" stop="20260826133000 +0000" channel="DAYSTAR.tt">
+<title>Time With Denise Renner</title>
+<sub-title>What Power Does a Woman Have? - Rhonda Garver</sub-title>
+<desc>Have you ever been shut down just because you are a woman? Let Rhonda Garver show you what God really had in mind when He made Eve!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260824212500 +0000" stop="20260824230500 +0000" channel="A3Cine.uy">
-<title>Animales de compañía</title>
+<programme start="20260826133000 +0000" stop="20260826140000 +0000" channel="DAYSTAR.tt">
+<title>Jesus the Healer With Nancy Dufresne</title>
 <sub-title></sub-title>
-<desc>Rafa cumple 65 años y, a su edad, sabe de sobra que las cosas salen siempre peor de lo que uno espera. Lo que él espera es que su hijo pequeño llegue tarde al cumpleaños y pase la mitad de la velada hablando con el móvil. Que su hija mediana, siesquellega, lo haga más tarde aún y sin regalo. Que su hija mayor no pare de meter cizaña sobre la mediana, y que su mujer simule todo el rato que son una familia perfecta. Eso es lo que Rafa espera.</desc>
+<desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826140000 +0000" stop="20260826143000 +0000" channel="DAYSTAR.tt">
+<title>Kenneth Copeland</title>
+<sub-title>Biblical Prosperity Thrives on Humility and Righteous Living</sub-title>
+<desc>You&apos;ve got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ&apos;s loving sacrifice!</desc>
+<episode-num system="xmltv_ns">.189.</episode-num>
+</programme>
+<programme start="20260826143000 +0000" stop="20260826150000 +0000" channel="DAYSTAR.tt">
+<title>Creflo Dollar</title>
+<sub-title></sub-title>
+<desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God&apos;s love and promises.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826150000 +0000" stop="20260826153000 +0000" channel="DAYSTAR.tt">
+<title>Jewish Voice with Jonathan Bernis</title>
+<sub-title>Jewish Voice Special: Ethiopia</sub-title>
+<desc>Rabbi Jonathan Bernis of Jewish Voice Ministries provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East; what is the truth?</desc>
+<episode-num system="xmltv_ns">.34.</episode-num>
+</programme>
+<programme start="20260826153000 +0000" stop="20260826160000 +0000" channel="DAYSTAR.tt">
+<title>Rick Renner</title>
+<sub-title>Do You Have a Blood Covenant?</sub-title>
+<desc>How did Rahab&apos;s scarlet cord become her line of protection? Learn what your blood-sealed covenant with the Lord means for you today.</desc>
+<episode-num system="xmltv_ns">.162.</episode-num>
+</programme>
+<programme start="20260826160000 +0000" stop="20260826170000 +0000" channel="DAYSTAR.tt">
+<title>Ministry Now</title>
+<sub-title></sub-title>
+<desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826170000 +0000" stop="20260826173000 +0000" channel="DAYSTAR.tt">
+<title>Gary Keesee: Fixing the Money Thing</title>
+<sub-title></sub-title>
+<desc>Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826173000 +0000" stop="20260826180000 +0000" channel="DAYSTAR.tt">
+<title>The Narrow Way</title>
+<sub-title></sub-title>
+<desc>Offering biblical teaching that addresses the spiritual battles you face; Mike Signorelli provides practical guidance for walking in freedom through Christ.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826180000 +0000" stop="20260826183000 +0000" channel="DAYSTAR.tt">
+<title>Travis Johnson</title>
+<sub-title></sub-title>
+<desc>Pastor Travis Johnson ministers internationally and develops ministerial networks across churches.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826183000 +0000" stop="20260826190000 +0000" channel="DAYSTAR.tt">
+<title>Miracle Word Today With Marilyn Hickey</title>
+<sub-title></sub-title>
+<desc>Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826190000 +0000" stop="20260826193000 +0000" channel="DAYSTAR.tt">
+<title>Prophecy Live</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826193000 +0000" stop="20260826200000 +0000" channel="DAYSTAR.tt">
+<title>The Prophetic Whisper with Aquilla Nash</title>
+<sub-title></sub-title>
+<desc>Aquila Nash helps devotees draw closer to God by sharing teachings found in the Bible while also featuring testimonies from various people.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826200000 +0000" stop="20260826203000 +0000" channel="DAYSTAR.tt">
+<title>Rick Renner</title>
+<sub-title>Do You Have a Blood Covenant?</sub-title>
+<desc>How did Rahab&apos;s scarlet cord become her line of protection? Learn what your blood-sealed covenant with the Lord means for you today.</desc>
+<episode-num system="xmltv_ns">.162.</episode-num>
+</programme>
+<programme start="20260826203000 +0000" stop="20260826210000 +0000" channel="DAYSTAR.tt">
+<title>Believer&apos;s Walk of Faith With Bill Winston</title>
+<sub-title></sub-title>
+<desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826210000 +0000" stop="20260826213000 +0000" channel="DAYSTAR.tt">
+<title>PSB Prophetic Sound Broadcast With Shawn Baker</title>
+<sub-title></sub-title>
+<desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826213000 +0000" stop="20260826220000 +0000" channel="DAYSTAR.tt">
+<title>David Jeremiah</title>
+<sub-title>The Noah Factor</sub-title>
+<desc>What it will be like on earth before Jesus returns.</desc>
+<episode-num system="xmltv_ns">.8.</episode-num>
+</programme>
+<programme start="20260826220000 +0000" stop="20260826223000 +0000" channel="DAYSTAR.tt">
+<title>Healing Time With Dr. Doug Weiss</title>
+<sub-title>Dan Steiner</sub-title>
+<desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+<episode-num system="xmltv_ns">.45.</episode-num>
+</programme>
+<programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="DAYSTAR.tt">
+<title>Allen Jackson Ministries</title>
+<sub-title></sub-title>
+<desc>What&apos;s the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826230000 +0000" stop="20260826233000 +0000" channel="DAYSTAR.tt">
+<title>Reflections</title>
+<sub-title></sub-title>
+<desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="DAYSTAR.tt">
+<title>Breakthrough With Rod Parsley</title>
+<sub-title></sub-title>
+<desc>&quot;Breakthrough&quot; is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="DAYSTAR.tt">
+<title>Gospel Truth with Andrew Wommack</title>
+<sub-title></sub-title>
+<desc>For over four and a half decades, Andrew has taught God&apos;s Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="DAYSTAR.tt">
+<title>Joni Table Talk</title>
+<sub-title>Friends From the Table Music: Baptized By Fire</sub-title>
+<desc>Country superstar Whey Jennings reveals how God set him free from the bondage of addiction and led him into a life of true freedom and transformation.</desc>
+<episode-num system="xmltv_ns">.45.</episode-num>
+</programme>
+<programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="DAYSTAR.tt">
+<title>Ministry Now</title>
+<sub-title></sub-title>
+<desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="DAYSTAR.tt">
+<title>Larry and Tiz Huch</title>
+<sub-title></sub-title>
+<desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="DAYSTAR.tt">
+<title>The Prophetic Whisper with Aquilla Nash</title>
+<sub-title>A Place for His Presence #1</sub-title>
+<desc>Aquilla Nash ministers with God&apos;s gift of prophecy and healing while also featuring inspirational testimonies of God&apos;s grace from special guests.</desc>
+<episode-num system="xmltv_ns">.16.</episode-num>
+</programme>
+<programme start="20260827030000 +0000" stop="20260827033000 +0000" channel="DAYSTAR.tt">
+<title>In Touch With Dr. Charles Stanley</title>
+<sub-title></sub-title>
+<desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260824230500 +0000" stop="20260825004000 +0000" channel="A3Cine.uy">
@@ -25499,6 +25265,90 @@
 <title>8 citas</title>
 <sub-title></sub-title>
 <desc>Ocho citas, ocho historias de amor en clave de comedia, precedidas por un tema y una frase. Situaciones clásicas como el amor a primera vista, el reencuentro con un amor del pasado, los suegros, los celos y hasta el intercambio de parejas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830021500 +0000" stop="20260830040500 +0000" channel="A3Cine.uy">
+<title>Héctor</title>
+<sub-title></sub-title>
+<desc>Héctor de 16 años acaba de perder a su madre, se ha mudado con su tía y está adaptándose a su nueva realidad. Cuando inesperadamente llega su padre intentando acercarse a él, Héctor deberá elegir vivir en su tierra o aventurarse a conocer a su padre.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830040500 +0000" stop="20260830054000 +0000" channel="A3Cine.uy">
+<title>El turismo es un gran invento</title>
+<sub-title></sub-title>
+<desc>Las fuerzas vivas de Valdemorillo del Moncayo han decidido que su pueblo participe, también, de la descomunal bicoca del turismo. Tienen un castillo del tiempo de los moros y las mejores frutas de Aragón. Necesitan lanzarse al descubrimiento de ´eso´ que es capaz de atraer a millones de viajeros.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830054000 +0000" stop="20260830072500 +0000" channel="A3Cine.uy">
+<title>Los buenos días perdidos</title>
+<sub-title></sub-title>
+<desc>Lorenzo llega a un pueblo castellano con la ilusión de ser el nuevo guardia municipal. Allí se encontrará con antiguos compañeros, como Cleofás, que es el sacristán de la parroquia, y también conocerá a un nuevo amor que le cambiará la vida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830072500 +0000" stop="20260830093500 +0000" channel="A3Cine.uy">
+<title>La mitad del cielo</title>
+<sub-title></sub-title>
+<desc>Después de la Guerra Civil, Rosa, hija de una humilde familia asturiana, se casa con un afilador, un vagabundo que muere mas tarde en la carcel acusado de un delito.Al quedarse viuda emigra a Madrid con su hija Olvido.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830093500 +0000" stop="20260830110000 +0000" channel="A3Cine.uy">
+<title>Tormenta. El experimento</title>
+<sub-title></sub-title>
+<desc>El experimento desemboca en una especie de régimen castrense, en el que la inteligencia y el talento se erigen como únicos valores. Los profesores pierden el control de la situación y los dos grupos acaban enfrentándose.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830110000 +0000" stop="20260830121000 +0000" channel="A3Cine.uy">
+<title>La historia de Bienvenido</title>
+<sub-title></sub-title>
+<desc>Marisol cuenta a unos niños la historia real de un burrito que fue pasando de mano en mano hasta ser la figura de un circo, siendo querido por todos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830121000 +0000" stop="20260830134500 +0000" channel="A3Cine.uy">
+<title>Juan y Junior... en un mundo diferente</title>
+<sub-title></sub-title>
+<desc>Dos extraterrestres intentan hacerse pasar por los cantantes de moda para hacerse con el control del planeta.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830134500 +0000" stop="20260830155000 +0000" channel="A3Cine.uy">
+<title>Redondela</title>
+<sub-title></sub-title>
+<desc>El abogado Gil Ramos intenta aclarar ante los tribunales el robo de cuatro mil toneladas de aceite de los depósitos de Acegasa, pero las personas que podrían declarar como testigos mueren en extrañas circunstancias.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830155000 +0000" stop="20260830174000 +0000" channel="A3Cine.uy">
+<title>Secretos del corazón</title>
+<sub-title></sub-title>
+<desc>Javi se siente atraído por una habitación que siempre estuvo cerrada: la sala donde encontraron muerto a su padre. Allí se puede oír las voces de los muertos y el niño decide investigar las historias de esas personas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830174000 +0000" stop="20260830193500 +0000" channel="A3Cine.uy">
+<title>El corazón del guerrero</title>
+<sub-title></sub-title>
+<desc>Beldar roba una gema maldita que le transmite un hechizo mortal, le hace perder el sentido y despierta transformado en un joven, quedando atrapado en dos mundos paralelos: El real y el mitológico.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830193500 +0000" stop="20260830211500 +0000" channel="A3Cine.uy">
+<title>Utopía</title>
+<sub-title></sub-title>
+<desc>Adrián tiene la facultad de ver el futuro, sobre todo tragedias, como la de Ángela, una joven captada por una secta. Hervé, un ex policía, averigua la extraña muerte de su familia. Todos estos sucesos se unirán en una misteriosa red llamada Utopía.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830211500 +0000" stop="20260830224500 +0000" channel="A3Cine.uy">
+<title>Una bala para el Rey. Parte 2</title>
+<sub-title></sub-title>
+<desc>En el verano de 1995, ETA tiene todo dispuesto para que un francotirador dispare contra el Rey Juan Carlos I en Palma de Mallorca. Los preparativos comienzan un año y medio antes, en Francia. Un veterano integrante de ETA, acude a sucesivas reuniones con la cúpula de la organización terrorista para preparar el atentado. La Policía Española, en colaboración con la Francesa vigila sus movimiento..</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260830224500 +0000" stop="20260831004000 +0000" channel="A3Cine.uy">
+<title>Espérame en el cielo</title>
+<sub-title></sub-title>
+<desc>Paulino es un hombre llano, del pueblo, que por su casual parecido con Francisco Franco es raptado y entrenado para la operación Hano. Su familia le da por muerto e invocan su alma por medio del espiritismo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260831004000 +0000" stop="20260831024000 +0000" channel="A3Cine.uy">
+<title>Los años bárbaros</title>
+<sub-title></sub-title>
+<desc>Madrid, 1947. Tomás y Jaime, universitarios e integrantes de la resistencia antifranquista, son detenidos y condenados a ocho años de prisión al ser descubiertos haciendo pintadas en la Facultad de Filosofía y Letras. Cumplen condena en el Valle de los Caídos, desde donde planean su huída a Francia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 </tv>
