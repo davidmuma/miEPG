@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <channel id="Actualidad360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/25841988.png"/></channel>
 <channel id="CanalParlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
 <channel id="CineFriki.es"><display-name>Cine Friki.es</display-name><icon src="https://images.open-epg.com/4967.png"/></channel>
@@ -24,6 +23,7 @@
 <channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.pe"><display-name>Enlace.pe</display-name><icon src="https://images.open-epg.com/40355.png"/></channel>
 <channel id="StingrayiConcerts.at"><display-name>Stingray iConcerts.at</display-name><icon src="https://images.open-epg.com/12857278.png"/></channel>
+<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <programme start="20260906100000 +0000" stop="20260906103000 +0000" channel="Daystar.ar">
 <title>Adoración en casa</title>
 <sub-title></sub-title>
@@ -2140,12 +2140,6 @@
 <title>Show de la fe</title>
 <sub-title>Episodio: Dios transforma vidas</sub-title>
 <desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905232100 +0000" stop="20260906004900 +0000" channel="StingrayiConcerts.at">
-<title>Swedish House Mafia: Live at iTunes Festival</title>
-<sub-title></sub-title>
-<desc>Swedish House Mafia: Live at iTunes Festival</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906004900 +0000" stop="20260906010000 +0000" channel="StingrayiConcerts.at">
@@ -4974,12 +4968,6 @@
 <desc>Las claves informativas para entender la actualidad del día.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260905220000 +0000" stop="20260906010000 +0000" channel="CanalParlamento.es">
-<title>Canal Parlamentario</title>
-<sub-title></sub-title>
-<desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260906010000 +0000" stop="20260906040000 +0000" channel="CanalParlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -5596,12 +5584,6 @@
 <title>Truth or Die</title>
 <sub-title></sub-title>
 <desc>Un millonario ha sido brutalmente asesinado en su casa y se han llevado un valioso maletín de la caja de seguridad. Cuando el guardaespaldas del millonario regresa a la escena del crimen, se encuentra con tres testigos-sospechosos: el hijo del millonario, una joven aparentemente dulce y un mago bohemio. Los tres relatan las escenas del asesinato desde puntos de vista opuestos, cada uno con una versión diferente de quién cometió el crimen.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905231455 +0000" stop="20260906002033 +0000" channel="Djazz.es">
-<title>The Paris Reunion Band - Idris Muhammad, Curtis Fuller, Joe Henderson &amp; Kenny Drew</title>
-<sub-title></sub-title>
-<desc>La Paris Reunion Band se formó como homenaje a Kenny Clarke y al espíritu de sus compañeros jazzeros de París.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906002033 +0000" stop="20260906003000 +0000" channel="Djazz.es">
@@ -8934,18 +8916,6 @@
 <desc>- El mal negocio de la paz en Ucrania: ¿Qué buscan Putin y Trump de Zelensky? - Muchas razones por las que Canadá no se uniría nunca a Estados Unidos (y unas pocas por las que sí). - El plan de Trump para quedarse con el Canal de Panamá y el Golfo de México de una tacada. - Lo que Donald Trump quiere de Groenlandia: minerales, bases y el poder en el centro del Ártico</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260905221000 +0000" stop="20260905232000 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905232000 +0000" stop="20260906003500 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260906003500 +0000" stop="20260906015500 +0000" channel="ETB1.es">
 <title>Herri Txiki, Infernu Handi</title>
 <sub-title></sub-title>
@@ -9688,18 +9658,6 @@
 <title>Brinkola</title>
 <sub-title></sub-title>
 <desc>Brinkola es un pueblo que vive ajeno al mundo, no tiene ningún tipo de relación con nadie. Antes, el tren pasaba por allí pero desde que hicieron unas cocheras, la vida del pueblo desapareció. Las casas son antiguas, también las ropas y los peinados de sus habitantes.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905221000 +0000" stop="20260905231500 +0000" channel="ETB1ON.es">
-<title>Baskoniako historia bat</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905231500 +0000" stop="20260906011500 +0000" channel="ETB1ON.es">
-<title>ETB Kantxa</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906011500 +0000" stop="20260906022000 +0000" channel="ETB1ON.es">
@@ -10698,18 +10656,6 @@
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260905225000 +0000" stop="20260905235000 +0000" channel="ETB2.es">
-<title>Cine</title>
-<sub-title></sub-title>
-<desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905235000 +0000" stop="20260906004500 +0000" channel="ETB2.es">
-<title>Profesor T</title>
-<sub-title></sub-title>
-<desc>Tras el explosivo final de la temporada anterior, el profesor Jasper Tempest está encerrado en la cárcel. Ahora, tanto él como la inspectora Christina Brand deben tomar decisiones determinantes.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260906004500 +0000" stop="20260906013000 +0000" channel="ETB2.es">
 <title>Atrápame si puedes</title>
 <sub-title></sub-title>
@@ -11368,18 +11314,6 @@
 <title>Cine</title>
 <sub-title></sub-title>
 <desc>Cine</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905224500 +0000" stop="20260905235000 +0000" channel="ETB2ON.es">
-<title>Vascos por el mundo</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260905235000 +0000" stop="20260906005000 +0000" channel="ETB2ON.es">
-<title>Esto no es normal</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906005000 +0000" stop="20260906014500 +0000" channel="ETB2ON.es">
@@ -12672,12 +12606,6 @@
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260905234200 +0000" stop="20260906004200 +0000" channel="HistoriaYVida.es">
-<title>Nazis contra Masones: El Expolio de las Logias</title>
-<sub-title></sub-title>
-<desc>¿Por qué los nazis robaron los archivos de los masones franceses? Un drama geopolítico con toques esotéricos.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20260906004200 +0000" stop="20260906013800 +0000" channel="HistoriaYVida.es">
 <title>Espiando al ejército de Hitler</title>
 <sub-title></sub-title>
@@ -13757,18 +13685,6 @@
 <sub-title>Los Nazis más Buscados: Hermann Goering</sub-title>
 <desc>James reconstruye cómo Hermann Goering se convirtió en criminal de guerra psicópata en Segunda Guerra Mundial.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
-</programme>
-<programme start="20260905230000 +0000" stop="20260906000000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906000000 +0000" stop="20260906010000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906010000 +0000" stop="20260906020000 +0000" channel="MovieMusic.es">
 <title>Música de películas</title>
@@ -16306,12 +16222,6 @@
 <title>Muse - Live at Festival Rock Am Ring</title>
 <sub-title></sub-title>
 <desc>Rock Am Ring (Nürburgring), Rock Im Park (Núremberg) es un festival de música que se celebra anualmente en el hipódromo de Nürburgring, en el oeste de Alemania. En esta ocasión se presenta Muse.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906000000 +0000" stop="20260906014813 +0000" channel="RuntimeFamilia.es">
-<title>El Mejor Día Del Año</title>
-<sub-title></sub-title>
-<desc>El film narra el viaje inspirador y el cambio vital de un joven a través del misterioso Yellow Day. Para muchos, el Día Amarillo es simplemente un día divertido de celebración mientras que para otros tiene una carga más trascendental. Para este joven, el Yellow Day se convierte en una aventura imaginativa en el que encuentra sus verdaderos héroes, desafía a sus miedos y encuentra el amor.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260906014813 +0000" stop="20260906032801 +0000" channel="RuntimeFamilia.es">
@@ -21810,90 +21720,6 @@
 <desc>Recorremos los lugares más especiales de Andalucía conociendo historias emotivas y divertidas anécdotas.</desc>
 <episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20260905230000 +0000" stop="20260906004000 +0000" channel="A3Cine.uy">
-<title>Una palabra tuya</title>
-<sub-title></sub-title>
-<desc>Años de tropiezos y desilusiones han creado en Milagros y Rosario el temor de que no merecen ser felices. Ahora recorrerán dos trayectorias vitales. una hacia la nada más cruel, y la otra hacia un futuro expectante desde una vida redimida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906004000 +0000" stop="20260906022500 +0000" channel="A3Cine.uy">
-<title>Dieta mediterránea</title>
-<sub-title></sub-title>
-<desc>Sofía es una mujer que se enamora de dos hombres: con uno se casa y el otro se convierte en su amante. Con los dos llega a un acuerdo profesional y amoroso que revolucionará el mundo de la cocina.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906022500 +0000" stop="20260906041000 +0000" channel="A3Cine.uy">
-<title>Nubes de verano</title>
-<sub-title></sub-title>
-<desc>Comienza el verano, autopistas y carreteras comerciales que conducen a la Costa Brava. Todos quieren llegar pronto a las playas. Ana y su familia veranean allí desde hace años, pero cuando conoce a Robert y se involucra sentimentalmente, todo cambia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906041000 +0000" stop="20260906054500 +0000" channel="A3Cine.uy">
-<title>Juan y Junior... en un mundo diferente</title>
-<sub-title></sub-title>
-<desc>Dos extraterrestres intentan hacerse pasar por los cantantes de moda para hacerse con el control del planeta.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906054500 +0000" stop="20260906071000 +0000" channel="A3Cine.uy">
-<title>Furtivos</title>
-<sub-title></sub-title>
-<desc>Ángel &quot; el alimañero&quot; es un cazador furtivo que vive en el bosque con su madre, una mujer tiránica y violenta. En uno de sus escasos viajes a la ciudad, Ángel conoce a la joven Milagros, que huye del reformatorio. La lleva a su casa, y su madre, celosa, espera la ocasión para deshacerse de ella.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906071000 +0000" stop="20260906084000 +0000" channel="A3Cine.uy">
-<title>Aquí llega Condemor, el pecador de la pradera</title>
-<sub-title></sub-title>
-<desc>Por el salvaje Oeste viajan un conde francés, llamado Condemor, y su criado mejicano, Lucas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906084000 +0000" stop="20260906104500 +0000" channel="A3Cine.uy">
-<title>Los buenos días perdidos</title>
-<sub-title></sub-title>
-<desc>Lorenzo llega a un pueblo castellano con la ilusión de ser el nuevo guardia municipal. Allí se encontrará con antiguos compañeros, como Cleofás, que es el sacristán de la parroquia, y también conocerá a un nuevo amor que le cambiará la vida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906104500 +0000" stop="20260906121500 +0000" channel="A3Cine.uy">
-<title>Gran Slalom</title>
-<sub-title></sub-title>
-<desc>Un joven oficial de la Guardia Civil se traslada a una estación de esquí de los Pirineos en viaje de servicio. En el trayecto su coche tiene una avería y es recogido por una mujer que, casualmente, se alojará en el mismo hotel.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906121500 +0000" stop="20260906135500 +0000" channel="A3Cine.uy">
-<title>Utopía</title>
-<sub-title></sub-title>
-<desc>Adrián tiene la facultad de ver el futuro, sobre todo tragedias, como la de Ángela, una joven captada por una secta. Hervé, un ex policía, averigua la extraña muerte de su familia. Todos estos sucesos se unirán en una misteriosa red llamada Utopía.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906135500 +0000" stop="20260906154000 +0000" channel="A3Cine.uy">
-<title>Isla bonita</title>
-<sub-title></sub-title>
-<desc>A Fer (Fernando Colomo), un veterano y enamoradizo director publicitario venido a menos, lo invita su amigo Miguel Ángel (Miguel Ángel Furones) a su retiro dorado en la isla de Menorca. El problema es que la esposa de éste (Lilian Caro) también ha invitado a su madre y a sus sobrinos. Miguel Ángel no tiene más remedio que colocar a su amigo en casa de una atractiva escultora antisistema (Nuria Román) que vive en permanente conflicto con su hija adolescente (Olivia Delcán).</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906154000 +0000" stop="20260906171500 +0000" channel="A3Cine.uy">
-<title>Los años oscuros</title>
-<sub-title></sub-title>
-<desc>Itziar, de 8 años, vive en dos mundos diferentes. Por una parte el mundo de la represión y tristeza representado tanto por sus padres, nacionalistas vascos asustados y sin ilusiones tras la derrota en la Guerra Civil, como por el colegio de monjas donde estudia. El otro mundo es el de la calle, donde Itziar se siente cómoda y feliz. Pero una enfermedad hace que Itziar sea enviada a un internado lejos de sus amigos y de sus lugares preferidos. A su regreso, después de varios años, Itziar se vuelve a encontrar con su pueblo y seres queridos pero ya nada es lo mismo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906171500 +0000" stop="20260906193000 +0000" channel="A3Cine.uy">
-<title>Piedras</title>
-<sub-title></sub-title>
-<desc>Cinco mujeres recorren las calles de Madrid en busca de eliminar las piedras que aparecen en sus caminos, o peor aún, en sus zapatos. Ellas además están en busca de un príncipe azul y una nueva oportunidad. A través de sus zapatos, sin saberlo, se enlazarán cada una de sus vidas. Adela es la mujer de los pies planos, Leire es la de los tacones robados, Mari Carmen es la de las babuchas, Anita es de las zapatillas deportivas e Isabel es la de los zapatos pequeños.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906193000 +0000" stop="20260906210500 +0000" channel="A3Cine.uy">
-<title>Un burka por amor - Temp. 1 - Episodio 2</title>
-<sub-title></sub-title>
-<desc>Tras el intento de María de regresar a España por la frontera, ya con dos niños, pierden el dinero y los pasaportes. Refugiados en Kabul, piden ayuda al consulado y a su hermana Rosa.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260906210500 +0000" stop="20260906225500 +0000" channel="A3Cine.uy">
-<title>El perro del hortelano</title>
-<sub-title></sub-title>
-<desc>Diana, condesa de Belflor, es una joven perspicaz, impulsiva e inteligente. Está enamorada de Teodoro, su secretario, pero comprueba que éste ya está comprometido, movida por los celos y la envidia, intenta separarlo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260906225500 +0000" stop="20260907004000 +0000" channel="A3Cine.uy">
 <title>Extraños</title>
 <sub-title></sub-title>
@@ -22324,6 +22150,96 @@
 <title>Cuando vuelvas a mi lado</title>
 <sub-title></sub-title>
 <desc>Gloria, Ana y Lidia, inician un viaje a los lugares de su infancia siguiendo la última voluntad de la madre fallecida: entregar juntas sus cenizas a tres distintos destinatarios. La vuelta de las tres hermanas, que llevan años sin verse, a la casa en la que nacieron, les permite rememorar su pasado.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912021500 +0000" stop="20260912041000 +0000" channel="A3Cine.uy">
+<title>Luz de domingo</title>
+<sub-title></sub-title>
+<desc>En un pueblecito asturiano -Cienciella- la lucha entre dos bandos políticos, trae la desgracia a unos seres bondadosos e ingenuos: la pareja formada por Urbano y Estrella.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912041000 +0000" stop="20260912055000 +0000" channel="A3Cine.uy">
+<title>Las cartas de Alou</title>
+<sub-title></sub-title>
+<desc>Un grupo de africanos llega clandestinamente a las costas del sur de España. Entre ellos, está Alou, un senegalés de 28 años. Como en Almería le roban todas sus pertenencias, no tiene más remedio que dedicarse a la venta ambulante. Su único placer son las cartas que escribe a su familia para contarles las peripecias de su aventura española.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912055000 +0000" stop="20260912073500 +0000" channel="A3Cine.uy">
+<title>Mientras haya luz</title>
+<sub-title></sub-title>
+<desc>Jorge, un arqueólogo que ha vivido fuera de España durante varios años, llega a Madrid y empieza a hacer indagaciones sobre el paradero de Jaime, un profesor de arqueología que ha desaparecido repentinamente y del que nadie parece saber nada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912073500 +0000" stop="20260912092000 +0000" channel="A3Cine.uy">
+<title>Diario de una becaria</title>
+<sub-title></sub-title>
+<desc>Adaptación de la novela del mismo título de Nacho Abad. Ana consigue trabajo como becaria en la emisora de radio CCN durante el verano. Nada más entrar se pone de manifiesto lo tirano que son los jefes con los recién llegados y cuanto tienen que aguantar los pobres aprendices para conseguir un contrato profesional al final de las prácticas. Ana liderara con inteligencia y humor la rebelión de los becarios, consiguiendo estos, en muchas ocasiones reirse de los jefes. Así surgiran el amor, los celos, la fiesta...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912092000 +0000" stop="20260912105500 +0000" channel="A3Cine.uy">
+<title>Martes de carnaval</title>
+<sub-title></sub-title>
+<desc>Un escritor frustrado necesitado de dinero y apurado por su editor, regresa a la casa de su infancia, en Galicia, en busca de inspiración para escribir un libro. Su dependencia del alcohol le hace tener extraños sueños que le trasladan a un Martes de Carnaval de hace medio siglo, cuando era un adolescente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912105500 +0000" stop="20260912111500 +0000" channel="A3Cine.uy">
+<title>Cortometraje</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912111500 +0000" stop="20260912123000 +0000" channel="A3Cine.uy">
+<title>El gordo: una historia verdadera</title>
+<sub-title></sub-title>
+<desc>Miniserie de 2 episodios sobre la vida de una humilde familia española, que, gracias al azar, gana 18 millones de euros en un sorteo de lotería.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912123000 +0000" stop="20260912141000 +0000" channel="A3Cine.uy">
+<title>Usted puede ser un asesino</title>
+<sub-title></sub-title>
+<desc>Durante un fin de año en París, dos amigos envían a sus respectivas esposas a su casa de campo para echar una canita al aire. Por azar se ven implicados en el asesinato de un hombre que pretendía chantajear a uno de ellos.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912141000 +0000" stop="20260912155000 +0000" channel="A3Cine.uy">
+<title>Vámonos Barbara</title>
+<sub-title></sub-title>
+<desc>Ana, de 40 años y proveniente de una familia burguesa, decide separarse de su marido, que casi siempre trabaja en el extranjero. Ahora ella quiere cambiar de vida y vivir libre y sin ataduras, por lo que, no duda en hacer las maletas y junto con su hija de 12 años, empiezan su aventura con unas vacaciones en la playa.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912155000 +0000" stop="20260912173000 +0000" channel="A3Cine.uy">
+<title>Así en el cielo como en la Tierra</title>
+<sub-title></sub-title>
+<desc>Dios decide enviar a su otro hijo a la tierra para salvar al mundo. Jesucristo no está conforme, pues en ese caso la historia debería ser escrita de nuevo. Para solventar la controversia deciden organizar el Apocalipsis.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912173000 +0000" stop="20260912193000 +0000" channel="A3Cine.uy">
+<title>Noche de verano</title>
+<sub-title></sub-title>
+<desc>Retrato de varias parejas relacionadas entre sí, y la evolución que se produce en ellas, en el periodo de tiempo que transcurre entre dos verbenas de San Juan en la Barcelona de los años sesenta.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912193000 +0000" stop="20260912211000 +0000" channel="A3Cine.uy">
+<title>A los que aman</title>
+<sub-title></sub-title>
+<desc>Una vez fue médico, pero abandono su carrera, y prácticamente todo lo demás. Su vida estuvo marcada por su amor a Matilde, que siempre quiso a otro. Ahora, anciano, relata la historia de un joven precisamente sobrino de Matilde.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912211000 +0000" stop="20260912224000 +0000" channel="A3Cine.uy">
+<title>Corazón de bombón</title>
+<sub-title></sub-title>
+<desc>Luis es un tipo con suerte y que, además, sabe montárselo. Guapo y simpático, pasa por escritor, aunque en realidad escriba bien poco. Evidente, tiene éxito con las mujeres, tanto, que es mantenido por una de ellas.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260912224000 +0000" stop="20260913004000 +0000" channel="A3Cine.uy">
+<title>Los años bárbaros</title>
+<sub-title></sub-title>
+<desc>Madrid, 1947. Tomás y Jaime, universitarios e integrantes de la resistencia antifranquista, son detenidos y condenados a ocho años de prisión al ser descubiertos haciendo pintadas en la Facultad de Filosofía y Letras. Cumplen condena en el Valle de los Caídos, desde donde planean su huída a Francia.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260913004000 +0000" stop="20260913021500 +0000" channel="A3Cine.uy">
+<title>El próximo oriente</title>
+<sub-title></sub-title>
+<desc>Caín es un hombre poco carismático y sin suerte en el amor. Su hermano Abel es sexy pero casado y con dos hijas. Cuando Abel deja embarazada a Aisha, una vecina hija de inmigrantes musulmanes, Caín se adjudica la paternidad y asume las consecuencias. Cinta que obtuvo una nominación al premio Goya para Javier Cifrián como mejor actor revelación.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 </tv>
