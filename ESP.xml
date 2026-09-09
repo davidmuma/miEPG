@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
 <channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
@@ -24,6 +23,7 @@
 <channel id="SinFiltros.es"><display-name>Sin Filtros.es</display-name><icon src="https://images.open-epg.com/5111.png"/></channel>
 <channel id="Trailers.es"><display-name>Trailers.es</display-name><icon src="https://images.open-epg.com/5154.png"/></channel>
 <channel id="ViajesYSabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/x2059.png"/></channel>
+<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <programme start="20260908100000 +0000" stop="20260908103000 +0000" channel="Daystar.ar">
 <title>Jentezen Franklin</title>
 <sub-title></sub-title>
@@ -2194,12 +2194,6 @@
 <title>Show de la fe</title>
 <sub-title>Episodio: Lo que Dios quiere</sub-title>
 <desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907220000 +0000" stop="20260908001400 +0000" channel="StingrayiConcerts.at">
-<title>Peter Gabriel: Growing Up Live in Italy</title>
-<sub-title></sub-title>
-<desc>Peter Gabriel: Growing Up Live in Italy</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908001400 +0000" stop="20260908004600 +0000" channel="StingrayiConcerts.at">
@@ -4926,18 +4920,6 @@
 <desc>Ricardo y María Patricia Rodríguez del Centro Mundial de Avivamiento en Bogotá, Colombia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907233000 +0000" stop="20260908000000 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908003000 +0000" stop="20260908010000 +0000" channel="Actualidad360.es">
 <title>Noticias en 30 minutos</title>
 <sub-title></sub-title>
@@ -6420,12 +6402,6 @@
 <desc>Las claves informativas para entender la actualidad del día.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907220000 +0000" stop="20260908010000 +0000" channel="CanalParlamento.es">
-<title>Canal Parlamentario</title>
-<sub-title></sub-title>
-<desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908010000 +0000" stop="20260908040000 +0000" channel="CanalParlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -6580,12 +6556,6 @@
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
 <desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907223623 +0000" stop="20260908004629 +0000" channel="CineFriki.es">
-<title>Asalto al Cine</title>
-<sub-title></sub-title>
-<desc>Unos jóvenes en México planean un atraco a un cine, sin saber que sus vidas van a cambiar drásticamente tras el crimen.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908004629 +0000" stop="20260908033002 +0000" channel="CineFriki.es">
@@ -7126,12 +7096,6 @@
 <title>El joven detective Dee</title>
 <sub-title></sub-title>
 <desc>China, año 665 d.C. La dinastía Tang está siendo amenazada por el reino coreano de Buyeo. Por ello, se envían barcos de guerra como advertencia. Sin embargo, la flota queda reducida a cenizas antes de llegar a su destino, supuestamente por el ataque del Dragón del Mar. La emperatriz ordena resolver el misterio de la desaparición de la flota de forma inmediata. El joven Dee llega ese mismo día para ocupar un puesto en el Departamento de Justicia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907235952 +0000" stop="20260908005115 +0000" channel="Djazz.es">
-<title>Live in Liège - Charles Mingus, Eric Dolphy, Jaki Byard, Dannie Richmond &amp; Johnny Coles</title>
-<sub-title></sub-title>
-<desc>Charles Mingus presenta un concierto excepcional realizado en abril de 1965 con la siguiente formación: Jaki Byard (piano), Dannie Richmond (batería), Johnny Coles (trompeta), Clifford Jordan (saxofón tenor) y el gran Eric Dolphy (saxofón alto, flauta y clarinete bajo).</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908005115 +0000" stop="20260908010000 +0000" channel="Djazz.es">
@@ -10392,24 +10356,6 @@
 <desc>Los &apos;Rambos&apos; de Papúa Nueva Guinea: cómo las armas y el cine cambiaron las guerras tribales - Gun Nation: el controvertido derecho a las armas en Estados Unidos.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907220100 +0000" stop="20260907225000 +0000" channel="ETB1.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Programa de cocina que ofrece una manera diferente de disfrutar de la gastronomía de Euskal Herria y de sus fiestas. En cada edición, Joseba Arguiñano recibe a un invitado en su plató y comentan todas las curiosidades de la receta que elaboran.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907225000 +0000" stop="20260907235200 +0000" channel="ETB1.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Maddalen Arzallusek eta Xabier Sukiak aurkeztutako saioa. Gaurkotasuna eta gai sozialak jorratzeaz gain, egunero protagonista bat izango dute, eta kolaboratzaile zerrenda luzea.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907235200 +0000" stop="20260908003700 +0000" channel="ETB1.es">
-<title>Wazemank 2.0</title>
-<sub-title></sub-title>
-<desc>Programa de humor que refleja las inquietudes de la sociedad euskaldun mediante personajes y situaciones cómicas. Este espacio está compuesto por variados gags ágiles que parodian programas y series de ETB. &apos;&apos;Wazemank&apos;&apos; está presentado y protagonizado por Anjel Alkain.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908003700 +0000" stop="20260908012200 +0000" channel="ETB1.es">
 <title>Wazemank 2.0</title>
 <sub-title></sub-title>
@@ -11242,18 +11188,6 @@
 <title>Pilota: ETB Kantxa</title>
 <sub-title></sub-title>
 <desc>Emisión de un partido de pelota vasca.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907222000 +0000" stop="20260907230500 +0000" channel="ETB1ON.es">
-<title>Joseba Arguiñano Sukalerrian</title>
-<sub-title></sub-title>
-<desc>Música</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907230500 +0000" stop="20260908014000 +0000" channel="ETB1ON.es">
-<title>Zure Bizitzako Kontzertua. Gatibu</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908014000 +0000" stop="20260908024500 +0000" channel="ETB1ON.es">
@@ -12378,18 +12312,6 @@
 <desc>Ocio y Aficiones</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907220900 +0000" stop="20260907231900 +0000" channel="ETB2.es">
-<title>El Club del Tupper</title>
-<sub-title></sub-title>
-<desc>Javi Sierra invita todas las semanas a tres personajes famosos a competir entre ellos en los fogones. Cada participante elabora una receta y no conoce contra quién compite hasta el final, cuando se produzca el encuentro de todos los invitados en el Club del Tupper.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907231900 +0000" stop="20260908003700 +0000" channel="ETB2.es">
-<title>Euskadi quédate</title>
-<sub-title></sub-title>
-<desc>Odei Esnaola conduce un nuevo programa de corte más informativo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908003700 +0000" stop="20260908013500 +0000" channel="ETB2.es">
 <title>Esto no es normal</title>
 <sub-title></sub-title>
@@ -12940,24 +12862,6 @@
 <title>La otra cara</title>
 <sub-title></sub-title>
 <desc>Programa de reportajes de telerrealidad que busca lo realmente auténtico a través de sus protagonistas. Cada semana nos invita a un recorrido por Euskal Herria buscando las historias y los personajes más curiosos.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907220000 +0000" stop="20260907230000 +0000" channel="ETB2ON.es">
-<title>La otra cara</title>
-<sub-title></sub-title>
-<desc>Documentales</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907230000 +0000" stop="20260908000000 +0000" channel="ETB2ON.es">
-<title>Vascos por el mundo</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908000000 +0000" stop="20260908010500 +0000" channel="ETB2ON.es">
-<title>Esto no es normal</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908010500 +0000" stop="20260908025500 +0000" channel="ETB2ON.es">
@@ -14118,12 +14022,6 @@
 <desc>Documentales</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907234800 +0000" stop="20260908004000 +0000" channel="HistoriaYVida.es">
-<title>Los Nazis más Buscados</title>
-<sub-title>Los Nazis más Buscados: Albert Speer</sub-title>
-<desc>James está decidido a revelar la magnitud total de los crímenes de Albert Speer.</desc>
-<episode-num system="xmltv_ns">0.4.</episode-num>
-</programme>
 <programme start="20260908004000 +0000" stop="20260908013300 +0000" channel="HistoriaYVida.es">
 <title>Los Nazis más Buscados</title>
 <sub-title>Los Nazis más Buscados: Adolf Eichmann</sub-title>
@@ -15041,18 +14939,6 @@
 <sub-title>Rompiendo el Código: El Código de la Mafia</sub-title>
 <desc>Descubre los códigos más famosos del mundo, cómo fueron descifrados y qué misterios escondían.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260907230000 +0000" stop="20260908000000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908000000 +0000" stop="20260908010000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908010000 +0000" stop="20260908020000 +0000" channel="MovieMusic.es">
 <title>Música de películas</title>
@@ -16043,12 +15929,6 @@
 <sub-title></sub-title>
 <desc>Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907230000 +0000" stop="20260908010000 +0000" channel="NOWRock.es">
-<title>The Ultimate Rock Mixtape!</title>
-<sub-title></sub-title>
-<desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20260908010000 +0000" stop="20260908030000 +0000" channel="NOWRock.es">
 <title>High Voltage Hits!</title>
@@ -17088,12 +16968,6 @@
 <desc>El galardonado Michael Caton-Jones (Chacal, Disparando a perros) dirige esta película protagonizada por Shirley Henderson (24 Hour Party People, El diario de Bridget Jones), Ian Hart (Michael Collins, Tierra y Libertad) y Letitia Wright.“URBAN HYMN” es un drama musical que parte de las revueltas que se sucedieron en 2011 para contar la historia de una trabajadora social empeñada en devolverle la ilusión a una chica rebelde y descarriada, que posee una voz extraordinaria.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907220000 +0000" stop="20260908005909 +0000" channel="QelloConcerts.es">
-<title>David Gilmour - Remember That Night</title>
-<sub-title></sub-title>
-<desc>David Gilmour - Remember That Night: Live at the Royal Albert Hall es grabado por el guitarrista David Gilmour donde presenta pistas en vivo del álbum On an Island y algunos éxitos de su antigua banda Pink Floyd.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908005909 +0000" stop="20260908010300 +0000" channel="QelloConcerts.es">
 <title>Lo mejor de Qello Concerts</title>
 <sub-title></sub-title>
@@ -17728,18 +17602,6 @@
 <title>Live in Hyde Park</title>
 <sub-title></sub-title>
 <desc>London Calling: Live in Hyde Park es un video del concierto de Bruce Springsteen y la E Street Band durante el festival de música Hard Rock Calling en Hyde Park, Londres, el 28 de junio de 2009.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260907223055 +0000" stop="20260908000000 +0000" channel="RuntimeFamilia.es">
-<title>P3K: Pinocho 3000</title>
-<sub-title></sub-title>
-<desc>Año 3000. Gepetto es un brillante inventor del pueblo de Scamboville que crea a Pinocho: un pequeño robot con personalidad de niño de verdad. Pinocho (alegre, imaginativo, curioso, pero también testarudo e inocente) está dispuesto a todo para lograr su sueño: convertirse en un niño de verdad.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908000000 +0000" stop="20260908013849 +0000" channel="RuntimeFamilia.es">
-<title>Peter Pan: En El Mundo de Nunca Jamás</title>
-<sub-title></sub-title>
-<desc>Nueva y mágica versión de las aventuras de Peter Pan, Campanilla, el Capitán Garfio, Wendy, Michael, John… El país de Nunca Jamás corre un gran peligro a manos del Capitán Garfio. ¿Cumplirá Peter Pan la profecía y salvará al país de Nunca Jamás? ¡Únete a Peter Pan y a sus amigos en sus aventuras!</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260908013849 +0000" stop="20260908020949 +0000" channel="RuntimeFamilia.es">
@@ -21888,12 +21750,6 @@
 <desc>Nos hemos acostumbrado a compartir el espacio urbano con ellos. Han convertido nuestras calles y plazas en un gigantesco escenario y forman parte ya de nuestra vida cotidiana. Son los artistas callejeros, que nos arrancan una sonrisa desde cualquier rincón. Pero detrás de cada personaje hay una historia que merece ser contada.Raúl es uno de los mejores magos del mundo en la especialidad de calle. Después de llenar teatros por todo el mundo, le pueden ver a diario en la Puerta del Sol de Madrid. Manuel se disfraza de muñeco para sobrevivir, pero su pasión es la pintura. ‘Spiderman’ atrapa turistas en la Plaza Mayor para pagar la carrera de sus hijos. En ocasiones están ahí por necesidad, pero a veces por puro placer o porque la calle, por dura que pueda parecer, es el lugar perfecto para desarrollar su actividad. Sin ella, su vida no tendría sentido.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260907231700 +0000" stop="20260908002500 +0000" channel="Trailers.es">
-<title>Estamos Rodando</title>
-<sub-title>Estamos Rodando: Errementari &amp; Faisanen Irla, de Antoñana a Irun</sub-title>
-<desc>Jon se desplaza a Antoñana: el pueblo protagonista de &apos;Errementari&apos;, y a Irún, donde se rodó &apos;La isla Faisán&apos;.</desc>
-<episode-num system="xmltv_ns">0.2.</episode-num>
-</programme>
 <programme start="20260908002500 +0000" stop="20260908020700 +0000" channel="Trailers.es">
 <title>Amo la Cocina</title>
 <sub-title></sub-title>
@@ -22661,12 +22517,6 @@
 <sub-title></sub-title>
 <desc>Un arquitecto ayuda a una joven sin hogar a cruzar el océano en una balsa.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260907235400 +0000" stop="20260908002600 +0000" channel="ViajesYSabores.es">
-<title>Destino Andalucía</title>
-<sub-title>Destino Andalucía Ep.229: Acebuchal de Málaga e Iznájar en Córdoba.</sub-title>
-<desc>Descubrimos la riqueza que hace de Andalucía un destino de viaje inolvidable.</desc>
-<episode-num system="xmltv_ns">0.228.</episode-num>
 </programme>
 <programme start="20260908002600 +0000" stop="20260908005800 +0000" channel="ViajesYSabores.es">
 <title>Destino Andalucía</title>
@@ -23544,90 +23394,6 @@
 <desc>Recorremos los lugares más especiales de Andalucía conociendo historias emotivas y divertidas anécdotas.</desc>
 <episode-num system="xmltv_ns">0.13.</episode-num>
 </programme>
-<programme start="20260907225000 +0000" stop="20260908004000 +0000" channel="A3Cine.uy">
-<title>La venganza</title>
-<sub-title></sub-title>
-<desc>Un hombre sale de la cárcel tras cumplir una condena de 10 años por un homicidio que no cometió. Regresa a su pueblo natal y junto con su hermana tratan de encontrar al autor del crimen. Pero algo lo hará cambiar: su hermana se enamora apasionadamente del hombre que buscan.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908004000 +0000" stop="20260908022500 +0000" channel="A3Cine.uy">
-<title>La carta esférica</title>
-<sub-title></sub-title>
-<desc>Coy, un marinero desterrado del mar por un accidente de navegación conoce en Barcelona a una mujer atractiva y misteriosa, Tanger, que en dura pugna con un aventurero italiano consigue hacerse con una joya cartográfica: el Atlas Marítimo de Urrutia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908022500 +0000" stop="20260908041000 +0000" channel="A3Cine.uy">
-<title>La mirada violeta</title>
-<sub-title></sub-title>
-<desc>Tal vez Violeta conoció al hombre perfecto demasiado pronto. Está enamorada de Ari, su pareja, pero le es infiel. Violeta es joven, tiene toda la vida por delante. Aún no ha decidido si dejar las esporádicas traducciones de las que vive o empezar a trabajar en una editorial, con un horario estable y un sueldo fijo. Ari da clases en un instituto y aspira a ser novelista, aunque hasta el momento este sueño le haya ofrecido su cara más amarga, como la cerveza que bebe para luchar contra su esterilidad creativa. Desde luego, la vida es mejorable, pero son felices juntos. O eso parece...</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908041000 +0000" stop="20260908055500 +0000" channel="A3Cine.uy">
-<title>Tánger</title>
-<sub-title></sub-title>
-<desc>Abdul Kader Torres, marroquí hijo de un español, Ricardo &quot;Richi&quot; Torres, comisario de la extinta brigada político social, se instala en Madrid para llevar el negocio de su padre, una pequeña empresa y cobros a morosos. Todo marcha bien, pero las cosas se tuercen, desaparece el dinero de la empresa y Abdul descubre las conexiones con un diputado de la derecha, y de este con una banda de neonazis que ha cometido varios crimenes. Abdul se acerca a Lidia, novia de su padre, para conseguir información y termina seducido y enamorado. La policía esta tras la pista de Leo, ex-marido de Lidia...</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908055500 +0000" stop="20260908073000 +0000" channel="A3Cine.uy">
-<title>Juan y Junior... en un mundo diferente</title>
-<sub-title></sub-title>
-<desc>Dos extraterrestres intentan hacerse pasar por los cantantes de moda para hacerse con el control del planeta.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908073000 +0000" stop="20260908090500 +0000" channel="A3Cine.uy">
-<title>Memorias del ángel caído</title>
-<sub-title></sub-title>
-<desc>Durante una ceremonia religiosa un grupo de feligreses muere envenenado tras comulgar. Mientras la policía investiga lo sucedido, los sacerdotes empiezan a tener extrañas alucinaciones.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908090500 +0000" stop="20260908113000 +0000" channel="A3Cine.uy">
-<title>Lágrimas negras</title>
-<sub-title></sub-title>
-<desc>Tras una velada con su novia Alicia, Andrés es atracado en la calle por dos jóvenes mujeres. Intentando buscar una explicación a este acto de violencia, conoce a una de las atracadoras, Isabel.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908113000 +0000" stop="20260908130000 +0000" channel="A3Cine.uy">
-<title>Una bala para el Rey. Parte 2</title>
-<sub-title></sub-title>
-<desc>En el verano de 1995, ETA tiene todo dispuesto para que un francotirador dispare contra el Rey Juan Carlos I en Palma de Mallorca. Los preparativos comienzan un año y medio antes, en Francia. Un veterano integrante de ETA, acude a sucesivas reuniones con la cúpula de la organización terrorista para preparar el atentado. La Policía Española, en colaboración con la Francesa vigila sus movimiento..</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908130000 +0000" stop="20260908144000 +0000" channel="A3Cine.uy">
-<title>Una palabra tuya</title>
-<sub-title></sub-title>
-<desc>Años de tropiezos y desilusiones han creado en Milagros y Rosario el temor de que no merecen ser felices. Ahora recorrerán dos trayectorias vitales. una hacia la nada más cruel, y la otra hacia un futuro expectante desde una vida redimida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908144000 +0000" stop="20260908162000 +0000" channel="A3Cine.uy">
-<title>En un mundo nuevo</title>
-<sub-title></sub-title>
-<desc>Karina llega como institutriz a una casa cuyos niños pertenecen al conjunto musical &quot;La Pandilla&quot;. Ella imparte sus clases cantando y los promotores de este conjunto la propondrán para asistir al Festival de Eurovisión.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908162000 +0000" stop="20260908174000 +0000" channel="A3Cine.uy">
-<title>Tormenta. El experimento</title>
-<sub-title></sub-title>
-<desc>El experimento desemboca en una especie de régimen castrense, en el que la inteligencia y el talento se erigen como únicos valores. Los profesores pierden el control de la situación y los dos grupos acaban enfrentándose.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908174000 +0000" stop="20260908194000 +0000" channel="A3Cine.uy">
-<title>Los años bárbaros</title>
-<sub-title></sub-title>
-<desc>Madrid, 1947. Tomás y Jaime, universitarios e integrantes de la resistencia antifranquista, son detenidos y condenados a ocho años de prisión al ser descubiertos haciendo pintadas en la Facultad de Filosofía y Letras. Cumplen condena en el Valle de los Caídos, desde donde planean su huída a Francia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908194000 +0000" stop="20260908213000 +0000" channel="A3Cine.uy">
-<title>Memorias del general Escobar</title>
-<sub-title></sub-title>
-<desc>Un guardia civil civil tiene que decidir entre su posición y sus convicciones en la guerra civil española, poniéndolo en una encrucijada.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260908213000 +0000" stop="20260908230500 +0000" channel="A3Cine.uy">
-<title>Los años oscuros</title>
-<sub-title></sub-title>
-<desc>Itziar, de 8 años, vive en dos mundos diferentes. Por una parte el mundo de la represión y tristeza representado tanto por sus padres, nacionalistas vascos asustados y sin ilusiones tras la derrota en la Guerra Civil, como por el colegio de monjas donde estudia. El otro mundo es el de la calle, donde Itziar se siente cómoda y feliz. Pero una enfermedad hace que Itziar sea enviada a un internado lejos de sus amigos y de sus lugares preferidos. A su regreso, después de varios años, Itziar se vuelve a encontrar con su pueblo y seres queridos pero ya nada es lo mismo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260908230500 +0000" stop="20260909004000 +0000" channel="A3Cine.uy">
 <title>Perdona, bonita, pero Lucas me quería a mí</title>
 <sub-title></sub-title>
@@ -24070,6 +23836,90 @@
 <title>Las trece rosas</title>
 <sub-title></sub-title>
 <desc>Al término de la Guerra Civil trece jóvenes españolas fueron encarceladas. Ellas pensaban que saldrían libres tras unos cuantos años, pero un atentado contra un franquista cambió su destino.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914024500 +0000" stop="20260914042500 +0000" channel="A3Cine.uy">
+<title>Pepe Guindo</title>
+<sub-title></sub-title>
+<desc>Un viejo actor de reconocido prestigio interpreta un monólogo sobre la vida de un anciano músico fracasado: Pepe Guindo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914042500 +0000" stop="20260914060000 +0000" channel="A3Cine.uy">
+<title>Mi tío Jacinto</title>
+<sub-title></sub-title>
+<desc>Jacinto es un hombre que quiso ser un torero famoso, pero nunca pasó de ser un mediocre novillero. En la actualidad vive miserablemente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914060000 +0000" stop="20260914075000 +0000" channel="A3Cine.uy">
+<title>GAL</title>
+<sub-title></sub-title>
+<desc>Cuando el grupo Vasco ETA vivía su etapa más cruel y agresiva, en España surgió un grupo antiterrorista que entre 1983 y 1987 se dedico a contraatacar a los etarras.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914075000 +0000" stop="20260914093000 +0000" channel="A3Cine.uy">
+<title>Mejor que nunca</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914093000 +0000" stop="20260914113000 +0000" channel="A3Cine.uy">
+<title>La montaña rusa</title>
+<sub-title></sub-title>
+<desc>Una mujer y dos hombres, amigos de la infancia, vuelven a encontrarse y forman un triángulo donde el sexo y el amor se entrelazan en complicadas y divertidas combinaciones.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914113000 +0000" stop="20260914125500 +0000" channel="A3Cine.uy">
+<title>Cuba libre</title>
+<sub-title></sub-title>
+<desc>Un grupo de okupas, tras ser desalojados de su centro kultural, entra en la Embajada de Cuba en Madrid al mismo tiempo que Fidel Castro anuncia las primeras elecciones libres... y ya la hemos liado.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914125500 +0000" stop="20260914143000 +0000" channel="A3Cine.uy">
+<title>Hormigas en la boca</title>
+<sub-title></sub-title>
+<desc>Martín pasó diez años en una cárcel española después de asaltar un banco. Cuando recupera su libertad, viaja a La Habana para buscar a la mujer que lo traicionó y escapó con el dinero. Cuba en 1958 es un país en plena convulsión política y encontrarla es una tarea casi imposible.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914143000 +0000" stop="20260914160500 +0000" channel="A3Cine.uy">
+<title>Black story. La historia negra de Peter P. Peter</title>
+<sub-title></sub-title>
+<desc>Pedro es un exitoso novelista que escribe policiales bajo el seudónimo de Peter P. Peter. Después de enviudar, se casa con Beatriz, quien también es viuda reciente. Su nueva vida de casado resulta ser un infierno, ya que su esposa le hace la vida imposible y él se ha enamorado locamente de su secretaria Carlota. La experiencia que le han dado sus novelas lo lleva a tramar un plan para envenenar a su nueva esposa, pero ella también planea matarlo para casarse con Jerónimo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914160500 +0000" stop="20260914174500 +0000" channel="A3Cine.uy">
+<title>Una palabra tuya</title>
+<sub-title></sub-title>
+<desc>Años de tropiezos y desilusiones han creado en Milagros y Rosario el temor de que no merecen ser felices. Ahora recorrerán dos trayectorias vitales. una hacia la nada más cruel, y la otra hacia un futuro expectante desde una vida redimida.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914174500 +0000" stop="20260914193000 +0000" channel="A3Cine.uy">
+<title>Dieta mediterránea</title>
+<sub-title></sub-title>
+<desc>Sofía es una mujer que se enamora de dos hombres: con uno se casa y el otro se convierte en su amante. Con los dos llega a un acuerdo profesional y amoroso que revolucionará el mundo de la cocina.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914193000 +0000" stop="20260914211500 +0000" channel="A3Cine.uy">
+<title>Isla bonita</title>
+<sub-title></sub-title>
+<desc>A Fer (Fernando Colomo), un veterano y enamoradizo director publicitario venido a menos, lo invita su amigo Miguel Ángel (Miguel Ángel Furones) a su retiro dorado en la isla de Menorca. El problema es que la esposa de éste (Lilian Caro) también ha invitado a su madre y a sus sobrinos. Miguel Ángel no tiene más remedio que colocar a su amigo en casa de una atractiva escultora antisistema (Nuria Román) que vive en permanente conflicto con su hija adolescente (Olivia Delcán).</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914211500 +0000" stop="20260914225500 +0000" channel="A3Cine.uy">
+<title>Rosa Rosae</title>
+<sub-title></sub-title>
+<desc>Dos amigas del colegio se reencuentran mucho tiempo después tras años sin haber mantenido ningún tipo de contacto. Una es una burguesa insatisfecha de su vida acomodada. La otra una bohemia nada materialista que practica el esoterismo.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260914225500 +0000" stop="20260915004000 +0000" channel="A3Cine.uy">
+<title>Gary Cooper, que estás en los cielos</title>
+<sub-title></sub-title>
+<desc>Una mujer cercana a los cuarenta años ha supeditado siempre las cuestiones personales y amorosas al éxito profesional y ahora es una cotizada realizadora de televisión de carácter decidido y hasta agresivo. Sin embargo, una enfermedad de importancia la obliga a repasar todo su planteamiento vital: el trabajo, la familia, las amistades, los hombres, provocándole una crisis psicológica y emocional que la empujará a tomar una decisión drástica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260915004000 +0000" stop="20260915023000 +0000" channel="A3Cine.uy">
+<title>Al sur de Granada</title>
+<sub-title></sub-title>
+<desc>Gerald se traslada a un pequeño pueblo de España. Allí conoce a la bella Juliana y prepara un plan para conquistarla. En su búsqueda descubre una plenitud del amor físico que, por su educación victoriana, nunca llegó a imaginar.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 </tv>
