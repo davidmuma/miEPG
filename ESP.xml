@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
 <channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
@@ -24,6 +23,7 @@
 <channel id="SinFiltros.es"><display-name>Sin Filtros.es</display-name><icon src="https://images.open-epg.com/5111.png"/></channel>
 <channel id="Trailers.es"><display-name>Trailers.es</display-name><icon src="https://images.open-epg.com/5154.png"/></channel>
 <channel id="ViajesYSabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/x2059.png"/></channel>
+<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <programme start="20260920100000 +0000" stop="20260920103000 +0000" channel="Daystar.ar">
 <title>Adoración en casa</title>
 <sub-title></sub-title>
@@ -2140,12 +2140,6 @@
 <title>Show de la fe</title>
 <sub-title>Episodio: Justica, gracia y reconciliación</sub-title>
 <desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919235400 +0000" stop="20260920003500 +0000" channel="StingrayiConcerts.at">
-<title>Pet Shop Boys: Live at Roskilde 2009</title>
-<sub-title></sub-title>
-<desc>Pet Shop Boys: Live at Roskilde 2009</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260920003500 +0000" stop="20260920010000 +0000" channel="StingrayiConcerts.at">
@@ -4890,18 +4884,6 @@
 <desc>Ventana informativa en donde se podrán ver testimonios, avances y noticias sobre la cadena de televisión Enlace y la actualidad mundial, además de entrevistas con invitados especiales.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260919233000 +0000" stop="20260920000000 +0000" channel="Actualidad360.es">
-<title>Claves del día</title>
-<sub-title></sub-title>
-<desc>Las claves informativas para entender la actualidad del día.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920000000 +0000" stop="20260920003000 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920003000 +0000" stop="20260920010000 +0000" channel="Actualidad360.es">
 <title>Claves del día</title>
 <sub-title></sub-title>
@@ -6648,12 +6630,6 @@
 <desc>Las claves informativas para entender la actualidad del día.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260919220000 +0000" stop="20260920010000 +0000" channel="CanalParlamento.es">
-<title>Canal Parlamentario</title>
-<sub-title></sub-title>
-<desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920010000 +0000" stop="20260920040000 +0000" channel="CanalParlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -6808,12 +6784,6 @@
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
 <desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919224107 +0000" stop="20260920011720 +0000" channel="CineFriki.es">
-<title>El joven detective Dee</title>
-<sub-title></sub-title>
-<desc>China, año 665 d.C. La dinastía Tang está siendo amenazada por el reino coreano de Buyeo. Por ello, se envían barcos de guerra como advertencia. Sin embargo, la flota queda reducida a cenizas antes de llegar a su destino, supuestamente por el ataque del Dragón del Mar. La emperatriz ordena resolver el misterio de la desaparición de la flota de forma inmediata. El joven Dee llega ese mismo día para ocupar un puesto en el Departamento de Justicia.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260920011720 +0000" stop="20260920032848 +0000" channel="CineFriki.es">
@@ -7354,12 +7324,6 @@
 <title>El valle Oscuro</title>
 <sub-title></sub-title>
 <desc>Un jinete solitario llega a un remoto y aislado pueblo de los Alpes austríacos, donde, a pesar de no ser bienvenido, se le permite quedarse antes del duro invierno. Se presenta como un fotógrafo de Estados Unidos, pero nadie sospecha que el misterioso extranjero ha llegado al valle para cumplir una venganza. La violencia flota en el aire en este pueblo de leñadores, dominado por un viejo clan familiar que impone sus leyes, aterrorizando a sus habitantes.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919235957 +0000" stop="20260920004310 +0000" channel="Djazz.es">
-<title>Estival Lugano 1985 - Miriam Makeba, J.K. Naimro, Stanley Todd &amp; Al Sanders</title>
-<sub-title></sub-title>
-<desc>La sudafricana Miriam Makeba, también llamada Mamá África, fue una cantante, actriz, embajadora de buena voluntad de las Naciones Unidas y activista por los derechos civiles. Llevó la música africana al público occidental y popularizó los géneros de música del mundo y afropop.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260920004310 +0000" stop="20260920010000 +0000" channel="Djazz.es">
@@ -10602,24 +10566,6 @@
 <desc>¿Puede Trump comprar Groenlandia? Así lo hizo EEUU en el pasado y así podría (o no) ahora - Mónaco y su nuevo barrio flotante de 2500 millones de euros solo para superricos - Todos quieren un &apos;data center&apos;: así son las trituradoras de energía que dan vida a la IA - ¿Ha combatido Ucrania para nada? Putin gana sin vencer y Trump condena a Europa</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260919221500 +0000" stop="20260919224500 +0000" channel="ETB1.es">
-<title>Area Txikia</title>
-<sub-title></sub-title>
-<desc>Programa deportivo que incluye resúmenes de fútbol.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919224500 +0000" stop="20260919235500 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919235500 +0000" stop="20260920010000 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920010000 +0000" stop="20260920015000 +0000" channel="ETB1.es">
 <title>Wazemank</title>
 <sub-title></sub-title>
@@ -11388,12 +11334,6 @@
 <desc>Maddalen Arzallusek eta Xabier Sukiak aurkeztutako saioa. Gaurkotasuna eta gai sozialak jorratzeaz gain, egunero protagonista bat izango dute, eta kolaboratzaile zerrenda luzea.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920000000 +0000" stop="20260920005000 +0000" channel="ETB1ON.es">
-<title>Mihiluze</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920005000 +0000" stop="20260920020500 +0000" channel="ETB1ON.es">
 <title>Herri Txiki, Infernu Handi</title>
 <sub-title></sub-title>
@@ -11698,18 +11638,6 @@
 <title>Linbo</title>
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919224500 +0000" stop="20260919234000 +0000" channel="ETB2.es">
-<title>Downton Abbey</title>
-<sub-title></sub-title>
-<desc>La familia Crawley, perteneciente a la alta burguesía inglesa de 1912, está ocupada en encontrar el heredero de su fortuna entre su familia y buscar marido a sus hijas. En el sótano de su mansión conviven paralelamente sus sufridos mayordomos y sirvientes.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919234000 +0000" stop="20260920002500 +0000" channel="ETB2.es">
-<title>Downton Abbey</title>
-<sub-title></sub-title>
-<desc>La familia Crawley, perteneciente a la alta burguesía inglesa de 1912, está ocupada en encontrar el heredero de su fortuna entre su familia y buscar marido a sus hijas. En el sótano de su mansión conviven paralelamente sus sufridos mayordomos y sirvientes.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260920002500 +0000" stop="20260920011500 +0000" channel="ETB2.es">
@@ -12713,12 +12641,6 @@
 <sub-title></sub-title>
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919234800 +0000" stop="20260920004000 +0000" channel="HistoriaYVida.es">
-<title>Los Nazis más Buscados</title>
-<sub-title>Los Nazis más Buscados: Albert Speer</sub-title>
-<desc>James está decidido a revelar la magnitud total de los crímenes de Albert Speer.</desc>
-<episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
 <programme start="20260920004000 +0000" stop="20260920013200 +0000" channel="HistoriaYVida.es">
 <title>Los Nazis más Buscados</title>
@@ -13782,18 +13704,6 @@
 <desc>La guerra domina los cielos: radar y armas de Hitler impulsan la carrera por derrotar al enemigo en el aire.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20260919230000 +0000" stop="20260920000000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920000000 +0000" stop="20260920010000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920010000 +0000" stop="20260920020000 +0000" channel="MovieMusic.es">
 <title>Música de películas</title>
 <sub-title></sub-title>
@@ -14795,18 +14705,6 @@
 <sub-title></sub-title>
 <desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919220000 +0000" stop="20260920000000 +0000" channel="NOWRock.es">
-<title>Karaoke Crushers!</title>
-<sub-title></sub-title>
-<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260920000000 +0000" stop="20260920020000 +0000" channel="NOWRock.es">
-<title>Eat, Sleep, Rock, Repeat!</title>
-<sub-title></sub-title>
-<desc>Non stop riffs and anthems that will have you rockin&apos; all day long!</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20260920020000 +0000" stop="20260920040000 +0000" channel="NOWRock.es">
 <title>Killer Rock Floorfillers!</title>
@@ -15918,12 +15816,6 @@
 <desc>Basada en hechos reales, UN GOLPE A LA INGLESA traslada a la gran pantalla la historia de cuatro delincuentes del East End londinense, liderados por Brian Reader (de 76 años) y un hombre misterioso cuya identidad nunca se desvela, que aprovecharon las festividades de Semana Santa para llevar a cabo el mayo​r atraco de la historia inglesa. Perseguidos por la mafia húngara y Scotland Yard, estos ladrones de pelo blanco lograron lo imposible: taladrar un depósito de seguridad de acero y hormigón en Hatton Garden, el barrio de las joyerías de Londres. Pero, ¿será el golpe del siglo o tanta osadía les saldrá cara?</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260919220000 +0000" stop="20260920003654 +0000" channel="QelloConcerts.es">
-<title>Orion Festival: Tour Through the Never</title>
-<sub-title></sub-title>
-<desc>Este concierto, filmado en Orion Festival, Atlantic City, le brinda a los fans, de principio a fin, una experiencia en vivo sin igual. Metallica deleita al público con una versión inolvidable de sus éxitos &apos;One&apos;, &apos;Master Of Puppets&apos;, &apos;Sad But True&apos;, &apos;Seek And Destroy&apos; y muchos más.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920003654 +0000" stop="20260920024704 +0000" channel="QelloConcerts.es">
 <title>Live in London 2012</title>
 <sub-title></sub-title>
@@ -16570,18 +16462,6 @@
 <title>Live in London 2014</title>
 <sub-title></sub-title>
 <desc>El iTunes Festival es un festival anual de música que se lleva a cabo en Londres a lo largo de un mes. Está patrocinado por Apple Inc. y tuvo su primera edición en 2007.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260919233009 +0000" stop="20260920000000 +0000" channel="RuntimeFamilia.es">
-<title>La Vuelta Al Mundo De Willy Fog</title>
-<sub-title>La Vuelta Al Mundo De Willy Fog - Aventura en la pagoda</sub-title>
-<desc>El Mongolia llega a Bombay habiendo recuperado el tiempo perdido. Fog y los demás bajan del barco y éste envía a Rigodón y a Tico a comprar comida. Dix y Buly les siguen. Transfer (disfrazado de Willy Fog) dice a Rigodón que el tren se retrasará una hora. Dix y Buly ven como Transfer roba una manzana y le arrestan. Transfer se escapa corriendo y perdiendo su disfraz.</desc>
-<episode-num system="xmltv_ns">0.5.</episode-num>
-</programme>
-<programme start="20260920000000 +0000" stop="20260920013757 +0000" channel="RuntimeFamilia.es">
-<title>Las Aventuras del Pequeno Colon</title>
-<sub-title></sub-title>
-<desc>Una animación familiar que sigue a tres jóvenes amigos (Cristóbal Colón, Leonardo da Vinci y Mona Lisa) en una emocionante búsqueda de un tesoro escondido en la misteriosa isla de Brasil. Con ingenio, valentía y sorprendentes inventos, se enfrentan a múltiples desafíos mientras la historia, la magia y la aventura se entrelazan.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260920013757 +0000" stop="20260920020910 +0000" channel="RuntimeFamilia.es">
@@ -21168,12 +21048,6 @@
 <desc>En España existe una realidad inquietante, según el Plan Nacional sobre Drogas, medio millón de adolescentes se emborrachan cada mes. Por edad, no pueden comprar bebidas alcohólicas, pero la realidad es que las consiguen sin problemas “Te vas a cualquier chino y te la venden y a cualquier hora”, nos cuentan.En el reportaje comprobamos si es cierto lo que aseguran. Para ello, colocamos una cámara oculta a dos niñas de 14 años y elegimos un establecimiento de alimentación al azar. Para nuestra sorpresa, les venden la bebida sin pedirle ningún tipo de documentación.La poca percepción del riesgo les lleva a realizar prácticas muy peligrosas: beben por la vagina, por el ano y por el ojo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260919224700 +0000" stop="20260920002600 +0000" channel="Trailers.es">
-<title>Papá o mamá 2</title>
-<sub-title></sub-title>
-<desc>Han pasado dos años desde su divorcio. La aparición de nuevos amores hace estallar la vida apacible.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20260920002600 +0000" stop="20260920022300 +0000" channel="Trailers.es">
 <title>Vatel</title>
 <sub-title></sub-title>
@@ -21941,12 +21815,6 @@
 <sub-title></sub-title>
 <desc>El director de uno de los mejores coros infantiles del mundo descubre un gran talento en un niño huérfano.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260919232700 +0000" stop="20260920011300 +0000" channel="ViajesYSabores.es">
-<title>A Toda Costa</title>
-<sub-title>A Toda Costa Ep.2: Sanlúcar de Guadiana, Chipiona, La Herradura y Nerja.</sub-title>
-<desc>Recorremos los lugares más especiales de Andalucía conociendo historias emotivas y divertidas anécdotas.</desc>
-<episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
 <programme start="20260920011300 +0000" stop="20260920024700 +0000" channel="ViajesYSabores.es">
 <title>A Toda Costa</title>
@@ -22938,96 +22806,6 @@
 <desc>Recorremos los lugares más especiales de Andalucía conociendo historias emotivas y divertidas anécdotas.</desc>
 <episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20260919231000 +0000" stop="20260920004000 +0000" channel="A3Cine.uy">
-<title>El Bola</title>
-<sub-title></sub-title>
-<desc>El Bola es un chico de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado, le incapacita para relacionarse. La llegada de un nuevo compañero al colegio, con quien descubre la amistad, le dará fuerzas para aceptar y enfrentar su realidad.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920004000 +0000" stop="20260920021500 +0000" channel="A3Cine.uy">
-<title>Nacida para ganar</title>
-<sub-title></sub-title>
-<desc>La vida parece anclada en el tiempo para Encarna en Móstoles: el mismo trabajo desde la adolescencia, el mismo novio, y pocas perspectivas de que la cosa pueda cambiar. Al reencontrarse con María Dolores, su inseparable amiga en el instituto, su vida da un vuelco. Ella le propone entrar en un negocio revolucionario de venta piramidal que la hará rica en muy poco tiempo y la convertirá en la persona que siempre ha querido ser.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920021500 +0000" stop="20260920035500 +0000" channel="A3Cine.uy">
-<title>La vida alegre</title>
-<sub-title></sub-title>
-<desc>Ana empieza a trabajar como médica en un centro de enfermedades de transmisión sexual a pesar de la oposición de su marido Antonio, también médico y asesor del ministro de Sanidad. En el centro, Ana entra en contacto con una serie de personajes marginales que acuden a su consulta.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920035500 +0000" stop="20260920053000 +0000" channel="A3Cine.uy">
-<title>El apartamento de la tentación</title>
-<sub-title></sub-title>
-<desc>Tres parejas cambian de pareja en una compleja combinación de sus miembros y terminarán juntos en un departamento.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920053000 +0000" stop="20260920072000 +0000" channel="A3Cine.uy">
-<title>En septiembre</title>
-<sub-title></sub-title>
-<desc>Antiguos alumnos del colegio vuelven a reunirse en el vigésimo aniversario de su centro de enseñanza. Entre sus recuerdos figura una excursión en bicicleta a la sierra de Guadarrama. Ahora, deciden revivirla.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920072000 +0000" stop="20260920083500 +0000" channel="A3Cine.uy">
-<title>El gordo: una historia verdadera. Parte 2</title>
-<sub-title></sub-title>
-<desc>Una familia humilde española que sufre problemas económicos es agraciada con 18 millones de euros en un sorteo de la Primitiva. Pero el dinero no da la felicidad y tendrán algunos conflictos.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920083500 +0000" stop="20260920101000 +0000" channel="A3Cine.uy">
-<title>Duerme, duerme, mi amor</title>
-<sub-title></sub-title>
-<desc>Harto de las peleas conyugales, un hombre decide suministrar un fuerte somnífero a su esposa sumiéndola en un profundo sueño. A partir de ese momento, podrá dedicarse a conquistar a su atractiva vecina. O al menos eso cree él.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920101000 +0000" stop="20260920110000 +0000" channel="A3Cine.uy">
-<title>Cortometraje</title>
-<sub-title></sub-title>
-<desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920110000 +0000" stop="20260920125500 +0000" channel="A3Cine.uy">
-<title>Feroz</title>
-<sub-title></sub-title>
-<desc>Cansadas de su vida rutinaria, dos adolescentes, las hermanas Ginger y Brigitte, buscan algo nuevo. Sin embargo, van a encontrar mucho más de lo que deseaban cuando Ginger es atacada por un animal feroz que le provoca una profunda metamorfosis.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920125500 +0000" stop="20260920143500 +0000" channel="A3Cine.uy">
-<title>Pajarico</title>
-<sub-title></sub-title>
-<desc>Manu, que acaba de cumplir diez años, hace su primer viaje a Murcia. Rodeado de huertas, mar, naturaleza y una exuberante y cálida familia, descubrirá su primer amor y los primeros signos de su vida como adulto.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920143500 +0000" stop="20260920161500 +0000" channel="A3Cine.uy">
-<title>El vientre de Juliette</title>
-<sub-title></sub-title>
-<desc>Juliette tiene veinte años. Ella se queda embarazada pero Matías, el padre, se siente demasiado joven para asumir su paternidad. Juliette decide tener al bebé a despecho de todo el mundo. No es solo Matías quien se opone a este acontecimiento. También se opone su madre, Julia, antigua niña-estrella, nerviosa y cleptómana, quien quiere conservara su hija para sí misma. También Fabienne, la hermana mayor de Juliette, especie de segunda madre y que quiere apropiarse de este embarazo encontrando para su hermana pequeña un marido digna de ella... Y luego está el padre fantasma, ese padre que Juliette jamás conoció y del cual se dice que abandonó a su hija al nacer. Hasta el día en que Juliette descubre, a medida que avanza su embarazo y de los encuentros que ella provoca, que en su familia nadie dice la verdad, y que su padre, como Matías y como todos los hombres en general, no es el miserable que ella creía...</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920161500 +0000" stop="20260920174500 +0000" channel="A3Cine.uy">
-<title>Aquí llega Condemor, el pecador de la pradera</title>
-<sub-title></sub-title>
-<desc>Por el salvaje Oeste viajan un conde francés, llamado Condemor, y su criado mejicano, Lucas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920174500 +0000" stop="20260920192500 +0000" channel="A3Cine.uy">
-<title>Cuando vuelvas a mi lado</title>
-<sub-title></sub-title>
-<desc>Gloria, Ana y Lidia, inician un viaje a los lugares de su infancia siguiendo la última voluntad de la madre fallecida: entregar juntas sus cenizas a tres distintos destinatarios. La vuelta de las tres hermanas, que llevan años sin verse, a la casa en la que nacieron, les permite rememorar su pasado.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920192500 +0000" stop="20260920210000 +0000" channel="A3Cine.uy">
-<title>Mataharis</title>
-<sub-title></sub-title>
-<desc>Inés, Eva y Carmen trabajan como detectives privados en una agencia de Madrid. Están acostumbradas a inmiscuirse en la vida de los otros, aunque pronto verán como el trabajo influye en sus propias vidas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920210000 +0000" stop="20260920225000 +0000" channel="A3Cine.uy">
-<title>Secretos del corazón</title>
-<sub-title></sub-title>
-<desc>Javi se siente atraído por una habitación que siempre estuvo cerrada: la sala donde encontraron muerto a su padre. Allí se puede oír las voces de los muertos y el niño decide investigar las historias de esas personas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260920225000 +0000" stop="20260921004000 +0000" channel="A3Cine.uy">
 <title>La carta esférica</title>
 <sub-title></sub-title>
@@ -23476,6 +23254,96 @@
 <title>La Celestina</title>
 <sub-title></sub-title>
 <desc>El joven noble Calisto se enamora de Melibea, la hija de un rico mercader. El sirviente de Calisto sugiere que busquen a la hechicera Celestina para que el romance se desarrolle.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926022000 +0000" stop="20260926035500 +0000" channel="A3Cine.uy">
+<title>Lázaro de Tormes</title>
+<sub-title></sub-title>
+<desc>Lázaro no es aquí el tradicional personaje español, sino un hombre casado que cuando más feliz se encuentra, siente que el agrietado aparato de la justicia se cierne sobre sus hombros. Se defiende ante un tribunal de Toledo, alegando que durante su vida, lo único que pretendía era comer, ilustrando su defensa con múltiples anécdotas y correrías.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926035500 +0000" stop="20260926054500 +0000" channel="A3Cine.uy">
+<title>Sagitario</title>
+<sub-title></sub-title>
+<desc>La vida de dos amigos maduros, Rosa y Jaime, quienes nacieron bajo el signo de Sagitario, se cruza con un joven repartidor de pizzas, mostrando el tremendo vacío de un Madrid actual donde cabe todo el horóscopo humano.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926054500 +0000" stop="20260926073500 +0000" channel="A3Cine.uy">
+<title>La Lola se va a los puertos</title>
+<sub-title></sub-title>
+<desc>Don Diego y su hijo, José Luis, se enamoran de una cantaora. Por amor a ella se enfrentarán a muerte.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926073500 +0000" stop="20260926085500 +0000" channel="A3Cine.uy">
+<title>20-N: Los últimos días de Franco</title>
+<sub-title></sub-title>
+<desc>Crónica de la prolongada y artificial agonía a la que fue sometido Francisco Franco, dictador de España desde el fin de la Guerra Civil (1936-1939) hasta su muerte el 20 de noviembre de 1975. El relato se construye a partir del punto de vista de distintas personas cercanas al Caudillo, su familia y el equipo médico que lo atendió.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926085500 +0000" stop="20260926104500 +0000" channel="A3Cine.uy">
+<title>La mirada violeta</title>
+<sub-title></sub-title>
+<desc>Tal vez Violeta conoció al hombre perfecto demasiado pronto. Está enamorada de Ari, su pareja, pero le es infiel. Violeta es joven, tiene toda la vida por delante. Aún no ha decidido si dejar las esporádicas traducciones de las que vive o empezar a trabajar en una editorial, con un horario estable y un sueldo fijo. Ari da clases en un instituto y aspira a ser novelista, aunque hasta el momento este sueño le haya ofrecido su cara más amarga, como la cerveza que bebe para luchar contra su esterilidad creativa. Desde luego, la vida es mejorable, pero son felices juntos. O eso parece...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926104500 +0000" stop="20260926110500 +0000" channel="A3Cine.uy">
+<title>Cortometraje</title>
+<sub-title></sub-title>
+<desc></desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926110500 +0000" stop="20260926122500 +0000" channel="A3Cine.uy">
+<title>Tormenta. El experimento</title>
+<sub-title></sub-title>
+<desc>El experimento desemboca en una especie de régimen castrense, en el que la inteligencia y el talento se erigen como únicos valores. Los profesores pierden el control de la situación y los dos grupos acaban enfrentándose.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926122500 +0000" stop="20260926140500 +0000" channel="A3Cine.uy">
+<title>El puente de la paz</title>
+<sub-title></sub-title>
+<desc>Los caciques de dos pueblos rivales separados por un río acuerdan construir un puente que unos ambos pueblos y comenzar a limar las asperezas que otros años habían tenido. La construcción supondrá una tarea ardua, ya que ninguno de los dos ha contado con la opinión del propietario de las tierras donde se iba a construir el puente.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926140500 +0000" stop="20260926155000 +0000" channel="A3Cine.uy">
+<title>Gary Cooper, que estás en los cielos</title>
+<sub-title></sub-title>
+<desc>Una mujer cercana a los cuarenta años ha supeditado siempre las cuestiones personales y amorosas al éxito profesional y ahora es una cotizada realizadora de televisión de carácter decidido y hasta agresivo. Sin embargo, una enfermedad de importancia la obliga a repasar todo su planteamiento vital: el trabajo, la familia, las amistades, los hombres, provocándole una crisis psicológica y emocional que la empujará a tomar una decisión drástica.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926155000 +0000" stop="20260926172500 +0000" channel="A3Cine.uy">
+<title>Éxtasis</title>
+<sub-title></sub-title>
+<desc>Tres jóvenes que aman el riesgo y duermen a la intemperie, se juramentan para robar a sus familias y vivir de la estafa. Ellos son Rober (Javier Bardem), Max (Daniel Guzmán) y Ara (Leire Berrocal).</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926172500 +0000" stop="20260926190000 +0000" channel="A3Cine.uy">
+<title>Un ángel pasó por Brooklyn</title>
+<sub-title></sub-title>
+<desc>Todos los emigrantes italianos, recién llegados a Nueva York, viven en un edificio en el barrio de Brooklyn. Todos unidos mantienen un lazo de unión con su antigua patria, al poder seguir con sus ancestrales costumbres.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926190000 +0000" stop="20260926204500 +0000" channel="A3Cine.uy">
+<title>Diario de una becaria</title>
+<sub-title></sub-title>
+<desc>Adaptación de la novela del mismo título de Nacho Abad. Ana consigue trabajo como becaria en la emisora de radio CCN durante el verano. Nada más entrar se pone de manifiesto lo tirano que son los jefes con los recién llegados y cuanto tienen que aguantar los pobres aprendices para conseguir un contrato profesional al final de las prácticas. Ana liderara con inteligencia y humor la rebelión de los becarios, consiguiendo estos, en muchas ocasiones reirse de los jefes. Así surgiran el amor, los celos, la fiesta...</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926204500 +0000" stop="20260926223000 +0000" channel="A3Cine.uy">
+<title>Mientras haya luz</title>
+<sub-title></sub-title>
+<desc>Jorge, un arqueólogo que ha vivido fuera de España durante varios años, llega a Madrid y empieza a hacer indagaciones sobre el paradero de Jaime, un profesor de arqueología que ha desaparecido repentinamente y del que nadie parece saber nada.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927004000 +0000" channel="A3Cine.uy">
+<title>Las trece rosas</title>
+<sub-title></sub-title>
+<desc>Al término de la Guerra Civil trece jóvenes españolas fueron encarceladas. Ellas pensaban que saldrían libres tras unos cuantos años, pero un atentado contra un franquista cambió su destino.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20260927004000 +0000" stop="20260927021500 +0000" channel="A3Cine.uy">
+<title>La noche que mi madre mató a mi padre</title>
+<sub-title></sub-title>
+<desc>Isabel es una actriz en sus cuarenta años de edad, incapaz de obtener nuevos papeles para películas o teatros, ya que los directores buscan mujeres más jóvenes. Está casada con el neurótico Ángel, un guionista que está trabajando en su próximo proyecto de cine con Susana, su productora y ex esposa. Después de que Isabel, Ángel, Susana y Carlos, el primer esposo de Isabel, envían a sus respectivos hijos a una excursión escolar, Isabel acepta organizar en su casa una cena de negocios para Diego, un importante actor argentino que negocia su participación en la película. Durante la cena, Carlos aparece de repente con una joven llamada Álex, anunciando su próxima boda y mudándose a Brasil. Pero cuando poco tiempo después Carlos muere inesperadamente, Ángel y Susana sospechan de la culpabilidad de Isabel, comenzando una serie de eventos cada vez más enloquecidos, a lo largo de una larga noche donde las sorpresas parecen no tener fin.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 </tv>
