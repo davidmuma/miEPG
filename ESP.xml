@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
 <channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
@@ -24,6 +23,7 @@
 <channel id="Trailers.es"><display-name>Trailers.es</display-name><icon src="https://images.open-epg.com/5154.png"/></channel>
 <channel id="ViajesYSabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/x2059.png"/></channel>
 <channel id="StingrayiConcerts.at"><display-name>Stingray iConcerts.at</display-name><icon src="https://images.open-epg.com/12857278.png"/></channel>
+<channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <programme start="20260921100000 +0000" stop="20260921103000 +0000" channel="Daystar.ar">
 <title>Jentezen Franklin</title>
 <sub-title></sub-title>
@@ -2158,12 +2158,6 @@
 <title>Show de la fe</title>
 <sub-title>Episodio: Dios puede saciar la sed</sub-title>
 <desc></desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920233600 +0000" stop="20260921003100 +0000" channel="StingrayiConcerts.at">
-<title>The Lumineers: Live At Musilac 2017</title>
-<sub-title></sub-title>
-<desc>The Lumineers: Live At Musilac 2017</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921003100 +0000" stop="20260921010000 +0000" channel="StingrayiConcerts.at">
@@ -4896,18 +4890,6 @@
 <desc>Ventana informativa en donde se podrán ver testimonios, avances y noticias sobre la cadena de televisión Enlace y la actualidad mundial, además de entrevistas con invitados especiales.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920233000 +0000" stop="20260921000000 +0000" channel="Actualidad360.es">
-<title>Claves del día</title>
-<sub-title></sub-title>
-<desc>Las claves informativas para entender la actualidad del día.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921000000 +0000" stop="20260921003000 +0000" channel="Actualidad360.es">
-<title>Noticias en 30 minutos</title>
-<sub-title></sub-title>
-<desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260921003000 +0000" stop="20260921010000 +0000" channel="Actualidad360.es">
 <title>Claves del día</title>
 <sub-title></sub-title>
@@ -6354,12 +6336,6 @@
 <desc>Las claves informativas para entender la actualidad del día.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920220000 +0000" stop="20260921010000 +0000" channel="CanalParlamento.es">
-<title>Canal Parlamentario</title>
-<sub-title></sub-title>
-<desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260921010000 +0000" stop="20260921040000 +0000" channel="CanalParlamento.es">
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
@@ -6514,12 +6490,6 @@
 <title>Canal Parlamentario</title>
 <sub-title></sub-title>
 <desc>Según el orden del día, emisión de las comparecencias programadas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920222514 +0000" stop="20260921003451 +0000" channel="CineFriki.es">
-<title>Yatterman</title>
-<sub-title></sub-title>
-<desc>La hermosa y ultra sexy Doronjo y sus malvados esbirros, sedientos de dinero, fama y poder, intentan recuperar los pedazos de una legendaria piedra con poderes misteriosos. Pero sus planes se verán interrumpidos por Gan, Ai y su fiel perro robot gigante, quienes iniciarán una frenética carrera contrarreloj para impedir que la gema caiga en manos de los villanos.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921003451 +0000" stop="20260921022316 +0000" channel="CineFriki.es">
@@ -7066,12 +7036,6 @@
 <title>JCVD</title>
 <sub-title></sub-title>
 <desc>Jean-Claude Van Damme sufre una profunda crisis personal. Inmerso en una batalla legal por recuperar la custodia de su hija, a los 47 años su carrera está muy lejos de los días de gloria. Desesperado y con problemas económicos, regresa a su país natal, Bélgica, donde todavía mantiene su condición de estrella. Aquí se verá involucrado en el atraco a una oficina de correos, con toma de rehenes incluida.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920234457 +0000" stop="20260921004931 +0000" channel="Djazz.es">
-<title>Singer Concertzaal, Laren - Modern Jazz Quartet</title>
-<sub-title></sub-title>
-<desc>En 1969, el Modern Jazz Quartet se presentó en el Singer Concertzaal de Laren para la televisión holandesa. Compuesto por Milt Jackson en el vibráfono, John Lewis en el piano, Percy Heath en el bajo y Connie Kay en la batería, el cuarteto toca con elegancia y estilo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921004931 +0000" stop="20260921010000 +0000" channel="Djazz.es">
@@ -10254,18 +10218,6 @@
 <desc>- &quot;Así planea China crear la ciudad más grande del mundo que doblará la población de Tokio. - La guerra del Ártico: la vía comercial que enfrenta a China, Rusia y Estados Unidos. - ¿Por qué ningún país consigue presionar a Arabia Saudí? - Robos de agua y vacas alimentadas por helicópteros. Así Suiza se enfrenta al deshielo de los Alpes&quot;.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920224500 +0000" stop="20260920234500 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920234500 +0000" stop="20260921010000 +0000" channel="ETB1.es">
-<title>Herri Txiki, Infernu Handi</title>
-<sub-title></sub-title>
-<desc>Mikel Pagadi y Zuhaitz Gurrutxaga emprenden un viaje a través de los pueblos pequeños de Euskal Herria para conocer a sus habitantes y la forma de vida del lugar. Además, finalizarán cada edición con un monólogo que relatará su experiencia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260921010000 +0000" stop="20260921014500 +0000" channel="ETB1.es">
 <title>Wazemank</title>
 <sub-title></sub-title>
@@ -11068,18 +11020,6 @@
 <title>Bad Education</title>
 <sub-title></sub-title>
 <desc>Alfie es el peor maestro que nunca ha tenido el sistema educativo británico; es como si fuese un niño más. El director de la escuela, Fraser, lamentablemente anhela ser tan cool como Alfie.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920220000 +0000" stop="20260920220900 +0000" channel="ETB1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920220900 +0000" stop="20260921032500 +0000" channel="ETB1ON.es">
-<title>Biba zuek!</title>
-<sub-title></sub-title>
-<desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921032500 +0000" stop="20260921042800 +0000" channel="ETB1ON.es">
@@ -12708,12 +12648,6 @@
 <desc>Entretenimiento</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920224000 +0000" stop="20260921001500 +0000" channel="ETB2.es">
-<title>Basura o tesoro</title>
-<sub-title></sub-title>
-<desc>Iñaki Urrutia presenta este concurso en el que una pareja se enfrenta a un escaparate con doce objetos diferentes de los que, solo uno de ellos, es un auténtico tesoro valorado en 5.000 euros.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260921001500 +0000" stop="20260921011000 +0000" channel="ETB2.es">
 <title>La otra cara</title>
 <sub-title></sub-title>
@@ -13366,24 +13300,6 @@
 <title>Una historia de Vasconia</title>
 <sub-title></sub-title>
 <desc>Serie documental que recorre y recrea distintos acontecimientos históricos del pasado de Euskadi, desde la prehistoria hasta la actualidad. Cada entrega aporta un punto de vista crítico de la historia del pueblo vasco acompañado de imágenes de la geografía del país.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920220000 +0000" stop="20260920223000 +0000" channel="ETB2ON.es">
-<title>Kirolak ETB2</title>
-<sub-title></sub-title>
-<desc>Deportes</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920223000 +0000" stop="20260920232500 +0000" channel="ETB2ON.es">
-<title>El Club del Tupper</title>
-<sub-title></sub-title>
-<desc>Ocio y Aficiones</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920232500 +0000" stop="20260921004500 +0000" channel="ETB2ON.es">
-<title>Euskadi quédate</title>
-<sub-title></sub-title>
-<desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921004500 +0000" stop="20260921015000 +0000" channel="ETB2ON.es">
@@ -14586,12 +14502,6 @@
 <desc>Información</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920232800 +0000" stop="20260921001900 +0000" channel="HistoriaYVida.es">
-<title>Los Nazis más Buscados</title>
-<sub-title>Los Nazis más Buscados: Hermann Goering</sub-title>
-<desc>James reconstruye cómo Hermann Goering se convirtió en criminal de guerra psicópata en Segunda Guerra Mundial.</desc>
-<episode-num system="xmltv_ns">0.2.</episode-num>
-</programme>
 <programme start="20260921001900 +0000" stop="20260921011200 +0000" channel="HistoriaYVida.es">
 <title>Los Nazis más Buscados</title>
 <sub-title>Los Nazis más Buscados: Karl Donitz</sub-title>
@@ -15491,18 +15401,6 @@
 <sub-title>La Segunda Guerra Mundial en Dron: Batalla por los Cielos</sub-title>
 <desc>La guerra domina los cielos: radar y armas de Hitler impulsan la carrera por derrotar al enemigo en el aire.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
-</programme>
-<programme start="20260920230000 +0000" stop="20260921000000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="MovieMusic.es">
-<title>Música de películas</title>
-<sub-title></sub-title>
-<desc>La maestría sinfónica se fusiona con la magia cinematográfica en las películas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260921010000 +0000" stop="20260921020000 +0000" channel="MovieMusic.es">
 <title>Música de películas</title>
@@ -16493,12 +16391,6 @@
 <sub-title></sub-title>
 <desc>Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920230000 +0000" stop="20260921010000 +0000" channel="NOWRock.es">
-<title>The Rock Hall Of Fame!</title>
-<sub-title></sub-title>
-<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
 <programme start="20260921010000 +0000" stop="20260921030000 +0000" channel="NOWRock.es">
 <title>Big Fat Rock Hits!</title>
@@ -17526,12 +17418,6 @@
 <desc>Yuki pertenece a un grupo de guerreros mercenarios, los Takemikazuchi, largamente empleados por el actual gobierno para vencer a la facción rebelde contrarios a su política déspota. Esta banda de samurais modernos se rige por un sólido código del honor mas cercano a las antiguas ordenes feudales que a una organización pseudo-criminal. Yuki, descendiente directa de la rama consanguínea de los fundadores del clan descubrirá que su madre fue asesinada por el actual dirigente del mismo cuando intentó poner fin a las maniobras de sus miembros. Consciente de ello Yuki se volverá contra sus camaradas y tendrá que liberarse de sus deberes para ser libre.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920234848 +0000" stop="20260921023449 +0000" channel="QelloConcerts.es">
-<title>Live From The O2 Arena London</title>
-<sub-title></sub-title>
-<desc>Mira esta megaproducción de los Guns N&apos; Roses cuando tocaron en vivo en el O2 Arena, con sus seguidores cantando y vibrando en cada canción. Incluye Paradise City, Sweet Child O&apos; Mine, November Rain y muchos más.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20260921023449 +0000" stop="20260921024955 +0000" channel="QelloConcerts.es">
 <title>Lo mejor de Qello Concerts</title>
 <sub-title></sub-title>
@@ -18149,18 +18035,6 @@
 <sub-title></sub-title>
 <desc>Mira a Carrie Underwood tocar en vivo en el Apple Music Festival. Una experiencia musical única, no solo para los fanáticos del Roundhouse, sino también para aficionados de todo el mundo.</desc>
 <episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260920220351 +0000" stop="20260921000000 +0000" channel="RuntimeFamilia.es">
-<title>Una joya de perro</title>
-<sub-title></sub-title>
-<desc>Un valiente niño se enfrenta a una banda de ladrones torpes para rescatar a un perro que lleva una fortuna en diamantes robados.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921000000 +0000" stop="20260921002709 +0000" channel="RuntimeFamilia.es">
-<title>David El Gnomo</title>
-<sub-title>David El Gnomo - La Nina Italiana</sub-title>
-<desc>El Rey de la Corte de los Gnomos llama a David pues sabe que sólo sus conocimientos médicos pueden salvar a una pequeña enferma, por culpa de un hombre. Pero el remedio es una lejana y rara flor... y son numerosos los peligros que acechan a quienes parten en su busca. ¿Logrará David salvar la vida de la niña?</desc>
-<episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
 <programme start="20260921002709 +0000" stop="20260921014948 +0000" channel="RuntimeFamilia.es">
 <title>Mi amigo Berni</title>
@@ -22416,12 +22290,6 @@
 <desc>La situación de la prensa venezolana está entre las principales preocupaciones de la sociedad, las agresiones a los periodistas aumentan cada vez más. Trabajar en un medio de comunicación se ha convertido en un riesgo que muchos viven a diario.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20260920233700 +0000" stop="20260921013700 +0000" channel="Trailers.es">
-<title>The Book of Love</title>
-<sub-title></sub-title>
-<desc>Un arquitecto ayuda a una joven sin hogar a cruzar el océano en una balsa.</desc>
-<episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20260921013700 +0000" stop="20260921033400 +0000" channel="Trailers.es">
 <title>Lucky Luke</title>
 <sub-title></sub-title>
@@ -23147,12 +23015,6 @@
 <sub-title></sub-title>
 <desc>Pierre Durand se dedica al salto de obstáculos. Su apuesta es un joven caballo en que nadie tiene gran fe.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20260920232900 +0000" stop="20260921002100 +0000" channel="ViajesYSabores.es">
-<title>Nueva Vida Bajo el Sol</title>
-<sub-title>Nueva Vida Bajo el Sol: El café de Mike y Craig</sub-title>
-<desc>Británicos dejan el Reino Unido para empezar de cero y abrir nuevos negocios en España, Italia o Portugal.</desc>
-<episode-num system="xmltv_ns">7.13.</episode-num>
 </programme>
 <programme start="20260921002100 +0000" stop="20260921005300 +0000" channel="ViajesYSabores.es">
 <title>Cómetelo</title>
@@ -24029,96 +23891,6 @@
 <sub-title>A Toda Costa Ep.9: Marbella, Motril, Hornachuelos y Sanlúcar de Barrameda.</sub-title>
 <desc>Recorremos los lugares más especiales de Andalucía conociendo historias emotivas y divertidas anécdotas.</desc>
 <episode-num system="xmltv_ns">0.8.</episode-num>
-</programme>
-<programme start="20260920225000 +0000" stop="20260921004000 +0000" channel="A3Cine.uy">
-<title>La carta esférica</title>
-<sub-title></sub-title>
-<desc>Coy, un marinero desterrado del mar por un accidente de navegación conoce en Barcelona a una mujer atractiva y misteriosa, Tanger, que en dura pugna con un aventurero italiano consigue hacerse con una joya cartográfica: el Atlas Marítimo de Urrutia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921004000 +0000" stop="20260921023000 +0000" channel="A3Cine.uy">
-<title>La vida de nadie</title>
-<sub-title></sub-title>
-<desc>Emilio es un hombre exitoso, padre ideal y con una esposa perfecta. Pero ha vivido de engaños, y cuando una encantadora joven se cruza por su camino, su falso equilibrio comienza a desmoronarse sin remedio.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921023000 +0000" stop="20260921042000 +0000" channel="A3Cine.uy">
-<title>La caja 507</title>
-<sub-title></sub-title>
-<desc>Modesto, un hombre honrado y trabajador dirige una sucursal bancaria. Unos asaltantes revientan la caja de seguridad de su banco y lo dejan atrapado en la bóveda. El contenido de la caja 507 le revela que la muerte de su hija, ocurrida hace unos años, no fue accidental. Rafael, un ex-policía corrupto y sin escrúpulos, tendrá que recuperar los documentos de la caja para proteger su vida. Ambos se ven envueltos en una frenética búsqueda con objetivos cruzados.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921042000 +0000" stop="20260921055000 +0000" channel="A3Cine.uy">
-<title>Vacaciones para Ivette</title>
-<sub-title></sub-title>
-<desc>Una familia madrileña espera la llegada de un niño francés. Sin embargo, en lugar del niño, aparece su hermana mayor, una francesita la mar de atractiva.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921055000 +0000" stop="20260921073500 +0000" channel="A3Cine.uy">
-<title>Nadie hablará de nosotras cuando hayamos muerto</title>
-<sub-title></sub-title>
-<desc>Una española, Gloria Duque, presencia en México la muerte de dos policías a manos de dos gángsters. Uno de ellos le da antes de morir un portafolios con direcciones donde la mafia blanquea dinero en todo el mundo. Más tarde ella vuelve a su país para escapar de la persecusión de los asesinos y se refugia con su familia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921073500 +0000" stop="20260921092500 +0000" channel="A3Cine.uy">
-<title>Al otro lado del túnel</title>
-<sub-title></sub-title>
-<desc>Dos guionistas en plena crisis creativa se refugian en un monasterio con objeto de recuperarse y escribir una historia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921092500 +0000" stop="20260921112500 +0000" channel="A3Cine.uy">
-<title>GAL</title>
-<sub-title></sub-title>
-<desc>Cuando el grupo Vasco ETA vivía su etapa más cruel y agresiva, en España surgió un grupo antiterrorista que entre 1983 y 1987 se dedico a contraatacar a los etarras.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921112500 +0000" stop="20260921125500 +0000" channel="A3Cine.uy">
-<title>Cómo ser infeliz y disfrutarlo</title>
-<sub-title></sub-title>
-<desc>Carmen, una atractiva mujer de 40 años enviuda de repente. Intentando reconstruir su vida, Carmen descubre que los hombres a su alrededor están interesados en ofrecerle un poco más que un hombro donde llorar. El inesperado embarazo de su hi</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921125500 +0000" stop="20260921144000 +0000" channel="A3Cine.uy">
-<title>Dieta mediterránea</title>
-<sub-title></sub-title>
-<desc>Sofía es una mujer que se enamora de dos hombres: con uno se casa y el otro se convierte en su amante. Con los dos llega a un acuerdo profesional y amoroso que revolucionará el mundo de la cocina.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921144000 +0000" stop="20260921161000 +0000" channel="A3Cine.uy">
-<title>El emigrante</title>
-<sub-title></sub-title>
-<desc>Después de muchos años de llevar su cante y su baile por tierras de América, Quino vuelve a Cádiz, su ciudad natal. Allí recuerda otra llegada: la vuelta de la guerra de Cuba, su juventud en la ciudad, su emigración.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921161000 +0000" stop="20260921181000 +0000" channel="A3Cine.uy">
-<title>Los años bárbaros</title>
-<sub-title></sub-title>
-<desc>Madrid, 1947. Tomás y Jaime, universitarios e integrantes de la resistencia antifranquista, son detenidos y condenados a ocho años de prisión al ser descubiertos haciendo pintadas en la Facultad de Filosofía y Letras. Cumplen condena en el Valle de los Caídos, desde donde planean su huída a Francia.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921181000 +0000" stop="20260921194500 +0000" channel="A3Cine.uy">
-<title>El próximo oriente</title>
-<sub-title></sub-title>
-<desc>Caín es un hombre poco carismático y sin suerte en el amor. Su hermano Abel es sexy pero casado y con dos hijas. Cuando Abel deja embarazada a Aisha, una vecina hija de inmigrantes musulmanes, Caín se adjudica la paternidad y asume las consecuencias. Cinta que obtuvo una nominación al premio Goya para Javier Cifrián como mejor actor revelación.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921194500 +0000" stop="20260921213500 +0000" channel="A3Cine.uy">
-<title>Héctor</title>
-<sub-title></sub-title>
-<desc>Héctor de 16 años acaba de perder a su madre, se ha mudado con su tía y está adaptándose a su nueva realidad. Cuando inesperadamente llega su padre intentando acercarse a él, Héctor deberá elegir vivir en su tierra o aventurarse a conocer a su padre.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921213500 +0000" stop="20260921231000 +0000" channel="A3Cine.uy">
-<title>8 citas</title>
-<sub-title></sub-title>
-<desc>Ocho citas, ocho historias de amor en clave de comedia, precedidas por un tema y una frase. Situaciones clásicas como el amor a primera vista, el reencuentro con un amor del pasado, los suegros, los celos y hasta el intercambio de parejas.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20260921231000 +0000" stop="20260922004000 +0000" channel="A3Cine.uy">
-<title>Función de noche</title>
-<sub-title></sub-title>
-<desc>Encerrados entre las cuatro paredes de un camerino, dos actores separados tras siete años de matrimonio, discuten mientras repasan su vida en común.</desc>
-<episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20260922004000 +0000" stop="20260922022500 +0000" channel="A3Cine.uy">
 <title>Un franco 14 pesetas</title>
